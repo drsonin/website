@@ -11,7 +11,9 @@
       "Bash(npm --version)",
       "Bash(npm create *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "WebFetch(domain:website-vbqfjvsc.onslate.eu)",
+      "Bash(npm run *)"
     ]
   }
 }

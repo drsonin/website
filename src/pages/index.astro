@@ -2,48 +2,136 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { CLINIC_PHONE, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<!-- Hero -->
+			<section class="hero">
+				<div class="hero-content">
+					<h1>Стоматология в Таллине<br/><span>которой доверяют</span></h1>
+					<p>Имплантация, протезирование и лечение зубов у опытного специалиста.<br/>Доктор Дмитрий Сонин — 19 лет практики, Master of Oral Implantology.</p>
+					<a href={`tel:${CLINIC_PHONE}`} class="btn-primary">Записаться: {CLINIC_PHONE}</a>
+				</div>
+			</section>
+
+			<!-- Услуги -->
+			<section class="services">
+				<div class="container">
+					<h2>Наши услуги</h2>
+					<div class="services-grid">
+						<div class="service-card">
+							<h3>Имплантация</h3>
+							<p>Восстановление зубов с использованием современных имплантов Nobel Biocare, Osstem, Dentium.</p>
+						</div>
+						<div class="service-card">
+							<h3>Протезирование</h3>
+							<p>Коронки, мосты, съёмные протезы. Цифровое планирование с 3D-сканером Medit.</p>
+						</div>
+						<div class="service-card">
+							<h3>Лечение зубов</h3>
+							<p>Терапевтическое лечение, эндодонтия, гигиена. Комфортный приём без страха.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- О докторе -->
+			<section class="about-doctor">
+				<div class="container">
+					<h2>Доктор Дмитрий Сонин</h2>
+					<div class="doctor-info">
+						<div>
+							<p>Стоматолог-имплантолог и протезист с 19-летним опытом работы в Эстонии и Финляндии.</p>
+							<ul>
+								<li>Тартуский университет, стоматологический факультет (2003–2008)</li>
+								<li>Master of Oral Implantology, Goethe Universität Frankfurt (2018–2019)</li>
+								<li>Языки: эстонский, финский, английский, немецкий</li>
+							</ul>
+							<a href="/about" class="btn-secondary">Подробнее о докторе</a>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Блог -->
+			<section class="blog-preview">
+				<div class="container">
+					<h2>Полезные статьи</h2>
+					<p>Советы по уходу за зубами, информация об имплантации и протезировании.</p>
+					<a href="/blog" class="btn-secondary">Все статьи →</a>
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.hero {
+		background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+		color: white;
+		padding: 5em 1.5em;
+		text-align: center;
+	}
+	.hero-content { max-width: 700px; margin: 0 auto; }
+	.hero h1 { font-size: 2.5em; margin-bottom: 0.5em; line-height: 1.2; }
+	.hero h1 span { color: #64b5f6; }
+	.hero p { font-size: 1.1em; opacity: 0.85; margin-bottom: 2em; }
+	.btn-primary {
+		display: inline-block;
+		background: var(--accent);
+		color: white;
+		padding: 0.8em 2em;
+		border-radius: 8px;
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 1.1em;
+	}
+	.btn-secondary {
+		display: inline-block;
+		border: 2px solid var(--accent);
+		color: var(--accent);
+		padding: 0.6em 1.5em;
+		border-radius: 8px;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	.container { max-width: 960px; margin: 0 auto; }
+	.services { padding: 4em 1.5em; }
+	.services h2 { text-align: center; margin-bottom: 2em; font-size: 1.8em; }
+	.services-grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1.5em;
+	}
+	.service-card {
+		padding: 1.5em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 12px;
+		box-shadow: var(--box-shadow);
+	}
+	.service-card h3 { color: var(--accent); margin-top: 0; }
+	.about-doctor {
+		background: rgb(var(--gray-light));
+		padding: 4em 1.5em;
+	}
+	.about-doctor h2 { margin-bottom: 1em; font-size: 1.8em; }
+	.about-doctor ul { line-height: 1.8; }
+	.blog-preview {
+		padding: 4em 1.5em;
+		text-align: center;
+	}
+	.blog-preview h2 { font-size: 1.8em; margin-bottom: 0.5em; }
+	@media (max-width: 720px) {
+		.hero h1 { font-size: 1.8em; }
+		.services-grid { grid-template-columns: 1fr; }
+	}
+</style>
