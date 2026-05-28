@@ -13,125 +13,158 @@ import { CLINIC_PHONE, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 	<body>
 		<Header />
 		<main>
-			<!-- Hero -->
+
+			<!-- Hero — на всю ширину -->
 			<section class="hero">
-				<div class="hero-content">
-					<h1>Стоматология в Таллине<br/><span>которой доверяют</span></h1>
-					<p>Имплантация, протезирование и лечение зубов у опытного специалиста.<br/>Доктор Дмитрий Сонин — 19 лет практики, Master of Oral Implantology.</p>
-					<a href={`tel:${CLINIC_PHONE}`} class="btn-primary">Записаться: {CLINIC_PHONE}</a>
-				</div>
+				<h1>Стоматология в Таллине<br/><span>которой доверяют</span></h1>
+				<p>Имплантация, протезирование и лечение зубов.<br/>Доктор Дмитрий Сонин — 19 лет практики, Master of Oral Implantology.</p>
+				<a href={`tel:${CLINIC_PHONE}`} class="btn-primary">Записаться: {CLINIC_PHONE}</a>
 			</section>
 
 			<!-- Услуги -->
-			<section class="services">
+			<section class="section-light">
 				<div class="container">
 					<h2>Наши услуги</h2>
-					<div class="services-grid">
-						<div class="service-card">
+					<div class="grid-3">
+						<div class="card">
 							<h3>Имплантация</h3>
 							<p>Восстановление зубов с использованием современных имплантов Nobel Biocare, Osstem, Dentium.</p>
 						</div>
-						<div class="service-card">
+						<div class="card">
 							<h3>Протезирование</h3>
 							<p>Коронки, мосты, съёмные протезы. Цифровое планирование с 3D-сканером Medit.</p>
 						</div>
-						<div class="service-card">
+						<div class="card">
 							<h3>Лечение зубов</h3>
-							<p>Терапевтическое лечение, эндодонтия, гигиена. Комфортный приём без страха.</p>
+							<p>Терапевтическое лечение, эндодонтия, профессиональная гигиена.</p>
 						</div>
 					</div>
 				</div>
 			</section>
 
 			<!-- О докторе -->
-			<section class="about-doctor">
+			<section class="section-gray">
 				<div class="container">
 					<h2>Доктор Дмитрий Сонин</h2>
-					<div class="doctor-info">
-						<div>
-							<p>Стоматолог-имплантолог и протезист с 19-летним опытом работы в Эстонии и Финляндии.</p>
-							<ul>
-								<li>Тартуский университет, стоматологический факультет (2003–2008)</li>
-								<li>Master of Oral Implantology, Goethe Universität Frankfurt (2018–2019)</li>
-								<li>Языки: эстонский, финский, английский, немецкий</li>
-							</ul>
-							<a href="/about" class="btn-secondary">Подробнее о докторе</a>
-						</div>
-					</div>
+					<p>Стоматолог-имплантолог и протезист с 19-летним опытом работы в Эстонии и Финляндии.</p>
+					<ul>
+						<li>Тартуский университет, стоматологический факультет (2003–2008)</li>
+						<li>Master of Oral Implantology, Goethe Universität Frankfurt (2018–2019)</li>
+						<li>Языки: эстонский, финский, английский, немецкий</li>
+					</ul>
+					<a href="/about" class="btn-secondary">Подробнее →</a>
 				</div>
 			</section>
 
 			<!-- Блог -->
-			<section class="blog-preview">
-				<div class="container">
+			<section class="section-light">
+				<div class="container" style="text-align:center">
 					<h2>Полезные статьи</h2>
 					<p>Советы по уходу за зубами, информация об имплантации и протезировании.</p>
 					<a href="/blog" class="btn-secondary">Все статьи →</a>
 				</div>
 			</section>
+
 		</main>
 		<Footer />
 	</body>
 </html>
 
 <style>
+	/* Hero — полная ширина */
 	.hero {
 		background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
 		color: white;
-		padding: 5em 1.5em;
+		padding: 6em 2em;
 		text-align: center;
+		width: 100%;
 	}
-	.hero-content { max-width: 700px; margin: 0 auto; }
-	.hero h1 { font-size: 2.5em; margin-bottom: 0.5em; line-height: 1.2; }
-	.hero h1 span { color: #64b5f6; }
-	.hero p { font-size: 1.1em; opacity: 0.85; margin-bottom: 2em; }
-	.btn-primary {
-		display: inline-block;
-		background: var(--accent);
+	.hero h1 {
+		font-size: 2.8em;
+		margin-bottom: 0.5em;
 		color: white;
-		padding: 0.8em 2em;
-		border-radius: 8px;
-		text-decoration: none;
-		font-weight: bold;
+		max-width: 700px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.hero h1 span { color: #64b5f6; }
+	.hero p {
 		font-size: 1.1em;
+		opacity: 0.85;
+		margin: 0 auto 2em;
+		max-width: 600px;
 	}
-	.btn-secondary {
-		display: inline-block;
-		border: 2px solid var(--accent);
-		color: var(--accent);
-		padding: 0.6em 1.5em;
-		border-radius: 8px;
-		text-decoration: none;
-		font-weight: bold;
+
+	/* Контейнер */
+	.container {
+		max-width: 960px;
+		margin: 0 auto;
+		padding: 0 1.5em;
 	}
-	.container { max-width: 960px; margin: 0 auto; }
-	.services { padding: 4em 1.5em; }
-	.services h2 { text-align: center; margin-bottom: 2em; font-size: 1.8em; }
-	.services-grid {
+
+	/* Секции */
+	.section-light {
+		padding: 5em 0;
+		background: #fff;
+	}
+	.section-gray {
+		padding: 5em 0;
+		background: rgb(var(--gray-light));
+	}
+	.section-light h2,
+	.section-gray h2 {
+		margin-bottom: 1em;
+	}
+
+	/* Сетка 3 колонки */
+	.grid-3 {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
 		gap: 1.5em;
+		margin-top: 2em;
 	}
-	.service-card {
-		padding: 1.5em;
+	.card {
+		padding: 1.8em;
+		background: white;
 		border: 1px solid rgb(var(--gray-light));
 		border-radius: 12px;
 		box-shadow: var(--box-shadow);
 	}
-	.service-card h3 { color: var(--accent); margin-top: 0; }
-	.about-doctor {
-		background: rgb(var(--gray-light));
-		padding: 4em 1.5em;
+	.card h3 {
+		color: var(--accent);
+		margin-bottom: 0.5em;
 	}
-	.about-doctor h2 { margin-bottom: 1em; font-size: 1.8em; }
-	.about-doctor ul { line-height: 1.8; }
-	.blog-preview {
-		padding: 4em 1.5em;
-		text-align: center;
+
+	/* Кнопки */
+	.btn-primary {
+		display: inline-block;
+		background: var(--accent);
+		color: white;
+		padding: 0.8em 2.5em;
+		border-radius: 8px;
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 1.1em;
+		transition: opacity 0.2s;
 	}
-	.blog-preview h2 { font-size: 1.8em; margin-bottom: 0.5em; }
+	.btn-primary:hover { opacity: 0.85; color: white; }
+	.btn-secondary {
+		display: inline-block;
+		border: 2px solid var(--accent);
+		color: var(--accent);
+		padding: 0.6em 1.8em;
+		border-radius: 8px;
+		text-decoration: none;
+		font-weight: bold;
+		transition: all 0.2s;
+	}
+	.btn-secondary:hover {
+		background: var(--accent);
+		color: white;
+	}
+
 	@media (max-width: 720px) {
-		.hero h1 { font-size: 1.8em; }
-		.services-grid { grid-template-columns: 1fr; }
+		.hero h1 { font-size: 2em; }
+		.grid-3 { grid-template-columns: 1fr; }
 	}
 </style>
