@@ -9,8 +9,12 @@ export const langLabels: Record<Lang, string> = {
 };
 
 export function getLangFromUrl(url: URL): Lang {
-  const seg = url.pathname.split('/')[1];
-  if (seg === 'et' || seg === 'fi') return seg;
+  const segs = url.pathname.split('/').filter(Boolean);
+  const first = segs[0];
+  const second = segs[1];
+  if (first === 'et' || first === 'fi') return first;
+  // /blog/et/... and /blog/fi/... paths
+  if (first === 'blog' && (second === 'et' || second === 'fi')) return second as Lang;
   return 'ru';
 }
 
@@ -24,7 +28,7 @@ export function getLocalizedPath(lang: Lang, path: string = '/'): string {
 // ─────────────────────────────────────────────────────────────
 type UI = {
   meta: { title: string; description: string };
-  nav: { home: string; about: string; blog: string };
+  nav: { home: string; about: string; blog: string; stories: string };
   hero: {
     badge: string;
     title: string;
@@ -91,7 +95,7 @@ const ru: UI = {
     title: 'Sonin Hambaravi | Стоматология в Таллине',
     description: 'Стоматологическая клиника в Таллине. Имплантация, протезирование, лечение зубов. Запись: +37253383036',
   },
-  nav: { home: 'Главная', about: 'О враче', blog: 'Блог' },
+  nav: { home: 'Главная', about: 'О враче', blog: 'Блог', stories: 'Истории пациентов' },
   hero: {
     badge: 'Таллин · Имплантология · Протезирование',
     title: 'Стоматология,',
@@ -175,7 +179,7 @@ const et: UI = {
     title: 'Sonin Hambaravi | Hambaarst Tallinnas',
     description: 'Hambaravikliinik Tallinnas. Implantatsioon, proteesimine, hambararavi. Registreeri: +37253383036',
   },
-  nav: { home: 'Avaleht', about: 'Arsti kohta', blog: 'Blogi' },
+  nav: { home: 'Avaleht', about: 'Arsti kohta', blog: 'Blogi', stories: 'Patsientide lood' },
   hero: {
     badge: 'Tallinn · Implantoloogia · Proteesimine',
     title: 'Hambaarst,',
@@ -259,7 +263,7 @@ const fi: UI = {
     title: 'Sonin Hambaravi | Hammaslääkäri Tallinnassa',
     description: 'Hammaslääkäriklinikka Tallinnassa. Implantointi, protetiikka, hammashoito. Varaa aika: +37253383036',
   },
-  nav: { home: 'Etusivu', about: 'Lääkäristä', blog: 'Blogi' },
+  nav: { home: 'Etusivu', about: 'Lääkäristä', blog: 'Blogi', stories: 'Potilastarinat' },
   hero: {
     badge: 'Tallinna · Implantologia · Protetiikka',
     title: 'Hammaslääkäri,',

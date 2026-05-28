@@ -28,7 +28,8 @@ const langs: Lang[] = ['ru', 'et', 'fi'];
 		<div class="hidden md:flex items-center gap-5 flex-1">
 			<a href={getLocalizedPath(lang)} class="text-slate-600 hover:text-blue-600 font-medium text-sm transition-colors duration-150 no-underline">{t.home}</a>
 			<a href="/about" class="text-slate-600 hover:text-blue-600 font-medium text-sm transition-colors duration-150 no-underline">{t.about}</a>
-			<a href="/blog" class="text-slate-600 hover:text-blue-600 font-medium text-sm transition-colors duration-150 no-underline">{t.blog}</a>
+			<a href="/stories" class="text-slate-600 hover:text-blue-600 font-medium text-sm transition-colors duration-150 no-underline">{t.stories}</a>
+			<a href={lang === 'ru' ? '/blog' : `/blog?lang=${lang}`} class="text-slate-600 hover:text-blue-600 font-medium text-sm transition-colors duration-150 no-underline">{t.blog}</a>
 		</div>
 
 		<!-- Language switcher -->

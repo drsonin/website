@@ -9,163 +9,159 @@ const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
-const langLabels: Record<string, string> = {
-	ru: '🇷🇺 Русский',
-	et: '🇪🇪 Eesti',
-	fi: '🇫🇮 Suomi',
+const langMeta = {
+	ru: { label: 'РУ', text: 'Русский', flag: '🇷🇺' },
+	et: { label: 'ET', text: 'Eesti',   flag: '🇪🇪' },
+	fi: { label: 'FI', text: 'Suomi',   flag: '🇫🇮' },
 };
 ---
 
 <!doctype html>
 <html lang="ru">
-	<head>
-		<BaseHead title="Блог — Sonin Hambaravi" description="Статьи о стоматологии от доктора Дмитрия Сонина на русском, эстонском и финском языках." />
-		<style>
-			main {
-				width: 960px;
-			}
-			.filters {
-				display: flex;
-				gap: 0.5rem;
-				margin-bottom: 2rem;
-				flex-wrap: wrap;
-			}
-			.filter-btn {
-				padding: 0.4em 1em;
-				border: 2px solid rgb(var(--accent));
-				border-radius: 2em;
-				background: transparent;
-				color: rgb(var(--accent));
-				cursor: pointer;
-				font-size: 0.9em;
-				font-weight: 600;
-				transition: 0.15s ease;
-			}
-			.filter-btn:hover,
-			.filter-btn.active {
-				background: rgb(var(--accent));
-				color: #fff;
-			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1.2;
-			}
-			.date {
-				margin: 0.25em 0 0;
-				color: rgb(var(--gray));
-				font-size: 0.9em;
-			}
-			.lang-badge {
-				display: inline-block;
-				background: rgb(var(--accent));
-				color: #fff;
-				font-size: 0.65em;
-				font-weight: 700;
-				padding: 0.15em 0.5em;
-				border-radius: 4px;
-				letter-spacing: 0.05em;
-				margin-bottom: 0.4em;
-				vertical-align: middle;
-			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			ul li[hidden] {
-				display: none;
-			}
-			@media (max-width: 720px) {
-				ul li,
-				ul li:first-child {
-					width: 100%;
-					text-align: center;
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
-				}
-			}
-		</style>
-	</head>
-	<body>
-		<Header />
-		<main>
-			<section>
-				<div class="filters">
-					<button class="filter-btn active" data-lang="all">Все / Kõik / Kaikki</button>
-					{Object.entries(langLabels).map(([code, label]) => (
-						<button class="filter-btn" data-lang={code}>{label}</button>
-					))}
-				</div>
-				<ul id="posts-list">
-					{
-						posts.map((post) => (
-							<li data-lang={post.data.lang}>
-								<a href={`/blog/${post.id.replace(/\.(mdx?)$/, '')}/`}>
-									{post.data.heroImage && (
-										<img width={720} height={360} src={post.data.heroImage} alt="" />
+<head>
+	<BaseHead
+		title="Блог — Sonin Hambaravi"
+		description="Статьи о стоматологии от доктора Дмитрия Сонина: имплантация, протезирование, гигиена. Русский, эстонский, финский."
+	/>
+</head>
+<body class="bg-white text-slate-800 antialiased">
+<Header />
+<main>
+
+	<!-- ═══ HERO ════════════════════════════════════════════ -->
+	<section class="bg-gradient-to-br from-slate-900 via-blue-950 to-slate-900 text-white py-16 px-4 sm:px-6">
+		<div class="max-w-6xl mx-auto text-center">
+			<span class="inline-flex items-center gap-2 bg-blue-900/60 border border-blue-700/50 text-blue-300 text-xs font-semibold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
+				<span class="w-1.5 h-1.5 bg-blue-400 rounded-full"></span>
+				Полезные материалы
+			</span>
+			<h1 class="text-4xl sm:text-5xl font-bold mb-4">Блог клиники</h1>
+			<p class="text-slate-300 text-lg max-w-xl mx-auto">
+				Советы по уходу за зубами, информация об имплантации и протезировании от доктора Дмитрия Сонина.
+			</p>
+		</div>
+	</section>
+
+	<!-- ═══ ФИЛЬТРЫ + СТАТЬИ ═════════════════════════════════ -->
+	<section class="py-16 px-4 sm:px-6">
+		<div class="max-w-6xl mx-auto">
+
+			<!-- Фильтр по языку -->
+			<div class="flex gap-2 mb-10 flex-wrap">
+				<button
+					class="filter-btn flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold border-2 border-blue-600 bg-blue-600 text-white transition-colors duration-150"
+					data-lang="all">
+					Все статьи
+				</button>
+				{Object.entries(langMeta).map(([code, meta]) => (
+					<button
+						class="filter-btn flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold border-2 border-slate-200 text-slate-500 hover:border-blue-300 hover:text-blue-600 transition-colors duration-150"
+						data-lang={code}>
+						<span>{meta.flag}</span> {meta.text}
+					</button>
+				))}
+			</div>
+
+			<!-- Сетка статей -->
+			<ul id="posts-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 list-none p-0 m-0">
+				{posts.map((post) => {
+					const meta = langMeta[post.data.lang ?? 'ru'];
+					return (
+						<li data-lang={post.data.lang ?? 'ru'} class="flex flex-col">
+							<a href={`/blog/${post.id.replace(/\.(mdx?)$/, '')}/`}
+								class="group flex flex-col h-full bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-200 overflow-hidden no-underline">
+
+								<!-- Превью -->
+								{post.data.heroImage
+									? <img
+											src={post.data.heroImage}
+											alt={post.data.title}
+											width={720}
+											height={360}
+											class="w-full h-44 object-cover"
+											loading="lazy"
+										/>
+									: <div class="w-full h-44 bg-gradient-to-br from-blue-50 to-slate-100 flex items-center justify-center">
+											<svg class="w-10 h-10 text-blue-200" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.2">
+												<path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+											</svg>
+										</div>
+								}
+
+								<div class="p-6 flex flex-col flex-1">
+									<!-- Язык + дата -->
+									<div class="flex items-center gap-2 mb-3">
+										<span class="bg-blue-100 text-blue-700 text-xs font-bold px-2 py-0.5 rounded-md">
+											{meta.flag} {meta.label}
+										</span>
+										<span class="text-slate-400 text-xs">
+											<FormattedDate date={post.data.pubDate} />
+										</span>
+									</div>
+
+									<!-- Заголовок -->
+									<h2 class="text-base font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug mb-2 flex-1">
+										{post.data.title}
+									</h2>
+
+									<!-- Описание -->
+									{post.data.description && (
+										<p class="text-slate-500 text-sm leading-relaxed line-clamp-2 mb-4">
+											{post.data.description}
+										</p>
 									)}
-									<span class="lang-badge">{(post.data.lang ?? 'ru').toUpperCase()}</span>
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-										{post.data.author && ` — ${post.data.author}`}
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
-		</main>
-		<Footer />
 
-		<script>
-			const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
-			const items = document.querySelectorAll<HTMLLIElement>('#posts-list li');
+									<!-- Автор + ссылка -->
+									<div class="flex items-center justify-between mt-auto pt-4 border-t border-slate-100">
+										<span class="text-xs text-slate-400">{post.data.author}</span>
+										<span class="text-blue-600 text-xs font-semibold group-hover:gap-2 flex items-center gap-1 transition-all">
+											Читать
+											<svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+												<path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+											</svg>
+										</span>
+									</div>
+								</div>
+							</a>
+						</li>
+					);
+				})}
+			</ul>
 
-			buttons.forEach((btn) => {
-				btn.addEventListener('click', () => {
-					const lang = btn.dataset.lang;
-					buttons.forEach((b) => b.classList.remove('active'));
-					btn.classList.add('active');
-					items.forEach((item) => {
-						const show = lang === 'all' || item.dataset.lang === lang;
-						item.hidden = !show;
-					});
-				});
-			});
-		</script>
-	</body>
+		</div>
+	</section>
+
+</main>
+<Footer />
+
+<script>
+	const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+	const items = document.querySelectorAll<HTMLLIElement>('#posts-list li');
+
+	function activateFilter(lang: string) {
+		buttons.forEach((b) => {
+			b.classList.remove('bg-blue-600', 'text-white', 'border-blue-600');
+			b.classList.add('border-slate-200', 'text-slate-500');
+		});
+		const active = [...buttons].find(b => b.dataset.lang === lang) ?? buttons[0];
+		active.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
+		active.classList.remove('border-slate-200', 'text-slate-500');
+		const activeLang = active.dataset.lang;
+		items.forEach((item) => {
+			const show = activeLang === 'all' || item.dataset.lang === activeLang;
+			(item as HTMLElement).style.display = show ? '' : 'none';
+		});
+	}
+
+	buttons.forEach((btn) => {
+		btn.addEventListener('click', () => activateFilter(btn.dataset.lang!));
+	});
+
+	// Pre-filter based on ?lang= URL param
+	const urlLang = new URLSearchParams(window.location.search).get('lang');
+	if (urlLang && ['ru', 'et', 'fi'].includes(urlLang)) {
+		activateFilter(urlLang);
+	}
+</script>
+</body>
 </html>
