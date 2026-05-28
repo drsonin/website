@@ -7,10 +7,12 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, lang } = Astro.props;
+
+const langLabels: Record<string, string> = { ru: 'РУ', et: 'ET', fi: 'FI' };
 ---
 
-<html lang="en">
+<html lang={lang ?? 'ru'}>
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -44,9 +46,27 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.title h1 {
 				margin: 0 0 0.5em 0;
 			}
-			.date {
-				margin-bottom: 0.5em;
+			.meta {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				gap: 0.75em;
+				margin-bottom: 0.75em;
 				color: rgb(var(--gray));
+				font-size: 0.95em;
+			}
+			.lang-badge {
+				background: rgb(var(--accent));
+				color: #fff;
+				font-size: 0.7em;
+				font-weight: 700;
+				padding: 0.15em 0.5em;
+				border-radius: 4px;
+				letter-spacing: 0.05em;
+				vertical-align: middle;
+			}
+			.author {
+				font-style: italic;
 			}
 			.last-updated-on {
 				font-style: italic;
@@ -63,16 +83,18 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				</div>
 				<div class="prose">
 					<div class="title">
-						<div class="date">
+						<div class="meta">
+							{lang && <span class="lang-badge">{langLabels[lang] ?? lang.toUpperCase()}</span>}
 							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
+							{author && <span class="author">— {author}</span>}
 						</div>
+						{
+							updatedDate && (
+								<div class="last-updated-on">
+									Обновлено: <FormattedDate date={updatedDate} />
+								</div>
+							)
+						}
 						<h1>{title}</h1>
 						<hr />
 					</div>

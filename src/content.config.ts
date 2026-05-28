@@ -8,6 +8,10 @@ const blog = defineCollection({
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		heroImage: z.string().optional(),
+		lang: z.enum(['ru', 'et', 'fi']).default('ru'),
+		author: z.string().default('Дмитрий Сонин'),
+		tags: z.array(z.string()).default([]),
+		category: z.string().optional(),
 	}),
 });
 
