@@ -437,28 +437,11 @@ form?.addEventListener('submit', async (e) => {
 	setLoading(true);
 	hideError();
 
-	const CATALYST_FN = 'https://project-rainfall-20114987147.development.catalystserverless.eu/server/contact/execute';
-
-	try {
-		const resp = await fetch(CATALYST_FN, {
-			method: 'POST',
-			headers: { 'Content-Type': 'application/json' },
-			body: JSON.stringify(payload),
-		});
-
-		const data = await resp.json().catch(() => ({}));
-
-		if (data.success) {
-			form.classList.add('hidden');
-			success?.classList.remove('hidden');
-		} else {
-			showError(data.error || 'Ошибка отправки. Позвоните нам напрямую.');
-			setLoading(false);
-		}
-	} catch {
-		showError('Нет соединения. Позвоните нам напрямую.');
-		setLoading(false);
-	}
+	// TODO: подключить Catalyst Function когда будет готов бэкенд
+	// Пока просто показываем success после небольшой задержки
+	await new Promise(r => setTimeout(r, 600));
+	form.classList.add('hidden');
+	success?.classList.remove('hidden');
 });
 
 function setLoading(on: boolean) {
