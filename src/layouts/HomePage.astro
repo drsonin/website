@@ -6,6 +6,7 @@ import Header from '../components/Header.astro';
 import { CLINIC_ADDRESS, CLINIC_EMAIL, CLINIC_PHONE } from '../consts';
 import { getLangFromUrl, ui } from '../i18n/translations';
 import doctorPhoto from '../assets/images/doctor-sonin.png';
+import CookieBanner from '../components/CookieBanner.astro';
 
 const lang = getLangFromUrl(Astro.url);
 const t = ui[lang];
@@ -264,6 +265,42 @@ const t = ui[lang];
 		</div>
 	</section>
 
+	<!-- ═══ ПАРТНЁРЫ ═══════════════════════════════════════ -->
+	<section class="py-8 bg-slate-50 border-y border-slate-100 px-4 sm:px-6">
+		<div class="max-w-6xl mx-auto">
+			<div class="flex flex-col sm:flex-row items-center justify-between gap-6">
+
+				<!-- Ассоциации -->
+				<div class="flex flex-col items-center sm:items-start gap-2">
+					<p class="text-slate-400 text-xs uppercase tracking-widest font-semibold">Professionaalsed ühendused</p>
+					<div class="flex items-center gap-3 flex-wrap justify-center sm:justify-start">
+						{['EHL', 'EIO', 'DGI'].map(name => (
+							<span class="inline-flex items-center border border-slate-300 text-slate-600 text-xs font-bold px-3 py-1.5 rounded-lg bg-white tracking-wide">
+								{name}
+							</span>
+						))}
+					</div>
+				</div>
+
+				<!-- Разделитель -->
+				<div class="hidden sm:block w-px h-10 bg-slate-200"></div>
+
+				<!-- Оборудование -->
+				<div class="flex flex-col items-center sm:items-end gap-2">
+					<p class="text-slate-400 text-xs uppercase tracking-widest font-semibold">Sertifitseeritud seadmed</p>
+					<div class="flex items-center gap-3 flex-wrap justify-center sm:justify-end">
+						{['Nobel Biocare', 'Osstem', 'Medit', 'Planmeca'].map(name => (
+							<span class="inline-flex items-center border border-slate-300 text-slate-600 text-xs font-semibold px-3 py-1.5 rounded-lg bg-white">
+								{name}
+							</span>
+						))}
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+
 	<!-- ═══ ФОРМА ЗАПИСИ ════════════════════════════════════ -->
 	<section id="contact" class="py-20 bg-white px-4 sm:px-6">
 		<div class="max-w-6xl mx-auto">
@@ -364,6 +401,19 @@ const t = ui[lang];
 							{t.contact.submitBtn}
 						</button>
 						<p class="text-xs text-slate-400 text-center">{t.contact.submitHint}</p>
+
+						<!-- Inbank + банки -->
+						<div class="pt-4 border-t border-slate-100 space-y-3">
+							<div class="flex items-center justify-center gap-2">
+								<span class="bg-green-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">Inbank</span>
+								<span class="text-slate-500 text-xs">Järelmaks kuni 36 kuud</span>
+							</div>
+							<div class="flex items-center justify-center gap-2 flex-wrap">
+								{['LHV', 'Swedbank', 'SEB', 'Luminor'].map(b => (
+									<span class="border border-slate-200 text-slate-400 text-xs font-semibold px-2.5 py-1 rounded-md bg-white">{b}</span>
+								))}
+							</div>
+						</div>
 					</form>
 				</div>
 
@@ -373,6 +423,7 @@ const t = ui[lang];
 
 </main>
 <Footer />
+<CookieBanner />
 
 <script>
 // ── UTM: сохраняем при первом визите ────────────────────────────────────────
