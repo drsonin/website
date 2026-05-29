@@ -6,6 +6,6 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-    site: 'https://drsonin.com',
+    site: 'https://www.drsonin.com',
     integrations: [mdx(), sitemap(), tailwind()],
 });
