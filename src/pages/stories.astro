@@ -297,16 +297,16 @@ const tagLabels: Record<string, string> = {
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a
-          href={`tel:${CLINIC_PHONE}`}
+          href="/#contact"
           class="bg-white text-blue-700 hover:bg-blue-50 font-bold px-8 py-4 rounded-xl text-lg transition-colors duration-150 no-underline"
         >
-          Позвонить: {CLINIC_PHONE}
+          Написать нам
         </a>
         <a
-          href="/#contact"
+          href={`tel:${CLINIC_PHONE}`}
           class="bg-blue-500 hover:bg-blue-400 border border-blue-400 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-colors duration-150 no-underline"
         >
-          Написать нам
+          Позвонить: {CLINIC_PHONE}
         </a>
       </div>
     </div>

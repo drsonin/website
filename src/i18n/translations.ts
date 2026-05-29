@@ -34,6 +34,7 @@ type UI = {
     title: string;
     titleAccent: string;
     subtitle: string;
+    ctaForm: string;
     ctaCall: string;
     ctaAbout: string;
     s1n: string; s1l: string;
@@ -102,6 +103,7 @@ const ru: UI = {
     title: 'Стоматология,',
     titleAccent: 'которой доверяют',
     subtitle: 'Имплантация, протезирование и лечение зубов.\nДоктор Дмитрий Сонин — 19 лет практики, Master of Oral Implantology.',
+    ctaForm: 'Оставить заявку',
     ctaCall: 'Записаться:',
     ctaAbout: 'О докторе',
     s1n: '19', s1l: 'лет практики',
@@ -187,6 +189,7 @@ const et: UI = {
     title: 'Hambaarst,',
     titleAccent: 'kellele usaldatakse',
     subtitle: 'Implantatsioon, proteesimine ja hambararavi.\nDoktor Dmitri Sonin — 19 aastat kogemust, Master of Oral Implantology.',
+    ctaForm: 'Saada päring',
     ctaCall: 'Registreeri:',
     ctaAbout: 'Arsti kohta',
     s1n: '19', s1l: 'aastat kogemust',
@@ -272,6 +275,7 @@ const fi: UI = {
     title: 'Hammaslääkäri,',
     titleAccent: 'johon luotetaan',
     subtitle: 'Implantointi, protetiikka ja hammashoito.\nTohtori Dmitri Sonin — 19 vuotta kokemusta, Master of Oral Implantology.',
+    ctaForm: 'Lähetä pyyntö',
     ctaCall: 'Varaa aika:',
     ctaAbout: 'Lääkäristä',
     s1n: '19', s1l: 'vuotta kokemusta',
