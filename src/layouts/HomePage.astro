@@ -322,20 +322,32 @@ const t = ui[lang];
 
 				<div class="bg-slate-50 rounded-2xl p-8 border border-slate-100">
 					<h3 class="text-xl font-bold text-slate-900 mb-6">{t.contact.formTitle}</h3>
-					<form class="space-y-4">
+
+					<!-- Success state (hidden by default) -->
+					<div id="form-success" class="hidden text-center py-6">
+						<div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+							<svg class="w-7 h-7 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
+							</svg>
+						</div>
+						<h4 class="text-lg font-bold text-slate-900 mb-2">{t.contact.successTitle}</h4>
+						<p class="text-slate-500 text-sm">{t.contact.successText}</p>
+					</div>
+
+					<form id="contact-form" class="space-y-4">
 						<div>
 							<label class="block text-sm font-medium text-slate-700 mb-1.5">{t.contact.fName}</label>
-							<input type="text" placeholder={t.contact.fNameP}
+							<input id="f-name" type="text" name="name" placeholder={t.contact.fNameP}
 								class="w-full px-4 py-3 rounded-xl border border-slate-200 bg-white text-slate-900 text-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow" />
 						</div>
 						<div>
 							<label class="block text-sm font-medium text-slate-700 mb-1.5">{t.contact.fPhone}</label>
-							<input type="tel" placeholder={t.contact.fPhoneP}
+							<input id="f-phone" type="tel" name="phone" placeholder={t.contact.fPhoneP}
 								class="w-full px-4 py-3 rounded-xl border border-slate-200 bg-white text-slate-900 text-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow" />
 						</div>
 						<div>
 							<label class="block text-sm font-medium text-slate-700 mb-1.5">{t.contact.fService}</label>
-							<select class="w-full px-4 py-3 rounded-xl border border-slate-200 bg-white text-slate-900 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow">
+							<select id="f-service" name="service" class="w-full px-4 py-3 rounded-xl border border-slate-200 bg-white text-slate-900 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow">
 								<option value="">{t.contact.fServiceP}</option>
 								<option>{t.contact.sv1}</option>
 								<option>{t.contact.sv2}</option>
@@ -345,13 +357,15 @@ const t = ui[lang];
 						</div>
 						<div>
 							<label class="block text-sm font-medium text-slate-700 mb-1.5">{t.contact.fMsg}</label>
-							<textarea rows="3" placeholder={t.contact.fMsgP}
+							<textarea id="f-msg" name="message" rows="3" placeholder={t.contact.fMsgP}
 								class="w-full px-4 py-3 rounded-xl border border-slate-200 bg-white text-slate-900 text-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow resize-none"></textarea>
 						</div>
-						<a href={`tel:${CLINIC_PHONE}`}
-							class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3.5 rounded-xl text-sm text-center transition-colors duration-200 no-underline">
-							{t.contact.submitBtn} {CLINIC_PHONE}
-						</a>
+						<!-- Error message -->
+						<p id="form-error" class="hidden text-xs text-red-500 text-center"></p>
+						<button id="f-submit" type="submit"
+							class="block w-full bg-blue-600 hover:bg-blue-700 disabled:opacity-60 disabled:cursor-not-allowed text-white font-bold py-3.5 rounded-xl text-sm text-center transition-colors duration-200">
+							{t.contact.submitBtn}
+						</button>
 						<p class="text-xs text-slate-400 text-center">{t.contact.submitHint}</p>
 					</form>
 				</div>
@@ -362,5 +376,106 @@ const t = ui[lang];
 
 </main>
 <Footer />
+
+<script>
+// ── UTM: сохраняем при первом визите ────────────────────────────────────────
+(function saveUtm() {
+	const params = new URLSearchParams(window.location.search);
+	const keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'];
+	const hasUtm = keys.some(k => params.has(k));
+	if (hasUtm) {
+		keys.forEach(k => {
+			const v = params.get(k);
+			if (v) sessionStorage.setItem(k, v);
+			else sessionStorage.removeItem(k);
+		});
+	}
+})();
+
+// ── Форма: submit → /api/contact ────────────────────────────────────────────
+const form    = document.getElementById('contact-form') as HTMLFormElement | null;
+const success = document.getElementById('form-success');
+const errEl   = document.getElementById('form-error');
+const btn     = document.getElementById('f-submit') as HTMLButtonElement | null;
+
+form?.addEventListener('submit', async (e) => {
+	e.preventDefault();
+
+	const name    = (document.getElementById('f-name') as HTMLInputElement).value.trim();
+	const phone   = (document.getElementById('f-phone') as HTMLInputElement).value.trim();
+	const service = (document.getElementById('f-service') as HTMLSelectElement).value;
+	const message = (document.getElementById('f-msg') as HTMLTextAreaElement).value.trim();
+
+	if (!name && !phone) {
+		showError('Пожалуйста, укажите имя или телефон.');
+		return;
+	}
+
+	// UTM из sessionStorage
+	const utm = {
+		utm_source:   sessionStorage.getItem('utm_source')   || '',
+		utm_medium:   sessionStorage.getItem('utm_medium')   || '',
+		utm_campaign: sessionStorage.getItem('utm_campaign') || '',
+		utm_content:  sessionStorage.getItem('utm_content')  || '',
+		utm_term:     sessionStorage.getItem('utm_term')     || '',
+	};
+
+	// Язык страницы из URL (/et/ или /fi/ → иначе ru)
+	const pathname = window.location.pathname;
+	const page_lang = pathname.startsWith('/et') ? 'et'
+	                : pathname.startsWith('/fi') ? 'fi'
+	                : 'ru';
+
+	const payload = {
+		name, phone, service, message,
+		page_lang,
+		page_url: window.location.href,
+		form_name: 'Website Contact Form',
+		...utm,
+	};
+
+	setLoading(true);
+	hideError();
+
+	try {
+		const resp = await fetch('/api/contact', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify(payload),
+		});
+
+		const data = await resp.json().catch(() => ({}));
+
+		if (resp.ok && data.success) {
+			form.classList.add('hidden');
+			success?.classList.remove('hidden');
+		} else {
+			showError(data.error || 'Ошибка отправки. Позвоните нам напрямую.');
+			setLoading(false);
+		}
+	} catch {
+		showError('Нет соединения. Позвоните нам напрямую.');
+		setLoading(false);
+	}
+});
+
+function setLoading(on: boolean) {
+	if (!btn) return;
+	btn.disabled = on;
+	btn.textContent = on ? 'Отправляем...' : btn.dataset.label || btn.textContent!;
+	if (!btn.dataset.label && !on) {
+		// сохраняем оригинальный текст при первом вызове
+	}
+}
+
+function showError(msg: string) {
+	if (!errEl) return;
+	errEl.textContent = msg;
+	errEl.classList.remove('hidden');
+}
+function hideError() {
+	errEl?.classList.add('hidden');
+}
+</script>
 </body>
 </html>

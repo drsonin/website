@@ -1,0 +1,10 @@
+{
+  "name": "contact-function",
+  "version": "1.0.0",
+  "description": "Contact form → Zoho Bigin CRM",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}

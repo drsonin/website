@@ -78,6 +78,7 @@ type UI = {
     sv1: string; sv2: string; sv3: string; sv4: string;
     fMsg: string; fMsgP: string;
     submitBtn: string; submitHint: string;
+    successTitle: string; successText: string;
   };
   footer: {
     desc: string; hours: string;
@@ -160,7 +161,8 @@ const ru: UI = {
     fService: 'Услуга', fServiceP: 'Выберите услугу...',
     sv1: 'Имплантация', sv2: 'Протезирование', sv3: 'Лечение зубов', sv4: 'Консультация',
     fMsg: 'Сообщение (необязательно)', fMsgP: 'Опишите ситуацию или задайте вопрос...',
-    submitBtn: 'Записаться:', submitHint: 'Или позвоните напрямую — ответим сразу',
+    submitBtn: 'Записаться', submitHint: 'Или позвоните напрямую — ответим сразу',
+    successTitle: 'Заявка отправлена!', successText: 'Мы свяжемся с вами в ближайшее время.',
   },
   footer: {
     desc: 'Стоматологическая клиника в Таллине. Имплантация, протезирование и лечение зубов с 2005 года.',
@@ -244,7 +246,8 @@ const et: UI = {
     fService: 'Teenus', fServiceP: 'Valige teenus...',
     sv1: 'Implantatsioon', sv2: 'Proteesimine', sv3: 'Hambararavi', sv4: 'Konsultatsioon',
     fMsg: 'Sõnum (valikuline)', fMsgP: 'Kirjeldage olukorda või esitage küsimus...',
-    submitBtn: 'Registreeri:', submitHint: 'Või helistage otse — vastame kohe',
+    submitBtn: 'Registreeri', submitHint: 'Või helistage otse — vastame kohe',
+    successTitle: 'Päring saadetud!', successText: 'Võtame teiega peagi ühendust.',
   },
   footer: {
     desc: 'Hambaravikliinik Tallinnas. Implantatsioon, proteesimine ja hambararavi alates 2005. aastast.',
@@ -328,7 +331,8 @@ const fi: UI = {
     fService: 'Palvelu', fServiceP: 'Valitse palvelu...',
     sv1: 'Implantointi', sv2: 'Protetiikka', sv3: 'Hammashoito', sv4: 'Konsultaatio',
     fMsg: 'Viesti (valinnainen)', fMsgP: 'Kuvaile tilannetta tai esitä kysymys...',
-    submitBtn: 'Varaa aika:', submitHint: 'Tai soita suoraan — vastaamme heti',
+    submitBtn: 'Varaa aika', submitHint: 'Tai soita suoraan — vastaamme heti',
+    successTitle: 'Pyyntö lähetetty!', successText: 'Otamme sinuun pian yhteyttä.',
   },
   footer: {
     desc: 'Hammaslääkäriklinikka Tallinnassa. Implantointi, protetiikka ja hammashoito vuodesta 2005.',
