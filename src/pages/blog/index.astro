@@ -46,22 +46,6 @@ const langMeta = {
 	<section class="py-16 px-4 sm:px-6">
 		<div class="max-w-6xl mx-auto">
 
-			<!-- Фильтр по языку -->
-			<div class="flex gap-2 mb-10 flex-wrap">
-				<button
-					class="filter-btn flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold border-2 border-blue-600 bg-blue-600 text-white transition-colors duration-150"
-					data-lang="all">
-					Все статьи
-				</button>
-				{Object.entries(langMeta).map(([code, meta]) => (
-					<button
-						class="filter-btn flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold border-2 border-slate-200 text-slate-500 hover:border-blue-300 hover:text-blue-600 transition-colors duration-150"
-						data-lang={code}>
-						<span>{meta.flag}</span> {meta.text}
-					</button>
-				))}
-			</div>
-
 			<!-- Сетка статей -->
 			<ul id="posts-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 list-none p-0 m-0">
 				{posts.map((post) => {
@@ -134,34 +118,5 @@ const langMeta = {
 </main>
 <Footer />
 
-<script>
-	const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
-	const items = document.querySelectorAll<HTMLLIElement>('#posts-list li');
-
-	function activateFilter(lang: string) {
-		buttons.forEach((b) => {
-			b.classList.remove('bg-blue-600', 'text-white', 'border-blue-600');
-			b.classList.add('border-slate-200', 'text-slate-500');
-		});
-		const active = [...buttons].find(b => b.dataset.lang === lang) ?? buttons[0];
-		active.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
-		active.classList.remove('border-slate-200', 'text-slate-500');
-		const activeLang = active.dataset.lang;
-		items.forEach((item) => {
-			const show = activeLang === 'all' || item.dataset.lang === activeLang;
-			(item as HTMLElement).style.display = show ? '' : 'none';
-		});
-	}
-
-	buttons.forEach((btn) => {
-		btn.addEventListener('click', () => activateFilter(btn.dataset.lang!));
-	});
-
-	// Pre-filter based on ?lang= URL param
-	const urlLang = new URLSearchParams(window.location.search).get('lang');
-	if (urlLang && ['ru', 'et', 'fi'].includes(urlLang)) {
-		activateFilter(urlLang);
-	}
-</script>
 </body>
 </html>
