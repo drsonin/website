@@ -485,19 +485,40 @@ form?.addEventListener('submit', async (e) => {
 	setLoading(true);
 	hideError();
 
-	// TODO: подключить Catalyst Function когда будет готов бэкенд
-	// Пока просто показываем success после небольшой задержки
-	await new Promise(r => setTimeout(r, 600));
-	form.classList.add('hidden');
-	success?.classList.remove('hidden');
+	try {
+		const res = await fetch(
+			'https://project-rainfall-20114987147.development.catalystserverless.eu/server/contact/execute',
+			{
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				body: JSON.stringify(payload),
+			}
+		);
+
+		const data = await res.json().catch(() => ({}));
+
+		if (!res.ok || data.error) {
+			throw new Error(data.error || `HTTP ${res.status}`);
+		}
+
+		form.classList.add('hidden');
+		success?.classList.remove('hidden');
+
+	} catch (err) {
+		showError('Не удалось отправить. Позвоните нам: +37253383036');
+		setLoading(false);
+	}
 });
 
 function setLoading(on: boolean) {
 	if (!btn) return;
-	btn.disabled = on;
-	btn.textContent = on ? 'Отправляем...' : btn.dataset.label || btn.textContent!;
-	if (!btn.dataset.label && !on) {
-		// сохраняем оригинальный текст при первом вызове
+	if (on) {
+		btn.dataset.label = btn.textContent!;
+		btn.disabled = true;
+		btn.textContent = 'Отправляем...';
+	} else {
+		btn.disabled = false;
+		btn.textContent = btn.dataset.label || btn.textContent!;
 	}
 }
 
