@@ -422,6 +422,143 @@ const t = ui[lang];
 		</div>
 	</section>
 
+	<!-- ═══ КАК ДОБРАТЬСЯ ══════════════════════════════════ -->
+	<section class="py-20 bg-slate-50 px-4 sm:px-6">
+		<div class="max-w-6xl mx-auto">
+
+			<div class="text-center mb-12">
+				<p class="text-blue-600 text-sm font-semibold uppercase tracking-widest mb-3">
+					{{
+						ru: 'Адрес клиники',
+						et: 'Kliiniku aadress',
+						fi: 'Klinikan osoite',
+						en: 'Clinic location',
+					}[lang]}
+				</p>
+				<h2 class="text-3xl sm:text-4xl font-bold text-slate-900">
+					{{
+						ru: 'Как добраться',
+						et: 'Kuidas leida',
+						fi: 'Kuinka löytää',
+						en: 'How to find us',
+					}[lang]}
+				</h2>
+			</div>
+
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
+
+				<!-- Карта -->
+				<div class="rounded-2xl overflow-hidden shadow-md border border-slate-200 h-80 lg:h-full min-h-80">
+					<iframe
+						src="https://maps.google.com/maps?q=Torupilli+ots+2,+10113+Tallinn&t=&z=17&ie=UTF8&iwloc=&output=embed"
+						width="100%"
+						height="100%"
+						style="border:0; min-height: 320px;"
+						allowfullscreen=""
+						loading="lazy"
+						referrerpolicy="no-referrer-when-downgrade"
+						title="Sonin Hambaravi — Torupilli ots 2, Tallinn"
+					></iframe>
+				</div>
+
+				<!-- Информация -->
+				<div class="space-y-6">
+
+					<!-- Адрес -->
+					<div class="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+						<div class="flex items-start gap-4">
+							<div class="w-10 h-10 bg-blue-100 rounded-xl flex items-center justify-center flex-shrink-0 mt-0.5">
+								<svg class="w-5 h-5 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+									<path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+									<path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+								</svg>
+							</div>
+							<div>
+								<p class="font-bold text-slate-900 text-base">Torupilli ots 2, Tallinn</p>
+								<p class="text-slate-500 text-sm mt-0.5">Ravikabinet nr 9 · {{ru:'2-й этаж', et:'2. korrus', fi:'2. kerros', en:'2nd floor'}[lang]}</p>
+								<a href="https://maps.app.goo.gl/yVvXxQyXO5CbCxK7y" target="_blank" rel="noopener"
+									class="inline-flex items-center gap-1.5 text-blue-600 hover:text-blue-700 text-sm font-medium mt-2 no-underline transition-colors">
+									<svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+										<path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+									</svg>
+									{{ru:'Открыть в Google Maps', et:'Ava Google Mapsis', fi:'Avaa Google Mapsissa', en:'Open in Google Maps'}[lang]}
+								</a>
+							</div>
+						</div>
+					</div>
+
+					<!-- Ориентиры -->
+					<div class="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+						<h3 class="font-bold text-slate-900 text-sm uppercase tracking-wide mb-4 flex items-center gap-2">
+							<span class="text-lg">🗺️</span>
+							{{ru:'Ориентиры', et:'Orientiirpunktid', fi:'Maamerkit', en:'Landmarks'}[lang]}
+						</h3>
+						<ul class="space-y-3">
+							{[
+								{
+									icon: '🛒',
+									ru: 'Torupilli Selver — клиника в том же здании, вход на 2-м этаже',
+									et: 'Torupilli Selver — kliinik samas hoones, sissepääs 2. korrusel',
+									fi: 'Torupilli Selver — klinikka samassa rakennuksessa, sisäänkäynti 2. kerroksessa',
+									en: 'Torupilli Selver — clinic in the same building, entrance on the 2nd floor',
+								},
+								{
+									icon: '🏪',
+									ru: 'Центральный рынок (Keskturg) — прямо напротив здания',
+									et: 'Keskturg — otse hoone vastas',
+									fi: 'Keskturg (Keskustori) — suoraan rakennuksen edessä',
+									en: 'Keskturg (Central Market) — directly across the road',
+								},
+								{
+									icon: '🏨',
+									ru: 'Hilton Tallinn Park — 300 м на север через Полицейский парк',
+									et: 'Hilton Tallinn Park — 300 m põhja poole läbi Politseiaiapargi',
+									fi: 'Hilton Tallinn Park — 300 m pohjoiseen Poliisipuiston kautta',
+									en: 'Hilton Tallinn Park — 300 m north through Police Park',
+								},
+							].map(item => (
+								<li class="flex items-start gap-3 text-sm text-slate-600">
+									<span class="text-base flex-shrink-0 mt-0.5">{item.icon}</span>
+									<span>{item[lang]}</span>
+								</li>
+							))}
+						</ul>
+					</div>
+
+					<!-- Транспорт -->
+					<div class="bg-white rounded-2xl p-6 border border-slate-100 shadow-sm">
+						<h3 class="font-bold text-slate-900 text-sm uppercase tracking-wide mb-4 flex items-center gap-2">
+							<span class="text-lg">🚌</span>
+							{{ru:'Общественный транспорт', et:'Ühistransport', fi:'Julkinen liikenne', en:'Public transport'}[lang]}
+						</h3>
+						<p class="text-xs text-slate-400 mb-4 flex items-center gap-1.5">
+							<svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+							</svg>
+							{{
+								ru: 'Остановка Keskturg — 1–2 мин. пешком',
+								et: 'Peatus Keskturg — 1–2 min jalgsi',
+								fi: 'Pysäkki Keskturg — 1–2 min kävelyä',
+								en: 'Stop Keskturg — 1–2 min walk',
+							}[lang]}
+						</p>
+						<div class="space-y-3">
+							<div class="flex items-center gap-3">
+								<span class="bg-yellow-400 text-yellow-900 text-xs font-bold px-2.5 py-1 rounded-full flex-shrink-0">🚋 {{ru:'Трамвай', et:'Tramm', fi:'Raitiovaunu', en:'Tram'}[lang]}</span>
+								<span class="text-sm font-semibold text-slate-700">№ 2, № 4</span>
+							</div>
+							<div class="flex items-start gap-3">
+								<span class="bg-blue-100 text-blue-700 text-xs font-bold px-2.5 py-1 rounded-full flex-shrink-0">🚌 {{ru:'Автобус', et:'Buss', fi:'Bussi', en:'Bus'}[lang]}</span>
+								<span class="text-sm text-slate-600 font-medium">№ 2, 15, 31, 39, 42, 49, 54, 65, 67, 68</span>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
+
 </main>
 <Footer />
 <CookieBanner />
