@@ -435,3 +435,210 @@ const en: UI = {
 };
 
 export const ui: Record<Lang, UI> = { ru, et, fi, en };
+
+// ─────────────────────────────────────────────────────────────
+// ABOUT PAGE translations
+// ─────────────────────────────────────────────────────────────
+export const aboutT: Record<Lang, {
+  meta: { title: string; description: string };
+  badge: string; name: string; subtitle: string;
+  ctaForm: string; ctaCall: string;
+  badgeYears: string; badgeSub: string;
+  stats: [string, string, string, string];
+  bioSup: string; bioTitle: string;
+  bio1: string; bio2: string; bio3: string;
+  eduSup: string; eduTitle: string;
+  edu: { year: string; title: string; place: string; desc: string; accent: boolean }[];
+  specSup: string; specTitle: string;
+  specs: { title: string; items: string[] }[];
+  langTitle: string; langSub: string;
+  ctaTitle: string; ctaDesc: string; ctaBtn: string;
+}> = {
+  ru: {
+    meta: { title: 'О докторе Дмитрии Сонине — Sonin Hambaravi', description: 'Стоматолог-имплантолог Дмитрий Сонин. 19 лет практики, Master of Oral Implantology (Goethe Universität Frankfurt). Таллин, Эстония.' },
+    badge: 'Стоматолог-имплантолог · Таллин', name: 'Дмитрий Сонин',
+    subtitle: 'Стоматолог-имплантолог и протезист с 19-летним опытом работы в Эстонии и Финляндии. Специализируется на сложных случаях имплантации, полном протезировании и восстановлении зубного ряда.',
+    ctaForm: 'Оставить заявку', ctaCall: 'Позвонить',
+    badgeYears: '19 лет опыта', badgeSub: 'Эстония · Финляндия',
+    stats: ['лет практики', 'год основания клиники', 'языка общения', 'Oral Implantology'],
+    bioSup: 'Биография', bioTitle: 'О докторе',
+    bio1: 'Дмитрий Сонин — стоматолог-имплантолог и протезист, ведущий практику в Таллине с 2005 года. За 19 лет работы он специализировался на наиболее сложных областях стоматологии — имплантации и протезировании, — накопив обширный клинический опыт как в Эстонии, так и в Финляндии.',
+    bio2: 'В 2018–2019 годах доктор Сонин прошёл академическую программу Master of Oral Implantology в Goethe Universität Frankfurt — одном из ведущих европейских университетов в области стоматологической имплантологии. Это позволяет ему применять самые современные хирургические и протетические протоколы в ежедневной практике.',
+    bio3: 'Доктор Сонин ведёт приём на четырёх языках — эстонском, финском, английском и немецком, что делает клинику доступной для пациентов из разных стран. Значительную часть пациентов составляют финские граждане, специально приезжающие в Таллин для получения стоматологической помощи европейского качества по более доступным ценам.',
+    eduSup: 'Образование', eduTitle: 'Академическая подготовка',
+    edu: [
+      { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Германия', desc: 'Академическая программа по хирургической и протетической имплантологии. Изучение современных имплантационных систем, костной регенерации и цифровых методов планирования.', accent: true },
+      { year: '2003–2008', title: 'Диплом врача-стоматолога', place: 'Тартуский университет, Эстония', desc: 'Стоматологический факультет Тартуского университета — ведущего медицинского вуза Эстонии.', accent: false },
+    ],
+    specSup: 'Специализации', specTitle: 'Направления работы',
+    specs: [
+      { title: 'Дентальная имплантация', items: ['Одиночные импланты', 'All-on-4 / All-on-6', 'Немедленная нагрузка', '3D-планирование (CBCT)', 'Направляемая хирургия'] },
+      { title: 'Протезирование', items: ['Коронки и мосты (цирконий, e.max)', 'Съёмные протезы', 'Протезы на имплантах', 'Цифровое сканирование Medit', 'Временные конструкции'] },
+      { title: 'Терапевтическая стоматология', items: ['Лечение кариеса', 'Эндодонтия (корневые каналы)', 'Отбеливание зубов', 'Профессиональная гигиена', 'Профилактические осмотры'] },
+      { title: 'Технологии', items: ['Nobel Biocare, Osstem, Dentium', '3D-сканер Medit', 'Цифровое планирование', 'CAD/CAM коронки', 'Цифровые оттиски'] },
+    ],
+    langTitle: 'Мультиязычная практика', langSub: 'Доктор Сонин принимает пациентов на четырёх языках',
+    ctaTitle: 'Запишитесь на консультацию', ctaDesc: 'Первая консультация — это знакомство, осмотр и честный разговор о вашей ситуации. Без давления.', ctaBtn: 'Оставить заявку',
+  },
+  et: {
+    meta: { title: 'Dr Dmitri Soninust — Sonin Hambaravi', description: 'Hambaimplantoloog Dmitri Sonin. 19 aastat praktikat, Master of Oral Implantology (Goethe Universität Frankfurt). Tallinn, Eesti.' },
+    badge: 'Hambaimplantoloog · Tallinn', name: 'Dmitri Sonin',
+    subtitle: 'Hambaimplantoloog ja proteesiarst 19-aastase kogemusega Eestis ja Soomes. Spetsialiseerub keerukatele implantatsioonijuhtudele, täielikule proteesimisele ja hambaravi taastamisele.',
+    ctaForm: 'Saada päring', ctaCall: 'Helista',
+    badgeYears: '19 aastat kogemust', badgeSub: 'Eesti · Soome',
+    stats: ['aastat praktikat', 'kliiniku asutamisaasta', 'suhtluskeelt', 'Oral Implantology'],
+    bioSup: 'Elulugu', bioTitle: 'Arsti kohta',
+    bio1: 'Dmitri Sonin on hambaimplantoloog ja proteesiarst, kes praktiseerib Tallinnas alates 2005. aastast. 19 tööaasta jooksul on ta spetsialiseerunud hambaravi keerukaimatele valdkondadele — implantatsioonile ja proteesimisele — kogudes ulatusliku kliinilise kogemuse nii Eestis kui ka Soomes.',
+    bio2: '2018–2019. aastal läbis doktor Sonin Goethe Universität Frankfurdis akadeemilise programmi Master of Oral Implantology — ühes Euroopa juhtivates ülikoolides hambaimplantoloogia valdkonnas. See võimaldab tal rakendada igapäevases praktikas kõige kaasaegsemaid kirurgilisi ja proteetilisi protokolle.',
+    bio3: 'Doktor Sonin võtab patsiente vastu neljal keelel — eesti, soome, inglise ja saksa keeles, mis muudab kliiniku kättesaadavaks erinevatest riikidest patsientidele. Märkimisväärse osa patsientidest moodustavad soome kodanikud, kes tulevad spetsiaalselt Tallinna saama Euroopa tasemega hambaravi taskukohasema hinnaga.',
+    eduSup: 'Haridus', eduTitle: 'Akadeemiline ettevalmistus',
+    edu: [
+      { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Saksamaa', desc: 'Akadeemiline programm kirurgilise ja proteetilise implantoloogia alal. Kaasaegsete implantsüsteemide, luuregeneratsiooni ja digitaalsete planeerimismeetodite uurimine.', accent: true },
+      { year: '2003–2008', title: 'Hambaarsti diplom', place: 'Tartu Ülikool, Eesti', desc: 'Tartu Ülikooli hambaarstiteaduse teaduskond — Eesti juhtiv meditsiiniülikool.', accent: false },
+    ],
+    specSup: 'Erialad', specTitle: 'Ravivaldkonnad',
+    specs: [
+      { title: 'Hambaimplantatsioon', items: ['Üksikimplantaadid', 'All-on-4 / All-on-6', 'Kohene koormus', '3D-planeerimine (CBCT)', 'Juhitav kirurgia'] },
+      { title: 'Proteesimine', items: ['Kroonid ja sillad (tsirkoonium, e.max)', 'Eemaldatavad proteesid', 'Implantaadil proteesid', 'Digitaalne Medit skannimine', 'Ajutised konstruktsioonid'] },
+      { title: 'Terapeutiline hambaarst', items: ['Kaariese ravi', 'Endodontia (juurekanalid)', 'Hammaste valgendamine', 'Professionaalne hügieen', 'Ennetavad ülevaatused'] },
+      { title: 'Tehnoloogiad', items: ['Nobel Biocare, Osstem, Dentium', 'Medit 3D-skanner', 'Digitaalne planeerimine', 'CAD/CAM kroonid', 'Digitaalsed jäljendid'] },
+    ],
+    langTitle: 'Mitmekeelne praktika', langSub: 'Doktor Sonin võtab patsiente vastu neljal keelel',
+    ctaTitle: 'Registreeri konsultatsioonile', ctaDesc: 'Esimene konsultatsioon — see on tutvumine, ülevaatus ja aus vestlus teie olukorrast. Ilma surveta.', ctaBtn: 'Saada päring',
+  },
+  fi: {
+    meta: { title: 'Dr Dmitri Soninista — Sonin Hambaravi', description: 'Hammasimplantologi Dmitri Sonin. 19 vuotta käytännön kokemusta, Master of Oral Implantology (Goethe Universität Frankfurt). Tallinna, Viro.' },
+    badge: 'Hammasimplantologi · Tallinna', name: 'Dmitri Sonin',
+    subtitle: 'Hammasimplantologi ja proteesisti, jolla on 19 vuoden kokemus Virosta ja Suomesta. Erikoistunut vaativiin implanttitapauksiin, täydelliseen protetiikkaan ja hammasrivistön kunnostamiseen.',
+    ctaForm: 'Lähetä pyyntö', ctaCall: 'Soita',
+    badgeYears: '19 vuoden kokemus', badgeSub: 'Viro · Suomi',
+    stats: ['vuotta käytännössä', 'klinikan perustamisvuosi', 'kieltä', 'Oral Implantology'],
+    bioSup: 'Elämäkerta', bioTitle: 'Lääkäristä',
+    bio1: 'Dmitri Sonin on hammasimplantologi ja proteesisti, joka harjoittaa ammattia Tallinnassa vuodesta 2005. 19 työvuoden aikana hän on erikoistunut hammaslääketieteen vaativimpiin osa-alueisiin — implantoinnin ja protetiikan — keräten laajan kliinisen kokemuksen sekä Virosta että Suomesta.',
+    bio2: 'Vuosina 2018–2019 tohtori Sonin suoritti Master of Oral Implantology -ohjelman Goethe Universität Frankfurtissa — yhdessä Euroopan johtavista yliopistoista hammasimplantologian alalla. Tämä mahdollistaa hänelle modernimpien kirurgisten ja proteettisten protokollien soveltamisen päivittäisessä työssä.',
+    bio3: 'Tohtori Sonin vastaanottaa potilaita neljällä kielellä — virolla, suomella, englanniksi ja saksaksi — mikä tekee klinikasta saavutettavan eri maista tuleville potilaille. Merkittävän osan potilaista muodostavat suomalaiset, jotka matkustavat erityisesti Tallinnaan saadakseen eurooppalaisen tason hammashoitoa edullisempaan hintaan.',
+    eduSup: 'Koulutus', eduTitle: 'Akateeminen koulutus',
+    edu: [
+      { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Saksa', desc: 'Akateeminen ohjelma kirurgisessa ja proteettisessa implantologiassa. Modernien implanttijärjestelmien, luuregeneraation ja digitaalisten suunnittelumenetelmien opiskelu.', accent: true },
+      { year: '2003–2008', title: 'Hammaslääketieteen tutkinto', place: 'Tarton yliopisto, Viro', desc: 'Tarton yliopiston hammaslääketieteellinen tiedekunta — Viron johtava lääketieteellinen yliopisto.', accent: false },
+    ],
+    specSup: 'Erikoisalat', specTitle: 'Hoitoalueet',
+    specs: [
+      { title: 'Hammasimplantointi', items: ['Yksittäiset implantit', 'All-on-4 / All-on-6', 'Välitön kuormitus', '3D-suunnittelu (CBCT)', 'Ohjattu kirurgia'] },
+      { title: 'Protetiikka', items: ['Kruunut ja sillat (zirkonia, e.max)', 'Irrotettavat proteesit', 'Implanttituetut proteesit', 'Digitaalinen Medit-skannaus', 'Väliaikaiset rakenteet'] },
+      { title: 'Terapeuttinen hammashoito', items: ['Karieshoidot', 'Endodontia (juurihoito)', 'Hampaiden valkaiseminen', 'Ammattimainen hygienia', 'Ehkäisevät tarkastukset'] },
+      { title: 'Teknologiat', items: ['Nobel Biocare, Osstem, Dentium', 'Medit 3D-skanneri', 'Digitaalinen suunnittelu', 'CAD/CAM kruunut', 'Digitaaliset jäljennökset'] },
+    ],
+    langTitle: 'Monikielinen vastaanotto', langSub: 'Tohtori Sonin vastaanottaa potilaita neljällä kielellä',
+    ctaTitle: 'Varaa konsultaatio', ctaDesc: 'Ensimmäinen konsultaatio — tutustuminen, tutkimus ja rehellinen keskustelu tilanteestasi. Ilman painostusta.', ctaBtn: 'Lähetä pyyntö',
+  },
+  en: {
+    meta: { title: 'About Dr Dmitri Sonin — Sonin Hambaravi', description: 'Dental implantologist Dmitri Sonin. 19 years of practice, Master of Oral Implantology (Goethe Universität Frankfurt). Tallinn, Estonia.' },
+    badge: 'Dental Implantologist · Tallinn', name: 'Dmitri Sonin',
+    subtitle: 'Dental implantologist and prosthetist with 19 years of experience in Estonia and Finland. Specialises in complex implant cases, full-mouth rehabilitation and dental restorations.',
+    ctaForm: 'Send a request', ctaCall: 'Call us',
+    badgeYears: '19 years experience', badgeSub: 'Estonia · Finland',
+    stats: ['years of practice', 'clinic founded', 'languages spoken', 'Oral Implantology'],
+    bioSup: 'Biography', bioTitle: 'About the doctor',
+    bio1: 'Dmitri Sonin is a dental implantologist and prosthetist who has been practising in Tallinn since 2005. Over 19 years he has specialised in the most demanding areas of dentistry — implantology and prosthetics — building extensive clinical experience in both Estonia and Finland.',
+    bio2: 'In 2018–2019, Dr Sonin completed the Master of Oral Implantology programme at Goethe Universität Frankfurt — one of Europe\'s leading universities in dental implantology. This enables him to apply the most advanced surgical and prosthetic protocols in his daily practice.',
+    bio3: 'Dr Sonin sees patients in four languages — Estonian, Finnish, English and German — making the clinic accessible to patients from many countries. A significant proportion of patients are Finnish citizens who travel specifically to Tallinn for European-quality dental care at more affordable prices.',
+    eduSup: 'Education', eduTitle: 'Academic background',
+    edu: [
+      { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Germany', desc: 'Academic programme in surgical and prosthetic implantology. Study of modern implant systems, bone regeneration and digital planning methods.', accent: true },
+      { year: '2003–2008', title: 'Degree in Dentistry', place: 'University of Tartu, Estonia', desc: 'Faculty of Dentistry at the University of Tartu — Estonia\'s leading medical university.', accent: false },
+    ],
+    specSup: 'Specialisations', specTitle: 'Areas of treatment',
+    specs: [
+      { title: 'Dental Implants', items: ['Single implants', 'All-on-4 / All-on-6', 'Immediate loading', '3D planning (CBCT)', 'Guided surgery'] },
+      { title: 'Prosthetics', items: ['Crowns & bridges (zirconia, e.max)', 'Removable dentures', 'Implant-supported prosthetics', 'Medit digital scanning', 'Temporary restorations'] },
+      { title: 'Therapeutic Dentistry', items: ['Cavity treatment', 'Endodontics (root canals)', 'Teeth whitening', 'Professional hygiene', 'Preventive check-ups'] },
+      { title: 'Technology', items: ['Nobel Biocare, Osstem, Dentium', 'Medit 3D scanner', 'Digital planning', 'CAD/CAM crowns', 'Digital impressions'] },
+    ],
+    langTitle: 'Multilingual practice', langSub: 'Dr Sonin sees patients in four languages',
+    ctaTitle: 'Book a consultation', ctaDesc: 'The first consultation is a meeting, examination and honest conversation about your situation. No pressure.', ctaBtn: 'Send a request',
+  },
+};
+
+// ─────────────────────────────────────────────────────────────
+// STORIES PAGE translations (UI chrome only — stories stay in RU)
+// ─────────────────────────────────────────────────────────────
+export const storiesT: Record<Lang, {
+  meta: { title: string; description: string };
+  badge: string; title: string; subtitle: string;
+  filters: { id: string; label: string }[];
+  tagLabels: Record<string, string>;
+  note?: string;
+}> = {
+  ru: {
+    meta: { title: 'Истории пациентов — Sonin Hambaravi', description: 'Реальные истории пациентов клиники Sonin Hambaravi. Из Финляндии, Швеции, Эстонии — с разными ситуациями и разными путями к нам.' },
+    badge: 'Реальные люди, реальные ситуации',
+    title: 'Истории наших пациентов',
+    subtitle: 'Каждый пришёл со своей ситуацией. Найдите себя — и поймите, что решение возможно.',
+    filters: [
+      { id: 'all', label: 'Все истории' },
+      { id: 'abroad', label: 'Приехал из-за рубежа' },
+      { id: 'installment', label: 'Лечение в рассрочку' },
+      { id: 'full-jaw', label: 'Полное восстановление' },
+      { id: 'referral', label: 'По рекомендации' },
+      { id: 'elsewhere', label: 'Рассматривал Турцию / Беларусь' },
+      { id: 'redo', label: 'Переделали чужую работу' },
+      { id: 'trust', label: 'Доверие к доктору' },
+    ],
+    tagLabels: { abroad: 'Из-за рубежа', installment: 'Рассрочка', 'full-jaw': 'Вся челюсть', referral: 'По рекомендации', elsewhere: 'Сравнивал варианты', redo: 'Переделали', trust: 'Доверие к врачу' },
+  },
+  et: {
+    meta: { title: 'Patsientide lood — Sonin Hambaravi', description: 'Sonin Hambaravi kliiniku patsientide tegelikud lood. Soomest, Rootsist, Eestist — erinevate olukordade ja erinevate teedega meie juurde.' },
+    badge: 'Päriselu inimesed, päriselu olukorrad',
+    title: 'Meie patsientide lood',
+    subtitle: 'Igaüks tuli oma olukorraga. Leia end — ja mõista, et lahendus on võimalik.',
+    note: 'Patsientide lood on avaldatud vene keeles.',
+    filters: [
+      { id: 'all', label: 'Kõik lood' },
+      { id: 'abroad', label: 'Tuli välismaalt' },
+      { id: 'installment', label: 'Järelmaksuga ravi' },
+      { id: 'full-jaw', label: 'Täielik taastamine' },
+      { id: 'referral', label: 'Soovituse põhjal' },
+      { id: 'elsewhere', label: 'Kaalus Türgit / Valgevenet' },
+      { id: 'redo', label: 'Parandati teiste tööd' },
+      { id: 'trust', label: 'Usaldus arsti vastu' },
+    ],
+    tagLabels: { abroad: 'Välismaalt', installment: 'Järelmaks', 'full-jaw': 'Kogu lõualuu', referral: 'Soovituse põhjal', elsewhere: 'Võrdles variante', redo: 'Parandati', trust: 'Usaldus arstile' },
+  },
+  fi: {
+    meta: { title: 'Potilaiden tarinat — Sonin Hambaravi', description: 'Sonin Hambaravi -klinikan potilaiden oikeat tarinat. Suomesta, Ruotsista, Virosta — eri tilanteista ja eri reiteiltä meille.' },
+    badge: 'Oikeat ihmiset, oikeat tilanteet',
+    title: 'Potilaidemme tarinat',
+    subtitle: 'Jokainen tuli omassa tilanteessaan. Löydä itsesi — ja ymmärrä, että ratkaisu on mahdollinen.',
+    note: 'Potilaiden tarinat on julkaistu venäjäksi.',
+    filters: [
+      { id: 'all', label: 'Kaikki tarinat' },
+      { id: 'abroad', label: 'Tuli ulkomailta' },
+      { id: 'installment', label: 'Hoito osamaksulla' },
+      { id: 'full-jaw', label: 'Täydellinen kunnostus' },
+      { id: 'referral', label: 'Suosituksen perusteella' },
+      { id: 'elsewhere', label: 'Harkitsi Turkkia / Valko-Venäjää' },
+      { id: 'redo', label: 'Korjattiin toisen työ' },
+      { id: 'trust', label: 'Luottamus lääkäriin' },
+    ],
+    tagLabels: { abroad: 'Ulkomailta', installment: 'Osamaksu', 'full-jaw': 'Koko leuka', referral: 'Suosituksesta', elsewhere: 'Vertaili vaihtoehtoja', redo: 'Korjattiin', trust: 'Luottamus' },
+  },
+  en: {
+    meta: { title: 'Patient Stories — Sonin Hambaravi', description: 'Real patient stories from Sonin Hambaravi clinic. From Finland, Sweden, Estonia — different situations, different paths to us.' },
+    badge: 'Real people, real situations',
+    title: 'Our patients\' stories',
+    subtitle: 'Each patient came with their own situation. Find yourself — and understand that a solution is possible.',
+    note: 'Patient stories are published in Russian.',
+    filters: [
+      { id: 'all', label: 'All stories' },
+      { id: 'abroad', label: 'Came from abroad' },
+      { id: 'installment', label: 'Instalment payment' },
+      { id: 'full-jaw', label: 'Full-mouth restoration' },
+      { id: 'referral', label: 'By referral' },
+      { id: 'elsewhere', label: 'Considered Turkey / Belarus' },
+      { id: 'redo', label: 'Fixed someone else\'s work' },
+      { id: 'trust', label: 'Trust in the doctor' },
+    ],
+    tagLabels: { abroad: 'From abroad', installment: 'Instalment', 'full-jaw': 'Full jaw', referral: 'By referral', elsewhere: 'Compared options', redo: 'Fixed', trust: 'Trust' },
+  },
+};
