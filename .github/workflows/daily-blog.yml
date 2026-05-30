@@ -42,12 +42,13 @@ jobs:
           node scripts/generate-post.js $ARGS
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Commit and push generated posts
         run: |
           git config user.name "drsonin-blog-bot"
           git config user.email "blog-bot@drsonin.com"
-          git add src/content/blog/
+          git add src/content/blog/ public/blog-images/
           if git diff --staged --quiet; then
             echo "No new posts generated, nothing to commit."
           else

@@ -3,11 +3,12 @@
  * Daily blog post generator for drsonin.com
  * Usage: node scripts/generate-post.js [--topic N] [--date YYYY-MM-DD]
  *
- * Requires: ANTHROPIC_API_KEY env var
- * Generates 3 posts (ru/et/fi) and writes them to src/content/blog/
+ * Requires: ANTHROPIC_API_KEY, OPENAI_API_KEY env vars
+ * Generates 4 posts (ru/et/fi/en) + 1 hero image and writes them to src/content/blog/
  */
 
 import Anthropic from '@anthropic-ai/sdk';
+import OpenAI from 'openai';
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -16,6 +17,7 @@ import { TOPICS } from './topics.js';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const client = new Anthropic();
+const openai = new OpenAI();
 
 // Pick topic index: CLI arg, or today's day-of-year mod topics length
 function getTopicIndex() {
@@ -132,7 +134,58 @@ async function generateText(prompt) {
   return msg.content[0].text.trim();
 }
 
-async function generatePost(lang, topic, dateStr) {
+/**
+ * Generate a hero image via DALL-E 3 and save to public/blog-images/
+ * Returns the public path string (e.g. /blog-images/2026-05-30-implantaciya-zubov.jpg)
+ */
+async function generateHeroImage(topic, dateStr) {
+  const keyword = topic.en.keyword; // use English keyword for prompt
+  const slug = topic.en.slug;
+  const filename = `${dateStr}-${slug}.jpg`;
+  const outputPath = join(ROOT, 'public', 'blog-images', filename);
+  const publicPath = `/blog-images/${filename}`;
+
+  // Skip if already generated (idempotent)
+  if (existsSync(outputPath)) {
+    console.log(`  ✓ Image already exists: ${publicPath}`);
+    return publicPath;
+  }
+
+  console.log(`  🎨 Generating hero image for "${keyword}"...`);
+
+  const imagePrompt = `
+Professional dental clinic photography for the topic "${keyword}".
+Clean, modern dental office setting. Bright, soft lighting.
+No text, no logos, no watermarks. Photorealistic style.
+The image should feel warm, trustworthy and medical — suitable for a dental clinic blog.
+Horizontal composition, 16:9 ratio.
+`.trim();
+
+  const response = await openai.images.generate({
+    model: 'dall-e-3',
+    prompt: imagePrompt,
+    n: 1,
+    size: '1792x1024',
+    quality: 'standard',
+    response_format: 'url',
+  });
+
+  const imageUrl = response.data[0].url;
+
+  // Download the image
+  const res = await fetch(imageUrl);
+  const arrayBuffer = await res.arrayBuffer();
+  const buffer = Buffer.from(arrayBuffer);
+
+  const dir = join(ROOT, 'public', 'blog-images');
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+  writeFileSync(outputPath, buffer);
+
+  console.log(`  ✓ Image saved: public/blog-images/${filename}`);
+  return publicPath;
+}
+
+async function generatePost(lang, topic, dateStr, heroImage) {
   const { keyword, slug } = topic[lang];
   console.log(`  Generating [${lang}] — ${keyword}...`);
 
@@ -150,6 +203,7 @@ async function generatePost(lang, topic, dateStr) {
     `lang: '${lang}'`,
     `author: '${AUTHOR_BY_LANG[lang]}'`,
     `tags: ['${keyword}', 'hambaravi', 'Sonin Hambaravi']`,
+    `heroImage: '${heroImage}'`,
     '---',
     '',
   ].join('\n');
@@ -171,11 +225,15 @@ async function main() {
   console.log(`\n📝 Daily blog generator — ${dateStr}`);
   console.log(`📌 Topic #${topicIndex}: ${topic.ru.keyword} / ${topic.et.keyword} / ${topic.fi.keyword} / ${topic.en.keyword}\n`);
 
-  for (const lang of ['ru', 'et', 'fi', 'en']) {
-    await generatePost(lang, topic, dateStr);
-  }
+  // Generate hero image first (shared across all language versions)
+  const heroImage = await generateHeroImage(topic, dateStr);
 
-  console.log('\n✅ Done! 4 posts generated.');
+  // Generate all 4 language posts in parallel
+  await Promise.all(
+    ['ru', 'et', 'fi', 'en'].map((lang) => generatePost(lang, topic, dateStr, heroImage))
+  );
+
+  console.log('\n✅ Done! 4 posts + 1 hero image generated.');
 }
 
 main().catch((err) => {
