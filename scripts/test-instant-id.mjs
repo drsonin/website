@@ -30,8 +30,8 @@ const output = await replicate.run(
       height: 630,
       num_inference_steps: 30,
       guidance_scale: 5,
-      ip_adapter_scale: 0.8,
-      controlnet_conditioning_scale: 0.8,
+      ip_adapter_scale: 1.0,
+      controlnet_conditioning_scale: 1.0,
     },
   }
 );
