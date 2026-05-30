@@ -1,6 +1,6 @@
 ---
 title: 'Dental Veneers in Tallinn With Expert Dr Dmitri Sonin'
-description: 'Discover perfect smile transformations with dental veneers in Tallinn. Trust Dr Dmitri Sonin for expert, natural-looking results you\'ll love.'
+description: 'Discover perfect smile transformations with dental veneers in Tallinn. Trust Dr Dmitri Sonin for expert, natural-looking results you''ll love.'
 pubDate: '2026-05-30'
 lang: 'en'
 author: 'Dr Dmitri Sonin'

@@ -205,8 +205,8 @@ async function generatePost(lang, topic, dateStr, heroImage) {
 
   const frontmatter = [
     '---',
-    `title: '${title.replace(/'/g, "\\'")}'`,
-    `description: '${description.replace(/'/g, "\\'")}'`,
+    `title: '${title.replace(/'/g, "''")}'`,
+    `description: '${description.replace(/'/g, "''")}'`,
     `pubDate: '${dateStr}'`,
     `lang: '${lang}'`,
     `author: '${AUTHOR_BY_LANG[lang]}'`,
