@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Catalyst Advanced IO (HTTP) Function — Contact Form → Zoho Bigin
+ * Catalyst Basic IO Function — Contact Form → Zoho Bigin
  *
  * Env vars (Catalyst Console → Functions → contact → Environment Variables):
  *   ZOHO_CLIENT_ID, ZOHO_CLIENT_SECRET, ZOHO_REFRESH_TOKEN
@@ -11,13 +11,6 @@
 
 const ZOHO_ACCOUNTS_URL = process.env.ZOHO_ACCOUNTS_URL || 'https://accounts.zoho.eu';
 const ZOHO_API_BASE     = process.env.ZOHO_API_BASE     || 'https://www.zohoapis.eu/bigin/v2';
-
-const CORS_HEADERS = {
-  'Access-Control-Allow-Origin':  '*',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS',
-  'Access-Control-Allow-Headers': 'Content-Type',
-  'Content-Type': 'application/json; charset=utf-8',
-};
 
 let _token = null;
 let _tokenExpiry = 0;
@@ -59,8 +52,8 @@ async function createContact(body) {
   const firstName = nameParts.length > 1 ? nameParts[0] : undefined;
 
   const descParts = [
-    body.service && `Услуга: ${body.service}`,
-    body.message && `Сообщение: ${body.message}`,
+    body.service  && `Услуга: ${body.service}`,
+    body.message  && `Сообщение: ${body.message}`,
     body.page_url && `Страница: ${body.page_url}`,
   ].filter(Boolean);
 
@@ -99,35 +92,22 @@ async function createContact(body) {
 }
 
 // ─── Handler ────────────────────────────────────────────────────────────────
-module.exports = async (context, event) => {
-  const req = event.request;
-  const res = event.response;
-
-  // CORS заголовки на все ответы
-  Object.entries(CORS_HEADERS).forEach(([k, v]) => res.set(k, v));
-
-  // Preflight OPTIONS
-  if (req.method === 'OPTIONS') {
-    return res.status(204).send('');
-  }
-
-  // Парсим тело запроса
-  let body = {};
-  try {
-    body = req.body || {};
-  } catch (_) {}
-
+module.exports = async (context, io) => {
+  const body = io.getAllArguments() || {};
   context.log('[contact-fn] keys:', JSON.stringify(Object.keys(body)));
 
   if (!body.name && !body.phone) {
-    return res.status(400).json({ error: 'Укажите имя или телефон' });
+    io.setStatus(400);
+    io.write(JSON.stringify({ error: 'Укажите имя или телефон' }));
+    return;
   }
 
   try {
     await createContact(body);
-    return res.status(200).json({ success: true });
+    io.write(JSON.stringify({ success: true }));
   } catch (err) {
     context.log('[contact-fn] error:', err.message);
-    return res.status(500).json({ error: 'Ошибка сервера. Позвоните напрямую.' });
+    io.setStatus(500);
+    io.write(JSON.stringify({ error: 'Ошибка сервера. Позвоните напрямую.' }));
   }
 };
