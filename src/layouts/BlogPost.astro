@@ -5,29 +5,119 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & {
+	langVersions?: { lang: string; slug: string }[];
+};
 
-const { title, description, pubDate, updatedDate, heroImage, author, lang } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, lang, tags, langVersions = [] } = Astro.props;
 
-const langMeta: Record<string, { label: string; flag: string }> = {
-	ru: { label: 'Русский', flag: '🇷🇺' },
-	et: { label: 'Eesti',   flag: '🇪🇪' },
-	fi: { label: 'Suomi',   flag: '🇫🇮' },
+const langMeta: Record<string, { label: string; flag: string; locale: string }> = {
+	ru: { label: 'Русский', flag: '🇷🇺', locale: 'ru_RU' },
+	et: { label: 'Eesti',   flag: '🇪🇪', locale: 'et_EE' },
+	fi: { label: 'Suomi',   flag: '🇫🇮', locale: 'fi_FI' },
+	en: { label: 'English', flag: '🇬🇧', locale: 'en_GB' },
 };
 const lm = langMeta[lang ?? 'ru'] ?? langMeta.ru;
 
-const blogLang = (lang ?? 'ru') as 'ru' | 'et' | 'fi';
+const blogLang = (lang ?? 'ru') as 'ru' | 'et' | 'fi' | 'en';
 const t = {
-	ru: { home: 'Главная',  blog: 'Блог',  allPosts: 'Все статьи',      bookBtn: 'Записаться на приём', updated: 'Обновлено:' },
-	et: { home: 'Avaleht',  blog: 'Blogi', allPosts: 'Kõik artiklid',   bookBtn: 'Registreeri visiidile', updated: 'Uuendatud:' },
-	fi: { home: 'Etusivu',  blog: 'Blogi', allPosts: 'Kaikki artikkelit', bookBtn: 'Varaa aika',          updated: 'Päivitetty:' },
+	ru: { home: 'Главная',  blog: 'Блог',  allPosts: 'Все статьи',        bookBtn: 'Записаться на приём',   updated: 'Обновлено:', tags: 'Теги:' },
+	et: { home: 'Avaleht',  blog: 'Blogi', allPosts: 'Kõik artiklid',     bookBtn: 'Registreeri visiidile', updated: 'Uuendatud:', tags: 'Sildid:' },
+	fi: { home: 'Etusivu',  blog: 'Blogi', allPosts: 'Kaikki artikkelit', bookBtn: 'Varaa aika',            updated: 'Päivitetty:', tags: 'Aihetunnisteet:' },
+	en: { home: 'Home',     blog: 'Blog',  allPosts: 'All articles',      bookBtn: 'Book appointment',      updated: 'Updated:', tags: 'Tags:' },
 }[blogLang];
-const homeHref = blogLang === 'ru' ? '/' : `/${blogLang}/`;
+
+const homeHref   = blogLang === 'ru' ? '/' : `/${blogLang}/`;
+const blogHref   = blogLang === 'ru' ? '/blog/' : `/${blogLang}/blog/`;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+const pubDateISO = new Date(pubDate).toISOString();
+const updatedDateISO = updatedDate ? new Date(updatedDate).toISOString() : pubDateISO;
+
+// JSON-LD structured data
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@graph': [
+		{
+			'@type': 'Article',
+			'@id': canonicalURL.href + '#article',
+			headline: title,
+			description: description,
+			datePublished: pubDateISO,
+			dateModified: updatedDateISO,
+			author: {
+				'@type': 'Person',
+				name: author ?? 'Дмитрий Сонин',
+				url: 'https://drsonin.com/about/',
+			},
+			publisher: {
+				'@type': 'MedicalOrganization',
+				'@id': 'https://drsonin.com/#organization',
+				name: 'Sonin Hambaravi',
+				url: 'https://drsonin.com',
+				logo: {
+					'@type': 'ImageObject',
+					url: 'https://drsonin.com/favicon.svg',
+				},
+				address: {
+					'@type': 'PostalAddress',
+					streetAddress: 'Torupilli ots 2, Ravikabinet nr 9',
+					addressLocality: 'Tallinn',
+					addressCountry: 'EE',
+				},
+			},
+			mainEntityOfPage: {
+				'@type': 'WebPage',
+				'@id': canonicalURL.href,
+			},
+			...(heroImage ? { image: new URL(heroImage, Astro.site).href } : {}),
+			...(tags?.length ? { keywords: tags.join(', ') } : {}),
+			inLanguage: lm.locale.replace('_', '-'),
+		},
+		{
+			'@type': 'BreadcrumbList',
+			itemListElement: [
+				{ '@type': 'ListItem', position: 1, name: t.home,    item: new URL(homeHref, Astro.site).href },
+				{ '@type': 'ListItem', position: 2, name: t.blog,    item: new URL(blogHref, Astro.site).href },
+				{ '@type': 'ListItem', position: 3, name: title },
+			],
+		},
+	],
+};
 ---
 
 <html lang={lang ?? 'ru'}>
 <head>
-	<BaseHead title={`${title} — Sonin Hambaravi`} description={description} />
+	<BaseHead
+		title={`${title} — Sonin Hambaravi`}
+		description={description}
+		ogType="article"
+		ogLocale={lm.locale}
+		articlePublishedTime={pubDateISO}
+		articleModifiedTime={updatedDateISO}
+		articleAuthor={author}
+	/>
+
+	<!-- hreflang: self -->
+	<link rel="alternate" hreflang={lm.locale.replace('_', '-').toLowerCase()} href={canonicalURL.href} />
+	<!-- hreflang: other language versions of same article -->
+	{langVersions.map(v => {
+		const vLang = langMeta[v.lang];
+		if (!vLang) return null;
+		const hreflangCode = vLang.locale.replace('_', '-').toLowerCase();
+		const href = new URL(`/blog/${v.slug}/`, Astro.site).href;
+		return <link rel="alternate" hreflang={hreflangCode} href={href} />;
+	})}
+	<!-- hreflang: x-default points to RU version -->
+	{langVersions.find(v => v.lang === 'ru') && (
+		<link rel="alternate" hreflang="x-default" href={new URL(`/blog/${langVersions.find(v => v.lang === 'ru')!.slug}/`, Astro.site).href} />
+	)}
+	{(!langVersions.find(v => v.lang === 'ru') && lang === 'ru') && (
+		<link rel="alternate" hreflang="x-default" href={canonicalURL.href} />
+	)}
+
+	<!-- JSON-LD -->
+	<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 </head>
 
 <body class="bg-white text-slate-800 antialiased">
@@ -52,12 +142,12 @@ const homeHref = blogLang === 'ru' ? '/' : `/${blogLang}/`;
 	<article class="max-w-2xl mx-auto px-4 sm:px-6 py-14">
 
 		<!-- Хлебные крошки -->
-		<nav class="flex items-center gap-2 text-xs text-slate-400 mb-8">
+		<nav aria-label="breadcrumb" class="flex items-center gap-2 text-xs text-slate-400 mb-8">
 			<a href={homeHref} class="hover:text-blue-600 transition-colors no-underline">{t.home}</a>
 			<svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
 				<path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
 			</svg>
-			<a href="/blog" class="hover:text-blue-600 transition-colors no-underline">{t.blog}</a>
+			<a href={blogHref} class="hover:text-blue-600 transition-colors no-underline">{t.blog}</a>
 			<svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
 				<path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
 			</svg>
@@ -88,13 +178,25 @@ const homeHref = blogLang === 'ru' ? '/' : `/${blogLang}/`;
 		<hr class="border-slate-100 mb-8" />
 
 		<!-- Тело статьи -->
-		<div class="prose">
+		<div class="prose prose-slate max-w-none prose-headings:font-bold prose-a:text-blue-600">
 			<slot />
 		</div>
 
+		<!-- Теги -->
+		{tags && tags.length > 0 && (
+			<div class="mt-10 flex flex-wrap items-center gap-2">
+				<span class="text-xs text-slate-400 font-medium">{t.tags}</span>
+				{tags.map(tag => (
+					<span class="bg-slate-100 text-slate-600 text-xs px-2.5 py-1 rounded-full">
+						{tag}
+					</span>
+				))}
+			</div>
+		)}
+
 		<!-- Нижняя навигация -->
 		<div class="mt-14 pt-8 border-t border-slate-100 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-			<a href="/blog"
+			<a href={blogHref}
 				class="inline-flex items-center gap-2 text-slate-500 hover:text-blue-600 text-sm font-medium transition-colors no-underline">
 				<svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
 					<path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/>

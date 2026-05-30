@@ -87,21 +87,41 @@ Vaatimukset:
 
 Palauta VAIN artikkelin markdown-teksti.
 `.trim(),
+
+  en: (keyword) => `
+You are a medical copywriter for Sonin Hambaravi dental clinic in Tallinn, Estonia.
+Write an SEO article about: "${keyword}".
+
+Requirements:
+- Language: English
+- Mention the author naturally as "Dr Dmitri Sonin" or "Dmitri Sonin" (2–3 times)
+- Title: H2, contains both the keyword and the doctor's name
+- Structure: several sections with H3 headings
+- Length: 600–800 words
+- Tone: professional yet accessible to patients
+- End with a call to book a consultation at Sonin Hambaravi clinic in Tallinn
+- Do NOT include YAML frontmatter
+- Start directly with "## "
+
+Return ONLY the article markdown text.
+`.trim(),
 };
 
 const TITLE_PROMPTS = {
   ru: (keyword) => `Придумай SEO-заголовок (50–70 символов) для статьи о "${keyword}" в стоматологической клинике. Обязательно включи имя "Дмитрий Сонин". Верни только заголовок, без кавычек.`,
   et: (keyword) => `Loo SEO-pealkiri (50–70 tähemärki) hambaartiklist teemal "${keyword}". Pea kindlasti sisaldama nime "Dmitri Sonin". Tagasta ainult pealkiri, ilma jutumärkideta.`,
   fi: (keyword) => `Luo SEO-otsikko (50–70 merkkiä) hammashoitoartikkelille aiheesta "${keyword}". Sen on sisällettävä nimi "Dmitri Sonin". Palauta vain otsikko, ilman lainausmerkkejä.`,
+  en: (keyword) => `Write an SEO title (50–70 characters) for a dental article about "${keyword}". Must include "Dr Dmitri Sonin". Return only the title, no quotes.`,
 };
 
 const DESC_PROMPTS = {
   ru: (keyword) => `Напиши мета-описание (120–155 символов) для статьи о "${keyword}". Включи имя "Дмитрий Сонин" и "Таллин". Верни только текст описания.`,
   et: (keyword) => `Kirjuta metakirjeldus (120–155 tähemärki) artikli jaoks teemal "${keyword}". Lisa nimi "Dmitri Sonin" ja "Tallinn". Tagasta ainult kirjelduse tekst.`,
   fi: (keyword) => `Kirjoita metakuvaus (120–155 merkkiä) artikkelia varten aiheesta "${keyword}". Lisää nimi "Dmitri Sonin" ja "Tallinna". Palauta vain kuvauksen teksti.`,
+  en: (keyword) => `Write a meta description (120–155 characters) for an article about "${keyword}". Include "Dr Dmitri Sonin" and "Tallinn". Return only the description text.`,
 };
 
-const AUTHOR_BY_LANG = { ru: 'Дмитрий Сонин', et: 'Dmitri Sonin', fi: 'Dmitri Sonin' };
+const AUTHOR_BY_LANG = { ru: 'Дмитрий Сонин', et: 'Dmitri Sonin', fi: 'Dmitri Sonin', en: 'Dr Dmitri Sonin' };
 
 async function generateText(prompt) {
   const msg = await client.messages.create({
@@ -149,13 +169,13 @@ async function main() {
   const topic = TOPICS[topicIndex];
 
   console.log(`\n📝 Daily blog generator — ${dateStr}`);
-  console.log(`📌 Topic #${topicIndex}: ${topic.ru.keyword} / ${topic.et.keyword} / ${topic.fi.keyword}\n`);
+  console.log(`📌 Topic #${topicIndex}: ${topic.ru.keyword} / ${topic.et.keyword} / ${topic.fi.keyword} / ${topic.en.keyword}\n`);
 
-  for (const lang of ['ru', 'et', 'fi']) {
+  for (const lang of ['ru', 'et', 'fi', 'en']) {
     await generatePost(lang, topic, dateStr);
   }
 
-  console.log('\n✅ Done! 3 posts generated.');
+  console.log('\n✅ Done! 4 posts generated.');
 }
 
 main().catch((err) => {
