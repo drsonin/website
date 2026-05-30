@@ -73,7 +73,7 @@ type UI = {
   contact: {
     sup: string; title: string; desc: string;
     lPhone: string; lEmail: string; lAddress: string; hours: string;
-    formTitle: string;
+    formTitle: string; formDesc: string;
     fName: string; fNameP: string;
     fPhone: string; fPhoneP: string;
     fService: string; fServiceP: string;
@@ -158,7 +158,8 @@ const ru: UI = {
     sup: 'Запись на приём', title: 'Запишитесь прямо сейчас',
     desc: 'Позвоните или напишите нам — ответим в течение рабочего дня и подберём удобное время.',
     lPhone: 'Телефон', lEmail: 'Email', lAddress: 'Адрес', hours: 'Пн–Сб: 10:00–17:00',
-    formTitle: 'Оставьте заявку',
+    formTitle: 'Имплант от 29 € в месяц — узнайте стоимость вашего лечения',
+    formDesc: 'Рассрочка до 36 месяцев, 0%, без переплат. Оставьте заявку — перезвоним и рассчитаем ежемесячный платёж для вашего случая.',
     fName: 'Имя', fNameP: 'Ваше имя',
     fPhone: 'Телефон', fPhoneP: '+372 ...',
     fService: 'Услуга', fServiceP: 'Выберите услугу...',
@@ -244,7 +245,8 @@ const et: UI = {
     sup: 'Visiidi registreerimine', title: 'Registreeri kohe',
     desc: 'Helistage või kirjutage meile — vastame tööpäeva jooksul ja leiame sobiva aja.',
     lPhone: 'Telefon', lEmail: 'E-post', lAddress: 'Aadress', hours: 'E–L: 10:00–17:00',
-    formTitle: 'Jäta päring',
+    formTitle: 'Implantaat alates 29 € kuus — teadke oma ravi hinda',
+    formDesc: 'Järelmaks kuni 36 kuud, 0%, ilma lisatasudeta. Jätke päring — helistame tagasi ja arvutame teie igakuise makse.',
     fName: 'Nimi', fNameP: 'Teie nimi',
     fPhone: 'Telefon', fPhoneP: '+372 ...',
     fService: 'Teenus', fServiceP: 'Valige teenus...',
@@ -330,7 +332,8 @@ const fi: UI = {
     sup: 'Ajanvaraus', title: 'Varaa aika nyt',
     desc: 'Soita tai kirjoita meille — vastaamme saman arkipäivän aikana ja löydämme sopivan ajan.',
     lPhone: 'Puhelin', lEmail: 'Sähköposti', lAddress: 'Osoite', hours: 'Ma–La: 10:00–17:00',
-    formTitle: 'Jätä pyyntö',
+    formTitle: 'Implantti alkaen 29 € / kk — selvitä hoitosi hinta',
+    formDesc: 'Osamaksu jopa 36 kuukautta, 0%, ilman lisäkustannuksia. Jätä pyyntö — soitamme takaisin ja laskemme kuukausimaksusi.',
     fName: 'Nimi', fNameP: 'Nimesi',
     fPhone: 'Puhelin', fPhoneP: '+372 ...',
     fService: 'Palvelu', fServiceP: 'Valitse palvelu...',
@@ -416,7 +419,8 @@ const en: UI = {
     sup: 'Book an appointment', title: 'Book right now',
     desc: 'Call or message us — we will respond within the working day and find a convenient time.',
     lPhone: 'Phone', lEmail: 'Email', lAddress: 'Address', hours: 'Mon–Sat: 10:00–17:00',
-    formTitle: 'Send a request',
+    formTitle: 'Implant from €29/month — find out the cost of your treatment',
+    formDesc: 'Instalment plan up to 36 months, 0%, no extra charges. Leave a request — we\'ll call back and calculate your monthly payment.',
     fName: 'Name', fNameP: 'Your name',
     fPhone: 'Phone', fPhoneP: '+372 ...',
     fService: 'Service', fServiceP: 'Select a service...',
