@@ -167,7 +167,6 @@ Horizontal composition, 16:9 ratio.
     n: 1,
     size: '1792x1024',
     quality: 'standard',
-    response_format: 'url',
   });
 
   const imageUrl = response.data[0].url;
