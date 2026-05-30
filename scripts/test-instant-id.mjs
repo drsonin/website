@@ -11,12 +11,11 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const replicate = new Replicate();
 
-console.log('📥 Downloading doctor photo...');
-const photoUrl = 'https://website-jyzoitgt.onslate.eu/_astro/doctor-sonin.CDJ3TcKD_Z1b6PyA.webp';
-const photoRes = await fetch(photoUrl);
-const photoBuffer = Buffer.from(await photoRes.arrayBuffer());
+console.log('📥 Loading doctor photo...');
+import { readFileSync } from 'fs';
+const photoBuffer = readFileSync(join(ROOT, 'scripts', 'doctor-photo.png'));
 const base64 = photoBuffer.toString('base64');
-const dataUri = `data:image/webp;base64,${base64}`;
+const dataUri = `data:image/png;base64,${base64}`;
 
 console.log('🎨 Generating with InstantID...');
 
