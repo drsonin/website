@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Catalyst Basic IO Function — Contact Form → Zoho Bigin
+ * Catalyst Advanced IO (HTTP) Function — Contact Form → Zoho Bigin
  *
  * Env vars (Catalyst Console → Functions → contact → Environment Variables):
  *   ZOHO_CLIENT_ID, ZOHO_CLIENT_SECRET, ZOHO_REFRESH_TOKEN
@@ -11,6 +11,13 @@
 
 const ZOHO_ACCOUNTS_URL = process.env.ZOHO_ACCOUNTS_URL || 'https://accounts.zoho.eu';
 const ZOHO_API_BASE     = process.env.ZOHO_API_BASE     || 'https://www.zohoapis.eu/bigin/v2';
+
+const CORS_HEADERS = {
+  'Access-Control-Allow-Origin':  '*',
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type',
+  'Content-Type': 'application/json; charset=utf-8',
+};
 
 let _token = null;
 let _tokenExpiry = 0;
@@ -47,12 +54,10 @@ function mapLanguage(pageLang) {
 async function createContact(body) {
   const token = await getAccessToken();
 
-  // Имя — всё в Last_Name, First_Name если есть пробел
   const nameParts = (body.name || '').trim().split(/\s+/);
   const lastName  = nameParts.length > 1 ? nameParts.slice(1).join(' ') : (nameParts[0] || 'Website Lead');
   const firstName = nameParts.length > 1 ? nameParts[0] : undefined;
 
-  // Description: service + message
   const descParts = [
     body.service && `Услуга: ${body.service}`,
     body.message && `Сообщение: ${body.message}`,
@@ -62,18 +67,17 @@ async function createContact(body) {
   const contact = {
     Last_Name:     lastName,
     First_Name:    firstName,
-    Mobile:        body.phone        || undefined,   // поле Mobile
-    Lead_Source:   'drsonin.com',                    // всегда статично
-    Language:      mapLanguage(body.page_lang),      // Russian / Estonian / Finnish / English / Other
-    Source_Name:   body.utm_source   || undefined,   // utm_source → Source Name
-    Campaign_Name: body.utm_campaign || undefined,   // utm_campaign → Campaign Name
-    Adset_Name:    body.utm_medium   || undefined,   // utm_medium → Adset Name
-    Advert_Name:   body.utm_content  || undefined,   // utm_content → Advert Name
+    Mobile:        body.phone        || undefined,
+    Lead_Source:   'drsonin.com',
+    Language:      mapLanguage(body.page_lang),
+    Source_Name:   body.utm_source   || undefined,
+    Campaign_Name: body.utm_campaign || undefined,
+    Adset_Name:    body.utm_medium   || undefined,
+    Advert_Name:   body.utm_content  || undefined,
     Form_Name:     body.form_name    || 'Website Contact Form',
     Description:   descParts.length ? descParts.join('\n') : undefined,
   };
 
-  // Убираем undefined и пустые строки
   Object.keys(contact).forEach(k => {
     if (contact[k] === undefined || contact[k] === '') delete contact[k];
   });
@@ -95,22 +99,35 @@ async function createContact(body) {
 }
 
 // ─── Handler ────────────────────────────────────────────────────────────────
-module.exports = async (context, io) => {
-  const body = io.getAllArguments() || {};
-  context.log('[contact-fn] received keys:', JSON.stringify(Object.keys(body)));
+module.exports = async (context, event) => {
+  const req = event.request;
+  const res = event.response;
+
+  // CORS заголовки на все ответы
+  Object.entries(CORS_HEADERS).forEach(([k, v]) => res.set(k, v));
+
+  // Preflight OPTIONS
+  if (req.method === 'OPTIONS') {
+    return res.status(204).send('');
+  }
+
+  // Парсим тело запроса
+  let body = {};
+  try {
+    body = req.body || {};
+  } catch (_) {}
+
+  context.log('[contact-fn] keys:', JSON.stringify(Object.keys(body)));
 
   if (!body.name && !body.phone) {
-    io.setStatus(400);
-    io.write(JSON.stringify({ error: 'Укажите имя или телефон' }));
-    return;
+    return res.status(400).json({ error: 'Укажите имя или телефон' });
   }
 
   try {
     await createContact(body);
-    io.write(JSON.stringify({ success: true }));
+    return res.status(200).json({ success: true });
   } catch (err) {
     context.log('[contact-fn] error:', err.message);
-    io.setStatus(500);
-    io.write(JSON.stringify({ error: 'Ошибка сервера. Позвоните напрямую.' }));
+    return res.status(500).json({ error: 'Ошибка сервера. Позвоните напрямую.' });
   }
 };
