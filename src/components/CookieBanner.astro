@@ -6,7 +6,8 @@ const text = {
   ru: { msg: 'Мы используем файлы cookie для улучшения работы сайта.', accept: 'Принять', link: 'Подробнее' },
   et: { msg: 'Kasutame küpsiseid veebisaidi parandamiseks.', accept: 'Nõustun', link: 'Loe lähemalt' },
   fi: { msg: 'Käytämme evästeitä sivuston parantamiseen.', accept: 'Hyväksy', link: 'Lue lisää' },
-}[lang];
+  en: { msg: 'We use cookies to improve your experience on our site.', accept: 'Accept', link: 'Learn more' },
+}[lang] ?? { msg: 'We use cookies.', accept: 'Accept', link: 'More' };
 ---
 
 <div id="cookie-banner"

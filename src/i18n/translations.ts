@@ -1,4 +1,4 @@
-export type Lang = 'ru' | 'et' | 'fi';
+export type Lang = 'ru' | 'et' | 'fi' | 'en';
 
 export const defaultLang: Lang = 'ru';
 
@@ -6,15 +6,16 @@ export const langLabels: Record<Lang, string> = {
   ru: 'РУ',
   et: 'ET',
   fi: 'FI',
+  en: 'EN',
 };
 
 export function getLangFromUrl(url: URL): Lang {
   const segs = url.pathname.split('/').filter(Boolean);
   const first = segs[0];
   const second = segs[1];
-  if (first === 'et' || first === 'fi') return first;
-  // /blog/et/... and /blog/fi/... paths
-  if (first === 'blog' && (second === 'et' || second === 'fi')) return second as Lang;
+  if (first === 'et' || first === 'fi' || first === 'en') return first;
+  // /blog/et/..., /blog/fi/..., /blog/en/... paths
+  if (first === 'blog' && (second === 'et' || second === 'fi' || second === 'en')) return second as Lang;
   return 'ru';
 }
 
@@ -347,4 +348,90 @@ const fi: UI = {
   },
 };
 
-export const ui: Record<Lang, UI> = { ru, et, fi };
+// ─────────────────────────────────────────────────────────────
+// ENGLISH
+// ─────────────────────────────────────────────────────────────
+const en: UI = {
+  meta: {
+    title: 'Sonin Hambaravi | Dentist in Tallinn',
+    description: 'Dental clinic in Tallinn. Implants, prosthetics, dental treatment. Book: +37253383036',
+  },
+  nav: { home: 'Home', about: 'About', blog: 'Blog', stories: 'Patient Stories' },
+  hero: {
+    badge: 'Tallinn · Implantology · Prosthetics',
+    title: 'Dentistry',
+    titleAccent: 'you can trust',
+    subtitle: 'Implants, prosthetics and dental treatment.\nDr Dmitri Sonin — 19 years of practice, Master of Oral Implantology.',
+    ctaForm: 'Send a request',
+    ctaCall: 'Book now:',
+    ctaAbout: 'About the doctor',
+    s1n: '19', s1l: 'years of practice',
+    s2n: 'Master', s2l: 'Oral Implantology, Frankfurt',
+    s3n: '4', s3l: 'languages spoken',
+    s4n: '2005', s4l: 'clinic founded',
+  },
+  features: {
+    sup: 'Why choose us',
+    title: 'Clinic with European standards',
+    f1t: '19 years of practice',
+    f1d: 'Experience in Estonia and Finland. Thousands of successful implants and prosthetic restorations.',
+    f2t: 'Master of Oral Implantology',
+    f2d: 'Academic degree from Goethe Universität Frankfurt (2018–2019). European level of implantology.',
+    f3t: 'Digital technology',
+    f3d: 'Medit 3D scanner, digital implant and prosthetic planning, Nobel Biocare and Osstem implants.',
+    f4t: '4 languages spoken',
+    f4d: 'Estonian, Finnish, English and German. Patients from different countries feel at home.',
+  },
+  services: {
+    sup: 'Treatments', title: 'Our services', cta: 'Book a consultation',
+    s1t: 'Dental Implants',
+    s1d: 'Restore missing teeth with Nobel Biocare, Osstem and Dentium implants. Lifelong results with proper care.',
+    s1b1: 'Single implants', s1b2: 'All-on-4 / All-on-6', s1b3: '3D planning',
+    s2t: 'Prosthetics',
+    s2d: 'Crowns, bridges and dentures. Digital scanning with Medit ensures precision and a comfortable fit.',
+    s2b1: 'Crowns & bridges', s2b2: 'Dentures', s2b3: 'Medit 3D scanner',
+    s3t: 'Dental Treatment',
+    s3d: 'Cavity treatment, root canals, professional hygiene, whitening. Preventive care and regular check-ups.',
+    s3b1: 'Cavity treatment', s3b2: 'Endodontics (root canals)', s3b3: 'Professional hygiene',
+  },
+  about: {
+    sup: 'About the doctor', name: 'Dmitri Sonin',
+    desc: 'Dental implantologist and prosthetist with 19 years of experience in Estonia and Finland. Specialises in complex implantation and full-mouth rehabilitation.',
+    e1t: 'University of Tartu', e1s: 'Faculty of Dentistry, 2003–2008',
+    e2t: 'Master of Oral Implantology', e2s: 'Goethe Universität Frankfurt, 2018–2019',
+    e3t: 'Multilingual practice', e3s: 'Estonian, Finnish, English, German',
+    btn: 'More about the doctor', photoLabel: 'Photo of the doctor',
+    badgeLabel: '19 years experience', badgeSub: 'Implantology',
+  },
+  reviews: {
+    sup: 'Reviews', title: 'What patients say',
+    r1n: 'Anna K.', r1c: 'Tallinn',
+    r1t: 'Excellent clinic! Dr Sonin performed the implant — everything went smoothly and the result exceeded expectations. I especially appreciate that the doctor explains every step.',
+    r2n: 'Mikael H.', r2c: 'Helsinki',
+    r2t: 'I came specifically from Finland. Very professional approach, modern equipment. Consultation in Finnish — no language barrier. I recommend to all Finnish patients!',
+    r3n: 'Marina R.', r3c: 'Tallinn',
+    r3t: 'Finally found a dentist I trust. The prosthetics are high quality, crowns fit perfectly. I have already referred several friends to Dr Sonin.',
+  },
+  contact: {
+    sup: 'Book an appointment', title: 'Book right now',
+    desc: 'Call or message us — we will respond within the working day and find a convenient time.',
+    lPhone: 'Phone', lEmail: 'Email', lAddress: 'Address', hours: 'Mon–Sat: 10:00–17:00',
+    formTitle: 'Send a request',
+    fName: 'Name', fNameP: 'Your name',
+    fPhone: 'Phone', fPhoneP: '+372 ...',
+    fService: 'Service', fServiceP: 'Select a service...',
+    sv1: 'Implants', sv2: 'Prosthetics', sv3: 'Dental treatment', sv4: 'Consultation',
+    fMsg: 'Message (optional)', fMsgP: 'Describe your situation or ask a question...',
+    submitBtn: 'Book now', submitHint: 'Or call us directly — we answer immediately',
+    successTitle: 'Request sent!', successText: 'We will contact you shortly.',
+  },
+  footer: {
+    desc: 'Dental clinic in Tallinn. Implants, prosthetics and dental treatment since 2005.',
+    hours: 'Mon–Sat: 10:00–17:00',
+    contactTitle: 'Contact', socialTitle: 'Social media',
+    ig1: 'Clinic Instagram', ig2: 'Doctor Instagram', yt: 'YouTube',
+    copyright: 'All rights reserved.', location: 'Tallinn, Estonia',
+  },
+};
+
+export const ui: Record<Lang, UI> = { ru, et, fi, en };

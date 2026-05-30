@@ -4,7 +4,7 @@ import { getLangFromUrl, langLabels, getLocalizedPath, ui, type Lang } from '../
 
 const lang = getLangFromUrl(Astro.url);
 const t = ui[lang].nav;
-const langs: Lang[] = ['ru', 'et', 'fi'];
+const langs: Lang[] = ['ru', 'et', 'fi', 'en'];
 ---
 
 <header class="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm selection:bg-blue-100">
