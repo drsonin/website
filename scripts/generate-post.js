@@ -166,7 +166,7 @@ Horizontal composition, 16:9 ratio.
     prompt: imagePrompt,
     n: 1,
     size: '1536x1024',
-    quality: 'standard',
+    quality: 'medium',
   });
 
   // gpt-image-1 returns base64, dall-e-3 returns url — handle both
