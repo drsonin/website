@@ -162,19 +162,22 @@ Horizontal composition, 16:9 ratio.
 `.trim();
 
   const response = await openai.images.generate({
-    model: 'dall-e-3',
+    model: 'gpt-image-1',
     prompt: imagePrompt,
     n: 1,
-    size: '1792x1024',
+    size: '1536x1024',
     quality: 'standard',
   });
 
-  const imageUrl = response.data[0].url;
-
-  // Download the image
-  const res = await fetch(imageUrl);
-  const arrayBuffer = await res.arrayBuffer();
-  const buffer = Buffer.from(arrayBuffer);
+  // gpt-image-1 returns base64, dall-e-3 returns url — handle both
+  let buffer;
+  if (response.data[0].b64_json) {
+    buffer = Buffer.from(response.data[0].b64_json, 'base64');
+  } else {
+    const res = await fetch(response.data[0].url);
+    const arrayBuffer = await res.arrayBuffer();
+    buffer = Buffer.from(arrayBuffer);
+  }
 
   const dir = join(ROOT, 'public', 'blog-images');
   if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
