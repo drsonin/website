@@ -1,5 +1,6 @@
-/* CSS-переменные для blog/prose и обратной совместимости */
+/* CSS-переменные для blog/prose и обратной совместимости — v2 */
 :root {
+	--version: 2;
 	--accent: #2563eb;
 	--accent-dark: #1d4ed8;
 	--black: 15, 18, 25;
