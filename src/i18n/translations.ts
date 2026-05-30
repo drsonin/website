@@ -568,6 +568,7 @@ export const storiesT: Record<Lang, {
   badge: string; title: string; subtitle: string;
   filters: { id: string; label: string }[];
   tagLabels: Record<string, string>;
+  ctaTitle: string; ctaDesc: string; ctaWrite: string; ctaCall: string;
   note?: string;
 }> = {
   ru: {
@@ -586,6 +587,7 @@ export const storiesT: Record<Lang, {
       { id: 'trust', label: 'Доверие к доктору' },
     ],
     tagLabels: { abroad: 'Из-за рубежа', installment: 'Рассрочка', 'full-jaw': 'Вся челюсть', referral: 'По рекомендации', elsewhere: 'Сравнивал варианты', redo: 'Переделали', trust: 'Доверие к врачу' },
+    ctaTitle: 'Узнали себя?', ctaDesc: 'Запишитесь на консультацию — расскажите свою ситуацию, и мы найдём решение вместе.', ctaWrite: 'Написать нам', ctaCall: 'Позвонить:',
   },
   et: {
     meta: { title: 'Patsientide lood — Sonin Hambaravi', description: 'Sonin Hambaravi kliiniku patsientide tegelikud lood. Soomest, Rootsist, Eestist — erinevate olukordade ja erinevate teedega meie juurde.' },
@@ -604,6 +606,7 @@ export const storiesT: Record<Lang, {
       { id: 'trust', label: 'Usaldus arsti vastu' },
     ],
     tagLabels: { abroad: 'Välismaalt', installment: 'Järelmaks', 'full-jaw': 'Kogu lõualuu', referral: 'Soovituse põhjal', elsewhere: 'Võrdles variante', redo: 'Parandati', trust: 'Usaldus arstile' },
+    ctaTitle: 'Kas tundsid end ära?', ctaDesc: 'Registreeri konsultatsioonile — räägi oma olukorrast ja leiame lahenduse koos.', ctaWrite: 'Kirjuta meile', ctaCall: 'Helista:',
   },
   fi: {
     meta: { title: 'Potilaiden tarinat — Sonin Hambaravi', description: 'Sonin Hambaravi -klinikan potilaiden oikeat tarinat. Suomesta, Ruotsista, Virosta — eri tilanteista ja eri reiteiltä meille.' },
@@ -622,6 +625,7 @@ export const storiesT: Record<Lang, {
       { id: 'trust', label: 'Luottamus lääkäriin' },
     ],
     tagLabels: { abroad: 'Ulkomailta', installment: 'Osamaksu', 'full-jaw': 'Koko leuka', referral: 'Suosituksesta', elsewhere: 'Vertaili vaihtoehtoja', redo: 'Korjattiin', trust: 'Luottamus' },
+    ctaTitle: 'Tunnistitko itsesi?', ctaDesc: 'Varaa konsultaatio — kerro tilanteestasi ja löydämme ratkaisun yhdessä.', ctaWrite: 'Kirjoita meille', ctaCall: 'Soita:',
   },
   en: {
     meta: { title: 'Patient Stories — Sonin Hambaravi', description: 'Real patient stories from Sonin Hambaravi clinic. From Finland, Sweden, Estonia — different situations, different paths to us.' },
@@ -640,5 +644,6 @@ export const storiesT: Record<Lang, {
       { id: 'trust', label: 'Trust in the doctor' },
     ],
     tagLabels: { abroad: 'From abroad', installment: 'Instalment', 'full-jaw': 'Full jaw', referral: 'By referral', elsewhere: 'Compared options', redo: 'Fixed', trust: 'Trust' },
+    ctaTitle: 'Did you recognise yourself?', ctaDesc: 'Book a consultation — tell us your situation and we\'ll find a solution together.', ctaWrite: 'Write to us', ctaCall: 'Call us:',
   },
 };

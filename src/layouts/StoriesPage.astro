@@ -284,22 +284,20 @@ const tagLabels: Record<string, string> = {
   <!-- ═══ CTA ═══════════════════════════════════════════════ -->
   <section class="bg-gradient-to-br from-blue-600 to-blue-700 text-white py-16 px-4 sm:px-6">
     <div class="max-w-2xl mx-auto text-center">
-      <h2 class="text-3xl sm:text-4xl font-bold mb-4">Узнали себя?</h2>
-      <p class="text-blue-100 text-lg mb-8">
-        Запишитесь на консультацию — расскажите свою ситуацию, и мы найдём решение вместе.
-      </p>
+      <h2 class="text-3xl sm:text-4xl font-bold mb-4">{st.ctaTitle}</h2>
+      <p class="text-blue-100 text-lg mb-8">{st.ctaDesc}</p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a
-          href="/#contact"
+          href={lang === 'ru' ? '/#contact' : `/${lang}/#contact`}
           class="bg-white text-blue-700 hover:bg-blue-50 font-bold px-8 py-4 rounded-xl text-lg transition-colors duration-150 no-underline"
         >
-          Написать нам
+          {st.ctaWrite}
         </a>
         <a
           href={`tel:${CLINIC_PHONE}`}
           class="bg-blue-500 hover:bg-blue-400 border border-blue-400 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-colors duration-150 no-underline"
         >
-          Позвонить: {CLINIC_PHONE}
+          {st.ctaCall} {CLINIC_PHONE}
         </a>
       </div>
     </div>
