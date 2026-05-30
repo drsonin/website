@@ -8,7 +8,7 @@
  */
 
 import Anthropic from '@anthropic-ai/sdk';
-import OpenAI from 'openai';
+import Replicate from 'replicate';
 import sharp from 'sharp';
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
@@ -18,7 +18,7 @@ import { TOPICS } from './topics.js';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const client = new Anthropic();
-const openai = new OpenAI();
+const replicate = new Replicate();
 
 // Pick topic index: CLI arg, or today's day-of-year mod topics length
 function getTopicIndex() {
@@ -156,28 +156,39 @@ async function generateHeroImage(topic, dateStr) {
 
   const imagePrompt = `
 Professional dental clinic photography for the topic "${keyword}".
-Clean, modern dental office setting. Bright, soft lighting.
-No text, no logos, no watermarks. Photorealistic style.
-The image should feel warm, trustworthy and medical — suitable for a dental clinic blog.
-Horizontal composition, 16:9 ratio.
+A photorealistic scene in a clean, modern dental office in Tallinn, Estonia.
+Bright, natural lighting, warm and trustworthy atmosphere.
+High-end dental equipment visible in the background.
+Shot on Sony A7R IV, 85mm lens, shallow depth of field.
+No text, no logos, no watermarks. Ultra-realistic, cinematic quality.
+Horizontal composition 16:9.
 `.trim();
 
-  const response = await openai.images.generate({
-    model: 'gpt-image-1',
-    prompt: imagePrompt,
-    n: 1,
-    size: '1536x1024',
-    quality: 'medium',
+  const output = await replicate.run('black-forest-labs/flux-1.1-pro', {
+    input: {
+      prompt: imagePrompt,
+      aspect_ratio: '16:9',
+      output_format: 'jpg',
+      output_quality: 90,
+      safety_tolerance: 2,
+    },
   });
 
-  // gpt-image-1 returns base64, dall-e-3 returns url — handle both
+  // Replicate returns a URL or ReadableStream
   let buffer;
-  if (response.data[0].b64_json) {
-    buffer = Buffer.from(response.data[0].b64_json, 'base64');
+  if (output && typeof output === 'object' && typeof output.url === 'function') {
+    const res = await fetch(output.url());
+    buffer = Buffer.from(await res.arrayBuffer());
+  } else if (typeof output === 'string') {
+    const res = await fetch(output);
+    buffer = Buffer.from(await res.arrayBuffer());
   } else {
-    const res = await fetch(response.data[0].url);
-    const arrayBuffer = await res.arrayBuffer();
-    buffer = Buffer.from(arrayBuffer);
+    // ReadableStream
+    const chunks = [];
+    for await (const chunk of output) {
+      chunks.push(Buffer.isBuffer(chunk) ? chunk : Buffer.from(chunk));
+    }
+    buffer = Buffer.concat(chunks);
   }
 
   const dir = join(ROOT, 'public', 'blog-images');
