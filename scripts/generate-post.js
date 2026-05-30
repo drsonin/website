@@ -9,6 +9,7 @@
 
 import Anthropic from '@anthropic-ai/sdk';
 import OpenAI from 'openai';
+import sharp from 'sharp';
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -141,7 +142,7 @@ async function generateText(prompt) {
 async function generateHeroImage(topic, dateStr) {
   const keyword = topic.en.keyword; // use English keyword for prompt
   const slug = topic.en.slug;
-  const filename = `${dateStr}-${slug}.jpg`;
+  const filename = `${dateStr}-${slug}.webp`;
   const outputPath = join(ROOT, 'public', 'blog-images', filename);
   const publicPath = `/blog-images/${filename}`;
 
@@ -181,7 +182,12 @@ Horizontal composition, 16:9 ratio.
 
   const dir = join(ROOT, 'public', 'blog-images');
   if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-  writeFileSync(outputPath, buffer);
+
+  // Compress to max 1200x630 WebP ~200KB
+  await sharp(buffer)
+    .resize(1200, 630, { fit: 'cover' })
+    .webp({ quality: 82 })
+    .toFile(outputPath);
 
   console.log(`  ✓ Image saved: public/blog-images/${filename}`);
   return publicPath;
