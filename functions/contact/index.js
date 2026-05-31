@@ -40,7 +40,8 @@ async function getAccessToken() {
 }
 
 function mapLanguage(pageLang) {
-  const map = { ru: 'Russian', et: 'Estonian', fi: 'Finnish', en: 'English' };
+  // Значения точно как в Bigin picklist (fi → 'Finish' — опечатка в Bigin, так и нужно)
+  const map = { ru: 'Russian', et: 'Estonian', fi: 'Finish', en: 'English' };
   return map[pageLang] || 'Other';
 }
 
@@ -63,7 +64,7 @@ async function createContact(body) {
     Mobile:        body.phone        || undefined,
     Lead_Source:   'drsonin.com',
     Language:      mapLanguage(body.page_lang),
-    Source_Name:   body.utm_source   || undefined,
+    Source_Name_utm_source: body.utm_source || undefined,
     Campaign_Name: body.utm_campaign || undefined,
     Adset_Name:    body.utm_medium   || undefined,
     Advert_Name:   body.utm_content  || undefined,
