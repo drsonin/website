@@ -40,8 +40,7 @@ async function getAccessToken() {
 }
 
 function mapLanguage(pageLang) {
-  // Значения точно как в Bigin picklist (fi → 'Finish' — опечатка в Bigin, так и нужно)
-  const map = { ru: 'Russian', et: 'Estonian', fi: 'Finish', en: 'English' };
+  const map = { ru: 'Russian', et: 'Estonian', fi: 'Finnish', en: 'English' };
   return map[pageLang] || 'Other';
 }
 
