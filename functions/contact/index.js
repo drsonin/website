@@ -75,14 +75,18 @@ async function createContact(body) {
     if (contact[k] === undefined || contact[k] === '') delete contact[k];
   });
 
-  const resp = await fetch(`${ZOHO_API_BASE}/Contacts`, {
-    method: 'POST',
-    headers: {
-      Authorization:  `Zoho-oauthtoken ${token}`,
-      'Content-Type': 'application/json; charset=utf-8',
-    },
-    body: JSON.stringify({ data: [contact] }),
-  });
+  // Upsert по Mobile — если контакт уже есть, обновит, не создаст дубль
+  const resp = await fetch(
+    `${ZOHO_API_BASE}/Contacts/upsert?duplicate_check_fields=Mobile`,
+    {
+      method: 'POST',
+      headers: {
+        Authorization:  `Zoho-oauthtoken ${token}`,
+        'Content-Type': 'application/json; charset=utf-8',
+      },
+      body: JSON.stringify({ data: [contact] }),
+    }
+  );
 
   const result = await resp.json();
   if (!resp.ok || result.data?.[0]?.status === 'error') {
