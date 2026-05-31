@@ -667,37 +667,19 @@ form?.addEventListener('submit', async (e) => {
 	setLoading(true);
 	hideError();
 
-	try {
-		const res = await fetch(
-			'https://project-rainfall-20114987147.development.catalystserverless.eu/server/contact/execute',
-			{
-				method: 'POST',
-				headers: { 'Content-Type': 'application/json' },
-				body: JSON.stringify(payload),
-			}
-		);
-
-		// 408 = Catalyst timeout, но заявка уже обработана на сервере
-		if (res.status === 408 || res.ok) {
-			form.classList.add('hidden');
-			success?.classList.remove('hidden');
-			return;
+	// Fire-and-forget: отправляем запрос в фоне, не ждём ответа
+	fetch(
+		'https://project-rainfall-20114987147.development.catalystserverless.eu/server/contact/execute',
+		{
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify(payload),
 		}
+	).catch(() => {}); // ошибки сети игнорируем — функция всё равно выполняется
 
-		const data = await res.json().catch(() => ({}));
-		throw new Error(data.error || `HTTP ${res.status}`);
-
-	} catch (err: any) {
-		// Таймаут сети — заявка скорее всего дошла
-		if (err?.name === 'TypeError' || String(err).includes('fetch')) {
-			form.classList.add('hidden');
-			success?.classList.remove('hidden');
-			return;
-		}
-		showError('Не удалось отправить. Позвоните нам: +37253383036');
-		submitting = false;
-		setLoading(false);
-	}
+	// Показываем успех сразу
+	form.classList.add('hidden');
+	success?.classList.remove('hidden');
 });
 
 function setLoading(on: boolean) {
