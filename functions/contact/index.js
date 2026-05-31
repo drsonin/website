@@ -77,14 +77,17 @@ async function createContact(body) {
 
   // Upsert по Mobile — если контакт уже есть, обновит, не создаст дубль
   const resp = await fetch(
-    `${ZOHO_API_BASE}/Contacts/upsert?duplicate_check_fields=Mobile`,
+    `${ZOHO_API_BASE}/Contacts/upsert`,
     {
       method: 'POST',
       headers: {
         Authorization:  `Zoho-oauthtoken ${token}`,
         'Content-Type': 'application/json; charset=utf-8',
       },
-      body: JSON.stringify({ data: [contact] }),
+      body: JSON.stringify({
+        data: [contact],
+        duplicate_check_fields: ['Mobile'],
+      }),
     }
   );
 
