@@ -1,0 +1,9 @@
+{
+  "name": "trigger-blog",
+  "version": "1.0.0",
+  "description": "Catalyst cron function to trigger daily blog generation via GitHub Actions",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  }
+}
