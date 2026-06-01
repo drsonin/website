@@ -238,21 +238,25 @@ async function generatePost(lang, topic, dateStr, heroImage) {
 
 async function main() {
   const topicIndex = getTopicIndex();
+  const topicIndex2 = (topicIndex + 1) % TOPICS.length;
   const dateStr = getDateStr();
-  const topic = TOPICS[topicIndex];
+  const topic1 = TOPICS[topicIndex];
+  const topic2 = TOPICS[topicIndex2];
 
   console.log(`\n📝 Daily blog generator — ${dateStr}`);
-  console.log(`📌 Topic #${topicIndex}: ${topic.ru.keyword} / ${topic.et.keyword} / ${topic.fi.keyword} / ${topic.en.keyword}\n`);
+  console.log(`📌 Topic #${topicIndex}: ${topic1.ru.keyword}`);
+  console.log(`📌 Topic #${topicIndex2}: ${topic2.ru.keyword}\n`);
 
-  // Generate hero image first (shared across all language versions)
-  const heroImage = await generateHeroImage(topic, dateStr);
+  // Generate both topics sequentially (images first, then posts in parallel)
+  for (const [idx, topic] of [[topicIndex, topic1], [topicIndex2, topic2]]) {
+    console.log(`\n--- Generating topic #${idx}: ${topic.en.keyword} ---`);
+    const heroImage = await generateHeroImage(topic, dateStr);
+    await Promise.all(
+      ['ru', 'et', 'fi', 'en'].map((lang) => generatePost(lang, topic, dateStr, heroImage))
+    );
+  }
 
-  // Generate all 4 language posts in parallel
-  await Promise.all(
-    ['ru', 'et', 'fi', 'en'].map((lang) => generatePost(lang, topic, dateStr, heroImage))
-  );
-
-  console.log('\n✅ Done! 4 posts + 1 hero image generated.');
+  console.log('\n✅ Done! 8 posts + 2 hero images generated.');
 }
 
 main().catch((err) => {
