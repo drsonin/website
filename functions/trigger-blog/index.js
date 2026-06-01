@@ -1,25 +1,15 @@
 'use strict';
 
-/**
- * Catalyst Cron Function — Trigger GitHub Actions daily blog workflow
- *
- * Env vars (Catalyst Console → Functions → trigger-blog → Environment Variables):
- *   GITHUB_TOKEN = github_pat_... (Fine-grained PAT with Actions: write on drsonin/website)
- *
- * Cron: 06:00 UTC daily (= 09:00 Tallinn EET+3 summer)
- */
-
 const GITHUB_REPO     = 'drsonin/website';
 const GITHUB_WORKFLOW = 'daily-blog.yml';
 const GITHUB_BRANCH   = 'master';
 
-module.exports = async (context) => {
+module.exports = async () => {
   const token = process.env.GITHUB_TOKEN;
 
   if (!token) {
     console.error('Missing GITHUB_TOKEN env var');
-    context.closeWithSuccess('ERROR: Missing GITHUB_TOKEN');
-    return;
+    return { status: 'error', message: 'Missing GITHUB_TOKEN' };
   }
 
   const url = `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW}/dispatches`;
@@ -39,10 +29,10 @@ module.exports = async (context) => {
 
   if (response.status === 204) {
     console.log('✅ Workflow triggered successfully');
-    context.closeWithSuccess('OK: workflow dispatched');
+    return { status: 'ok', message: 'workflow dispatched' };
   } else {
     const body = await response.text();
     console.error(`❌ GitHub API error ${response.status}: ${body}`);
-    context.closeWithSuccess(`ERROR: ${response.status} ${body}`);
+    return { status: 'error', code: response.status, message: body };
   }
 };
