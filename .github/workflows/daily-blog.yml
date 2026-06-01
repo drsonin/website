@@ -1,9 +1,7 @@
 name: Daily Blog Post Generation
 
 on:
-  schedule:
-    # 06:00 UTC = 09:00 Tallinn time (EET+3 summer)
-    - cron: '0 6 * * *'
+  # Triggered by Zoho Catalyst Cron at 09:00 Tallinn (Europe/Tallinn timezone)
   # Manual trigger for testing
   workflow_dispatch:
     inputs:
