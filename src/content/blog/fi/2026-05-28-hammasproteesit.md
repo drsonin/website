@@ -4,6 +4,7 @@ description: 'Dmitri Sonin Tallinnassa tarjoaa laadukkaat hammasproteesit – ke
 pubDate: '2026-05-28'
 lang: 'fi'
 author: 'Dmitri Sonin'
+heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 tags: ['hammasproteesit', 'hambaravi', 'Sonin Hambaravi']
 ---
 ## Hammasproteesit Tallinnassa – tri Dmitri Soninin asiantuntemus käytössäsi

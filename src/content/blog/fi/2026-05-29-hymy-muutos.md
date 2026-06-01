@@ -4,6 +4,7 @@ description: 'Dmitri Sonin Tallinnasta kertoo, kuinka pieni hymy voi muuttaa kok
 pubDate: '2026-05-29'
 lang: 'fi'
 author: 'Dmitri Sonin'
+heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 tags: ['hymy muutos', 'hambaravi', 'Sonin Hambaravi']
 ---
 ## Hymyn muutos tri Dmitri Soninin johdolla – Näin saat unelmahymysi Tallinnassa

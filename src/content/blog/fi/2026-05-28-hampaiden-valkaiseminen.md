@@ -4,6 +4,7 @@ description: 'Dmitri Sonin Tallinnassa kertoo hampaiden valkaisemisesta: menetel
 pubDate: '2026-05-28'
 lang: 'fi'
 author: 'Dmitri Sonin'
+heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 tags: ['hampaiden valkaiseminen', 'hambaravi', 'Sonin Hambaravi']
 ---
 ## Hampaiden valkaiseminen – tri Dmitri Soninin asiantuntijaohjeet kirkkaisiin hampaisiin

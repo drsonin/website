@@ -4,6 +4,7 @@ description: 'Hammaslääkäri Dmitri Sonin Sonin Hambaravi -klinikalta kertoo h
 pubDate: '2026-05-28'
 lang: 'fi'
 author: 'Dmitri Sonin'
+heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 tags: ['hammasimplantti', 'hammashoito Tallinna', 'implantologia']
 category: 'implantologia'
 ---

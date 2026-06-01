@@ -4,6 +4,7 @@ description: 'Дмитрий Сонин — о современных метод
 pubDate: '2026-05-28'
 lang: 'ru'
 author: 'Дмитрий Сонин'
+heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 tags: ['имплантация', 'зубные имплантаты', 'стоматология Таллин']
 category: 'имплантология'
 ---

@@ -4,6 +4,7 @@ description: 'Дмитрий Сонин в Таллине рассказывае
 pubDate: '2026-05-28'
 lang: 'ru'
 author: 'Дмитрий Сонин'
+heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 tags: ['зубные протезы и съёмные конструкции', 'hambaravi', 'Sonin Hambaravi']
 ---
 ## Зубные протезы и съёмные конструкции: всё, что нужно знать — опыт доктора Дмитрия Сонина

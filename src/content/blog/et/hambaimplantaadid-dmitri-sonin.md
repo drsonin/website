@@ -4,6 +4,7 @@ description: 'Hambaarst Dmitri Sonin Sonin Hambaravi kliinikus räägib hambaimp
 pubDate: '2026-05-28'
 lang: 'et'
 author: 'Dmitri Sonin'
+heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 tags: ['hambaimplantaat', 'hambaravi Tallinn', 'implantoloogia']
 category: 'implantoloogia'
 ---
