@@ -110,11 +110,22 @@ Return ONLY the article markdown text.
 `.trim(),
 };
 
+// Include doctor's name in ~35% of titles for natural variation
+function withName() { return Math.random() < 0.35; }
+
 const TITLE_PROMPTS = {
-  ru: (keyword) => `Придумай SEO-заголовок (50–70 символов) для статьи о "${keyword}" в стоматологической клинике. Обязательно включи имя "Дмитрий Сонин". Верни только заголовок, без кавычек.`,
-  et: (keyword) => `Loo SEO-pealkiri (50–70 tähemärki) hambaartiklist teemal "${keyword}". Pea kindlasti sisaldama nime "Dmitri Sonin". Tagasta ainult pealkiri, ilma jutumärkideta.`,
-  fi: (keyword) => `Luo SEO-otsikko (50–70 merkkiä) hammashoitoartikkelille aiheesta "${keyword}". Sen on sisällettävä nimi "Dmitri Sonin". Palauta vain otsikko, ilman lainausmerkkejä.`,
-  en: (keyword) => `Write an SEO title (50–70 characters) for a dental article about "${keyword}". Must include "Dr Dmitri Sonin". Return only the title, no quotes.`,
+  ru: (keyword) => withName()
+    ? `Придумай SEO-заголовок (50–70 символов) для статьи о "${keyword}" в стоматологической клинике в Таллине. Включи имя "Дмитрий Сонин". Верни только заголовок, без кавычек.`
+    : `Придумай SEO-заголовок (50–70 символов) для статьи о "${keyword}" в стоматологической клинике в Таллине. Без имени врача — фокус на ключевом слове и городе. Верни только заголовок, без кавычек.`,
+  et: (keyword) => withName()
+    ? `Loo SEO-pealkiri (50–70 tähemärki) hambaartiklist teemal "${keyword}" Tallinnas. Lisa nimi "Dmitri Sonin". Tagasta ainult pealkiri, ilma jutumärkideta.`
+    : `Loo SEO-pealkiri (50–70 tähemärki) hambaartiklist teemal "${keyword}" Tallinnas. Fookus märksõnal ja asukohal, ilma arsti nimeta. Tagasta ainult pealkiri, ilma jutumärkideta.`,
+  fi: (keyword) => withName()
+    ? `Luo SEO-otsikko (50–70 merkkiä) hammashoitoartikkelille aiheesta "${keyword}" Tallinnassa. Lisää nimi "Dmitri Sonin". Palauta vain otsikko, ilman lainausmerkkejä.`
+    : `Luo SEO-otsikko (50–70 merkkiä) hammashoitoartikkelille aiheesta "${keyword}" Tallinnassa. Keskity avainsanaan ja sijaintiin ilman lääkärin nimeä. Palauta vain otsikko, ilman lainausmerkkejä.`,
+  en: (keyword) => withName()
+    ? `Write an SEO title (50–70 characters) for a dental article about "${keyword}" in Tallinn. Include "Dr Dmitri Sonin". Return only the title, no quotes.`
+    : `Write an SEO title (50–70 characters) for a dental article about "${keyword}" in Tallinn, Estonia. Focus on the keyword and location, no doctor name. Return only the title, no quotes.`,
 };
 
 const DESC_PROMPTS = {
