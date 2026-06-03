@@ -165,11 +165,21 @@ async function generateHeroImage(topic, dateStr) {
 
   console.log(`  🎨 Generating hero image for "${keyword}"...`);
 
+  // Rotate scene types for visual variety
+  const scenes = [
+    `A male dentist in his 40s with dark hair and glasses, wearing a white medical coat, smiling confidently at the camera in a modern dental office. Background shows dental equipment and clean white interior. Warm professional lighting.`,
+    `A happy adult patient (gender varies) sitting in a dental chair, smiling after a successful treatment. Friendly dentist visible in background. Modern bright dental clinic in Tallinn.`,
+    `Close-up of a beautiful healthy smile showing perfect white teeth. Professional dental photography, soft natural lighting, clean aesthetic.`,
+    `A warm scene of a dentist consulting with a patient, both seated, reviewing dental X-rays on a screen. Modern dental office, natural light, professional atmosphere.`,
+    `Interior of a premium modern dental clinic — clean white and blue design, state-of-the-art dental chair and equipment, bright natural lighting. No people, architectural photography style.`,
+    `A female dental hygienist performing a professional teeth cleaning procedure on a patient. Close-up, clinical and precise, modern equipment, bright lighting.`,
+    `Smiling family (parent and child) in a dental waiting room, looking happy and relaxed. Bright modern clinic interior, welcoming atmosphere.`,
+  ];
+  const scene = scenes[Math.floor(Math.random() * scenes.length)];
+
   const imagePrompt = `
-Professional dental clinic photography for the topic "${keyword}".
-A photorealistic scene in a clean, modern dental office in Tallinn, Estonia.
-Bright, natural lighting, warm and trustworthy atmosphere.
-High-end dental equipment visible in the background.
+Photorealistic dental clinic photography for the topic "${keyword}" in Tallinn, Estonia.
+${scene}
 Shot on Sony A7R IV, 85mm lens, shallow depth of field.
 No text, no logos, no watermarks. Ultra-realistic, cinematic quality.
 Horizontal composition 16:9.
