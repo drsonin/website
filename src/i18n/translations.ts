@@ -109,7 +109,7 @@ const ru: UI = {
     ctaAbout: 'О докторе',
     s1n: '19', s1l: 'лет практики',
     s2n: 'Master', s2l: 'Oral Implantology, Frankfurt',
-    s3n: '4', s3l: 'языка общения',
+    s3n: '5', s3l: 'языков общения',
     s4n: '2005', s4l: 'год основания клиники',
   },
   features: {
@@ -121,7 +121,7 @@ const ru: UI = {
     f2d: 'Академическое образование в Goethe Universität Frankfurt (2018–2019). Европейский уровень имплантологии.',
     f3t: 'Цифровые технологии',
     f3d: '3D-сканер Medit, цифровое планирование имплантации и протезирования, импланты Nobel Biocare и Osstem.',
-    f4t: '4 языка общения',
+    f4t: '5 языков общения',
     f4d: 'Эстонский, финский, английский и немецкий. Пациенты из разных стран чувствуют себя комфортно.',
   },
   services: {
@@ -141,7 +141,7 @@ const ru: UI = {
     desc: 'Стоматолог-имплантолог и протезист с 19-летним опытом работы в Эстонии и Финляндии. Специализируется на сложных случаях имплантации и полном протезировании.',
     e1t: 'Тартуский университет', e1s: 'Стоматологический факультет, 2003–2008',
     e2t: 'Master of Oral Implantology', e2s: 'Goethe Universität Frankfurt, 2018–2019',
-    e3t: 'Многоязычная практика', e3s: 'Эстонский, финский, английский, немецкий',
+    e3t: 'Многоязычная практика', e3s: 'Русский, эстонский, финский, английский, немецкий',
     btn: 'Подробнее о докторе', photoLabel: 'Фото доктора',
     badgeLabel: '19 лет опыта', badgeSub: 'Имплантология',
   },
@@ -196,7 +196,7 @@ const et: UI = {
     ctaAbout: 'Arsti kohta',
     s1n: '19', s1l: 'aastat kogemust',
     s2n: 'Master', s2l: 'Oral Implantology, Frankfurt',
-    s3n: '4', s3l: 'suhtluskeelt',
+    s3n: '5', s3l: 'suhtluskeelt',
     s4n: '2005', s4l: 'kliiniku asutamisaasta',
   },
   features: {
@@ -228,7 +228,7 @@ const et: UI = {
     desc: 'Implantoloog ja proteesist 19-aastase kogemusega Eestis ja Soomes. Spetsialiseerub keerulistele implantatsioonijuhtumitele ja täisproteseerimisele.',
     e1t: 'Tartu Ülikool', e1s: 'Stomatoloogia teaduskond, 2003–2008',
     e2t: 'Master of Oral Implantology', e2s: 'Goethe Universität Frankfurt, 2018–2019',
-    e3t: 'Mitmekeelne praktika', e3s: 'Eesti, soome, inglise, saksa keel',
+    e3t: 'Mitmekeelne praktika', e3s: 'Vene, eesti, soome, inglise, saksa keel',
     btn: 'Loe lähemalt', photoLabel: 'Arsti foto',
     badgeLabel: '19 aastat kogemust', badgeSub: 'Implantoloogia',
   },
@@ -283,7 +283,7 @@ const fi: UI = {
     ctaAbout: 'Lääkäristä',
     s1n: '19', s1l: 'vuotta kokemusta',
     s2n: 'Master', s2l: 'Oral Implantology, Frankfurt',
-    s3n: '4', s3l: 'palvelukieltä',
+    s3n: '5', s3l: 'palvelukieltä',
     s4n: '2005', s4l: 'klinikan perustamisvuosi',
   },
   features: {
@@ -315,7 +315,7 @@ const fi: UI = {
     desc: 'Implantiologi ja proteettinen hammaslääkäri, jolla on 19 vuoden kokemus Virosta ja Suomesta. Erikoistunut vaativiin implantointitapauksiin ja kokonaisterapiaan.',
     e1t: 'Tarton yliopisto', e1s: 'Hammaslääketieteen tiedekunta, 2003–2008',
     e2t: 'Master of Oral Implantology', e2s: 'Goethe Universität Frankfurt, 2018–2019',
-    e3t: 'Monikielinen käytäntö', e3s: 'Viro, suomi, englanti, saksa',
+    e3t: 'Monikielinen käytäntö', e3s: 'Venäjä, viro, suomi, englanti, saksa',
     btn: 'Lisätietoja lääkäristä', photoLabel: 'Lääkärin kuva',
     badgeLabel: '19 vuotta kokemusta', badgeSub: 'Implantologia',
   },
@@ -370,7 +370,7 @@ const en: UI = {
     ctaAbout: 'About the doctor',
     s1n: '19', s1l: 'years of practice',
     s2n: 'Master', s2l: 'Oral Implantology, Frankfurt',
-    s3n: '4', s3l: 'languages spoken',
+    s3n: '5', s3l: 'languages spoken',
     s4n: '2005', s4l: 'clinic founded',
   },
   features: {
@@ -402,7 +402,7 @@ const en: UI = {
     desc: 'Dental implantologist and prosthetist with 19 years of experience in Estonia and Finland. Specialises in complex implantation and full-mouth rehabilitation.',
     e1t: 'University of Tartu', e1s: 'Faculty of Dentistry, 2003–2008',
     e2t: 'Master of Oral Implantology', e2s: 'Goethe Universität Frankfurt, 2018–2019',
-    e3t: 'Multilingual practice', e3s: 'Estonian, Finnish, English, German',
+    e3t: 'Multilingual practice', e3s: 'Russian, Estonian, Finnish, English, German',
     btn: 'More about the doctor', photoLabel: 'Photo of the doctor',
     badgeLabel: '19 years experience', badgeSub: 'Implantology',
   },
@@ -468,7 +468,7 @@ export const aboutT: Record<Lang, {
     bioSup: 'Биография', bioTitle: 'О докторе',
     bio1: 'Дмитрий Сонин — стоматолог-имплантолог и протезист, ведущий практику в Таллине с 2005 года. За 19 лет работы он специализировался на наиболее сложных областях стоматологии — имплантации и протезировании, — накопив обширный клинический опыт как в Эстонии, так и в Финляндии.',
     bio2: 'В 2018–2019 годах доктор Сонин прошёл академическую программу Master of Oral Implantology в Goethe Universität Frankfurt — одном из ведущих европейских университетов в области стоматологической имплантологии. Это позволяет ему применять самые современные хирургические и протетические протоколы в ежедневной практике.',
-    bio3: 'Доктор Сонин ведёт приём на четырёх языках — эстонском, финском, английском и немецком, что делает клинику доступной для пациентов из разных стран. Значительную часть пациентов составляют финские граждане, специально приезжающие в Таллин для получения стоматологической помощи европейского качества по более доступным ценам.',
+    bio3: 'Доктор Сонин ведёт приём на пяти языках — русском, эстонском, финском, английском и немецком, что делает клинику доступной для пациентов из разных стран. Значительную часть пациентов составляют финские граждане, специально приезжающие в Таллин для получения стоматологической помощи европейского качества по более доступным ценам.',
     eduSup: 'Образование', eduTitle: 'Академическая подготовка',
     edu: [
       { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Германия', desc: 'Академическая программа по хирургической и протетической имплантологии. Изучение современных имплантационных систем, костной регенерации и цифровых методов планирования.', accent: true },
@@ -481,7 +481,7 @@ export const aboutT: Record<Lang, {
       { title: 'Терапевтическая стоматология', items: ['Лечение кариеса', 'Эндодонтия (корневые каналы)', 'Отбеливание зубов', 'Профессиональная гигиена', 'Профилактические осмотры'] },
       { title: 'Технологии', items: ['Nobel Biocare, Osstem, Dentium', '3D-сканер Medit', 'Цифровое планирование', 'CAD/CAM коронки', 'Цифровые оттиски'] },
     ],
-    langTitle: 'Мультиязычная практика', langSub: 'Доктор Сонин принимает пациентов на четырёх языках',
+    langTitle: 'Мультиязычная практика', langSub: 'Доктор Сонин принимает пациентов на пяти языках',
     ctaTitle: 'Запишитесь на консультацию', ctaDesc: 'Первая консультация — это знакомство, осмотр и честный разговор о вашей ситуации. Без давления.', ctaBtn: 'Оставить заявку',
   },
   et: {
@@ -494,7 +494,7 @@ export const aboutT: Record<Lang, {
     bioSup: 'Elulugu', bioTitle: 'Arsti kohta',
     bio1: 'Dmitri Sonin on hambaimplantoloog ja proteesiarst, kes praktiseerib Tallinnas alates 2005. aastast. 19 tööaasta jooksul on ta spetsialiseerunud hambaravi keerukaimatele valdkondadele — implantatsioonile ja proteesimisele — kogudes ulatusliku kliinilise kogemuse nii Eestis kui ka Soomes.',
     bio2: '2018–2019. aastal läbis doktor Sonin Goethe Universität Frankfurdis akadeemilise programmi Master of Oral Implantology — ühes Euroopa juhtivates ülikoolides hambaimplantoloogia valdkonnas. See võimaldab tal rakendada igapäevases praktikas kõige kaasaegsemaid kirurgilisi ja proteetilisi protokolle.',
-    bio3: 'Doktor Sonin võtab patsiente vastu neljal keelel — eesti, soome, inglise ja saksa keeles, mis muudab kliiniku kättesaadavaks erinevatest riikidest patsientidele. Märkimisväärse osa patsientidest moodustavad soome kodanikud, kes tulevad spetsiaalselt Tallinna saama Euroopa tasemega hambaravi taskukohasema hinnaga.',
+    bio3: 'Doktor Sonin võtab patsiente vastu viiel keelel — vene, eesti, soome, inglise ja saksa keeles, mis muudab kliiniku kättesaadavaks erinevatest riikidest patsientidele. Märkimisväärse osa patsientidest moodustavad soome kodanikud, kes tulevad spetsiaalselt Tallinna saama Euroopa tasemega hambaravi taskukohasema hinnaga.',
     eduSup: 'Haridus', eduTitle: 'Akadeemiline ettevalmistus',
     edu: [
       { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Saksamaa', desc: 'Akadeemiline programm kirurgilise ja proteetilise implantoloogia alal. Kaasaegsete implantsüsteemide, luuregeneratsiooni ja digitaalsete planeerimismeetodite uurimine.', accent: true },
@@ -507,7 +507,7 @@ export const aboutT: Record<Lang, {
       { title: 'Terapeutiline hambaarst', items: ['Kaariese ravi', 'Endodontia (juurekanalid)', 'Hammaste valgendamine', 'Professionaalne hügieen', 'Ennetavad ülevaatused'] },
       { title: 'Tehnoloogiad', items: ['Nobel Biocare, Osstem, Dentium', 'Medit 3D-skanner', 'Digitaalne planeerimine', 'CAD/CAM kroonid', 'Digitaalsed jäljendid'] },
     ],
-    langTitle: 'Mitmekeelne praktika', langSub: 'Doktor Sonin võtab patsiente vastu neljal keelel',
+    langTitle: 'Mitmekeelne praktika', langSub: 'Doktor Sonin võtab patsiente vastu viiel keelel',
     ctaTitle: 'Registreeri konsultatsioonile', ctaDesc: 'Esimene konsultatsioon — see on tutvumine, ülevaatus ja aus vestlus teie olukorrast. Ilma surveta.', ctaBtn: 'Saada päring',
   },
   fi: {
@@ -520,7 +520,7 @@ export const aboutT: Record<Lang, {
     bioSup: 'Elämäkerta', bioTitle: 'Lääkäristä',
     bio1: 'Dmitri Sonin on hammasimplantologi ja proteesisti, joka harjoittaa ammattia Tallinnassa vuodesta 2005. 19 työvuoden aikana hän on erikoistunut hammaslääketieteen vaativimpiin osa-alueisiin — implantoinnin ja protetiikan — keräten laajan kliinisen kokemuksen sekä Virosta että Suomesta.',
     bio2: 'Vuosina 2018–2019 tohtori Sonin suoritti Master of Oral Implantology -ohjelman Goethe Universität Frankfurtissa — yhdessä Euroopan johtavista yliopistoista hammasimplantologian alalla. Tämä mahdollistaa hänelle modernimpien kirurgisten ja proteettisten protokollien soveltamisen päivittäisessä työssä.',
-    bio3: 'Tohtori Sonin vastaanottaa potilaita neljällä kielellä — virolla, suomella, englanniksi ja saksaksi — mikä tekee klinikasta saavutettavan eri maista tuleville potilaille. Merkittävän osan potilaista muodostavat suomalaiset, jotka matkustavat erityisesti Tallinnaan saadakseen eurooppalaisen tason hammashoitoa edullisempaan hintaan.',
+    bio3: 'Tohtori Sonin vastaanottaa potilaita viidellä kielellä — venäjäksi, viroksi, suomeksi, englanniksi ja saksaksi — mikä tekee klinikasta saavutettavan eri maista tuleville potilaille. Merkittävän osan potilaista muodostavat suomalaiset, jotka matkustavat erityisesti Tallinnaan saadakseen eurooppalaisen tason hammashoitoa edullisempaan hintaan.',
     eduSup: 'Koulutus', eduTitle: 'Akateeminen koulutus',
     edu: [
       { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Saksa', desc: 'Akateeminen ohjelma kirurgisessa ja proteettisessa implantologiassa. Modernien implanttijärjestelmien, luuregeneraation ja digitaalisten suunnittelumenetelmien opiskelu.', accent: true },
@@ -533,7 +533,7 @@ export const aboutT: Record<Lang, {
       { title: 'Terapeuttinen hammashoito', items: ['Karieshoidot', 'Endodontia (juurihoito)', 'Hampaiden valkaiseminen', 'Ammattimainen hygienia', 'Ehkäisevät tarkastukset'] },
       { title: 'Teknologiat', items: ['Nobel Biocare, Osstem, Dentium', 'Medit 3D-skanneri', 'Digitaalinen suunnittelu', 'CAD/CAM kruunut', 'Digitaaliset jäljennökset'] },
     ],
-    langTitle: 'Monikielinen vastaanotto', langSub: 'Tohtori Sonin vastaanottaa potilaita neljällä kielellä',
+    langTitle: 'Monikielinen vastaanotto', langSub: 'Tohtori Sonin vastaanottaa potilaita viidellä kielellä',
     ctaTitle: 'Varaa konsultaatio', ctaDesc: 'Ensimmäinen konsultaatio — tutustuminen, tutkimus ja rehellinen keskustelu tilanteestasi. Ilman painostusta.', ctaBtn: 'Lähetä pyyntö',
   },
   en: {
@@ -546,7 +546,7 @@ export const aboutT: Record<Lang, {
     bioSup: 'Biography', bioTitle: 'About the doctor',
     bio1: 'Dmitri Sonin is a dental implantologist and prosthetist who has been practising in Tallinn since 2005. Over 19 years he has specialised in the most demanding areas of dentistry — implantology and prosthetics — building extensive clinical experience in both Estonia and Finland.',
     bio2: 'In 2018–2019, Dr Sonin completed the Master of Oral Implantology programme at Goethe Universität Frankfurt — one of Europe\'s leading universities in dental implantology. This enables him to apply the most advanced surgical and prosthetic protocols in his daily practice.',
-    bio3: 'Dr Sonin sees patients in four languages — Estonian, Finnish, English and German — making the clinic accessible to patients from many countries. A significant proportion of patients are Finnish citizens who travel specifically to Tallinn for European-quality dental care at more affordable prices.',
+    bio3: 'Dr Sonin sees patients in five languages — Russian, Estonian, Finnish, English and German — making the clinic accessible to patients from many countries. A significant proportion of patients are Finnish citizens who travel specifically to Tallinn for European-quality dental care at more affordable prices.',
     eduSup: 'Education', eduTitle: 'Academic background',
     edu: [
       { year: '2018–2019', title: 'Master of Oral Implantology', place: 'Goethe Universität Frankfurt, Germany', desc: 'Academic programme in surgical and prosthetic implantology. Study of modern implant systems, bone regeneration and digital planning methods.', accent: true },
@@ -559,7 +559,7 @@ export const aboutT: Record<Lang, {
       { title: 'Therapeutic Dentistry', items: ['Cavity treatment', 'Endodontics (root canals)', 'Teeth whitening', 'Professional hygiene', 'Preventive check-ups'] },
       { title: 'Technology', items: ['Nobel Biocare, Osstem, Dentium', 'Medit 3D scanner', 'Digital planning', 'CAD/CAM crowns', 'Digital impressions'] },
     ],
-    langTitle: 'Multilingual practice', langSub: 'Dr Sonin sees patients in four languages',
+    langTitle: 'Multilingual practice', langSub: 'Dr Sonin sees patients in five languages',
     ctaTitle: 'Book a consultation', ctaDesc: 'The first consultation is a meeting, examination and honest conversation about your situation. No pressure.', ctaBtn: 'Send a request',
   },
 };
