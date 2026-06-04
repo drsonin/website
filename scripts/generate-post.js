@@ -36,10 +36,54 @@ function getDateStr() {
   return new Date().toISOString().slice(0, 10);
 }
 
+// Medical tourism context for cost comparison articles
+const MEDICAL_TOURISM_CONTEXT = {
+  ru: `
+Контекст для расчётов:
+- Имплант + коронка в Таллине (Sonin Hambaravi): ~1200–1800 € за зуб
+- Имплант + коронка в Турции (Анталия/Стамбул): ~500–800 € за зуб
+- Авиабилет Таллин–Анталия туда-обратно: ~200–400 €
+- Отель 5–7 дней: ~300–600 €
+- Питание, трансфер: ~150–200 €
+- Повторный визит при осложнениях (авиа + отель): +500–800 €
+- Гарантия в Таллине: 5 лет, осмотр за 30 мин без доп. расходов
+- Гарантийный случай за рубежом: новая поездка + расходы за свой счёт
+Используй эти цифры для реального расчёта в статье. Покажи полную стоимость с учётом всех расходов.`.trim(),
+  et: `
+Arvutuste kontekst:
+- Implantaat + kroon Tallinnas (Sonin Hambaravi): ~1200–1800 € hamba kohta
+- Implantaat + kroon Türgis (Antalya/Istanbul): ~500–800 € hamba kohta
+- Lennud Tallinn–Antalya edasi-tagasi: ~200–400 €
+- Hotell 5–7 päeva: ~300–600 €
+- Toit, transport: ~150–200 €
+- Kordusvisiit tüsistuste korral: +500–800 €
+Kasuta neid numbreid artiklis reaalse arvutuse tegemiseks.`.trim(),
+  fi: `
+Laskelmien konteksti:
+- Implantti + kruunu Tallinnassa (Sonin Hambaravi): ~1200–1800 € hammas
+- Implantti + kruunu Turkissa (Antalya/Istanbul): ~500–800 € hammas
+- Lennot Tallinna–Antalya edestakaisin: ~200–400 €
+- Hotelli 5–7 päivää: ~300–600 €
+- Ruoka, siirrot: ~150–200 €
+- Uusintakäynti komplikaatioiden vuoksi: +500–800 €
+Käytä näitä lukuja artikkelin todellisessa laskelmassa.`.trim(),
+  en: `
+Cost calculation context:
+- Implant + crown in Tallinn (Sonin Hambaravi): ~1200–1800 € per tooth
+- Implant + crown in Turkey (Antalya/Istanbul): ~500–800 € per tooth
+- Flights Tallinn–Antalya return: ~200–400 €
+- Hotel 5–7 nights: ~300–600 €
+- Food, transfers: ~150–200 €
+- Return visit for complications: +500–800 €
+- Tallinn guarantee: 5 years, 30-min check with no extra travel cost
+Use these figures to build a real cost comparison calculation in the article.`.trim(),
+};
+
 const PROMPTS = {
-  ru: (keyword) => `
+  ru: (keyword, isMedicalTourism = false) => `
 Ты — медицинский копирайтер для стоматологической клиники Sonin Hambaravi в Таллине.
 Напиши SEO-статью на тему: "${keyword}".
+${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.ru + '\n' : ''}
 
 Требования:
 - Язык: русский
@@ -55,10 +99,10 @@ const PROMPTS = {
 Верни ТОЛЬКО markdown текст статьи.
 `.trim(),
 
-  et: (keyword) => `
+  et: (keyword, isMedicalTourism = false) => `
 Sa oled meditsiiniline sisulooja Tallinnas asuva Sonin Hambaravi hambaravikliiniku jaoks.
 Kirjuta SEO-artikkel teemal: "${keyword}".
-
+${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.et + '\n' : ''}
 Nõuded:
 - Keel: eesti
 - Autorit mainitakse tekstis kui "dr Dmitri Sonin" või "Dmitri Sonin" (2–3 korda, loomulikus kontekstis)
@@ -73,10 +117,10 @@ Nõuded:
 Tagasta AINULT artikli markdown tekst.
 `.trim(),
 
-  fi: (keyword) => `
+  fi: (keyword, isMedicalTourism = false) => `
 Olet lääketieteellinen sisällöntuottaja Tallinnassa sijaitsevalle Sonin Hambaravi -hammaslääkäriklinikalle.
 Kirjoita SEO-artikkeli aiheesta: "${keyword}".
-
+${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.fi + '\n' : ''}
 Vaatimukset:
 - Kieli: suomi
 - Lääkäriä mainitaan tekstissä nimellä "tri Dmitri Sonin" tai "Dmitri Sonin" (2–3 kertaa, luontevassa kontekstissa)
@@ -91,10 +135,10 @@ Vaatimukset:
 Palauta VAIN artikkelin markdown-teksti.
 `.trim(),
 
-  en: (keyword) => `
+  en: (keyword, isMedicalTourism = false) => `
 You are a medical copywriter for Sonin Hambaravi dental clinic in Tallinn, Estonia.
 Write an SEO article about: "${keyword}".
-
+${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.en + '\n' : ''}
 Requirements:
 - Language: English
 - Mention the author naturally as "Dr Dmitri Sonin" or "Dmitri Sonin" (2–3 times)
@@ -227,10 +271,11 @@ Horizontal composition 16:9.
 
 async function generatePost(lang, topic, dateStr, heroImage) {
   const { keyword, slug } = topic[lang];
-  console.log(`  Generating [${lang}] — ${keyword}...`);
+  const isMedicalTourism = topic.type === 'medical-tourism';
+  console.log(`  Generating [${lang}] — ${keyword}${isMedicalTourism ? ' [medical-tourism]' : ''}...`);
 
   const [body, title, description] = await Promise.all([
-    generateText(PROMPTS[lang](keyword)),
+    generateText(PROMPTS[lang](keyword, isMedicalTourism)),
     generateText(TITLE_PROMPTS[lang](keyword)),
     generateText(DESC_PROMPTS[lang](keyword)),
   ]);

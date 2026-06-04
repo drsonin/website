@@ -107,6 +107,36 @@ export const TOPICS = [
     en: { keyword: 'emergency dental care Tallinn', slug: 'emergency-dental-care-tallinn' },
   },
 
+  // === МЕДИЦИНСКИЙ ТУРИЗМ (4 темы) ===
+  {
+    ru: { keyword: 'имплантация зубов Турция vs Таллин: реальный расчёт стоимости', slug: 'implantaciya-turciya-vs-tallinn' },
+    et: { keyword: 'hambaraviturismi võrdlus Türgi vs Tallinn', slug: 'hambaraviturismi-turkgi-vs-tallinn' },
+    fi: { keyword: 'hammashoitomatkailu Turkki vs Tallinna', slug: 'hammashoitomatkailu-turkki-vs-tallinna' },
+    en: { keyword: 'dental implants Turkey vs Tallinn cost comparison', slug: 'dental-implants-turkey-vs-tallinn' },
+    type: 'medical-tourism',
+  },
+  {
+    ru: { keyword: 'стоматологический туризм: скрытые расходы которые никто не считает', slug: 'stomatologicheskiy-turizm-skrytye-rashody' },
+    et: { keyword: 'hambaraviturismi varjatud kulud', slug: 'hambaraviturismi-varjatud-kulud' },
+    fi: { keyword: 'hammaslääkärimatkailu piilotetut kustannukset', slug: 'hammaslääkärimatkailu-piilotetut' },
+    en: { keyword: 'dental tourism hidden costs real calculation', slug: 'dental-tourism-hidden-costs' },
+    type: 'medical-tourism',
+  },
+  {
+    ru: { keyword: 'протезирование зубов за рубежом: риски и гарантии', slug: 'protezirovanie-za-rubezhom-riski' },
+    et: { keyword: 'hambaravi välismaal riskid ja garantiid', slug: 'hambaravi-välismaal-riskid' },
+    fi: { keyword: 'hammashoito ulkomailla riskit ja takuut', slug: 'hammashoito-ulkomailla-riskit' },
+    en: { keyword: 'dental work abroad risks and guarantees', slug: 'dental-work-abroad-risks' },
+    type: 'medical-tourism',
+  },
+  {
+    ru: { keyword: 'почему лечить зубы в Таллине выгоднее чем в Финляндии', slug: 'lechit-zuby-tallinn-vs-finlyandiya' },
+    et: { keyword: 'miks ravida hambaid Tallinnas odavamalt kui Soomes', slug: 'hambaravi-tallinn-vs-soome' },
+    fi: { keyword: 'miksi hammashoito Tallinnassa on edullisempaa kuin Suomessa', slug: 'hammashoito-tallinna-vs-suomi' },
+    en: { keyword: 'dental treatment Tallinn cheaper than Finland', slug: 'dental-tallinn-cheaper-finland' },
+    type: 'medical-tourism',
+  },
+
   // === ПРОЧЕЕ (4 темы) ===
   {
     ru: { keyword: 'профессиональная гигиена полости рта', slug: 'professionalnaya-gigiena' },
