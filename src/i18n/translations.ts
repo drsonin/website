@@ -122,7 +122,7 @@ const ru: UI = {
     f3t: 'Цифровые технологии',
     f3d: '3D-сканер Medit, цифровое планирование имплантации и протезирования, импланты Nobel Biocare и Osstem.',
     f4t: '5 языков общения',
-    f4d: 'Эстонский, финский, английский и немецкий. Пациенты из разных стран чувствуют себя комфортно.',
+    f4d: 'Русский, эстонский, финский, английский и немецкий. Пациенты из разных стран чувствуют себя комфортно.',
   },
   services: {
     sup: 'Направления лечения', title: 'Наши услуги', cta: 'Записаться на консультацию',
@@ -208,8 +208,8 @@ const et: UI = {
     f2d: 'Akadeemiline haridus Goethe Universität Frankfurdis (2018–2019). Euroopa tasemel implantoloogia.',
     f3t: 'Digitaaltehnoloogiad',
     f3d: '3D-skanner Medit, implantatsiooni ja proteesimise digitaalne planeerimine, Nobel Biocare ja Osstem implantaadid.',
-    f4t: '4 suhtluskeelt',
-    f4d: 'Eesti, soome, inglise ja saksa keel. Eri riikidest pärit patsiendid tunnevad end mugavalt.',
+    f4t: '5 suhtluskeelt',
+    f4d: 'Vene, eesti, soome, inglise ja saksa keel. Eri riikidest pärit patsiendid tunnevad end mugavalt.',
   },
   services: {
     sup: 'Ravivaldkonnad', title: 'Meie teenused', cta: 'Registreeri konsultatsioonile',
@@ -295,8 +295,8 @@ const fi: UI = {
     f2d: 'Akateeminen koulutus Goethe Universität Frankfurtissa (2018–2019). Eurooppalaisen tason implantologia.',
     f3t: 'Digitaaliteknologia',
     f3d: '3D-skanneri Medit, implantoinnin ja protetiikan digitaalinen suunnittelu, Nobel Biocare ja Osstem implantit.',
-    f4t: '4 palvelukieltä',
-    f4d: 'Viro, suomi, englanti ja saksa. Eri maista tulevat potilaat tuntevat olonsa mukavaksi.',
+    f4t: '5 palvelukieltä',
+    f4d: 'Venäjä, viro, suomi, englanti ja saksa. Eri maista tulevat potilaat tuntevat olonsa mukavaksi.',
   },
   services: {
     sup: 'Hoitoalueet', title: 'Palvelumme', cta: 'Varaa konsultaatio',
@@ -382,8 +382,8 @@ const en: UI = {
     f2d: 'Academic degree from Goethe Universität Frankfurt (2018–2019). European level of implantology.',
     f3t: 'Digital technology',
     f3d: 'Medit 3D scanner, digital implant and prosthetic planning, Nobel Biocare and Osstem implants.',
-    f4t: '4 languages spoken',
-    f4d: 'Estonian, Finnish, English and German. Patients from different countries feel at home.',
+    f4t: '5 languages spoken',
+    f4d: 'Russian, Estonian, Finnish, English and German. Patients from different countries feel at home.',
   },
   services: {
     sup: 'Treatments', title: 'Our services', cta: 'Book a consultation',
