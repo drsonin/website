@@ -48,7 +48,11 @@ const MEDICAL_TOURISM_CONTEXT = {
 - Повторный визит при осложнениях (авиа + отель): +500–800 €
 - Гарантия в Таллине: 5 лет, осмотр за 30 мин без доп. расходов
 - Гарантийный случай за рубежом: новая поездка + расходы за свой счёт
-Используй эти цифры для реального расчёта в статье. Покажи полную стоимость с учётом всех расходов.`.trim(),
+
+ВАЖНО: статья должна быть нейтральной и объективной. Только факты и цифры.
+НЕ призывай ехать в Турцию и НЕ рекламируй зарубежное лечение.
+Просто честно посчитай полную стоимость с учётом всех расходов — читатель сделает вывод сам.
+Тон: аналитический, как у финансового консультанта, без эмоций.`.trim(),
   et: `
 Arvutuste kontekst:
 - Implantaat + kroon Tallinnas (Sonin Hambaravi): ~1200–1800 € hamba kohta
@@ -57,7 +61,8 @@ Arvutuste kontekst:
 - Hotell 5–7 päeva: ~300–600 €
 - Toit, transport: ~150–200 €
 - Kordusvisiit tüsistuste korral: +500–800 €
-Kasuta neid numbreid artiklis reaalse arvutuse tegemiseks.`.trim(),
+OLULINE: artikkel peab olema neutraalne ja faktipõhine. Ainult arvud ja faktid.
+Ära soovita reisida Türki. Lase lugejal ise järeldused teha.`.trim(),
   fi: `
 Laskelmien konteksti:
 - Implantti + kruunu Tallinnassa (Sonin Hambaravi): ~1200–1800 € hammas
@@ -66,7 +71,8 @@ Laskelmien konteksti:
 - Hotelli 5–7 päivää: ~300–600 €
 - Ruoka, siirrot: ~150–200 €
 - Uusintakäynti komplikaatioiden vuoksi: +500–800 €
-Käytä näitä lukuja artikkelin todellisessa laskelmassa.`.trim(),
+TÄRKEÄÄ: artikkelin tulee olla neutraali ja faktipohjainen. Vain numerot ja tosiasiat.
+Älä suosittele matkustamista Turkkiin. Anna lukijan tehdä omat johtopäätöksensä.`.trim(),
   en: `
 Cost calculation context:
 - Implant + crown in Tallinn (Sonin Hambaravi): ~1200–1800 € per tooth
@@ -76,7 +82,10 @@ Cost calculation context:
 - Food, transfers: ~150–200 €
 - Return visit for complications: +500–800 €
 - Tallinn guarantee: 5 years, 30-min check with no extra travel cost
-Use these figures to build a real cost comparison calculation in the article.`.trim(),
+IMPORTANT: the article must be neutral and factual — numbers and facts only.
+Do NOT recommend travelling to Turkey or promote dental tourism abroad.
+Present the full cost breakdown objectively and let the reader draw their own conclusions.
+Tone: analytical, like a financial advisor, no emotional bias.`.trim(),
 };
 
 const PROMPTS = {
