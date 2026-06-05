@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Технические директории — не индексировать
+Disallow: /_astro/
+
+Sitemap: https://www.drsonin.com/sitemap-index.xml
