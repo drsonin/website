@@ -162,4 +162,87 @@ export const TOPICS = [
     fi: { keyword: 'keraamiset inlayit', slug: 'keraamiset-inlayit' },
     en: { keyword: 'ceramic inlays Tallinn', slug: 'ceramic-inlays-tallinn' },
   },
+
+  // === ДЛЯ ФИНСКИХ ПАЦИЕНТОВ (fi + en) ===
+  {
+    langs: ['fi', 'en'],
+    fi: { keyword: 'hammasimplantti hinta Tallinna vs Helsinki vertailu', slug: 'hammasimplantti-hinta-tallinna-vs-helsinki' },
+    en: { keyword: 'dental implant cost Tallinn vs Helsinki comparison', slug: 'dental-implant-tallinn-vs-helsinki' },
+  },
+  {
+    langs: ['fi', 'en'],
+    fi: { keyword: 'hammashoito Tallinnassa suomalaisille — kokemuksia ja vinkkejä', slug: 'hammashoito-tallinnassa-suomalaisille' },
+    en: { keyword: 'dental treatment Tallinn for Finnish patients guide', slug: 'dental-treatment-tallinn-finnish-patients' },
+  },
+  {
+    langs: ['fi', 'en'],
+    fi: { keyword: 'All-on-4 hammasimplantit hinta Tallinna', slug: 'all-on-4-hinta-tallinna' },
+    en: { keyword: 'All-on-4 dental implants Tallinn price guide', slug: 'all-on-4-implants-tallinn-price' },
+  },
+  {
+    langs: ['fi', 'en'],
+    fi: { keyword: 'hammaskruunu hinta Virossa — onko turvallista?', slug: 'hammaskruunu-hinta-viro' },
+    en: { keyword: 'dental crown cost Estonia — is it safe for Finns?', slug: 'dental-crown-cost-estonia-finns' },
+  },
+  {
+    langs: ['fi', 'en'],
+    fi: { keyword: 'hammasimplantit Virossa kokemuksia suomalaisilta potilailta', slug: 'hammasimplantit-viro-kokemuksia' },
+    en: { keyword: 'dental implants Estonia reviews from Finnish patients', slug: 'dental-implants-estonia-finnish-reviews' },
+  },
+
+  // === ДЛЯ ШВЕДСКИХ И НОРВЕЖСКИХ ПАЦИЕНТОВ (en) ===
+  {
+    langs: ['en'],
+    en: { keyword: 'dental implants Tallinn for Swedish patients cost guide 2026', slug: 'dental-implants-tallinn-swedish-patients' },
+  },
+  {
+    langs: ['en'],
+    en: { keyword: 'All-on-4 Tallinn vs Stockholm price comparison', slug: 'all-on-4-tallinn-vs-stockholm' },
+  },
+  {
+    langs: ['en'],
+    en: { keyword: 'dental tourism Estonia from Norway — what to know', slug: 'dental-tourism-estonia-norway' },
+  },
+
+  // === ALL-ON-4 (все языки) ===
+  {
+    ru: { keyword: 'All-on-4 имплантация зубов в Таллине — цена и результат', slug: 'all-on-4-implantaciya-tallinn' },
+    et: { keyword: 'All-on-4 hambaimplantaadid Tallinnas — hind ja tulemus', slug: 'all-on-4-hambaimplantaadid-tallinn' },
+    fi: { keyword: 'All-on-4 kokemuksia Tallinnasta — hinta ja hoito', slug: 'all-on-4-kokemuksia-tallinna' },
+    en: { keyword: 'All-on-4 dental implants Tallinn — full guide and price', slug: 'all-on-4-full-guide-tallinn' },
+  },
+  {
+    ru: { keyword: 'протез на 4 имплантах — полная реставрация зубов', slug: 'protez-na-4-implantah' },
+    et: { keyword: '4 implantaadil tuginev täisprotees', slug: '4-implantaadil-taisprotees' },
+    fi: { keyword: 'kokoproteesi neljällä implantilla Tallinnassa', slug: 'kokoproteesi-neljalla-implantilla' },
+    en: { keyword: 'full arch restoration 4 implants Tallinn', slug: 'full-arch-4-implants-tallinn' },
+  },
+
+  // === ДОВЕРИЕ И ГАРАНТИИ (все языки) ===
+  {
+    ru: { keyword: 'гарантия на зубные импланты в Эстонии — что нужно знать', slug: 'garantiya-na-implant-estoniya' },
+    et: { keyword: 'hambaimplantaadi garantii Eestis — mida teada', slug: 'hambaimplantaadi-garantii-eestis' },
+    fi: { keyword: 'hammasimplantin takuu Virossa — mitä tulee tietää', slug: 'hammasimplantti-takuu-viro' },
+    en: { keyword: 'dental implant guarantee Estonia — what patients should know', slug: 'dental-implant-guarantee-estonia' },
+  },
+  {
+    ru: { keyword: 'безопасно ли лечить зубы в Таллине иностранцу', slug: 'bezopasno-lechit-zuby-tallinn' },
+    et: { keyword: 'kas hambaravi Tallinnas on välismaalasele ohutu', slug: 'hambaravi-tallinn-valismaalasele' },
+    fi: { keyword: 'onko hammashoito Tallinnassa turvallista ulkomaalaiselle', slug: 'hammashoito-tallinna-turvallista' },
+    en: { keyword: 'is dental treatment in Tallinn safe for foreign patients', slug: 'dental-treatment-tallinn-safe-foreigners' },
+  },
+  {
+    ru: { keyword: 'что делать если имплант не прижился — гарантийный случай', slug: 'implant-ne-prizhilsya-garantiya' },
+    et: { keyword: 'mida teha kui implantaat ei juurdu — garantiijuhtum', slug: 'implantaat-ei-juurdu-garantii' },
+    fi: { keyword: 'mitä tehdä jos implantti ei kiinnity — takuutapaus', slug: 'implantti-ei-kiinnity-takuu' },
+    en: { keyword: 'dental implant failure and guarantee what to do Tallinn', slug: 'dental-implant-failure-guarantee-tallinn' },
+  },
+
+  // === ЛАТВИЯ / РЕГИОН (en + ru) ===
+  {
+    langs: ['en', 'ru'],
+    en: { keyword: 'dental implants Tallinn vs Riga — which is better value', slug: 'dental-implants-tallinn-vs-riga' },
+    ru: { keyword: 'импланты в Таллине vs Рига — где выгоднее', slug: 'implant-tallinn-vs-riga' },
+  },
 ];
+

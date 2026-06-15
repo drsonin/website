@@ -284,8 +284,12 @@ function slugAlreadyExists(lang, slug) {
   return readdirSync(dir).some(f => f.endsWith(`-${slug}.md`) || f === `${slug}.md`);
 }
 
+function topicLangs(topic) {
+  return topic.langs ?? ['ru', 'et', 'fi', 'en'];
+}
+
 function topicAlreadyExists(topic) {
-  return ['ru', 'et', 'fi', 'en'].every(lang => slugAlreadyExists(lang, topic[lang].slug));
+  return topicLangs(topic).every(lang => slugAlreadyExists(lang, topic[lang].slug));
 }
 
 async function generatePost(lang, topic, dateStr, heroImage) {
@@ -345,14 +349,14 @@ async function main() {
   }
 
   for (const [idx, topic] of toGenerate) {
-    console.log(`\n--- Generating topic #${idx}: ${topic.en.keyword} ---`);
+    const langs = topicLangs(topic);
+    console.log(`\n--- Generating topic #${idx}: ${(topic.en ?? topic[langs[0]]).keyword} [${langs.join(',')}] ---`);
     const heroImage = await generateHeroImage(topic, dateStr);
-    await Promise.all(
-      ['ru', 'et', 'fi', 'en'].map((lang) => generatePost(lang, topic, dateStr, heroImage))
-    );
+    await Promise.all(langs.map((lang) => generatePost(lang, topic, dateStr, heroImage)));
   }
 
-  console.log(`\n✅ Done! ${toGenerate.length * 4} posts + ${toGenerate.length} hero images generated.`);
+  const totalPosts = toGenerate.reduce((sum, [, t]) => sum + topicLangs(t).length, 0);
+  console.log(`\n✅ Done! ${totalPosts} posts + ${toGenerate.length} hero images generated.`);
 }
 
 main().catch((err) => {
