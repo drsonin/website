@@ -10,7 +10,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import Replicate from 'replicate';
 import sharp from 'sharp';
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { TOPICS } from './topics.js';
@@ -278,6 +278,16 @@ Horizontal composition 16:9.
   return publicPath;
 }
 
+function slugAlreadyExists(lang, slug) {
+  const dir = join(ROOT, 'src', 'content', 'blog', lang);
+  if (!existsSync(dir)) return false;
+  return readdirSync(dir).some(f => f.endsWith(`-${slug}.md`) || f === `${slug}.md`);
+}
+
+function topicAlreadyExists(topic) {
+  return ['ru', 'et', 'fi', 'en'].every(lang => slugAlreadyExists(lang, topic[lang].slug));
+}
+
 async function generatePost(lang, topic, dateStr, heroImage) {
   const { keyword, slug } = topic[lang];
   const isMedicalTourism = topic.type === 'medical-tourism';
@@ -312,18 +322,29 @@ async function generatePost(lang, topic, dateStr, heroImage) {
 }
 
 async function main() {
-  const topicIndex = getTopicIndex();
-  const topicIndex2 = (topicIndex + 1) % TOPICS.length;
+  const startIndex = getTopicIndex();
   const dateStr = getDateStr();
-  const topic1 = TOPICS[topicIndex];
-  const topic2 = TOPICS[topicIndex2];
 
   console.log(`\n📝 Daily blog generator — ${dateStr}`);
-  console.log(`📌 Topic #${topicIndex}: ${topic1.ru.keyword}`);
-  console.log(`📌 Topic #${topicIndex2}: ${topic2.ru.keyword}\n`);
 
-  // Generate both topics sequentially (images first, then posts in parallel)
-  for (const [idx, topic] of [[topicIndex, topic1], [topicIndex2, topic2]]) {
+  // Collect up to 2 topics that haven't been published yet
+  const toGenerate = [];
+  for (let i = 0; i < TOPICS.length && toGenerate.length < 2; i++) {
+    const idx = (startIndex + i) % TOPICS.length;
+    const topic = TOPICS[idx];
+    if (topicAlreadyExists(topic)) {
+      console.log(`  ⏭  Topic #${idx} already published, skipping: ${topic.en.slug}`);
+    } else {
+      toGenerate.push([idx, topic]);
+    }
+  }
+
+  if (toGenerate.length === 0) {
+    console.log('\n✅ All topics already published — nothing to generate.');
+    return;
+  }
+
+  for (const [idx, topic] of toGenerate) {
     console.log(`\n--- Generating topic #${idx}: ${topic.en.keyword} ---`);
     const heroImage = await generateHeroImage(topic, dateStr);
     await Promise.all(
@@ -331,7 +352,7 @@ async function main() {
     );
   }
 
-  console.log('\n✅ Done! 8 posts + 2 hero images generated.');
+  console.log(`\n✅ Done! ${toGenerate.length * 4} posts + ${toGenerate.length} hero images generated.`);
 }
 
 main().catch((err) => {

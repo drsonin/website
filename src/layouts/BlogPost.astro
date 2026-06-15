@@ -7,9 +7,10 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'] & {
 	langVersions?: { lang: string; slug: string }[];
+	canonicalOverride?: string;
 };
 
-const { title, description, pubDate, updatedDate, heroImage, author, lang, tags, langVersions = [] } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, lang, tags, langVersions = [], canonicalOverride } = Astro.props;
 
 const langMeta: Record<string, { label: string; flag: string; locale: string }> = {
 	ru: { label: 'Русский', flag: '🇷🇺', locale: 'ru_RU' },
@@ -97,6 +98,7 @@ const jsonLd = {
 		articlePublishedTime={pubDateISO}
 		articleModifiedTime={updatedDateISO}
 		articleAuthor={author}
+		canonicalOverride={canonicalOverride}
 	/>
 
 	<!-- hreflang: self -->

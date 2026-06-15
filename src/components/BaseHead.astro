@@ -13,9 +13,8 @@ interface Props {
 	articlePublishedTime?: string;
 	articleModifiedTime?: string;
 	articleAuthor?: string;
+	canonicalOverride?: string;
 }
-
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const {
 	title,
@@ -26,7 +25,10 @@ const {
 	articlePublishedTime,
 	articleModifiedTime,
 	articleAuthor,
+	canonicalOverride,
 } = Astro.props;
+
+const canonicalURL = canonicalOverride ?? new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <!-- Global Metadata -->

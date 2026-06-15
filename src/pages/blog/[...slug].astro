@@ -4,18 +4,41 @@ import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
-	return posts.map((post) => ({
-		params: { slug: post.id.replace(/\.(mdx?)$/, '') },
-		props: { post, allPosts: posts },
-	}));
+
+	// For each post, find the earliest published post with the same lang+slug-suffix (topic duplicates).
+	// That earliest post becomes the canonical URL for all later duplicates.
+	const slugSuffix = (post: CollectionEntry<'blog'>) => {
+		const bare = post.id.replace(/\.(mdx?)$/, ''); // en/2026-06-05-gum-disease-treatment-tallinn
+		const parts = bare.split('/');
+		const name = parts[parts.length - 1];
+		// strip leading date prefix (YYYY-MM-DD-)
+		return name.replace(/^\d{4}-\d{2}-\d{2}-/, '');
+	};
+
+	return posts.map((post) => {
+		const lang = post.data.lang ?? 'ru';
+		const suffix = slugSuffix(post);
+		// Find earliest post with same lang + topic slug
+		const siblings = posts.filter(p => (p.data.lang ?? 'ru') === lang && slugSuffix(p) === suffix);
+		siblings.sort((a, b) => new Date(a.data.pubDate).getTime() - new Date(b.data.pubDate).getTime());
+		const canonical = siblings[0];
+		const canonicalSlug = canonical.id.replace(/\.(mdx?)$/, '');
+
+		return {
+			params: { slug: post.id.replace(/\.(mdx?)$/, '') },
+			props: { post, allPosts: posts, canonicalSlug },
+		};
+	});
 }
 
 interface Props {
 	post: CollectionEntry<'blog'>;
 	allPosts: CollectionEntry<'blog'>[];
+	canonicalSlug: string;
 }
 
-const { post, allPosts } = Astro.props;
+const { post, allPosts, canonicalSlug } = Astro.props;
+const canonicalOverride = new URL(`/blog/${canonicalSlug}/`, Astro.site).href;
 const { Content } = await render(post);
 
 // Find same-date posts in other languages for hreflang
@@ -31,6 +54,6 @@ const langVersions = allPosts
 	}));
 ---
 
-<BlogPost {...post.data} langVersions={langVersions}>
+<BlogPost {...post.data} langVersions={langVersions} canonicalOverride={canonicalOverride}>
 	<Content />
 </BlogPost>
