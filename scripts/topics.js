@@ -244,5 +244,63 @@ export const TOPICS = [
     en: { keyword: 'dental implants Tallinn vs Riga — which is better value', slug: 'dental-implants-tallinn-vs-riga' },
     ru: { keyword: 'импланты в Таллине vs Рига — где выгоднее', slug: 'implant-tallinn-vs-riga' },
   },
+
+  // === FAQ — реальные вопросы пациентов (hambaarst.ee) ===
+  {
+    ru: { keyword: 'имплант расшатался и болит — что делать', slug: 'implant-rashatalsya-chto-delat' },
+    et: { keyword: 'kõikuv ja valutav implantaat — mida teha', slug: 'koikuv-implantaat-mida-teha' },
+    fi: { keyword: 'implantti heiluu ja sattuu — mitä tehdä', slug: 'implantti-heiluu-mita-tehda' },
+    en: { keyword: 'loose painful dental implant what to do Tallinn', slug: 'loose-painful-implant-what-to-do' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'зуб сломался после лечения каналов — имплант или мост', slug: 'zub-slomal-posle-kanalov-implant-ili-most' },
+    et: { keyword: 'juureravi järel purunes hammas — implantaat või sild', slug: 'juureravi-järel-purunes-hammas' },
+    fi: { keyword: 'hammas murtui juurihoidon jälkeen — implantti vai silta', slug: 'hammas-murtui-juurihoidon-jälkeen' },
+    en: { keyword: 'tooth broke after root canal — implant or bridge Tallinn', slug: 'tooth-broke-root-canal-implant-or-bridge' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'нет кости для импланта — синус-лифт или костная пластика', slug: 'net-kosti-dlya-implanta-sinus-lift' },
+    et: { keyword: 'implantaadiks pole luud — siinuse tõstmine või luuaugmentatsioon', slug: 'implantaadiks-pole-luud-luuaugmentatsioon' },
+    fi: { keyword: 'ei luuta implanttia varten — sinuslift vai luusiirto', slug: 'ei-luuta-implanttia-varten' },
+    en: { keyword: 'no bone for dental implant sinus lift or bone graft Tallinn', slug: 'no-bone-dental-implant-sinus-lift' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'циркониевая или металлокерамическая коронка — что лучше выбрать', slug: 'cirkon-vs-metallokeramika-chto-luchshe' },
+    et: { keyword: 'tsirkoonium- või metallokeraamiline kroon — mida valida', slug: 'tsirkoonium-vs-metallokeraamiline-kroon' },
+    fi: { keyword: 'zirkooni- vai metallokeramiikkakruunu — kumpi valita', slug: 'zirkooni-vs-metallokeramiikka-kruunu' },
+    en: { keyword: 'zirconia vs metal ceramic crown which to choose Tallinn', slug: 'zirconia-vs-metal-ceramic-crown' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'All-on-4 цена и сроки лечения в Таллине — полный гид', slug: 'all-on-4-cena-sroki-tallinn-gid' },
+    et: { keyword: 'All-on-4 hind ja raviaeg Tallinnas — täielik juhend', slug: 'all-on-4-hind-raviaeg-tallinn' },
+    fi: { keyword: 'All-on-4 hinta ja hoitoaika Tallinnassa — täydellinen opas', slug: 'all-on-4-hinta-hoitoaika-tallinna' },
+    en: { keyword: 'All-on-4 price timeline Tallinn complete patient guide', slug: 'all-on-4-price-timeline-tallinn-guide' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'нет зубов совсем — с чего начать лечение у стоматолога', slug: 'net-zubov-sovse-s-chego-nachat' },
+    et: { keyword: 'hambad puuduvad täielikult — kust alustada ravi', slug: 'hambad-puuduvad-kust-alustada' },
+    fi: { keyword: 'ei yhtään hammasta — mistä aloittaa hoito', slug: 'ei-yhtaan-hammasta-mista-aloittaa' },
+    en: { keyword: 'no teeth at all where to start dental treatment Tallinn', slug: 'no-teeth-where-to-start-treatment' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'съёмный протез давит и болит — почему и что делать', slug: 'semnyy-protez-davit-i-bolit' },
+    et: { keyword: 'eemaldatav protees surub ja valutab — miks ja mida teha', slug: 'eemaldatav-protees-surub-valutab' },
+    fi: { keyword: 'irrotettava proteesi painaa ja sattuu — syy ja ratkaisu', slug: 'irrotettava-proteesi-painaa-sattuu' },
+    en: { keyword: 'removable denture hurts and presses what to do Tallinn', slug: 'denture-hurts-presses-what-to-do' },
+    type: 'faq',
+  },
+  {
+    ru: { keyword: 'воспаление вокруг импланта периимплантит — лечение', slug: 'vospalenie-vokrug-implanta-periimplantit' },
+    et: { keyword: 'põletik implantaadi ümber periimplantiit — ravi', slug: 'poletik-implantaadi-ümber-periimplantiit' },
+    fi: { keyword: 'tulehdus implantin ympärillä periimplantiitti — hoito', slug: 'tulehdus-implantin-ympärillä-hoito' },
+    en: { keyword: 'peri-implantitis inflammation around dental implant treatment', slug: 'peri-implantitis-treatment-tallinn' },
+    type: 'faq',
+  },
 ];
 

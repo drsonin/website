@@ -88,11 +88,53 @@ Present the full cost breakdown objectively and let the reader draw their own co
 Tone: analytical, like a financial advisor, no emotional bias.`.trim(),
 };
 
+// FAQ format instructions — answer real patient questions with expert authority
+const FAQ_CONTEXT = {
+  ru: `
+ФОРМАТ: Статья в формате "Вопрос пациента → экспертный ответ".
+Структура:
+1. Начни с описания типичной ситуации пациента (2–3 предложения, без "если вы...")
+2. Объясни причины/механизм проблемы (H3)
+3. Что делать: конкретные шаги (H3)
+4. Когда обращаться к врачу немедленно (H3)
+5. Профилактика / что важно знать (H3)
+Тон: как опытный врач объясняет пациенту на приёме — честно, без лишних слов, с конкретикой.
+Используй реальные цифры и сроки где уместно.`.trim(),
+  et: `
+FORMAAT: Artikkel "Patsiendi küsimus → ekspertide vastus".
+Struktuur:
+1. Alusta tüüpilise patsiendi olukorra kirjeldusega (2–3 lauset)
+2. Selgita põhjuseid/mehhanismi (H3)
+3. Mida teha: konkreetsed sammud (H3)
+4. Millal pöörduda arsti poole kohe (H3)
+5. Ennetamine / oluline teada (H3)
+Toon: nagu kogenud arst selgitab patsiendile — ausalt, konkreetselt, reaalse infoga.`.trim(),
+  fi: `
+MUOTO: Artikkeli "Potilaan kysymys → asiantuntijan vastaus".
+Rakenne:
+1. Aloita tyypillisen potilastilanteen kuvauksella (2–3 lausetta)
+2. Selitä syyt/mekanismi (H3)
+3. Mitä tehdä: konkreettiset vaiheet (H3)
+4. Milloin hakeutua lääkäriin välittömästi (H3)
+5. Ennaltaehkäisy / tärkeää tietää (H3)
+Sävy: kuten kokenut lääkäri selittää potilaalle — rehellisesti, konkreettisesti.`.trim(),
+  en: `
+FORMAT: Article in "Patient question → expert answer" style.
+Structure:
+1. Open with a relatable patient scenario (2–3 sentences)
+2. Explain causes/mechanism (H3)
+3. What to do: concrete steps (H3)
+4. When to see a dentist immediately (H3)
+5. Prevention / key takeaways (H3)
+Tone: like an experienced dentist explaining to a patient — honest, specific, with real numbers and timelines.`.trim(),
+};
+
 const PROMPTS = {
-  ru: (keyword, isMedicalTourism = false) => `
+  ru: (keyword, isMedicalTourism = false, isFaq = false) => `
 Ты — медицинский копирайтер для стоматологической клиники Sonin Hambaravi в Таллине.
 Напиши SEO-статью на тему: "${keyword}".
 ${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.ru + '\n' : ''}
+${isFaq ? '\n' + FAQ_CONTEXT.ru + '\n' : ''}
 
 Требования:
 - Язык: русский
@@ -108,10 +150,11 @@ ${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.ru + '\n' : ''}
 Верни ТОЛЬКО markdown текст статьи.
 `.trim(),
 
-  et: (keyword, isMedicalTourism = false) => `
+  et: (keyword, isMedicalTourism = false, isFaq = false) => `
 Sa oled meditsiiniline sisulooja Tallinnas asuva Sonin Hambaravi hambaravikliiniku jaoks.
 Kirjuta SEO-artikkel teemal: "${keyword}".
 ${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.et + '\n' : ''}
+${isFaq ? '\n' + FAQ_CONTEXT.et + '\n' : ''}
 Nõuded:
 - Keel: eesti
 - Autorit mainitakse tekstis kui "dr Dmitri Sonin" või "Dmitri Sonin" (2–3 korda, loomulikus kontekstis)
@@ -126,10 +169,11 @@ Nõuded:
 Tagasta AINULT artikli markdown tekst.
 `.trim(),
 
-  fi: (keyword, isMedicalTourism = false) => `
+  fi: (keyword, isMedicalTourism = false, isFaq = false) => `
 Olet lääketieteellinen sisällöntuottaja Tallinnassa sijaitsevalle Sonin Hambaravi -hammaslääkäriklinikalle.
 Kirjoita SEO-artikkeli aiheesta: "${keyword}".
 ${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.fi + '\n' : ''}
+${isFaq ? '\n' + FAQ_CONTEXT.fi + '\n' : ''}
 Vaatimukset:
 - Kieli: suomi
 - Lääkäriä mainitaan tekstissä nimellä "tri Dmitri Sonin" tai "Dmitri Sonin" (2–3 kertaa, luontevassa kontekstissa)
@@ -144,10 +188,11 @@ Vaatimukset:
 Palauta VAIN artikkelin markdown-teksti.
 `.trim(),
 
-  en: (keyword, isMedicalTourism = false) => `
+  en: (keyword, isMedicalTourism = false, isFaq = false) => `
 You are a medical copywriter for Sonin Hambaravi dental clinic in Tallinn, Estonia.
 Write an SEO article about: "${keyword}".
 ${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.en + '\n' : ''}
+${isFaq ? '\n' + FAQ_CONTEXT.en + '\n' : ''}
 Requirements:
 - Language: English
 - Mention the author naturally as "Dr Dmitri Sonin" or "Dmitri Sonin" (2–3 times)
@@ -295,10 +340,12 @@ function topicAlreadyExists(topic) {
 async function generatePost(lang, topic, dateStr, heroImage) {
   const { keyword, slug } = topic[lang];
   const isMedicalTourism = topic.type === 'medical-tourism';
-  console.log(`  Generating [${lang}] — ${keyword}${isMedicalTourism ? ' [medical-tourism]' : ''}...`);
+  const isFaq = topic.type === 'faq';
+  const typeLabel = isMedicalTourism ? ' [medical-tourism]' : isFaq ? ' [faq]' : '';
+  console.log(`  Generating [${lang}] — ${keyword}${typeLabel}...`);
 
   const [body, title, description] = await Promise.all([
-    generateText(PROMPTS[lang](keyword, isMedicalTourism)),
+    generateText(PROMPTS[lang](keyword, isMedicalTourism, isFaq)),
     generateText(TITLE_PROMPTS[lang](keyword)),
     generateText(DESC_PROMPTS[lang](keyword)),
   ]);
