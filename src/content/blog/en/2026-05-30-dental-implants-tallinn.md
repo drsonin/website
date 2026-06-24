@@ -73,9 +73,3 @@ Most healthy adults with sufficient jawbone density are good candidates for impl
 ### Book Your Implant Consultation in Tallinn Today
 
 If you are ready to explore a permanent solution to tooth loss, the team at **Sonin Hambaravi** clinic is here to help. Under the expert guidance of **Dr Dmitri Sonin**, you will receive honest advice, personalised care, and results you can smile about every day.
-
-📍 Located in Tallinn, Estonia — easily accessible for both local and international patients.
-
-[Book a consultation](/en/contact/)
-
-**Contact Sonin Hambaravi today to book your dental implant consultation and take the first step towards a healthier, more confident smile.**

@@ -73,7 +73,3 @@ Kui tunnete valu, liikuvust implantaadi piirkonnas, igemete paistetust või muid
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui kaalute hambaimplantaati ja soovite selget, ausat ning professionaalset nõu, kutsume teid konsultatsioonile **Sonin Hambaravi kliinikusse Tallinnas**. dr Dmitri Sonin ja meie meeskond selgitavad teile kõiki garantiitingimusi, hindavad teie suuõõne seisundit ning koostame teile personaalse raviplani.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📞 **Helistage meile või broneerige aeg meie kodulehe kaudu** — teie naeratus väärib parimat hoolt.

@@ -70,10 +70,3 @@ All implant systems used at the clinic are sourced from established, globally re
 ---
 
 ### Ready to Take the Next Step?
-
-If you're considering dental implants and want to explore your options, Sonin Hambaravi clinic in Tallinn is here to help. Book a consultation with our team today to receive a personalised treatment plan and a transparent cost breakdown — no surprises, no hidden fees.
-
-[Book a consultation](/en/contact/)
-
-📍 **Sonin Hambaravi** | Tallinn, Estonia
-🌐 Visit our website or contact us directly to schedule your appointment. The smile you've been planning is closer — and more affordable — than you think.

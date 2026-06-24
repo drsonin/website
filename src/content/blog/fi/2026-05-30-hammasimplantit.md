@@ -74,7 +74,3 @@ Dmitri Sonin korostaa, että läpinäkyvä hinnoittelu ja selkeä hoitosuunnitel
 Sonin Hambaravi on Tallinnassa toimiva hammaslääkäriklinikka, joka erikoistuu muun muassa implanttihoitoihin, esteettiseen hammaslääketieteeseen ja protetiikkaan. Tri Dmitri Sonin johtaa klinikkaa laaja kokemus ja potilaslähtöinen toimintamalli taustanaan. Klinikalla käytetään modernia teknologiaa, kuten digitaalista röntgenkuvausta ja 3D-suunnittelua, mikä takaa tarkan ja turvallisen hoidon.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Haluatko tietää, sopivatko hammasimplantit sinulle?** Varaa maksuton alkukonsultaatio Sonin Hambaravi -klinikalle Tallinnassa ja saat henkilökohtaisen arvion omasta tilanteestasi. Ota yhteyttä tänään – terve hymy alkaa yhdestä askeleesta.

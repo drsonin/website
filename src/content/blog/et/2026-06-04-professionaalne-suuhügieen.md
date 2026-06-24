@@ -65,7 +65,3 @@ Regulaarsete külastuste eesmärk ei ole ainult puhastus – see on ka ennetava 
 ### Broneeri Aeg Sonin Hambaravi Kliinikusse
 
 Professionaalne suuhügieen on investeering, mis säästab teid tulevikus palju suurematest ravikuludest ja ebamugavustest. **Dr Dmitri Sonin ja tema meeskond Sonin Hambaravi kliinikus Tallinnas on valmis hoolitsema teie naeratuse eest.**
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Broneeri konsultatsioon juba täna – võtke meiega ühendust telefoni teel, kirjutage e-kirja või täitke broneerimisankeet meie veebilehel. Teie terve naeratus algab ühest sammust.

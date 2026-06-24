@@ -47,9 +47,3 @@ Pärast implantaadi paigaldamist soovitab Dmitri Sonin:
 - Võtta määratud antibiootikumid täieliku kuurina
 
 Valu pärast operatsiooni on üldjuhul mõõdukas ja taandub hästi tavaliste valuvaigistite abil.
-
-## Broneeri konsultatsioon
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Kui kaalute hambaimplantaati, on esimene samm diagnostika. Dr Dmitri Sonin viib läbi läbivaatuse, teeb röntgenipildi ja selgitab, kas protseduur sobib just teile, kui kaua see aega võtab ja kui palju maksab. Sonin Hambaravi kliinik asub Tallinnas — broneerige veebisaidi kaudu või telefonitsi.

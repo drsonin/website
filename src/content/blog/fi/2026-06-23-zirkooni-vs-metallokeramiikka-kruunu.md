@@ -73,7 +73,3 @@ Dmitri Sonin muistuttaa, että kruunuvalinta ei ole koskaan pelkästään materi
 **Haluatko tietää, kumpi materiaali sopii sinulle?**
 
 Varaa konsultaatio tri Dmitri Soninille Sonin Hambaravi -klinikalle Tallinnassa. Teemme yhdessä perusteellisen tutkimuksen, käymme läpi vaihtoehtosi ja löydämme ratkaisun, joka palvelee hampaistasi juuri sinua — esteettisesti, toiminnallisesti ja pitkäkestoisesti.
-
-[Varaa konsultaatio](/fi/contact/)
-
-📍 **Sonin Hambaravi, Tallinn** — varaa aikasi tänään.

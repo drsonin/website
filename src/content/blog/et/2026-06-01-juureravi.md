@@ -62,7 +62,3 @@ Taastumine on enamasti kiire. Järgige hambaarsti soovitusi:
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui teil esineb hambavalu, tundlikkus kuumale või külmale, igeme turse või muu mure, mis võib viidata hambapulbi põletikule, ärge oodake liiga kaua. Dmitri Sonin ja Sonin Hambaravi meeskond Tallinnas on valmis teid aitama – professionaalselt, kaasaegsete meetoditega ja patsiendikeskse lähenemisega.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneeri konsultatsioon juba täna** – võtke meiega ühendust telefoni või kodulehe kaudu ning tehke esimene samm tervema naeratuse suunas.

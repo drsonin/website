@@ -90,7 +90,3 @@ Lisäksi potilasturvallisuuteen liittyvä lainsäädäntö, valitusmenettelyt ja
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat ilmaisen alkukonsultaation, jossa käydään läpi hoitosuunnitelma ja kustannusarvio avoimesti. Tallinna sijaitsee lähellä – sekä maantieteellisesti että kielellisesti – ja seurantakäynnit onnistuvat vaivattomasti.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa aika konsultaatioon osoitteessa [drsonin.com](https://drsonin.com)** tai soita klinikkaan suoraan. Tee päätöksesi oikeiden lukujen pohjalta.

@@ -59,7 +59,3 @@ Sonin Hambaravi kliinikus Tallinnas ühendatakse kaasaegne diagnostika individua
 **Dr Dmitri Sonin** ja tema meeskond aitavad teil leida just teile sobivaima lahenduse, selgitavad kõik sammud läbipaistvalt ja toetavad teid kogu raviprotsessi vältel.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Soovite teada, kas brekettid või alignerid sobivad teile paremini? **Broneerige konsultatsioon Sonin Hambaravi kliinikusse Tallinnas** – astuge esimene samm ilusa ja tervisliku naeratuse suunas juba täna.

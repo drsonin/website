@@ -69,7 +69,3 @@ These are ranges, not guarantees. Individual cases vary. What the table does sho
 If you are considering dental implants or other restorative work, **Dr Dmitri Sonin** and the team at Sonin Hambaravi offer an initial consultation where your specific clinical situation and treatment cost can be assessed precisely.
 
 The clinic is located in **Tallinn, Estonia**, and is accessible from Helsinki by ferry in under three hours.
-
-[Book a consultation](/en/contact/)
-
-To book your consultation, visit **[drsonin.com](https://drsonin.com)** or contact the clinic directly by phone or email.

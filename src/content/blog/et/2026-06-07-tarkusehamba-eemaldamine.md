@@ -55,7 +55,3 @@ Kliinikus on kasutusel digitaalne panoraamröntgen, mis võimaldab täpselt hinn
 ### Broneeri konsultatsioon juba täna
 
 Kui tunnete tarkusehammas valu, märkate põletiku märke või soovite lihtsalt teada, kas teie tarkusehambad vajavad eemaldamist – ärge oodake, kuni probleem süveneb.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Võtke ühendust Sonin Hambaravi kliinikusse Tallinnas ja broneeri konsultatsioon dr Dmitri Soniniga.** Meie meeskond on valmis teid aitama ning leidma just teie jaoks parima ja valutuma lahenduse. Teie suutervis on meie missioon.

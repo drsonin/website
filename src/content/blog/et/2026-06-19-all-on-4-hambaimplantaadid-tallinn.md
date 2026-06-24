@@ -58,7 +58,3 @@ Meie patsiendid tulevad nii Tallinnast, mujalt Eestist kui ka välismaalt — se
 ### Broneeri konsultatsioon juba täna
 
 Kui soovite teada saada, kas All-on-4 lahendus sobib just teile, võtke ühendust **Sonin Hambaravi** kliiniku meeskonnaga Tallinnas. Esmasel konsultatsioonil hindame teie lõualuu seisundit, vastame kõigile küsimustele ja koostame personaalse raviplaani koos täpse hinnapakkumisega.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📞 Helistage meile või täitke broneerimisankeet meie veebilehel — esimene samm uue naeratuse suunas algab ühe kõnega.

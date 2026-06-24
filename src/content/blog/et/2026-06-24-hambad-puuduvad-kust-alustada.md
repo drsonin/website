@@ -70,7 +70,3 @@ Isegi ilma ägedate sümptomiteta soovitab **Dmitri Sonin** mitte oodata kauem k
 ---
 
 **Ärge lükake otsust edasi.** Täieliku hammaste kaotus on pöördepunkt, mis mõjutab teie toitumist, kõnet, enesetunnet ja üldist tervist. **Dr Dmitri Sonin** ja Sonin Hambaravi meeskond Tallinnas on valmis teid aitama — alates esimesest konsultatsioonist kuni lõpliku tulemuseni.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📍 **Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas** — helistage meile, kirjutage või täitke broneerimisankeet kodulehel. Esimene samm on kõige olulisem.

@@ -71,7 +71,3 @@ A broken root canal tooth can harbour bacteria even without obvious pain, becaus
 ---
 
 Root canal teeth can and do break — but losing that tooth does not mean losing your smile or your chewing function. Modern implants and bridges are reliable, long-lasting solutions that thousands of patients in Tallinn choose every year.
-
-[Book a consultation](/en/contact/)
-
-**Book your consultation at Sonin Hambaravi clinic in Tallinn.** Dr Dmitri Sonin and the team will assess your X-rays, explain your options honestly, and help you choose the treatment that fits your health, timeline, and budget. You can reach us through our website or by calling the clinic directly — we look forward to helping you.

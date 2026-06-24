@@ -98,8 +98,3 @@ Variables that affect the outcome include: whether two visits are needed, whethe
 ### Book a Consultation at Sonin Hambaravi
 
 If you are weighing your options for implant treatment, a consultation with Dr Dmitri Sonin at Sonin Hambaravi clinic in Tallinn will give you an exact treatment plan and a fixed cost estimate — with no obligation. You can then run your own numbers.
-
-[Book a consultation](/en/contact/)
-
-📍 **Sonin Hambaravi** | Tallinn, Estonia
-📞 Book your consultation at **[drsonin.com](https://drsonin.com)**

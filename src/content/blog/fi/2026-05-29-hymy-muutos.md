@@ -58,7 +58,3 @@ Sonin Hambaravi -klinikka erottuu edukseen yksilöllisen palvelun ja kokeneen he
 Suomalaisia potilaita palvellaan tarvittaessa myös suomen kielellä, mikä tekee hoitoprosessista sujuvan ja stressittömän.
 
 ### Varaa konsultaatio jo tänään
-
-[Varaa konsultaatio](/fi/contact/)
-
-Jos olet haaveillut kauniimmasta hymystä, nyt on oikea aika ottaa askel eteenpäin. Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja varaa konsultaatioaika. Yhdessä löydetään juuri sinulle sopiva hoitosuunnitelma – ja matka unelmahymysi alkaa.

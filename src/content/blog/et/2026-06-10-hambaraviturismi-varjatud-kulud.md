@@ -85,7 +85,3 @@ Tüsistuste korral lisanduvad täiendavad kulud kummalegi stsenaariumile.
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Enne otsuse tegemist on mõistlik saada selge ülevaade oma suutervisest ja Eestis saadaolevatest ravivõimalustest. **dr Dmitri Sonin** ja Sonin Hambaravi meeskond Tallinnas pakuvad tasuta esialgset konsultatsiooni, mille käigus koostatakse teile personaalne raviplaani ettepanek koos täpse hinnakalkulatsiooniga.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📞 Broneeri aeg Sonin Hambaravi kliinikus Tallinnas – helistage meile või täitke broneeringuvorm meie veebilehel.

@@ -83,7 +83,3 @@ Tallinna on maantieteellisesti lähellä Suomea – lauttamatka Helsingistä kes
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Haluatko selvittää, mikä hoitovaihtoehto sopii juuri sinun tilanteeseesi? Tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat maksuttoman alkukonsultaation, jossa käymme läpi hoitotarpeesi, kustannusarvion ja aikataulun.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Ota yhteyttä tai varaa aika osoitteessa [drsonin.com](https://drsonin.com)**

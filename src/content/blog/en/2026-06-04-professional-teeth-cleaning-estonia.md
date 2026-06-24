@@ -73,7 +73,3 @@ After your appointment, you will receive tailored advice on brushing technique, 
 ### Book Your Professional Teeth Cleaning in Tallinn
 
 Whether you are a resident of Estonia or travelling from abroad, Sonin Hambaravi clinic in Tallinn is ready to welcome you. Our team provides professional, friendly dental care with your long-term health as the priority.
-
-[Book a consultation](/en/contact/)
-
-**Contact us today to book your consultation or hygiene appointment at Sonin Hambaravi** — and take the first step towards a healthier, brighter smile.

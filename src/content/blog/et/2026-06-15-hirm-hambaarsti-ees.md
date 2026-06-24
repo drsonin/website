@@ -54,7 +54,3 @@ Dmitri Sonin rõhutab, et kaasaegne hambaravi on fundamentaalselt muutunud. Tän
 Sonin Hambaravi kliiniku meeskond teab, et usaldus ei teki üleöö – see ehitatakse üles iga külastusega. Seetõttu on kliiniku eesmärk tagada, et iga patsient lahkuks parema kogemusega kui tulles.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Ärge laske hirmul peatada teid tervete hammaste teel.** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna – meie meeskond on valmis teid vastu võtma mõistvalt ja professionaalselt. Helistage meile või täitke broneerimisankeet meie kodulehel. Esimene samm on alati kõige raskem, kuid dr Dmitri Sonin ja tema tiim on seal, et teha see samm teie jaoks nii lihtsaks kui võimalik.

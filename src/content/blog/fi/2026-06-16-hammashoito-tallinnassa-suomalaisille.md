@@ -63,7 +63,3 @@ Hyvä valmistautuminen tekee käynnistä sujuvan ja stressittömän. Tässä tä
 Hammashoito Tallinnassa on suomalaisille todellinen vaihtoehto: matka on lyhyt, hinta kilpailukykyinen ja laatu vastaa suomalaista tasoa – usein jopa ylittää sen henkilökohtaisen palvelun osalta. Oikean klinikan valinta on kuitenkin tärkeää.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Haluatko kuulla lisää tai varata ajan?** Ota yhteyttä **Sonin Hambaravi** -klinikalle Tallinnassa ja sovi maksuton alkukonsultaatio tri Dmitri Soninin kanssa. Kerromme sinulle rehellisesti, millainen hoito sopii sinulle parhaiten – ja mitä se maksaa. Varaa aikasi tänään ja ota ensimmäinen askel kohti terveempää hymyä!

@@ -54,7 +54,3 @@ See on üks sagedamini küsitavaid küsimusi. Tänapäevased meetodid ja lokaala
 ### Alustage oma naeratuse muutmist juba täna
 
 Iga inimene väärib naeratust, milles ta tunneb end enesekindlalt. Sonin Hambaravi kliinikus Tallinnas ootab teid dr Dmitri Sonin, kes aitab leida just teie vajadustele ja soovidele vastava lahenduse – olgu selleks siis lihtne valgendamine või täielik naeratuse ümberkujundamine.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneeri konsultatsioon juba täna** ja astumine esimene samm unistuste naeratuse suunas. Võtke meiega ühendust Sonin Hambaravi kliiniku veebisaidi kaudu või helistage meile – meie sõbralik meeskond on alati valmis teid aitama.

@@ -56,7 +56,3 @@ Dr Dmitri Sonin and the team at Sonin Hambaravi provide every implant patient wi
 ### Ready to Take the Next Step?
 
 Understanding your rights and the scope of any implant guarantee is the foundation of a confident treatment decision. Whether you are a local resident or travelling to Tallinn from abroad, Sonin Hambaravi clinic is ready to answer all your questions honestly and without obligation.
-
-[Book a consultation](/en/contact/)
-
-**Book your implant consultation at Sonin Hambaravi in Tallinn today** — and discover why so many patients across Europe trust us with their smiles.

@@ -72,7 +72,3 @@ With the right care, veneers can maintain their brilliance for many years. Key a
 ### Book Your Smile Consultation in Tallinn Today
 
 A beautiful smile is well within your reach. Whether you are a local patient or visiting Tallinn from abroad, the experienced team at **Sonin Hambaravi** is ready to help you achieve the smile you deserve.
-
-[Book a consultation](/en/contact/)
-
-Contact us today to book your personal consultation and take the first step towards a confident new you. We look forward to welcoming you to our clinic in the heart of Tallinn.

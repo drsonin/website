@@ -63,7 +63,3 @@ One of the most important things Dmitri Sonin emphasises to patients is this: pr
 Root canal treatment gives your tooth a second chance — and with proper care, a treated tooth can last a lifetime.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**Ready to get relief and protect your smile?** Book a consultation at **Sonin Hambaravi dental clinic** in Tallinn today. Our friendly team will assess your situation, answer all your questions, and guide you towards the most effective treatment. Contact us now — your healthier smile starts here.

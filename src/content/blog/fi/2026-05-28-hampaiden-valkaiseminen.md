@@ -62,7 +62,3 @@ Hampaiden valkaiseminen sopii useimmille aikuisille, joilla on terveet hampaat j
 Valkaisun tulos ei ole pysyvä, mutta se voi kestää vuosia hyvällä hammashoidolla. Kahvi, tee, viini ja tupakointi nopeuttavat hampaiden uudelleenvärjäytymistä. Säännöllinen hammaslääkärikäynti, huolellinen kotipuhdistus ja mahdollinen valkaisun ylläpitohoito pitävät hymysi kirkkaana pidempään.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-Haluatko selvittää, sopiiko hampaiden valkaiseminen sinulle? **Varaa aika Sonin Hambaravi -klinikalle Tallinnassa** ja tri Dmitri Sonin arvioi suusi tilanteen ja suosittelee parasta hoitovaihtoehtoa juuri sinulle. Ota yhteyttä – kirkas hymy on lähempänä kuin luuletkaan.

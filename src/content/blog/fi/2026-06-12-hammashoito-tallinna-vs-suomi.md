@@ -70,7 +70,3 @@ Tallinna soveltuu erityisesti potilaille, jotka:
 Mitä laajemmasta hoidosta on kyse, sitä merkittävämmäksi hintaero kasvaa – ja sitä enemmän läheisyydellä on käytännön merkitystä.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa maksuton konsultaatio Sonin Hambaravi -klinikalle Tallinnassa.** Dmitri Sonin ja hänen tiiminsä arvioivat hoitotarpeesi ja toimittavat sinulle selkeän kustannusarvion ilman sitoumuksia. Ota yhteyttä verkkosivujemme kautta tai puhelimitse – ensimmäinen askel kohti edullisempaa hammashoitoa on helpompi kuin luuletkaan.

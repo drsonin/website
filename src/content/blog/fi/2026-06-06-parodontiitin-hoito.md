@@ -63,7 +63,3 @@ Dmitri Sonin muistuttaa, että monet potilaat hakeutuvat hoitoon vasta siinä va
 ---
 
 **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa**
-
-[Varaa konsultaatio](/fi/contact/)
-
-Mikäli sinulla on huoli ienten kunnosta tai olet havainnut parodontiitin oireita, älä epäröi ottaa yhteyttä. Sonin Hambaravi -klinikalla Tallinnassa saat kattavan parodontologisen tutkimuksen ja yksilöllisesti suunnitellun hoitosuunnitelman. Varaa aika tänään ja ota ensimmäinen askel kohti terveempää suuta!

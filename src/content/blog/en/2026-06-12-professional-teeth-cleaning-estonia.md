@@ -71,7 +71,3 @@ Prevention will always be more affordable — and more comfortable — than trea
 ### Book Your Professional Teeth Cleaning at Sonin Hambaravi
 
 Ready to take the next step toward a healthier smile? **Sonin Hambaravi dental clinic** in Tallinn, Estonia welcomes new patients and is happy to assist with any questions you may have about your oral health.
-
-[Book a consultation](/en/contact/)
-
-Contact us today to book your consultation or professional cleaning appointment. Our team looks forward to giving your smile the expert care it deserves.

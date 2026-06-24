@@ -61,7 +61,3 @@ Purentavirheet ja hampaiston ahtaus ovat asioita, jotka havaitaan usein jo koulu
 ### Varaa aika Sonin Hambaravi -klinikalle Tallinnassa
 
 Lapsenne hampaiden terveys on investointi koko elämää varten. Sonin Hambaravi -klinikalla Tallinnassa tarjoamme ammattitaitoista ja lapsille ystävällistä hammashoitoa mukavassa ympäristössä. Tri Dmitri Sonin ja hänen tiiminsä ovat valmiita auttamaan teitä kaikissa lasten hammashoidon kysymyksissä – ensimmäisestä maitohampaan tarkastuksesta oikomishoitoon saakka.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Ota yhteyttä ja varaa konsultaatioaika jo tänään – tervetuloa Sonin Hambaravi -klinikalle!**

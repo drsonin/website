@@ -62,7 +62,3 @@ The clinic is equipped with up-to-date technology, and all treatments are perfor
 ### Book Your Gum Disease Consultation in Tallinn Today
 
 Gum disease responds best to treatment when caught early. Don't wait for symptoms to worsen — take the first step towards healthier gums today.
-
-[Book a consultation](/en/contact/)
-
-**Contact Sonin Hambaravi dental clinic in Tallinn to book your consultation.** Our friendly team will assess your gum health, answer your questions, and create a personalised treatment plan just for you. Your smile deserves expert care.

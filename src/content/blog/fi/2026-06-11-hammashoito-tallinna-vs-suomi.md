@@ -78,7 +78,3 @@ Dmitri Sonin kouluttautuu säännöllisesti alan kansainvälisissä kongresseiss
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos olet harkitsemassa implanttia, kruunua tai muuta hammashoitoa ja haluat selkeän kustannusarvion, voit varata maksuttoman konsultaation **Sonin Hambaravi** -klinikalle Tallinnaan. Tri Dmitri Sonin ja klinikan henkilökunta vastaavat kysymyksiisi suomeksi ja laativat sinulle yksilöllisen hoitosuunnitelman.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa aika:** [drsonin.com](https://drsonin.com)

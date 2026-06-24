@@ -77,11 +77,3 @@ The longer failing teeth or ill-fitting dentures remain in place, the more bone 
 **Long-term reality:** With proper care — twice-daily brushing, a Water Flosser for cleaning under the bridge, and annual check-ups — All-on-4 implants can last 15–25 years. Dr Dmitri Sonin considers this one of the most reliable and transformative procedures in modern dentistry when done correctly.
 
 ---
-
-### Book Your All-on-4 Consultation at Sonin Hambaravi in Tallinn
-
-If you're ready to understand exactly what your treatment would cost, how long it takes, and whether you're a suitable candidate, we invite you to book a personal consultation at **Sonin Hambaravi dental clinic in Tallinn**. Our team will provide a full 3D assessment, a transparent itemised treatment plan, and honest answers — with no pressure and no surprises.
-
-[Book a consultation](/en/contact/)
-
-📍 Tallinn, Estonia | 🌐 [drsonin.com](https://drsonin.com) | 📞 Contact us to schedule your appointment today.

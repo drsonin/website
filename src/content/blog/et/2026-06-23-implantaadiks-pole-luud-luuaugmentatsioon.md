@@ -68,8 +68,3 @@ Siinuse tõstmine ja luuaugmentatsioon on rutiinsed protseduurid, mida tehakse k
 Dr Dmitri Sonin rõhutab: **"Puuduv luu ei tähenda, et implantaat on võimatu. See tähendab, et teeme esmalt tugeva vundamendi."**
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Soovite teada, kas Teie lõualuus on piisavalt luud implantaadiks?**
-Broneerige konsultatsioon **Sonin Hambaravi kliinikusse Tallinnas** — teeme 3D-pildistamise ja koostame Teile täpse raviplaani. Helistage meile või täitke broneerimisankeet meie veebilehel. Esimene samm parema naeratuse suunas algab alati selge infoga.

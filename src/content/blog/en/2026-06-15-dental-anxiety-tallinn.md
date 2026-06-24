@@ -52,7 +52,3 @@ At Sonin Hambaravi, you receive European-standard care in a clinic that genuinel
 Dental anxiety is real, it is valid, and it is treatable. With the right support, even the most fearful patients can receive the care they need — and many go on to attend regular check-ups with confidence.
 
 If dental fear has been holding you back from maintaining your oral health, now is the time to take the first step.
-
-[Book a consultation](/en/contact/)
-
-**Book a consultation at Sonin Hambaravi in Tallinn today.** Our team is ready to listen, support you, and create a treatment plan tailored entirely to your comfort and needs. You can reach us through our website or by calling the clinic directly. Your healthier, happier smile is closer than you think.

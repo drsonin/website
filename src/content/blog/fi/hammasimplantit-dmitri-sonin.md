@@ -49,7 +49,3 @@ Implantin asettamisen jälkeen Dmitri Sonin suosittelee:
 Kipu leikkauksen jälkeen on yleensä lievää ja helpottuu hyvin tavallisilla kipulääkkeillä.
 
 ## Varaa konsultaatio
-
-[Varaa konsultaatio](/fi/contact/)
-
-Jos harkitset hammasimplanttia, ensimmäinen askel on diagnostiikka. Tri Dmitri Sonin tekee tutkimuksen, ottaa röntgenkuvan ja kertoo, sopiiko toimenpide juuri sinulle, kuinka kauan se kestää ja paljonko se maksaa. Sonin Hambaravi -klinikka sijaitsee Tallinnassa — varaa aika verkkosivustolla tai puhelimitse.

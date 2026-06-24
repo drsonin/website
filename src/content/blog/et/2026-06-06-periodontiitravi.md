@@ -63,7 +63,3 @@ Professionaalne puhastus iga 3–6 kuu järel on periodontiidi korral eriti olul
 Sonin Hambaravi kliinikus on periodontiidi ravi kompleksne ja patsiendikeskne. Kaasaegne aparatuur, läbipaistev suhtlus ja individuaalne lähenemine tagavad, et iga patsient mõistab oma seisundit ja ravivõimalusi. Dr Dmitri Sonin usub, et teadlik patsient on parima ravitulemuse võti.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Kas teil on muretsemine igemete tervise pärast?** Ärge oodake, kuni probleem süveneb. Broneerige juba täna konsultatsioon Sonin Hambaravi kliinikus Tallinnas ja saage professionaalne hinnang oma suutervisele. Terved igemid on tervete hammaste alus – ja meie oleme siin, et teid selles toetada.

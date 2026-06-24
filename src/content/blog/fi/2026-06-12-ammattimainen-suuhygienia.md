@@ -53,7 +53,3 @@ Ammattimainen suuhygienia sopii kaikenikäisille – lapsista ikääntyneisiin. 
 Myös täysin terveet ihmiset hyötyvät säännöllisistä käynneistä, sillä ammattimainen puhdistus ylläpitää jo saavutettua hyvää suun terveyttä.
 
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
-
-[Varaa konsultaatio](/fi/contact/)
-
-Haluatko pitää suusi terveenä ja hyvinvoivana? **Varaa aika Sonin Hambaravi -klinikalle Tallinnassa** ja anna asiantuntijoidemme huolehtia suusi hyvinvoinnista. Klinikka tarjoaa yksilöllistä ja ammattitaitoista hoitoa modernissa ympäristössä. Otetaan yhdessä askel kohti parempaa suun terveyttä – ota yhteyttä jo tänään!

@@ -71,7 +71,3 @@ Potilaan kannattaa vertailla:
 ### Varaa konsultaatio Tallinnassa
 
 Tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat maksuttoman alkukonsultaation, jossa käydään läpi hoitovaihtoehdot, kustannukset ja aikataulu. Tallinna on saavutettavissa laivalla Helsingistä muutamassa tunnissa, ja useimmat hoidot voidaan suunnitella päiväkäynteinä.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa aikasi osoitteessa drsonin.com tai soita klinikalle suoraan.** Saat kirjalliset tarjoukset, selkeät takuuehdot ja henkilökohtaisen hoitosuunnitelman – ennen kuin teet mitään päätöksiä.

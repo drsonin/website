@@ -62,7 +62,3 @@ Parhaat ehdokkaat vinereille ovat henkilöt, joilla on terveet, mutta esteettise
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa
 
 Jos olet kiinnostunut hammasvinereistä tai haluat tietää, sopivatko ne juuri sinulle, **tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa** ovat valmiita auttamaan. Tarjoamme yksilöllistä hoitoa, modernit välineet ja aidon kiinnostuksen jokaisen potilaan hymyä kohtaan.
-
-[Varaa konsultaatio](/fi/contact/)
-
-📞 **Varaa konsultaatioaikasi tänään** – ota yhteyttä Sonin Hambaravi -klinikalle ja ota ensimmäinen askel kohti unelmiesi hymyä!

@@ -73,7 +73,3 @@ On tilanteita, joissa implantti ei ole ensisijainen vaihtoehto – esimerkiksi j
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos olet harkinnut hammasimplanttia ja haluat tietää tarkan hinnan omaan tilanteeseesi, **varaa maksuton alkukonsultaatio Sonin Hambaravi -klinikalle Tallinnassa**. Klinikalla puhutaan suomea, hoidon laatu on korkeatasoista ja hinnat ovat läpinäkyviä.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Ota yhteyttä tänään** – askeleesi kohti kaunista ja toimivaa hymyä alkaa juuri täältä.

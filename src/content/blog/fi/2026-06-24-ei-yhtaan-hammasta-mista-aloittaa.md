@@ -79,7 +79,3 @@ Tri Dmitri Sonin muistuttaa, että hoitoon hakeutumiseen ei koskaan ole liian my
 ---
 
 **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa**
-
-[Varaa konsultaatio](/fi/contact/)
-
-Jos sinulla ei ole yhtään hammasta tai tilanne on pitkään ollut hoitamatta, ota ensimmäinen askel tänään. Sonin Hambaravi -klinikalla Tallinnassa teemme kattavan alkuarvion ja laadimme sinulle selkeän, realistisen hoitosuunnitelman. Ota yhteyttä ja varaa aika — hampaat takaisin, elämänlaatu paremmaksi.

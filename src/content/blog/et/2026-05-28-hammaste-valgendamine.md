@@ -58,7 +58,3 @@ Seepärast on professionaalne eelhindamine nii oluline – **dr Dmitri Sonin** t
 Professionaalse valgendamise tulemused kestavad tavaliselt **1–3 aastat**, sõltuvalt elustiilist ja suuhügieenist. Regulaarne harjamine, hambaniidi kasutamine ning visiidid professionaalsele puhastusele aitavad tulemust pikendada. Kohvi ja tee tarbimise vähendamine ning tubakast loobumine aitab samuti valget naeratust säilitada.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Soovid säravat naeratust, milles võid olla kindel? **Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas** ja leia oma hammastele parim lahendus. Võta meiega ühendust juba täna – esimene samm ilusa naeratuse poole algab professionaalse nõustamisega.

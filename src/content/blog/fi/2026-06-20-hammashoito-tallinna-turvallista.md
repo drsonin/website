@@ -49,7 +49,3 @@ Tämä ei tarkoita, että laadusta tingitään. Sonin Hambaravissa käytetään 
 Hammashoito Tallinnassa on turvallista – kun valitset oikean klinikan. EU-säätely, koulutettu henkilökunta, moderni laitteisto ja avoin kommunikaatio ovat ne tekijät, jotka tekevät hoidosta luotettavaa. Tri Dmitri Sonin ja hänen tiiminsä ovat hoitaneet satoja suomalaisia potilaita vuosien varrella, ja klinikka on rakennettu juuri tämänkaltaisen luottamuksen varaan.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Haluatko tietää, mitä hoitosi maksaisi Tallinnassa?** Varaa maksuton alkukonsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Kerromme sinulle selkeästi hoitovaihtoehdot, aikataulun ja hinnan – ilman piilokustannuksia ja ilman paineita. Ota yhteyttä jo tänään ja ota ensimmäinen askel kohti terveempää hymyä.

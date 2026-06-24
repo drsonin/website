@@ -68,7 +68,3 @@ Vanematel on suur roll lapse hoiakute kujundamisel. Mõned praktilised nõuanded
 - Tulge vastuvõtule hea tujuga – laps tunneb vanemate ärevust
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Teie lapse naeratus on meie prioriteet. **Broneerige konsultatsioon dr Dmitri Soniniga juba täna** – Sonin Hambaravi kliinikus Tallinnas ootame teid sooja ja professionaalse teenindusega. Võtke meiega ühendust telefoni teel või täitke broneeringuvorm meie kodulehel. Iga terve hammas algab õigest esimesest sammust!

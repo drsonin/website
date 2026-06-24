@@ -50,9 +50,3 @@ Kui teate, et hambaarstikartus on teie jaoks reaalne takistus, proovige neid lih
 - **Hingamistehnikad** — sügav ja aeglane hingamine aitab keha rahustada juba ootesaalis.
 
 Dr Dmitri Sonin soovitab oma patsientidele alati: "Esimene samm on kõige raskem. Kui olete korra kliinikusse tulnud ja näinud, et see ei olnud nii hull kui kardetud, muutub iga järgmine kord lihtsamaks."
-
-### Broneeri Konsultatsioon Sonin Hambaravi Kliinikus Tallinnas
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Kui hirm on seni takistanud teid vajaliku hambararavi saamist, on nüüd õige aeg astuda esimene samm. Sonin Hambaravi kliinikus Tallinnas ootab teid mõistev ja professionaalne meeskond, kes on valmis teie muredega tegelema ilma kiirustamise ja hukka mõistmiseta. Broneeri konsultatsioon juba täna — teie naeratus väärib parimat hoolt.

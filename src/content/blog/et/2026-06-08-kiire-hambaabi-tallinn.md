@@ -68,9 +68,3 @@ Kui valu on tugev ja te ei jõua kohe kohale, saate vahepeal:
 4. **Helistada meile** – anname telefoni teel esmased soovitused
 
 ---
-
-### Broneeri konsultatsioon juba täna
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Ärge laske hambavalul oma päeva rikkuda. **Dr Dmitri Sonin** ja Sonin Hambaravi meeskond on valmis teid aitama – kiiresti, professionaalselt ja hoolega. Võtke meiega ühendust juba täna, et broneerida vastuvõtuaeg Sonin Hambaravi kliinikus Tallinnas. Teie hambatervis on meie prioriteet.

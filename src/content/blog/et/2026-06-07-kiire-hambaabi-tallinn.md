@@ -63,7 +63,3 @@ Usume, et igal patsiendil on õigus saada kiiret, kvaliteetset ja inimlikku hamb
 ### Broneeri konsultatsioon juba täna
 
 Kas tunnete hambavalu või olete sattunud mõnda ülalkirjeldatud olukorda? Ärge oodake, kuni olukord halveneb. **Võtke ühendust Sonin Hambaravi kliinikusse Tallinnas** ja meie meeskond leiab teile aja nii kiiresti kui võimalik. Kiire hambaabi ei ole luksus – see on teie tervise kaitsmine õigel hetkel.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📞 Helistage meile või broneerige aeg veebis – oleme siin, et aidata!

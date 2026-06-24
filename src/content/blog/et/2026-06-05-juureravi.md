@@ -74,8 +74,3 @@ Sonin Hambaravi on Tallinna hambaravikliinik, kus professionaalsus ja patsiendik
 Kliinik kasutab digitaalset röntgenoloogiat, kaasaegseid sterilisatsioonistandardeid ja individuaalset raviplaani igale patsiendile.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Ei pea kannatama hambavalu all – abi on lähedal.**
-Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna ja lase oma hammastel saada ravi, mida nad väärivad. Võta ühendust meie kliinikuga ning meie meeskond aitab Sul leida parima aja ja lahenduse.

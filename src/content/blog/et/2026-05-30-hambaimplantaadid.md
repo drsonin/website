@@ -70,11 +70,3 @@ Tüüpilised küsimused, mida patsiendid esitavad:
 Hambaimplantaati hooldatakse täpselt nagu päris hammast – korralik harjamine, hambaniit, regulaarsed kontrollkäigud hambaarstil. Õige hoolduse korral on implantaadid äärmiselt vastupidavad ja võivad teenida teid kogu eluea.
 
 ---
-
-### Broneeri konsultatsioon Sonin Hambaravi kliinikus
-
-Kui soovid teada saada, kas hambaimplantaadid sobivad just sinule, on parim samm broneerida konsultatsiooniaja. **Dr Dmitri Sonin** ja Sonin Hambaravi meeskond Tallinnas on valmis vastama kõigile sinu küsimustele ning aitama sul teha teadliku otsuse oma naeratuse tuleviku suhtes.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📞 **Võta meiega ühendust** ja broneeri oma konsultatsioon juba täna – sest terve ja ilus naeratus algab õigest otsusest.

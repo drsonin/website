@@ -71,7 +71,3 @@ Dmitri Sonin on kokenut hammaslääkäri, joka erikoistuu muun muassa suukirurgi
 Klinikka sijaitsee keskeisellä paikalla Tallinnassa, ja sinne on helppo tulla niin paikallisilta kuin ulkomailta – myös Suomesta.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaatko konsultaation?** Jos sinulla on kipua, turvotusta tai epäilet viisaudenhammasongelmaa, älä odota tilanteen pahenemista. Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja varaa aika tri Dmitri Soninin vastaanotolle. Ammattitaitoinen hoito odottaa sinua.

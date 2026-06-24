@@ -61,8 +61,3 @@ Sonin Hambaravi kliinikus Tallinnas ühendame kaasaegse tehnoloogia ja personaal
 Kliiniku patsiendid hindavad eriti meie sõbralikku õhkkonda, selgeid selgitusi ja parimat tulemust, mida kaasaegne hambaravi suudab pakkuda.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Soovid teada, kas hambavinerid sobivad just Sulle?**
-Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas – meie meeskond vastab kõikidele küsimustele ja aitab Sul leida parima lahenduse unistuste naeratuse saavutamiseks. Võta meiega ühendust juba täna!

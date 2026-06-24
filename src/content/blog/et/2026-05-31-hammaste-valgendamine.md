@@ -54,9 +54,3 @@ Valgendamise tulemus ei ole igavene, kuid õige hooldusega saab efekti oluliselt
 ### Kellele Valgendamine ei Sobi?
 
 Hammaste valgendamine ei sobi kõigile. Protseduur ei ole soovitatav rasedatele ja imetavatele naistele, alla 16-aastastele lastele ning inimestele, kellel on tugevalt tundlikud hambad või aktiivsed igemehaigused. Samuti tuleb arvestada, et valgendamine ei mõjuta kunstlikke materjale nagu kroone, siirdeid ega komposiittäidiseid – need jäävad oma algse värviga.
-
-### Broneeri Konsultatsioon Sonin Hambaravi Kliinikus
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Kas soovite säravat naeratust, kuid pole kindel, milline valgendamismeetod teile kõige paremini sobib? **Broneerige konsultatsioon dr Dmitri Soniniga Sonin Hambaravi kliinikus Tallinnas** – meie meeskond hindab teie hammaste seisundit ja aitab valida just teile sobiva lahenduse. Esimene samm kaunima naeratuse poole algab ühest telefonikõnest või veebibroneeringust. Ootame teid!

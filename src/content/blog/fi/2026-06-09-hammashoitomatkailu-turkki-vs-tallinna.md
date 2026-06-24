@@ -83,8 +83,3 @@ Luvut ovat suuntaa-antavia, ja yksilölliset tilanteet vaihtelevat.
 ### Varaa konsultaatio Tallinnassa
 
 Jos harkitset implantti- tai muuta hammashoitoa ja haluat selkeän arvion omasta tilanteestasi, voit varata konsultaatioajan Sonin Hambaravi -klinikalle Tallinnaan. Tri Dmitri Sonin ja tiimi käyvät kanssasi läpi hoitosuunnitelman, kustannukset ja aikataulun – ilman sitoumuksia.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Sonin Hambaravi | Tallinna**
-Varaa aika: [www.drsonin.com](https://drsonin.com)

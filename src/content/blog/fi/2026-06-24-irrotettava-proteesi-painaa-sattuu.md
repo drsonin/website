@@ -67,7 +67,3 @@ Tärkeimmät ennaltaehkäisyn periaatteet:
 - Kerro lääkärille, jos paino on muuttunut merkittävästi – se vaikuttaa myös kasvojen luurakenteeseen.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Onko proteesisi alkanut painaa tai hangata?** Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Arvioimme proteesin istuvuuden, ienkudoksen kunnon ja sen, mikä ratkaisu sopii juuri sinulle – korjaus, vuoraus vai uusi proteesi. Ota yhteyttä – kivun kanssa ei tarvitse elää.

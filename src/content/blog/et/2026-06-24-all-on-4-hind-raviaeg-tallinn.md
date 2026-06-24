@@ -81,10 +81,3 @@ All-on-4 ei sobi kõigile. Vastunäidustused on näiteks kontrollimata diabeet, 
 Dr Dmitri Sonin rõhutab, et hea tulemus algab ausast ja põhjalikust konsultatsioonist: *"Me ei müü implantaate — me leiame koos patsiendiga lahenduse, mis sobib just tema suule, tervisele ja elustiiIile."*
 
 ---
-
-**Soovite teada, kas All-on-4 sobib just teile?**
-Broneerige konsultatsioon Sonin Hambaravi kliinikusse Tallinnas — saate 3D-analüüsi, individuaalse raviplaani ja selge ülevaate kõigist kuludest. Esimene samm on alati kõige tähtsam.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-👉 **Broneeri aeg: [drsonin.com](https://drsonin.com)**

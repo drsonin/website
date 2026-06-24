@@ -76,7 +76,3 @@ Dmitri Sonin korostaa potilaille aina muutamaa käytännön asiaa:
 Hyvä uutinen on se, että nykyaikaisilla menetelmillä lähes jokainen potilas voidaan saattaa tilanteeseen, jossa implantti on mahdollinen.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa.** Tri Dmitri Sonin arvioi tilanteesi CBCT-kuvauksen perusteella ja kertoo suoraan, mikä toimenpide sopii juuri sinulle — sinuslift, luusiirto vai jokin muu ratkaisu. Ota yhteyttä ja aloitetaan yhdessä tie pysyvään hampaisiin.

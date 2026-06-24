@@ -80,7 +80,3 @@ Numbrid kõnelevad ise. Lõplik valik sõltub teie konkreetsest olukorrast, terv
 ### Broneeri konsultatsioon Sonin Hambaravis
 
 Kui soovite saada selget ülevaadet oma ravivajadustest, kuludest ja võimalikest alternatiividest, kutsub dr Dmitri Sonin teid konsultatsioonile **Sonin Hambaravi kliinikusse Tallinnas**. Konsultatsiooni käigus vaatame üle teie hammaste seisundi, koostame individuaalse raviplaani ja vastame kõigile küsimustele – ilma kohustuseta.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneeri aeg:** [drsonin.com](https://drsonin.com)

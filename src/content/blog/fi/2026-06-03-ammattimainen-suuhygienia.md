@@ -53,7 +53,3 @@ Dmitri Sonin on rakentanut klinikastaan paikan, jossa jokainen potilas saa yksil
 Klinikka hyödyntää moderneja välineitä ja näyttöön perustuvia menetelmiä varmistaakseen, että jokainen käynti tuo todellista lisäarvoa potilaan suun terveydelle.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa aika tänään.** Jos haluat parantaa suuhygieniaasi tai kaipaat ammattilaisen arviota suusi nykytilasta, ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Tri Dmitri Soninin tiimi ottaa sinut vastaan lämpimästi ja auttaa rakentamaan tien terveempään suuhun – askel kerrallaan.

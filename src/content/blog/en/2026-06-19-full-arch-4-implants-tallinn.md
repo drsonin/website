@@ -57,7 +57,3 @@ Dr Dmitri Sonin emphasises that long-term success starts with thorough planning 
 ---
 
 **Ready to take the first step toward your new smile?**
-
-[Book a consultation](/en/contact/)
-
-Book a consultation at **Sonin Hambaravi dental clinic** in Tallinn today. Our team will assess your situation, answer all your questions, and create a personalised treatment plan tailored to your needs and budget. Contact us through our website or call the clinic directly — a healthier, confident smile is closer than you think.

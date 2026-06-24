@@ -93,7 +93,3 @@ The numbers speak for themselves. Geography, travel logistics, guarantee terms, 
 ### Book a Consultation at Sonin Hambaravi
 
 If you are based in Finland or Estonia and want a clear, itemised treatment plan with no surprises, contact Sonin Hambaravi clinic in Tallinn. Dr Dmitri Sonin and the team provide a detailed cost estimate at the initial consultation. You will leave with exact figures, a treatment timeline, and answers to your questions.
-
-[Book a consultation](/en/contact/)
-
-**Book your consultation at drsonin.com or call the clinic directly.**

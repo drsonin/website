@@ -74,7 +74,3 @@ Hea uudis: vinerite hooldus ei erine oluliselt tavalisest suuhügieenist.
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui oled mõelnud, kas hambavinerid sobiksid just sulle, on parim samm alustada konsultatsioonist. **Sonin Hambaravi kliinikus Tallinnas** võtab dr Dmitri Sonin aja, et kuulata sinu soove, hinnata suu seisundit ja selgitada, milline lahendus annab sulle kõige parema ja püsivama tulemuse.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Sinu unistuste naeratus on meiega ühe sammu kaugusel – **broneeri konsultatsioon juba täna!**

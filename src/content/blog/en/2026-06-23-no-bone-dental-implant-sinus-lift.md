@@ -69,10 +69,3 @@ Early evaluation means more options and shorter treatment timelines.
 - Results, when achieved, are permanent — implants placed after bone grafting last just as long as those placed in naturally adequate bone
 
 ---
-
-**Ready to find out whether a sinus lift or bone graft is right for you?** Book a consultation with Dmitri Sonin at **Sonin Hambaravi** dental clinic in Tallinn. We will assess your current bone volume using a 3D cone beam CT scan and give you a clear, honest treatment plan — with realistic timelines and costs. No dead ends. Just solutions.
-
-[Book a consultation](/en/contact/)
-
-📍 **Sonin Hambaravi, Tallinn, Estonia**
-🌐 [drsonin.com](https://drsonin.com)

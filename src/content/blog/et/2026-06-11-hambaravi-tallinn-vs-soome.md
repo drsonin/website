@@ -85,7 +85,3 @@ Numbrid räägivad enda eest. Iga patsient teeb oma otsuse ise, lähtudes oma pr
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui soovid teada täpset hinda just sinu hambale, kutsub **dr Dmitri Sonin** sind tasuta konsultatsioonile Sonin Hambaravi kliinikusse Tallinnas. Konsultatsiooni käigus tehakse röntgenuuring, hinnatakse luu seisundit ja koostatakse individuaalne raviplaani kalkulatsioon – ilma kohustuseta.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneeri aeg juba täna** – täida kontaktivorm meie kodulehel või helista kliinikusse otse. Tallinn on lähemal, kui arvad.

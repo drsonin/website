@@ -50,11 +50,3 @@ When you factor in travel and accommodation costs, most Stockholm patients still
 Dr Dmitri Sonin and the team at Sonin Hambaravi have built a strong reputation among international patients, particularly those travelling from Finland, Sweden, and other Nordic countries. The clinic combines modern technology, a calm and welcoming environment, and a highly personalised approach to care. Every treatment plan is tailored to the individual patient's anatomy, health history, and aesthetic goals.
 
 Patient reviews consistently highlight not only the clinical results but also the attentive communication and transparent guidance provided throughout the process — from the first enquiry to the final fitting.
-
-### Book Your Consultation in Tallinn
-
-If you are ready to explore whether All-on-4 is the right solution for you, we warmly invite you to book a consultation at Sonin Hambaravi clinic in Tallinn. Our team will assess your suitability for treatment, provide a detailed cost estimate, and answer every question you may have — with no pressure and no obligation.
-
-[Book a consultation](/en/contact/)
-
-Contact us today to take the first step towards a confident, permanent smile at a price that makes sense.

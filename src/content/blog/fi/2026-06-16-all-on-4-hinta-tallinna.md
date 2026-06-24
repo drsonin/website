@@ -67,7 +67,3 @@ Tallinna on Suomen lähimpänä sijaitseva kansainvälinen kaupunki – laivayht
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos harkitset All-on-4 -hammasimplantteja tai haluat tietää lisää hoidon sopivuudesta juuri sinulle, älä epäröi ottaa yhteyttä tri Dmitri Soniniin ja Sonin Hambaravi -klinikan ammattilaisiin Tallinnassa. Alkukonsultaation aikana arvioidaan suusi kunto, käydään läpi hoitovaihtoehdot ja laaditaan sinulle yksilöllinen, läpinäkyvä kustannusarvio.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Ota yhteyttä Sonin Hambaravi -klinikalle tänään ja ota ensimmäinen askel kohti kaunista, kiinteää hymyä!**

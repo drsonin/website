@@ -78,7 +78,3 @@ Whether you are a local resident or visiting Estonia's capital, Sonin Hambaravi 
 ### Book Your Emergency Consultation Today
 
 Don't let dental pain take over your day — or your life. If you are experiencing a dental emergency in Tallinn, contact **Sonin Hambaravi** right away. Our friendly team will find you the earliest available appointment and guide you through every step of your care.
-
-[Book a consultation](/en/contact/)
-
-📞 **Call us or book online at Sonin Hambaravi — Tallinn's trusted destination for emergency dental care.**

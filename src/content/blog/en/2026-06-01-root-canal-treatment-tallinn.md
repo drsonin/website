@@ -66,7 +66,3 @@ Choosing to treat rather than extract a damaged tooth preserves your natural bit
 ### Book Your Consultation in Tallinn Today
 
 Don't let tooth pain disrupt your life. Whether you're dealing with an acute infection or have been putting off treatment out of anxiety, the team at Sonin Hambaravi is here to help — without judgement and with full focus on your comfort.
-
-[Book a consultation](/en/contact/)
-
-**Contact Sonin Hambaravi dental clinic in Tallinn today** to book your consultation and find out whether root canal treatment is the right solution for you. Your healthy smile is worth saving.

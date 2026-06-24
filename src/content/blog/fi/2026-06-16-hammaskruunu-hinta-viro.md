@@ -84,10 +84,3 @@ Jos etsit laadukasta hammashoitoa kohtuulliseen hintaan, Viro — ja erityisesti
 ---
 
 ### Varaa konsultaatio Sonin Hambaravissa
-
-Haluatko tietää, sopiiko hammaskruunu sinulle ja mitä se maksaisi? **Sonin Hambaravi** Tallinnassa ottaa sinut vastaan ammattitaidolla ja yksilöllisellä huomiolla. Varaa ilmainen alkukonsultaatio jo tänään — ota yhteyttä ja aloitetaan yhdessä matka terveempään hymyyn.
-
-[Varaa konsultaatio](/fi/contact/)
-
-📍 Sonin Hambaravi | Tallinna, Viro
-🌐 [drsonin.com](https://drsonin.com)

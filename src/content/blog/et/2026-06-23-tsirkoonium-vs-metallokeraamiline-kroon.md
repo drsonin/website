@@ -63,10 +63,3 @@ Dr Dmitri Sonin rõhutab, et parim kroon on see, mis valitakse individuaalselt �
 ---
 
 **Ei tea, milline kroon on teie jaoks õige valik?**
-
-Broneerige konsultatsioon **Sonin Hambaravi kliinikusse Tallinnas** — meie hambaarstid hindavad teie olukorra individuaalselt ja soovitavad teile parima lahenduse. Varajane nõustamine säästab aega, raha ja muret.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📍 Sonin Hambaravi — Tallinn
-📞 Broneeri aeg juba täna

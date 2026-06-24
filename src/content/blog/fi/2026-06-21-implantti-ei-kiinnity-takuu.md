@@ -66,7 +66,3 @@ On rehellistä kertoa myös rajoituksista. Takuu ei yleensä koske tilanteita, j
 Avoimuus takuuehtojen suhteen kuuluu klinikan toimintakulttuuriin – yllätyksiä ei tule.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Onko sinulla huolta implanttisi kiinnittymisestä tai harkitsetko implanttihoitoa?** Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Asiantunteva tiimimme arvioi tilanteesi yksilöllisesti ja tri Dmitri Sonin vastaa kaikkiin kysymyksiisi. Ota yhteyttä jo tänään – terveempi hymy alkaa yhdestä puhelusta.

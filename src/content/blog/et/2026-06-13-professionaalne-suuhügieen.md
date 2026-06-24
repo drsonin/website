@@ -58,7 +58,3 @@ Suutervis on tihedalt seotud üldise tervisega ning investeering professionaalse
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui soovite alustada oma suutervisesse investeerimist või on teie viimane professionaalne suuhügieenivisiit jäänud kaugemasse minevikku, on just nüüd õige aeg tegutseda. **Sonin Hambaravi kliinikus Tallinnas** ootab teid dr Dmitri Sonin ja tema meeskond, et pakkuda personaalset ja hoolivat hambaarsti abi.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Broneerige oma konsultatsioon juba täna – teie naeratus väärib parimat hoolt!

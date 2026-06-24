@@ -74,8 +74,3 @@ On tärkeää tietää myös takuun rajoitukset. Yleensä takuu **ei kata** tila
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos harkitset hammasimplanttia Virossa tai sinulla on kysymyksiä takuuseen liittyen, **tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa** ovat valmiita auttamaan. Ensimmäisellä konsultaatiokäynnillä käymme läpi tilanteesi, selitämme takuuehdot selkeästi ja laadimme sinulle räätälöidyn hoitosuunnitelman.
-
-[Varaa konsultaatio](/fi/contact/)
-
-📍 **Sonin Hambaravi, Tallinna**
-Varaa aika jo tänään – laadukasta hammashoitoa lähellä Suomea, selkein ehdoin ja pitkäaikaisella takuulla.

@@ -71,7 +71,3 @@ Tällaisissa tapauksissa hoidetaan ensin perussairaudet ja arvioidaan tilanne uu
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa
 
 Jos olet kiinnostunut hammasvinereistä ja haluat tietää, sopivatko ne juuri sinulle, paras seuraava askel on ammattilaisen arvio. Sonin Hambaravi -klinikalla Tallinnassa tri Dmitri Sonin ja hänen kokenut tiiminsä ovat valmiita auttamaan sinua saavuttamaan haluamasi lopputuloksen turvallisesti ja ammattitaitoisesti.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa konsultaatioaika jo tänään** – ota ensimmäinen askel kohti kaunista ja itsevarmuutta huokuvaa hymyä. Ota yhteyttä Sonin Hambaraviin ja kysy lisää hammasvinereistä tai muista esteettisen hammaslääketieteen palveluistamme.

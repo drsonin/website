@@ -57,7 +57,3 @@ Dmitri Sonin muistuttaa, että ennaltaehkäisy on aina edullisempaa – niin tal
 Tallinnassa toimiva Sonin Hambaravi -klinikka tarjoaa modernit tilat, uusimman teknologian sekä henkilökohtaisen palvelun jokaiselle potilaalle. Klinikka palvelee sekä virolaisia että ulkomaisia potilaita, ja ajanvaraus sujuu vaivattomasti myös suomen kielellä.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa konsultaatio tänään** – ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja aloita matka parempaan suun terveyteen ammattimaisen suuhygieniahoidon avulla. Tri Dmitri Sonin ja klinikan tiimi odottavat sinua!

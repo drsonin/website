@@ -63,8 +63,3 @@ Dmitri Sonin muistuttaa, että vanhempien ohjaaminen on olennainen osa lasten ha
 Sonin Hambaravi tarjoaa kokonaisvaltaista lasten hammashoitoa Tallinnassa. Palveluihimme kuuluvat säännölliset tarkastukset, kariespaikaukset, hampaiden puhdistukset, fluorihoito sekä tarvittaessa lähete oikomishoitoon. Klinikkamme on suunniteltu lapsiystävälliseksi tilaksi, jossa myös hermostunein potilas löytää olonsa turvalliseksi.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa konsultaatio tänään!**
-Haluatko varmistaa lapsesi hampaiston terveyden ammattitaitoisissa käsissä? Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja varaa aika – yhdessä rakennetaan perusta terveelle hymylle koko elämäksi.

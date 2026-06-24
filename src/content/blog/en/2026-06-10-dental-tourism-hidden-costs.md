@@ -109,7 +109,3 @@ This analysis covers direct financial costs only. It does not assign value to ti
 ### Book a Consultation in Tallinn
 
 If you are weighing your options for implant treatment, Dr Dmitri Sonin offers detailed consultations at Sonin Hambaravi clinic in Tallinn, where you can receive a precise cost estimate for your specific case.
-
-[Book a consultation](/en/contact/)
-
-**Book your consultation at Sonin Hambaravi:** [drsonin.com](https://drsonin.com)

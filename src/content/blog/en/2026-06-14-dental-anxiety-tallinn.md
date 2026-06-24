@@ -58,7 +58,3 @@ Patients travel to us from across Tallinn and from neighbouring regions because 
 ### Take the First Step Today
 
 You deserve healthy teeth and a dental experience that does not fill you with dread. Whether your anxiety is mild or severe, help is available — and it starts with one simple conversation.
-
-[Book a consultation](/en/contact/)
-
-**Book your consultation at Sonin Hambaravi dental clinic in Tallinn today.** Visit our website or call our reception to arrange an appointment with Dr Dmitri Sonin and his team. We are here to help you feel comfortable, cared for, and confident in your smile.

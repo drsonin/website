@@ -57,7 +57,3 @@ Vaikka ammattilaisen tuki on korvaamatonta, voit itse helpottaa tilannettasi enn
 Sinun ei tarvitse kohdata hammashoitopelkoasi yksin. **Tri Dmitri Sonin** ja Sonin Hambaravi -klinikan tiimi Tallinnassa ovat valmiita vastaanottamaan sinut – oli hampaittesi kunto tai pelkosi taso mikä tahansa.
 
 Varaa konsultaatioaika tänään. Ensimmäinen käynti voi olla pelkästään tutustumista: ei porakonetta, ei paineita – vain rauhallinen keskustelu siitä, miten voimme auttaa sinua parhaiten.
-
-[Varaa konsultaatio](/fi/contact/)
-
-📞 Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja ota ensimmäinen askel kohti terveempää hymyä.

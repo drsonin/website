@@ -48,7 +48,3 @@ Of course, individual clinic choice matters enormously within either city. Choos
 ### Book Your Consultation at Sonin Hambaravi, Tallinn
 
 Ready to take the next step? The team at Sonin Hambaravi clinic in Tallinn, led by Dr Dmitri Sonin, offers personalised implant consultations, transparent pricing, and a warm, patient-centred approach. Whether you are visiting from Helsinki, Stockholm, or elsewhere in Europe, we make the process straightforward from start to finish.
-
-[Book a consultation](/en/contact/)
-
-**Contact Sonin Hambaravi today to book your consultation and find out exactly what dental implants could cost for your specific situation — with no hidden fees and no surprises.**

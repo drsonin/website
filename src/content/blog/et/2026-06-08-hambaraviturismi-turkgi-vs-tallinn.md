@@ -87,7 +87,3 @@ Numbrid räägivad ise. Iga patsient hindab oma prioriteete erinevalt – mõne 
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui soovite saada täpse hinnapakkumise ja isikliku raviplaani, on Dmitri Sonin valmis teid vastu võtma Tallinnas. Konsultatsiooni käigus hinnatakse teie luu seisundit, arutatakse sobivaimad materjalid ning koostatakse läbipaistev eelarve ilma varjatud kuludeta.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneeri aeg: [drsonin.com](https://drsonin.com)**

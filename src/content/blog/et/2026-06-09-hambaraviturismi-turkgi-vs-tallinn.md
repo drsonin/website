@@ -85,9 +85,3 @@ Lisaks rahalistele aspektidele tasub arvestada järgmist:
 Numbrid näitavad, et **ühe implantaadi puhul on kogukulu Tallinnas ja Türgis sarnane**. Mitme implantaadi puhul võib vahe olla suurem Türgi kasuks – tingimusel, et tüsistusi ei teki ja reisikulud jäävad madalaks. Iga patsiendi olukord on erinev ja otsus sõltub isiklikest eelistustest, riskitaluvusest ja raviplaani mahust.
 
 ---
-
-### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Kui soovid saada selget ülevaadet oma hambaravi vajadusest ja tegelikust maksumusest, **broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas**. dr Dmitri Sonin koostab individuaalse raviplaani koos täpse hinnapakkumisega – nii tead täpselt, millega arvestada.

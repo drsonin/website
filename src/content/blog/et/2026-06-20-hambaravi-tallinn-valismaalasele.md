@@ -67,9 +67,3 @@ Sonin Hambaravi kliiniku patsientide seas on inimesi üle kogu Euroopa. Tagasisi
 „Meie eesmärk ei ole pelgalt hambaid ravida, vaid tagada, et iga patsient – olenemata sellest, kust ta tuleb – tunneks end oodatuna ja turvaliselt," sõnab Dmitri Sonin.
 
 ---
-
-**Soovid broneerida konsultatsiooni?**
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Kui kaalud hambaravi Tallinnas, on Sonin Hambaravi kliinikus esimene samm lihtne – võta ühendust ning broneeri esialgne konsultatsioon. Meie meeskond selgitab välja sinu vajadused, koostab personaalse raviplaani ja vastab kõigile küsimustele enne, kui teete üheskoos otsuse. Ohutu, läbipaistev ja professionaalne hambaravi algab ühest sammust – võta meiega julgelt ühendust juba täna.

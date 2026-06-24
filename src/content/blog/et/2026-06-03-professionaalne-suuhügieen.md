@@ -60,9 +60,3 @@ Professionaalne suuhügieen ei ole mõeldud ainult täiskasvanutele. Juba piimah
 Moodne meditsiin käsitleb suutervist osana inimese üldisest tervisest. Uuringud on näidanud seoseid halva suuhügieeni ning südamehaiguste, diabeedi ja enneaegse sünnituse vahel. Seetõttu pole professionaalne suuhügieen luksus – see on investeering oma tervisse.
 
 ---
-
-**Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas**
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Kui soovite oma suutervisele professionaalset tähelepanu, on dr Dmitri Sonini meeskond valmis teid vastu võtma. Sonin Hambaravi kliinikus Tallinnas pakume kaasaegseid suuhügieeniprotseduure mugavas ja rahustavas keskkonnas. Võtke meiega ühendust ja broneerige oma aeg juba täna – terved hambad algavad ühest sammust.

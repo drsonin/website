@@ -59,7 +59,3 @@ The clinic operates in the heart of Tallinn, making it convenient for both local
 ### Take the First Step Towards Healthier Gums
 
 Gum disease will not improve on its own — but with the right professional care, it can be successfully managed and treated. Whether you are experiencing early symptoms or have been struggling with a more advanced condition, the team at Sonin Hambaravi is here to help.
-
-[Book a consultation](/en/contact/)
-
-**Book your consultation at Sonin Hambaravi dental clinic in Tallinn today** and take the first step towards healthier gums and a stronger, more confident smile. Contact us through our website or call the clinic directly to arrange your appointment.

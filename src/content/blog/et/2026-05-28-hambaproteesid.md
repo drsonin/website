@@ -64,7 +64,3 @@ Meie kliiniku eelised:
 - Selge ja läbipaistev hinnakujundus
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Võtke meiega ühendust juba täna!** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas ning leidke koos dr Dmitri Soniniga parim lahendus oma naeratuse taastamiseks. Täitke broneerimisankeet meie veebilehel või helistage meile – esimene samm parema naeratuse poole algab siit.

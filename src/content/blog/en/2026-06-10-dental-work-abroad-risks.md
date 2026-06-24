@@ -89,7 +89,3 @@ As Dr Dmitri Sonin advises patients who raise this question directly: *start wit
 A complete picture is always a better basis for a financial decision than a headline price.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**To receive a detailed treatment plan and cost estimate, book a consultation at Sonin Hambaravi dental clinic in Tallinn.** Appointments can be arranged through the clinic's website or by phone. The first step is simply getting accurate information specific to your situation.

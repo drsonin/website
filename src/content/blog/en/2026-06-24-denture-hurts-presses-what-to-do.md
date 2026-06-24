@@ -62,7 +62,3 @@ Dr Dmitri Sonin recommends treating denture adjustments not as a sign that somet
 A well-fitting denture should feel comfortable for 6–8 hours of daily wear. If it doesn't, that's a clinical problem worth solving — not something to endure in silence.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**Ready to stop the pain?** Book a denture adjustment consultation at **Sonin Hambaravi** in Tallinn — we will identify the pressure point, make the correction, and have you comfortable again in a single visit. Call us or fill in the appointment form on our website. Your gums will thank you.

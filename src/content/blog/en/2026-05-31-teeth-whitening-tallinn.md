@@ -55,7 +55,3 @@ Not all whitening treatments are created equal, and patient safety is always the
 Our clinic is conveniently located in Tallinn and welcomes both local residents and international patients who are visiting Estonia. We are proud to offer high-quality dental care in a calm and welcoming environment.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**Ready to achieve a brighter smile?** Book your teeth whitening consultation at **Sonin Hambaravi dental clinic in Tallinn** today. Our friendly team will guide you through every step of the process and help you find the treatment that is right for you. Contact us to schedule your appointment — a more confident smile is closer than you think.

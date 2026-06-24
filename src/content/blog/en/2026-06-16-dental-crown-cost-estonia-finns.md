@@ -76,7 +76,3 @@ Before booking your trip, keep these points in mind:
 ### Book Your Consultation at Sonin Hambaravi in Tallinn
 
 If you are a Finnish patient considering a dental crown — or any other restorative treatment — and you want reliable, affordable care in a welcoming clinic, Sonin Hambaravi is ready to help. Dr Dmitri Sonin and his team speak English and are experienced in working with patients travelling from Finland and across Europe.
-
-[Book a consultation](/en/contact/)
-
-**Contact Sonin Hambaravi clinic in Tallinn today to book your consultation and receive a personalised treatment plan.**

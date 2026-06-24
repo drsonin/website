@@ -64,7 +64,3 @@ Tärkeintä on muistaa, että oikomishoito on pitkäaikainen investointi terveyt
 ### Varaa konsultaatio Sonin Hambaravilla
 
 Oletko valmis ottamaan ensimmäisen askeleen kohti kaunista hymyä? Tri Dmitri Sonin ja Sonin Hambaravi -klinikan ammattitaitoinen tiimi Tallinnassa ovat valmiita auttamaan sinua löytämään juuri sinulle sopivimman oikomishoitoratkaisun.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa konsultaatioaikasi jo tänään** – ota yhteyttä Sonin Hambaraviin ja ota ensimmäinen askel kohti terveempää, kauniimpaa hymyä. Klinikal la panostetaan yksilölliseen palveluun, ja jokainen potilas saa räätälöidyn hoitosuunnitelman omat tarpeet huomioiden.

@@ -61,7 +61,3 @@ There is no special preparation required, making professional teeth cleaning one
 ### Book Your Professional Teeth Cleaning at Sonin Hambaravi
 
 Whether you are a Tallinn resident or travelling to Estonia specifically for dental care, there has never been a better time to invest in your oral health. Under the guidance of Dr Dmitri Sonin, the team at Sonin Hambaravi provides professional teeth cleaning with the precision, care and personalised attention every patient deserves.
-
-[Book a consultation](/en/contact/)
-
-**Ready to book your appointment?** Contact Sonin Hambaravi clinic in Tallinn today to schedule your consultation and take the first step towards a cleaner, healthier smile.

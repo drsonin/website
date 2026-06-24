@@ -63,7 +63,3 @@ Jos olet matkalla Tallinnassa tai harkitset hammashoitoa Virossa, kannattaa pit�
 - **Kerro oireistasi selkeästi** – kesto, voimakkuus ja mahdolliset aiemmat hoidot auttavat lääkäriä arvioimaan tilanteen
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-Älä anna hammassäryn tai suun akuutin ongelman odottaa. **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa** jo tänään – tri Dmitri Sonin ja klinikän tiimi ovat valmiita auttamaan sinua nopeasti, ammattitaitoisesti ja potilaslähtöisesti. Ota yhteyttä ja hoidetaan asia kuntoon.

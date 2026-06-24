@@ -79,9 +79,3 @@ Parim viis selliste olukordade vältimiseks on kroon paigaldada kohe pärast juu
 Samuti on oluline regulaarne kontrollkäik vähemalt kord aastas — röntgenülesvõte näitab varajasi muutusi juure ümber enne, kui tekivad nähtavad kahjustused.
 
 ---
-
-**Kas sinu hammas purunes pärast juureravi?** Broneeri konsultatsioon Sonin Hambaravi kliinikusse Tallinnas — hindame olukorda, selgitame välja parimad variandid ja koostame individuaalse raviplaani. Iga olukord on erinev, kuid lahendus on alati olemas.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-👉 **Broneeri aeg Sonin Hambaravi kliinikus Tallinnas — drsonin.com**

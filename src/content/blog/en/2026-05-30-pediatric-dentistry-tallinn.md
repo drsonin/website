@@ -56,7 +56,3 @@ Parents receive practical guidance too — from choosing the right toothbrush an
 ### Book Your Child's Dental Appointment in Tallinn Today
 
 Your child deserves a confident, healthy smile — and it starts with the right care team. At **Sonin Hambaravi dental clinic in Tallinn**, we are passionate about protecting young smiles and making dentistry a positive experience for the whole family.
-
-[Book a consultation](/en/contact/)
-
-Contact us today to book a consultation and let Dr Dmitri Sonin and our team give your child the best possible start in oral health. We look forward to welcoming your family to our clinic.

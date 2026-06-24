@@ -59,7 +59,3 @@ Sonin Hambaravi on erikoistunut laadukkaaseen ja yksilölliseen hammashoitoon. K
 Tallinna sijaitsee lyhyen matkan päässä Helsingistä, ja yhä useammat suomalaiset valitsevatkin laadukkaita hammashoitopalveluja Virosta kilpailukykyiseen hintaan.
 
 ### Varaa konsultaatio jo tänään
-
-[Varaa konsultaatio](/fi/contact/)
-
-Älä anna hammaskivun tai tulehduksen odottaa – mitä nopeammin hoidat asian, sitä paremmat mahdollisuudet on säilyttää oma hammas. Ota yhteyttä **Sonin Hambaravi** -klinikalle Tallinnassa ja varaa konsultaatio. Asiantunteva tiimi arvioi tilanteesi ja suunnittelee sinulle sopivan hoitopolun. Tervetuloa!

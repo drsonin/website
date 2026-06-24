@@ -68,10 +68,3 @@ Enamikku implantaatide probleemidest on võimalik ennetada:
 Implantaadid on töökindel ja pikaajaline lahendus, mis õige hoolduse korral kestab aastakümneid. Aga nagu kõik meditsiinilised sekkumised, vajavad need tähelepanu ja regulaarset jälgimist.
 
 ---
-
-**Tunnete, et teie implantaat kõigub, valutab või tunnete ebamugavust?** Ärge jääge ootama — broneerige konsultatsioon Sonin Hambaravi kliinikusse Tallinnas. Dr Dmitri Sonin ja meie meeskond hindavad teie olukorra, teevad vajalikud uuringud ning pakuvad selge raviplaani. Mida varem probleemiga tegeleme, seda paremad on võimalused implantaat päästa.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📍 Sonin Hambaravi — Tallinn
-📞 Broneeri aeg: [drsonin.com](https://drsonin.com)

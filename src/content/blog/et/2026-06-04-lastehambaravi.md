@@ -76,9 +76,3 @@ Lastehambaravi algab kodus. Siin on mõned dr Dmitri Sonini soovitused igapäeva
 - Õpetage lapsele regulaarset hambaniidi kasutamist, kui hambad hakkavad kokku puutuma
 
 ---
-
-Teie lapse hammaste tervis on investeering, mis tasub end kogu elu jooksul. Ärge oodake probleemide ilmnemiseni – broneerige oma lapsele kontrollvisiit juba täna!
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Helistage meile või broneerige aeg online Sonin Hambaravi kliinikus Tallinnas** – meie sõbralik meeskond on valmis teid aitama ning tagama, et teie laps tunneb end meil alati oodatuna ja turvaliselt.

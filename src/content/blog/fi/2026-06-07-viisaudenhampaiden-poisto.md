@@ -56,8 +56,3 @@ Sonin Hambaravi on tunnettu korkeatasoisesta ja potilaslähtöisestä hoidosta. 
 Monet suomalaiset potilaat valitsevat Tallinnan hammashoitoon yhdistettynä lyhyeen kaupunkilomaan – ja löytävät samalla erinomaisen hinta-laatu-suhteen.
 
 ---
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Varaa konsultaatio tänään!**
-Onko viisaudenhampaasi aiheuttanut kipua, turvotusta tai muita vaivoja? Älä odota ongelmien pahenemista. Ota yhteyttä **Sonin Hambaravi** -klinikalle Tallinnassa ja sovi aika konsultaatioon. Asiantunteva tiimimme auttaa sinua löytämään parhaan ratkaisun suun terveytesi hyväksi.

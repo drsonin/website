@@ -74,7 +74,3 @@ All-on-4 is recommended for patients who have lost most or all of their teeth, a
 As Dr Dmitri Sonin often explains to new patients: *"A beautiful, functional smile is one of the best investments you can make in your quality of life — and we are here to make that journey as clear and comfortable as possible."*
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**Ready to take the first step?** Book a consultation at **Sonin Hambaravi dental clinic** in Tallinn today. Our team will assess your case, answer all your questions, and provide a detailed, no-obligation price estimate tailored to your needs.

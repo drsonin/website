@@ -78,10 +78,3 @@ Here is the honest framework Dmitri Sonin uses with every patient during consult
 - Proper diagnosis — including X-rays and bite analysis — is essential before any crown is placed
 
 ---
-
-**Ready to find out which crown is right for you?** Book a consultation at **Sonin Hambaravi** dental clinic in Tallinn. Dr Dmitri Sonin and the team will assess your specific situation, show you examples of both crown types, and give you an honest recommendation — with no pressure and full transparency on pricing.
-
-[Book a consultation](/en/contact/)
-
-📍 Sonin Hambaravi | Tallinn, Estonia
-🌐 [drsonin.com](https://drsonin.com)

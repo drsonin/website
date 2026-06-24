@@ -65,7 +65,3 @@ Enne otsuse tegemist tasub arvesse võtta:
 - Järelravi korraldamine pärast naasmist
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Soovite selgust oma hambaravivõimaluste osas?** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas – dr Dmitri Sonin hindab teie suuõõne seisundit ja koostab personaalse raviplaani koos täpse hinnakalkulatsiooniga. Konsultatsioon on kohustuseta ja annab teile kõik vajalikud andmed informeeritud otsuse tegemiseks.

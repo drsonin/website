@@ -58,8 +58,3 @@ Ravimata infektsioon hambakanalis ei kao iseenesest – vastupidi, see võib lev
 Sonin Hambaravi kliinikus Tallinnas kasutatakse juureravi läbiviimisel kaasaegseid seadmeid ja tõenduspõhiseid meetodeid. Täpne diagnoos, hoolikas raviplaanimine ning patsiendisõbralik lähenemine on meie töö aluspõhimõtted. Dr Dmitri Sonin ja tema tiim on pühendunud sellele, et iga patsiendi kogemus kliinikus oleks võimalikult mugav ja stressivaba.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Kas tunnete hammast valutamas või kahtlustate juurepõletikku?**
-Ärge oodake, kuni valu süveneb. Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna – aitame teie hamba päästa ja naeratus taastada.

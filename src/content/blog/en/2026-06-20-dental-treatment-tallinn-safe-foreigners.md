@@ -55,7 +55,3 @@ Dr Dmitri Sonin encourages all prospective patients to ask questions freely duri
 ### Ready to Experience Safe, High-Quality Dental Care in Tallinn?
 
 If you are considering dental treatment abroad, Tallinn offers a genuinely excellent option — professional care, fair prices, and a welcoming, patient-first environment.
-
-[Book a consultation](/en/contact/)
-
-**Book your consultation at Sonin Hambaravi clinic in Tallinn today.** Our multilingual team is ready to answer your questions, assess your dental needs, and create a personalised treatment plan that works around your schedule and travel plans. We look forward to welcoming you.

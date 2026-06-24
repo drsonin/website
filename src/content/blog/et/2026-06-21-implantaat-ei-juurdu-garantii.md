@@ -75,7 +75,3 @@ Mõnikord on võimalik olukord päästa intensiivse antibiootikumravi ja profess
 Sonin Hambaravi kliiniku meeskond Tallinnas on spetsialiseerunud implantoloogiale ja kasutab ainult kõrgeima kvaliteedistandardiga implantaate. **Dmitri Sonin** ja tema meeskond tagavad patsiendile täieliku toetuse kogu ravi vältel — alates planeerimisest kuni lõpliku tulemuseni.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Kui teil on kahtlus, et teie implantaadiga ei ole kõik korras, ärge viivitage.** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna — helistage meile või täitke broneeringuvorm veebilehel. Teie naeratus ja tervis on meie prioriteet.

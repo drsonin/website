@@ -73,7 +73,3 @@ Once you've committed to treatment, protecting your investment is straightforwar
 The most important takeaway: **there is no situation too complex to treat**. Patients who've been without teeth for 10+ years are successfully restored every week at clinics like Sonin Hambaravi. The only wrong move is waiting longer.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**Ready to start?** Book your consultation at **Sonin Hambaravi dental clinic in Tallinn** today. The first step costs nothing but courage — and it could give you back everything.

@@ -60,7 +60,3 @@ Dmitri Sonin muistuttaa, että monet potilaat saapuvat vastaanotolle vasta, kun 
 ### Varaa aika Sonin Hambaravi -klinikalle Tallinnassa
 
 Jos epäilet parodontiittia tai haluat tarkistuttaa ikenien tilan, älä odota. Tri Dmitri Sonin ja Sonin Hambaravi -klinikan ammattitaitoinen tiimi ovat valmiita auttamaan sinua kohti terveemmän suun tulevaisuutta. Tallinnassa sijaitseva klinikka tarjoaa korkealaatuista hammashoitoa modernilla laitteistolla ja potilasystävällisellä otteella.
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Ota yhteyttä ja varaa konsultaatioaika tänään – terveet ikenet ovat paras sijoitus hyvinvointiisi.**

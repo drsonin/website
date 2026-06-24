@@ -58,7 +58,3 @@ Sonin Hambaravi kliinikus Tallinnas ühendatakse kaasaegne hambaravi tehnoloogia
 Periodontiit on ravitav haigus – eriti siis, kui sellega tegeletakse õigeaegselt. Ärge oodake, kuni olukord muutub keerulisemaks.
 
 ---
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneerige konsultatsioon juba täna!** Võtke ühendust Sonin Hambaravi kliiniku meeskonnaga Tallinnas ning alustage teed tervemate igeme ja hammaste suunas. Meie spetsialistid hindavad teie suuõõne seisundit, selgitavad välja sobivad ravivõimalused ja vastava teie kõikidele küsimustele. Teie naeratus on meie prioriteet.

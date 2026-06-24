@@ -66,7 +66,3 @@ The good news: the vast majority of implant complications are preventable.
 ---
 
 If your implant feels loose, tender, or simply "different," don't wait. **Dr Dmitri Sonin** and the team at **Sonin Hambaravi clinic in Tallinn** are experienced in diagnosing and treating implant complications quickly and precisely.
-
-[Book a consultation](/en/contact/)
-
-📞 **Book your consultation today at Sonin Hambaravi** — because the sooner we look, the more we can save.

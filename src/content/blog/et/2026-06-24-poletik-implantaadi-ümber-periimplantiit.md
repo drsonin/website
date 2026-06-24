@@ -88,9 +88,3 @@ Implantaat võib teenida teid aastakümneid, kuid see nõuab teie poolset pühen
 ---
 
 **Tunnete implantaadi ümbruses ebamugavust või olete märganud mõnda eelkirjeldatud sümptomit?**
-
-Ärge oodake, kuni probleem süveneb. Broneerige konsultatsioon **Sonin Hambaravi kliinikus Tallinnas** — dr Dmitri Sonin hindab teie implantaadi seisundi, teeb vajalikud diagnostilised ülesvõtted ja koostab teile sobiva raviplaani.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-📞 Helistage meile või broneerige aeg veebis — varajane sekkumine säästab nii implantaati kui ka teie raha.

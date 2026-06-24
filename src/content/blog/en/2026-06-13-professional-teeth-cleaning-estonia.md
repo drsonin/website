@@ -59,7 +59,3 @@ As Dr Dmitri Sonin often reminds his patients: preventive care is always easier,
 Whether you are a local resident or planning a visit to Tallinn, Sonin Hambaravi clinic is ready to help you achieve and maintain excellent oral health. Our friendly, experienced team is committed to making every appointment as comfortable and effective as possible.
 
 **Ready to experience professional teeth cleaning in Estonia?**
-
-[Book a consultation](/en/contact/)
-
-Contact Sonin Hambaravi dental clinic in Tallinn today to book your consultation. We welcome patients from Estonia and across Europe, and we look forward to welcoming you into our care.

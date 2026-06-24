@@ -80,7 +80,3 @@ Key quality assurances include:
 Taking the first step is simple. Contact Sonin Hambaravi clinic in Tallinn to schedule your initial consultation with Dr Dmitri Sonin. Whether you have questions about costs, treatment timelines, or travel planning, our team is ready to guide you every step of the way.
 
 **Visit us at Sonin Hambaravi, Tallinn, Estonia — where Swedish patients receive world-class dental implants at transparent, affordable prices.**
-
-[Book a consultation](/en/contact/)
-
-📞 Contact us today to book your 2026 consultation and receive your personalised treatment plan.

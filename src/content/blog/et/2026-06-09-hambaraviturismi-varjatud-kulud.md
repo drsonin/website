@@ -66,9 +66,3 @@ Dmitri Sonin rõhutab, et pikaajaline hambaravi – eriti implantoloogia – eel
 - Kui soovite **garantiid ja järelravi** sama arsti juures
 
 ---
-
-Kui soovite saada selget ülevaadet oma hambaravi tegelikest kuludest ja valikutest, broneerige konsultatsioon **Sonin Hambaravi kliinikus Tallinnas**. dr Dmitri Sonin hindab teie hammaste seisundit, koostab personaalse ravikava ja esitab läbipaistva hinnapakkumise – ilma varjatud kuludeta.
-
-[Broneeri konsultatsioon](/et/contact/)
-
-**Broneeri konsultatsioon: [drsonin.com](https://drsonin.com)**

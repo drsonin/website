@@ -57,7 +57,3 @@ Tallinna on suosittua hammashoitomatkailua suomalaisille useista syistä. Hoitok
 Dmitri Sonin on kokenut implanttihammaslääkäri, jonka klinikalla hoidetaan vuosittain satoja suomalaisia potilaita. Klinikalla käytetään ainoastaan sertifioituja, maailmanluokan implanttijärjestelmiä, ja henkilökunta palvelee sujuvasti suomeksi.
 
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
-
-[Varaa konsultaatio](/fi/contact/)
-
-Jos olet kiinnostunut kokoproteesista neljällä implantilla tai haluat selvittää, sopiiko hoito sinulle, ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Tri Dmitri Sonin ja hänen asiantunteva tiiminsä vastaavat kaikkiin kysymyksiisi ja laativat sinulle maksuttoman hoitoarvion. Ensimmäinen askel kohti uutta, kaunista hymyä on yhteydenotto – tee se jo tänään.

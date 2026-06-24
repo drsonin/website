@@ -72,10 +72,3 @@ Our clinic in Tallinn is equipped with modern diagnostic tools, and our team is 
 ### Take the First Step Towards a Straighter Smile
 
 Whether you're considering braces, clear aligners, or simply want an expert opinion, the right time to start is now. Early assessment often leads to simpler, faster, and more affordable treatment.
-
-**Book your consultation at Sonin Hambaravi dental clinic in Tallinn today.** Our friendly team is ready to answer your questions and help you take the first confident step towards the smile you deserve.
-
-[Book a consultation](/en/contact/)
-
-📍 Sonin Hambaravi — Tallinn, Estonia
-🌐 [drsonin.com](https://drsonin.com)

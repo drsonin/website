@@ -57,9 +57,3 @@ Dr Dmitri Sonin holds extensive qualifications and years of clinical experience 
 ### Plan Your Visit to Sonin Hambaravi in Tallinn
 
 Reading reviews is a great first step — but the best way to find out whether dental implants in Estonia are right for you is to speak directly with our team.
-
-**Book a consultation at Sonin Hambaravi clinic in Tallinn today.** Whether you are replacing a single missing tooth or considering a full arch restoration, we will create a personalised treatment plan that fits your needs and budget. Many of our Finnish patients are treated the same day as their consultation.
-
-[Book a consultation](/en/contact/)
-
-Contact us through our website or by phone to arrange your visit. We look forward to welcoming you to Tallinn.

@@ -62,7 +62,3 @@ Our team at Sonin Hambaravi in Tallinn regularly helps patients who come to us a
 In most cases, yes. Once the area has healed — which may take several months — a new implant can often be placed, sometimes combined with a bone grafting procedure. Success rates for replacement implants are comparable to those of first-time placements when risk factors are properly managed.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-If you are concerned about an existing implant, exploring your first implant treatment, or simply want honest answers about guarantees and long-term outcomes, we invite you to book a consultation at **Sonin Hambaravi dental clinic in Tallinn**. Our experienced team, led by Dr Dmitri Sonin, is here to guide you with clarity, care, and confidence. Contact us today — your smile deserves nothing less.

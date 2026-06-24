@@ -52,9 +52,3 @@ Kuigi professionaalne suuhügieen on kasulik kõigile, on teatud rühmade jaoks 
 Pärast protseduuri tunneb enamik patsiente koheselt erinevust – hambad on siledamad, hing värskem ja naeratus eredam. Mõnel inimesel võib esineda esmast tundlikkust, eriti kui hambakivi oli rikkalik, kuid see mõne päevaga möödub.
 
 **Dmitri Sonin** rõhutab, et professionaalne suuhügieen ei ole luksus – see on investeering oma tervisesse, mis pikemas perspektiivis vähendab märkimisväärselt kulukate ravimeetodite vajadust.
-
-### Broneeri aeg Sonin Hambaravi kliinikusse Tallinnas
-
-[Broneeri konsultatsioon](/et/contact/)
-
-Ärge oodake probleemide tekkimist – tulge ennetavale vastuvõtule juba täna. **Dr Dmitri Sonin** ja meie meeskond Sonin Hambaravi kliinikus Tallinnas ootavad teid vastuvõtule. Broneeri aeg meie veebilehe kaudu või helista meile – terve naeratus algab ühest sammust.

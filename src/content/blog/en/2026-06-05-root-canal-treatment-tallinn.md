@@ -63,7 +63,3 @@ Tallinn has many dental clinics, but not all offer the same level of specialist 
 A successfully treated tooth can last a lifetime with proper care. Root canal treatment preserves your natural tooth, maintains the integrity of your bite, and avoids the more significant interventions that come with extraction and replacement. It is, in almost every case, the preferred option when a tooth can still be saved.
 
 ---
-
-[Book a consultation](/en/contact/)
-
-**Ready to take the next step?** Book a consultation at Sonin Hambaravi dental clinic in Tallinn and find out whether root canal treatment is the right solution for you. Our team is here to help you move from pain to peace of mind — comfortably and professionally.

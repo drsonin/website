@@ -55,7 +55,3 @@ At Sonin Hambaravi clinic, the entire team is committed to making your experienc
 ### Book Your Consultation Today
 
 Ready to explore your options for braces or aligners in Estonia? Dr Dmitri Sonin and the team at Sonin Hambaravi dental clinic in Tallinn are here to guide you every step of the way. Whether you are interested in traditional braces, ceramic braces, or clear aligners, your path to a healthier, more confident smile starts with a single appointment.
-
-[Book a consultation](/en/contact/)
-
-**Contact Sonin Hambaravi clinic in Tallinn today to book your orthodontic consultation.**

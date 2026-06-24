@@ -81,8 +81,3 @@ Luvut ovat suuntaa-antavia ja perustuvat julkisesti saatavilla oleviin hintatiet
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos harkitset hammasimplanttia tai muuta laajempaa hammashoitoa, on järkevää selvittää kokonaiskustannukset ennen päätöksentekoa. Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat maksuttoman alustavan konsultaation, jossa käydään läpi hoitosuunnitelma, aikataulu ja kustannusarvio yksilöllisesti.
-
-[Varaa konsultaatio](/fi/contact/)
-
-📍 **Sonin Hambaravi, Tallinna**
-Varaa aika verkkosivujen kautta tai soittamalla klinikan ajanvarausnumeroon.
