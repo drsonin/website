@@ -8,6 +8,7 @@ tags: ['hammaskruunu hinta', 'Viro hammashoito', 'kruunu turvallisuus', 'ulkomai
 heroImage: '/blog-images/2026-06-16-dental-crown-cost-estonia-finns.webp'
 ---
 
+
 ## Hammaskruunu hinta Virossa — onko turvallista? | Sonin Hambaravi, tri Dmitri Sonin
 
 Yhä useampi suomalainen harkitsee hammashoidon hankkimista Virosta. Erityisesti hammaskruunujen kohdalla hintaero Suomen ja Viron välillä voi olla merkittävä — jopa 50–70 prosenttia. Mutta onko hoito yhtä laadukasta? Onko se turvallista? Tässä artikkelissa käymme läpi kaiken oleellisen, mitä sinun tulee tietää ennen päätöksentekoa.

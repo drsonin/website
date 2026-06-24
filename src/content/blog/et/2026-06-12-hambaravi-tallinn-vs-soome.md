@@ -90,6 +90,4 @@ Dmitri Sonin rõhutab, et ravikvaliteet ei ole seotud üksnes protseduuriga – 
 
 Kui soovid teada, kui palju sina konkreetselt säästa saaksid, broneeri tasuta esialgne konsultatsioon **Sonin Hambaravi kliinikus Tallinnas**. Dr Dmitri Sonin ja meie meeskond hindavad sinu hambaid, koostavad raviplaani ning esitavad täpse hinnapakkumise – ilma kohustuseta.
 
-[Broneeri konsultatsioon](/et/contact/)
-
 Võta ühendust meie kodulehe kaudu või helista meile otse. Esimene samm parema hambatervise ja mõistliku hinna suunas algab konsultatsioonist.

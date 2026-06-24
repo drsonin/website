@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-20-dental-treatment-tallinn-safe-foreigners.web
 ---
 
 
+
 ## Is Dental Treatment in Tallinn Safe for Foreign Patients? Insights from Dr Dmitri Sonin
 
 Every year, thousands of international patients travel to Tallinn, Estonia, to receive dental care. The reasons are compelling — competitive pricing, short waiting times, and clinics that meet the highest European standards. But a common question remains: *is dental treatment in Tallinn truly safe for patients coming from abroad?*

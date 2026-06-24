@@ -8,6 +8,7 @@ tags: ['Hambaravi välismaal', 'hambaarstide riigid', 'riskid ja garantiid', 're
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
 
+
 ## Hambaravi välismaal: riskid ja garantiid – dr Dmitri Sonini ülevaade
 
 Iga aasta reisib tuhandeid eurooplasi hambaravile välisriikidesse, et säästa ravikuludelt. Esmapilgul tunduvad numbrid ahvatlevad, kuid tegelik pilt on keerulisem. Selles artiklis vaatame faktipõhiselt, millised kulud ja riskid kaasnevad hambaraviga välismaal ning mida tasuks teada enne otsuse langetamist.

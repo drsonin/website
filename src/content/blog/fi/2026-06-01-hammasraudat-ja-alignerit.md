@@ -8,6 +8,7 @@ tags: ['hammasraudat', 'invisalign-alignerit', 'hampaiden oikaisu', 'ortodontia'
 heroImage: '/blog-images/2026-06-01-braces-aligners-estonia.webp'
 ---
 
+
 ## Hammasraudat vai alignerit? Tri Dmitri Soninin opas oikeaan hoitovalintaan
 
 Kaunis ja terve hymy on monelle tärkeä tavoite, ja nykyaikaiset oikomishoidon menetelmät tekevät sen saavuttamisesta helpompaa kuin koskaan. Hammasraudat ja kirkkaat alignerit ovat kaksi suosituinta tapaa oikaista hampaat – mutta kumpi sopii sinulle? Tässä artikkelissa käymme läpi molempien hoitomuotojen hyödyt, haitat ja soveltuvuuden eri tilanteisiin.

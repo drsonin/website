@@ -77,9 +77,3 @@ Mitä aiemmin hoito aloitetaan, sitä enemmän luumassaa on käytettävissä —
 All-on-4 on pitkäaikainen sijoitus, ei pelkästään kuluerä. Oikein hoidettuna implantit kestävät vuosikymmeniä. Tri Dmitri Sonin muistuttaa, että hyvä hoitotulos edellyttää myös potilaan sitoutumista: säännöllistä kotipuhdistusta, vuosittaisia tarkastuksia ja tupakoimattomuutta — tupakointi hidastaa implanttien kiinnittymistä merkittävästi.
 
 Sonin Hambaravi käyttää sertifioituja eurooppalaisia ja israelilaisia implanttijärjestelmiä, joille on saatavilla kansainvälinen takuu. Kaikki hoitodokumentaatio toimitetaan potilaalle suomeksi pyydettäessä, jotta jatkohoidon järjestäminen kotimaassa on sujuvaa.
-
----
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Haluatko tietää tarkan hinnan juuri sinun tilanteeseesi?** Varaa maksuton alkukonsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Tri Dmitri Sonin ja hänen tiiminsä tekevät yksilöllisen hoitosuunnitelman ja avoimen kustannuslaskelman — ilman sitoumuksia. Yhteystiedot ja ajanvaraus löytyvät klinikan verkkosivuilta.

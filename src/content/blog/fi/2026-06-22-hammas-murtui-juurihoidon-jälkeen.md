@@ -68,10 +68,3 @@ Paras tapa estää juurihoidetun hampaan murtuminen on suojata se kruunulla mahd
 Tri Dmitri Sonin muistuttaa, että juurihoito on vasta puolikas ratkaisu ilman asianmukaista proteettista suojausta. Kruunu pidentää juurihoidetun hampaan ikää merkittävästi ja voi estää juuri tämän tyyppisen tilanteen kokonaan.
 
 Lisäksi kannattaa välttää erittäin kovia ruokia — pähkinöitä, jäätä, kovaa leipää — erityisesti takahampaille, jotka kantavat suurimman puremakuorman.
-
----
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Onko sinulla murtuneen tai vaurioituneen hampaan ongelma?**
-Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Käymme läpi tilanteesi, teemme tarvittavat kuvaukset ja esitämme selkeän hoitosuunnitelman — ilman turhaa odottelua. Ajanvaraus onnistuu verkkosivujemme kautta tai puhelimitse.

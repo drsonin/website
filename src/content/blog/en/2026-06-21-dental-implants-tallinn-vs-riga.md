@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-21-dental-implants-tallinn-vs-riga.webp'
 ---
 
 
+
 ## Dental Implants Tallinn vs Riga — Which Is Better Value? A Guide by Dr Dmitri Sonin
 
 If you are considering dental implants and weighing up your options across the Baltic region, you have probably come across two popular destinations: Tallinn, Estonia, and Riga, Latvia. Both cities attract patients from Scandinavia and across Europe looking for high-quality dental care at competitive prices. But which city actually offers better value? Dr Dmitri Sonin, lead implantologist at Sonin Dental Clinic clinic in Tallinn, breaks it all down.

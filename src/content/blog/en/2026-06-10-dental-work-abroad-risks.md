@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
 
 
+
 ## Dental Work Abroad: Risks, Guarantees and the Real Numbers — An Analysis by Dr Dmitri Sonin
 
 Every year, thousands of patients across Northern Europe weigh the idea of combining a holiday with dental treatment. The math appears straightforward at first glance: lower prices abroad, sunshine included. But the full financial picture is rarely that simple. Below is a factual cost breakdown and a clear-eyed look at what guarantees actually mean in practice.

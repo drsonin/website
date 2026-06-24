@@ -8,6 +8,7 @@ tags: ['Hambaarstide hinnad', 'Eesti vs Soome', 'Tallinnas ravi', 'odav hambarav
 heroImage: '/blog-images/2026-06-11-dental-tallinn-cheaper-finland.webp'
 ---
 
+
 ## Miks ravida hambaid Tallinnas odavamalt kui Soomes – dr Dmitri Sonini selgitus
 
 Üha rohkem soomlasi ja väliseestlasi otsib hambaravi välismaal. Põhjus on lihtne: hambaravi hinnad Soomes on Euroopa kõrgeimate hulgas. Tallinn asub Helsingist vaid 80 kilomeetri kaugusel ja parvlaeva sõiduajaga kättesaadav. Mida see tähendab tegelikes numbrites?

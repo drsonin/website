@@ -57,6 +57,4 @@ Dmitri Sonin rõhutab, et keraamiline sisetäide ei vaja mingit eriomahooldust �
 
 Kui soovid teada saada, kas keraamiline sisetäide sobib just sinu hambale, tutvu meie meeskonnaga ja broneeri konsultatsioon **Sonin Hambaravi kliinikus Tallinnas**. Dr Dmitri Sonin ja meie hambaarstide meeskond hindavad sinu olukorra põhjalikult ning pakuvad individuaalse raviplaani, mis arvestab nii sinu tervise kui esteetiliste eelistustega.
 
-[Broneeri konsultatsioon](/et/contact/)
-
 Võta meiega ühendust juba täna – terve ja kaunis naeratus algab õigest otsusest.

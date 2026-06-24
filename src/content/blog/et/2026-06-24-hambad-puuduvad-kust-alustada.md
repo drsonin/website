@@ -8,6 +8,7 @@ tags: ['Hammaste kaotus', 'Proteesid ja implantaadid', 'Hambaravisolu', 'Suu ter
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
 
+
 ## Hambad puuduvad täielikult — kust alustada ravi? Dr Dmitri Sonin selgitab samm-sammult
 
 Paljud inimesed, kes on kaotanud kõik hambad, tunnevad end nõutuna ja ei tea, kust alustada. Mõni on aastaid hakkama saanud ilma hammasteta, süüa vaid pehmeid toite ja hoidnud naeratuse peidus. Kui olete selles olukorras, siis teadke — teil on täna rohkem võimalusi kui kunagi varem, ja ravi alustamine on lihtsam, kui arvataks.

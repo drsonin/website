@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
 
 
+
 ## Loose or Painful Dental Implant in Tallinn? Dr Dmitri Sonin Explains What to Do
 
 You woke up this morning and something felt off — your dental implant is moving slightly, or there's a dull ache around it that wasn't there last week. Maybe you're pressing your tongue against it nervously, wondering if you're imagining things. You're not. A loose or painful dental implant is a signal your body is sending you, and it's one you should take seriously — but not panic over.

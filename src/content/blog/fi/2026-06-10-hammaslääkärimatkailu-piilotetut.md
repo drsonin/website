@@ -8,6 +8,7 @@ tags: ['hammaslääkärimatkailu', 'piilotetut kustannukset', 'hammashoito ulkom
 heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
 
+
 ## Hammaslääkärimatkailu ja piilotetut kustannukset – tri Dmitri Soninin analyysi
 
 Hammaslääkärimatkailu houkuttelee yhä useampaa suomalaista ja virolaista potilasta. Mainokset lupaavat suuria säästöjä, mutta todellinen kokonaishinta selviää usein vasta jälkikäteen. Tässä artikkelissa käymme läpi konkreettiset luvut – ilman kaunistelua.

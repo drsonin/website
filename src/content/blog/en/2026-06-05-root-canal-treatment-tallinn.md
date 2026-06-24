@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
 
 
+
 ## Root Canal Treatment in Tallinn: What to Expect at Dr Dmitri Sonin's Clinic
 
 If the words "root canal" make you anxious, you are not alone. Many patients arrive at Sonin Dental Clinic with a mixture of worry and relief — relief that they have finally decided to address the problem. The good news is that modern root canal treatment is far more comfortable than its reputation suggests, and in the right hands, it can save a tooth that might otherwise be lost.

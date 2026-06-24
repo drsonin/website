@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-11-dental-tallinn-cheaper-finland.webp'
 ---
 
 
+
 ## Dental Treatment in Tallinn vs Finland: A Cost Analysis by Dr Dmitri Sonin
 
 If you live in Finland and need a dental implant, you have already seen the price tag. A single implant with a crown at a Finnish clinic typically runs between **2,500 € and 4,000 €** per tooth. That figure alone sends thousands of Finnish patients across the Gulf of Finland each year. This article breaks down the actual numbers — including the less obvious ones — so you can make an informed financial decision.

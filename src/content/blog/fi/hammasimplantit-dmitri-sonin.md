@@ -10,6 +10,7 @@ category: 'implantologia'
 ---
 
 
+
 ## Hammasimplantit: kaikki mitä tulee tietää — tri Dmitri Soninin selitykset
 
 Hampaan menetys ei ole pelkästään esteettinen ongelma. Ajan myötä leukaluu alkaa kutistua puuttuvan hampaan kohdalta, vierekkäiset hampaat siirtyvät ja leuan kuorma jakaantuu epätasaisesti. Dmitri Sonin, Sonin Hambaravi -klinikan hammaslääkäri Tallinnassa, on työskennellyt implanttien parissa yli kymmenen vuotta ja selittää, miksi hammasimplantit ovat nykypäivänä kultastandardi puuttuvien hampaiden korvaamisessa.

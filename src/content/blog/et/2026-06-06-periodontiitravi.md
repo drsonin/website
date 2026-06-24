@@ -8,6 +8,7 @@ tags: ['Periodontiitravi', 'hambaastone ravi', 'igumete tervishoid', 'hammaste p
 heroImage: '/blog-images/2026-06-06-gum-disease-treatment-tallinn.webp'
 ---
 
+
 ## Periodontiitravi dr Dmitri Soniniga – terved igemed Tallinnas
 
 Periodontit ehk igemepõletik on üks levinumaid suuõõne haigusi, mis võib ravimata jätmisel viia hammaste kaotuseni. Siiski ei tea paljud patsiendid, et õigeaegse ja professionaalse periodontiitraviega on võimalik haigust edukalt kontrolli alla saada ning suu tervist oluliselt parandada. Sonin Hambaravi kliinikus Tallinnas pakub dr Dmitri Sonin individuaalset lähenemist igale patsiendile, tagades parima tulemuse kaasaegsete ravimeetodite abil.

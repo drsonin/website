@@ -71,6 +71,4 @@ Finnish patients consistently highlight the professional yet relaxed atmosphere,
 
 If you are a Finnish patient considering dental treatment abroad, Tallinn is one of the smartest choices you can make — and Sonin Hambaravi is ready to help you get started.
 
-[Book a consultation](/en/contact/)
-
 Contact **Sonin Hambaravi dental clinic** in Tallinn to schedule your consultation with Dr Dmitri Sonin. Receive a personalised treatment plan, transparent pricing, and expert care delivered in a welcoming, modern environment. Your healthier, more confident smile is just a short ferry ride away.

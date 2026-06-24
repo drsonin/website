@@ -8,6 +8,7 @@ tags: ['kiireellinen hammashoito', 'hammaslääkäri Tallinna', 'päivystyshamma
 heroImage: '/blog-images/2026-06-07-emergency-dental-care-tallinn.webp'
 ---
 
+
 ## Kiireellinen hammashoito Tallinnassa – tri Dmitri Sonin auttaa nopeasti
 
 Hammassärky voi iskeä täysin yllättäen – kesken työpäivän, viikonloppuna tai matkan aikana. Kun kipu on sietämätön tai suussa tapahtuu jotain odottamatonta, tarvitset apua nopeasti. Tallinnassa kiireellinen hammashoito on saatavilla Sonin Hambaravi -klinikalla, jossa kokenut hammaslääkäri tri Dmitri Sonin ja hänen ammattitaitoinen tiiminsä ovat valmiita auttamaan myös akuuteissa tilanteissa.

@@ -8,6 +8,7 @@ tags: ['Juureravi', 'hambainfektsioon', 'pulbiit', 'hambavalu', 'endodontia']
 heroImage: '/blog-images/2026-06-02-root-canal-treatment-tallinn.webp'
 ---
 
+
 ## Juureravi Tallinnas – Dr Dmitri Sonini selgitused ja mida oodata protseduurilt
 
 Juureravi on üks levinumaid ja olulisemaid hambaraviprotseduure, mis aitab päästa tugevalt kahjustunud hammast selle eemaldamise asemel. Paljud patsiendid tunnevad juureravi nimetust kuuldes ärevust, kuid tänapäeva kaasaegsete meetodite ja professionaalse lähenemisega on protseduur oluliselt mugavam, kui ette kujutada võiks.

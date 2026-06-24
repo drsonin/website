@@ -10,6 +10,7 @@ category: 'implantoloogia'
 ---
 
 
+
 ## Hambaimplantaadid: kõik, mida peate teadma — dr Dmitri Sonini selgitused
 
 Hamba kaotus ei ole ainult esteetiline probleem. Aja jooksul hakkab lõualuu puuduva hamba kohas taanduma, naaberhambad nihkuvad ja lõualuu koormus jaotub ebaühtlaselt. Dmitri Sonin, Sonin Hambaravi kliiniku hambaarst Tallinnas, töötab implantaatidega üle kümne aasta ja selgitab, miks on hambaimplantaadid täna kuldstandard puuduvate hammaste asendamiseks.

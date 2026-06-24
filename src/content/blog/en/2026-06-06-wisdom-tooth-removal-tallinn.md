@@ -62,9 +62,3 @@ Healing is typically complete within one to two weeks, though full bone recovery
 ### Why Choose Sonin Hambaravi for Wisdom Tooth Removal in Tallinn?
 
 Sonin Hambaravi is a trusted dental clinic in the heart of Tallinn, known for combining clinical expertise with a calm, patient-centred environment. **Dr Dmitri Sonin** brings years of hands-on experience in oral surgery and general dentistry, ensuring every extraction is handled with precision and care. The clinic's modern equipment, multilingual team, and transparent pricing make it a preferred choice for both local residents and international patients living in or visiting Estonia.
-
-### Book Your Consultation Today
-
-[Book a consultation](/en/contact/)
-
-Don't let wisdom tooth pain interfere with your daily life. Contact Sonin Hambaravi clinic in Tallinn to schedule a consultation and find out whether removal is the right option for you. Our team is ready to help you take the next step toward lasting dental health.

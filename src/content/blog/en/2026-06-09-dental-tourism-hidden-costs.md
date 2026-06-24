@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-09-dental-tourism-hidden-costs.webp'
 ---
 
 
+
 ## Dental Tourism Hidden Costs: A Real Cost Calculation by Dr Dmitri Sonin
 
 Every year, thousands of patients from Northern and Western Europe travel abroad for dental implants, drawn by prices that look significantly lower on paper. But how do the numbers actually compare once every expense is counted? Dr Dmitri Sonin, implantologist at Sonin Dental Clinic clinic in Tallinn, has compiled a straightforward breakdown to help patients make an informed financial decision.

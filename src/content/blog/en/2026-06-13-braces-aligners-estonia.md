@@ -69,11 +69,3 @@ After active treatment, a retainer is typically recommended to maintain your new
 Estonia offers world-class dental care at significantly more accessible prices compared to many Western European countries. At Sonin Hambaravi clinic in Tallinn, patients benefit from a personalised approach, state-of-the-art equipment, and a warm, patient-focused environment. Dr Dmitri Sonin and the clinic team speak Estonian, Russian, and English, making it easy for international patients to feel at home throughout their treatment.
 
 The clinic is conveniently located in Tallinn and welcomes patients from across Estonia and neighbouring countries. Whether you're taking your first steps toward orthodontic treatment or looking for a second opinion, you'll receive honest, evidence-based advice tailored to your smile goals.
-
----
-
-### Book Your Orthodontic Consultation Today
-
-[Book a consultation](/en/contact/)
-
-Ready to explore your options for braces or aligners in Estonia? Contact **Sonin Hambaravi dental clinic** in Tallinn to schedule your initial consultation. Our team is here to answer your questions and help you take the first confident step toward a healthier, straighter smile.

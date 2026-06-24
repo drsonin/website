@@ -83,6 +83,4 @@ Patients benefit from:
 
 If you are ready to explore whether All-on-4 is the right solution for you, the first step is a personal consultation. The team at **Sonin Hambaravi** clinic in Tallinn is ready to answer your questions, assess your suitability, and guide you through every stage of the process.
 
-[Book a consultation](/en/contact/)
-
 **Contact Sonin Hambaravi today** to schedule your consultation — and take the first step towards a confident, permanent smile.

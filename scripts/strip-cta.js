@@ -12,44 +12,55 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const BLOG_DIR = join(dirname(__dirname), 'src', 'content', 'blog');
 
 // Keywords that signal a CTA paragraph
-const CTA_RE = /запис|консульт|broneeri|varaa aika|book.*consult|book.*appoint|ota yhteyttä|registreeri|свяжитесь|позвоните|call us|contact us/i;
+const CTA_RE = /запис|консульт|broneeri|varaa |book.*consult|book.*appoint|ota yhteyttä|registreeri|свяжитесь|позвоните|call us|contact us|ajanvaraus|yhteystiedot/i;
 
 // Also strip lines that are just contact links we added earlier
 const CONTACT_LINK_RE = /^\[(?:Записаться|Broneeri|Varaa|Book)[^\]]*\]\(\/[a-z]{0,2}\/?contact\/?\)$/;
 
 // Strip trailing CTA blocks from body text
 function stripCta(body) {
-  // Split into blocks (double newline separated)
   const blocks = body.split(/\n\n+/);
+  const before = blocks.length;
 
-  // Work from the end, remove blocks that are CTA
   while (blocks.length > 0) {
     const last = blocks[blocks.length - 1].trim();
 
-    // Remove if: empty, just a contact link, or CTA keyword + short (<120 chars)
-    if (!last) { blocks.pop(); continue; }
+    // Empty or lone separator
+    if (!last || last === '---') { blocks.pop(); continue; }
+
+    // H2/H3 heading that is a CTA
+    if (/^#{2,3}\s+.*(varaa|broneeri|запис|book|registr|консульт)/i.test(last.split('\n')[0])) { blocks.pop(); continue; }
 
     // Pure contact link line
     if (CONTACT_LINK_RE.test(last)) { blocks.pop(); continue; }
 
-    // drsonin.com reference lines (📍 / 🌐 lines)
+    // drsonin.com / emoji reference lines
     if (/📍|🌐|drsonin\.com/.test(last) && last.length < 200) { blocks.pop(); continue; }
 
-    // CTA paragraph: contains booking keyword and is relatively short
+    // CTA paragraph: booking keyword + short enough to be a CTA
     if (CTA_RE.test(last) && last.length < 500) { blocks.pop(); continue; }
 
-    // Inline contact link inside a paragraph — strip just the link line
+    // Paragraph that follows a CTA heading (penultimate block is a CTA heading)
+    if (blocks.length >= 2) {
+      const prev = blocks[blocks.length - 2].trim();
+      if (/^#{2,3}\s+.*(varaa|broneeri|запис|book|registr|консульт)/i.test(prev.split('\n')[0])) {
+        blocks.pop(); continue;
+      }
+    }
+
+    // Contact link embedded inside paragraph — remove just that line
     const withoutLink = last.replace(/\n?\[(?:Записаться|Broneeri|Varaa|Book)[^\]]*\]\(\/[a-z]{0,2}\/?contact\/?\)\n?/g, '').trim();
     if (withoutLink !== last) {
-      if (!withoutLink) { blocks.pop(); }
-      else { blocks[blocks.length - 1] = withoutLink; }
+      if (!withoutLink) blocks.pop();
+      else blocks[blocks.length - 1] = withoutLink;
       continue;
     }
 
     break;
   }
 
-  return blocks.join('\n\n').trimEnd() + '\n';
+  const changed = blocks.length !== before;
+  return { result: blocks.join('\n\n').trimEnd() + '\n', changed };
 }
 
 async function main() {
@@ -70,9 +81,9 @@ async function main() {
       const fm = content.slice(0, fmEnd);
       const body = content.slice(fmEnd).replace(/^\n/, '');
 
-      const stripped = stripCta(body);
+      const { result: stripped, changed } = stripCta(body);
 
-      if (stripped === body) { skipped++; continue; }
+      if (!changed) { skipped++; continue; }
 
       writeFileSync(filePath, fm + '\n' + stripped, 'utf8');
       console.log(`✓ [${lang}] ${file}`);

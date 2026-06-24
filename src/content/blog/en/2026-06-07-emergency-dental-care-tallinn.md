@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-07-emergency-dental-care-tallinn.webp'
 ---
 
 
+
 ## Emergency Dental Care in Tallinn: What You Need to Know | Dr Dmitri Sonin
 
 A sudden toothache at midnight. A broken tooth from an unexpected fall. A lost filling right before an important meeting. Dental emergencies never wait for a convenient time — and when they happen, knowing where to turn makes all the difference. At **Sonin Dental Clinic** clinic in Tallinn, we understand how stressful these moments can be, which is why we make emergency dental care as straightforward and reassuring as possible.

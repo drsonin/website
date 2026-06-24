@@ -8,6 +8,7 @@ tags: ['Hambaäretus', 'hambaarsti foobus', 'fogobia ravamine', 'hambapesula hir
 heroImage: '/blog-images/2026-06-15-dental-anxiety-tallinn.webp'
 ---
 
+
 ## Hirm Hambaarsti Ees: dr Dmitri Sonin Selgitab, Kuidas Hammaste Raviga Toime Tulla
 
 Hambaarstihirm on üks levinumaid foobiaid maailmas – hinnanguliselt kogeb seda mingil määral iga kolmas täiskasvanu. Paljud inimesed lükkavad vajaliku hambaravi edasi kuude või isegi aastate kaupa, mis viib väikestest probleemidest suurte tüsistusteni. Tallinna Sonin Hambaravi kliinikus suhtutakse patsiendi hirmudesse tõsiselt ning pakutakse lahendusi, mis muudavad hambaarsti külastuse võimalikult mugavaks ja stressivabaks.

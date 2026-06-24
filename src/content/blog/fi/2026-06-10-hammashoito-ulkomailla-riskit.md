@@ -8,6 +8,7 @@ tags: ['hammashoito ulkomailla', 'hammaslääkärin takuut', 'hoitoriskit', 'ham
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
 
+
 ## Hammashoito ulkomailla: riskit ja takuut – tri Dmitri Soninin näkökulma
 
 Yhä useampi suomalainen harkitsee hammashoitoa ulkomailla. Hinta on usein tärkein peruste: erityisesti Turkki houkuttelee edullisilla tarjouksillaan. Ennen päätöstä kannattaa kuitenkin tarkastella kokonaiskustannuksia ja niihin liittyviä riskejä huolellisesti.

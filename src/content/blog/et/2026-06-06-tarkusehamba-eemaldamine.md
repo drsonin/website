@@ -65,6 +65,4 @@ Varajane hindamine võimaldab vältida tüsistusi ja planeerida protseduuri sobi
 
 **Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas**
 
-[Broneeri konsultatsioon](/et/contact/)
-
 Kui soovite teada saada, kas teie tarkusehambad vajavad eemaldamist, kutsume teid konsultatsioonile Sonin Hambaravi kliinikusse Tallinnas. Dr Dmitri Sonin hindab teie olukorda individuaalselt, selgitab kõiki võimalusi ning tagab, et protseduur – kui see osutub vajalikuks – toimub turvaliselt ja mugavalt. Võtke meiega ühendust juba täna ja hoolitsege oma suutervise eest!

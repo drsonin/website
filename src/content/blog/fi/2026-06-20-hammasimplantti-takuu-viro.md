@@ -8,6 +8,7 @@ tags: ['hammasimplantti takuu', 'Viro hammaslääkäri', 'implantin kesto', 'tak
 heroImage: '/blog-images/2026-06-20-dental-implant-guarantee-estonia.webp'
 ---
 
+
 ## Hammasimplantin takuu Virossa – mitä tulee tietää | Sonin Hambaravi & tri Dmitri Sonin
 
 Hammasimplantti on pitkäaikainen ja laadukas ratkaisu puuttuvan hampaan korvaamiseen. Kun harkitset implanttia Virossa, yksi tärkeimmistä kysymyksistä on: **mitä takuu kattaa ja miten se toimii käytännössä?** Tässä artikkelissa selitämme selkeästi, mitä hammasimplantin takuu tarkoittaa, mitä se yleensä sisältää ja miten Sonin Hambaravi Tallinnassa lähestyy takuuasioita.

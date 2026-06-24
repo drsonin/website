@@ -8,6 +8,7 @@ tags: ['hambaraviturismi võrdlus', 'hambaarstide hinnad', 'Türgi vs Eesti', 'h
 heroImage: '/blog-images/2026-06-08-dental-implants-turkey-vs-tallinn.webp'
 ---
 
+
 ## Hambaraviturismi võrdlus: Türgi vs Tallinn – dr Dmitri Sonin analüüsib tegelikke kulusid
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Paljud patsiendid kaaluvad ravi saamist välismaal, eelkõige Türgis, lootuses säästa märkimisväärne summa. Kuid kas kokkuhoid on tegelikult nii suur, kui esmapilgul paistab? Vaatame numbreid lähemalt.

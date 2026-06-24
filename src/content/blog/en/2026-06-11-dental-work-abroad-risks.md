@@ -98,6 +98,4 @@ The numbers will differ for every patient depending on how many implants are nee
 
 If you are weighing your options and want a clear, written treatment plan with transparent pricing, the team at **Sonin Hambaravi** is available for consultations at our Tallinn clinic. We provide detailed cost estimates, full warranty documentation, and long-term follow-up care — all without a boarding pass.
 
-[Book a consultation](/en/contact/)
-
 **Contact Sonin Hambaravi to schedule your consultation today.**

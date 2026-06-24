@@ -8,6 +8,7 @@ tags: ['hampaaton hoito', 'proteesit', 'suuhygienia', 'hammashoidon aloitus', 'v
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
 
+
 ## Ei yhtään hammasta – mistä aloitetaan hoito? Tri Dmitri Soninin vastaukset potilaille
 
 Vastaanotolleni tulee ajoittain potilaita, joilla ei ole jäljellä yhtään omaa hammasta — tai joilla tilanne on edennyt niin pitkälle, että jäljellä olevat hampaat on poistettava. Monelle se tuntuu ahdistavalta ja jopa häpeälliseltä, minkä vuoksi hoitoon hakeudutaan liian myöhään. Hyvä uutinen on tämä: täydellinen hampaattomuus on täysin hoidettavissa, ja nykyiset menetelmät antavat mahdollisuuden saada toimivat ja esteettiset hampaat takaisin.

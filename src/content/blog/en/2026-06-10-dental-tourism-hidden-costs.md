@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
 
 
+
 ## Dental Tourism Hidden Costs: A Real Calculation by Dr Dmitri Sonin
 
 Every year, thousands of patients travel abroad for dental work expecting significant savings. The numbers on paper can look compelling. But a complete financial picture requires accounting for every line item — not just the clinic invoice. Below is a factual cost breakdown to help you make an informed decision.

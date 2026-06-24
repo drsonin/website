@@ -69,6 +69,4 @@ Mõlema ravi järel on oluline kanda retainerit – fiksaatorit, mis hoiab hamba
 
 Kui kaalud ortodontilist ravi ja ei tea, kust alustada, on parim samm leppida kokku konsultatsioon. **Sonin Hambaravi kliinikus Tallinnas** hindame su hambumust põhjalikult, tutvustame kõiki võimalusi ja koostame just sulle sobiva raviplaani.
 
-[Broneeri konsultatsioon](/et/contact/)
-
 Võta meiega ühendust juba täna ja astu esimene samm kauni naeratuse suunas!

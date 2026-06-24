@@ -47,9 +47,3 @@ Dmitri Sonin korostaa klinikallaan aina potilaan kokonaisvaltaista suun terveytt
 Oikomishoito alkaa aina perusteellisella alkututkimuksella, johon kuuluu hampaiston ja purennan arviointi sekä tarvittaessa röntgenkuvat ja digitaaliset jäljennökset. Näiden tietojen pohjalta tri Dmitri Sonin laatii yksilöllisen hoitosuunnitelman, jossa käydään läpi sopivin hoitomuoto, hoidon kesto ja kustannukset.
 
 Hoitoaika vaihtelee tyypillisesti muutamasta kuukaudesta yli kahteen vuoteen hoidon laajuudesta riippuen. Hoidon päätyttyä hampaat stabiloidaan yleensä kiinteällä tai irrotettavalla retainerilla, jotta saavutettu tulos pysyy.
-
----
-
-[Varaa konsultaatio](/fi/contact/)
-
-Oletko kiinnostunut hammasraudoista tai alignereista? **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa** ja selvitä, mikä oikomishoitomenetelmä sopii juuri sinulle. Ammattitaitoinen tiimimme auttaa sinua kohti kaunista, tervettä hymyä.

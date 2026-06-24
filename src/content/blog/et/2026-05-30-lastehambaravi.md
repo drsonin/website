@@ -8,6 +8,7 @@ tags: ['Lastehambaravi', 'hambakaaries ennetamine', 'maiust hambad', 'hambahügi
 heroImage: '/blog-images/2026-05-30-pediatric-dentistry-tallinn.webp'
 ---
 
+
 ## Lastehambaravi Tallinnas – dr Dmitri Sonin aitab teie lapsel terveid hambaid hoida
 
 Lapse suutervise eest hoolitsemine algab palju varem, kui paljud vanemad arvavad. Esimesed piimahambastad ilmuvad juba imikueas ning just sel perioodil pannakse alus elukestvale suuhügieenikäitumisele. Sonin Hambaravi kliinikus Tallinnas oleme spetsialiseerunud lastega töötamisele – loome turvalise ja sõbraliku keskkonna, kus iga laps tunneb end mugavalt.

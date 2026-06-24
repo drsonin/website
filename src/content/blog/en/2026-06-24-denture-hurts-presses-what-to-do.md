@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
 
 
+
 ## Removable Denture Hurts and Presses — What to Do in Tallinn: Advice from Dr Dmitri Sonin
 
 You put in your new denture in the morning, and by lunchtime your gum is already sore and red. Sound familiar? You're not alone — pressure pain and irritation from removable dentures is one of the most common complaints Dr Dmitri Sonin hears at Sonin Dental Clinic clinic in Tallinn. The good news: in most cases, the problem has a clear cause and a straightforward solution.

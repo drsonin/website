@@ -84,6 +84,4 @@ The financial gap between destinations narrows significantly when travel costs a
 
 **Dr Dmitri Sonin** and the team at Sonin Hambaravi offer a no-obligation implant consultation where your specific case, bone structure, and full cost projection are assessed individually. Prices quoted are fixed, transparent, and include the 5-year guarantee.
 
-[Book a consultation](/en/contact/)
-
 To schedule your consultation, contact **Sonin Hambaravi** in Tallinn directly through the clinic website or by phone. Bring any existing X-rays or treatment quotes — including those from abroad — for a like-for-like comparison.

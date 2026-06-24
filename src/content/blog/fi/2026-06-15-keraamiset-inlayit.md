@@ -8,6 +8,7 @@ tags: ['keraamiset inlayit', 'hammashoito', 'hampaan korjaus', 'pitkäkestävät
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
 
+
 ## Keraamiset inlayit – tri Dmitri Soninin asiantunteva ratkaisu kestävään hammaskorjaukseen
 
 Hampaiden korjaaminen on kehittynyt huimasti viime vuosikymmeninä. Perinteiset amalgaamipaikaukset ovat yhä useammin väistymässä esteettisempien ja kestävämpien vaihtoehtojen tieltä. Yksi suosituimmista moderneista ratkaisuista ovat keraamiset inlayit – hampaan väriin sopivat, laboratoriovalmisteiset korjaukset, jotka yhdistävät kauneuden ja pitkäaikaisen kestävyyden.

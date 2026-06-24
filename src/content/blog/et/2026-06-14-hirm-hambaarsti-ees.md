@@ -8,6 +8,7 @@ tags: ['Hambaarsti fobia', 'hambaarsti hirm', 'foobia ravi', 'hambaarstiabi hirm
 heroImage: '/blog-images/2026-06-14-dental-anxiety-tallinn.webp'
 ---
 
+
 ## Hirm Hambaarsti Ees: Dr Dmitri Sonin Selgitab, Kuidas Hambaarstikartusest Üle Saada
 
 Hambaarstikartus on palju levinum, kui arvata oskame. Uuringud näitavad, et ligi 15–20% täiskasvanutest väldib hambaarsti külastamist just hirmu tõttu. See tähendab, et paljud inimesed kannatavad hambavalu või halva suuhügieeniga aastaid, enne kui nad lõpuks abi otsivad — ja siis on probleemid sageli juba palju suuremad. Sonin Hambaravi kliinikus Tallinnas oleme korduvalt näinud, kuidas õigeaegne ja pingevaba ravi muudab patsientide elu.

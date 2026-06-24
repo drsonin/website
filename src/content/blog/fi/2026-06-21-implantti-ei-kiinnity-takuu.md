@@ -8,6 +8,7 @@ tags: ['implantti takuu', 'implantti ei kiinnity', 'implantin epäonnistuminen',
 heroImage: '/blog-images/2026-06-21-dental-implant-failure-guarantee-tallinn.webp'
 ---
 
+
 ## Mitä tehdä, jos implantti ei kiinnity – takuutapaus Sonin Hambaravi -klinikalla
 
 Hammasimplantti on pitkäaikainen sijoitus omaan terveyteen ja hyvinvointiin. Useimmiten implantointi onnistuu erinomaisesti, mutta joskus implantti ei kiinnity leukaluuhun odotetulla tavalla. Tällaisessa tilanteessa monet potilaat miettivät, mitä tapahtuu seuraavaksi ja kenen vastuulla ongelma on. Tässä artikkelissa kerromme selkeästi, mitä implanttiepäonnistuminen tarkoittaa, miten takuutapaus toimii ja miten Sonin Hambaravi -klinikka Tallinnassa huolehtii potilaistaan koko hoitoprosessin ajan.

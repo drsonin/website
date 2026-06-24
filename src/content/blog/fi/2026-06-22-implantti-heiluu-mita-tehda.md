@@ -67,9 +67,3 @@ Suurin osa implanttikomplikaatioista on ehkäistävissä hyvällä hoidolla ja s
 - **Älä tupakoi** — tupakointi on yksi suurimmista riskitekijöistä sekä implanttiepäonnistumiselle että periimplantiitille
 
 Hyvin hoidettu implantti kestää vuosikymmeniä. Mutta se vaatii, että ongelmat otetaan vakavasti ajoissa.
-
----
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Epäiletkö implanttisi kuntoa?** Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa — asiantunteva tutkimus ja selkeä hoitosuunnitelma ovat aina ensimmäinen askel kohti ratkaisua.

@@ -8,6 +8,7 @@ tags: ['Juureravi', 'hambajuure ravi', 'pulpiidi ravi', 'hambavalu leevendamine'
 heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
 
+
 ## Juureravi – mida see tähendab ja miks see hambad päästab? Dr Dmitri Soniniga Sonin Hambaravi kliinikus
 
 Hambavalu võib olla üks ebameeldivamaid kogemusi, mida inimene läbi elab. Kui valu on sügav, pidev ja reageerib temperatuurimuutustele, võib põhjus peituda hamba sees – täpsemalt hambakanalis. Just sel hetkel tuleb mängu **juureravi**, mis on tänapäeva hambaravis üks levinumaid ja tõhusamaid protseduure hamba säilitamiseks.

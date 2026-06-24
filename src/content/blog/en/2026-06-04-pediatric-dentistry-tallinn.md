@@ -60,6 +60,4 @@ These simple steps, combined with regular professional check-ups, give your chil
 
 Investing in your child's dental health now means fewer problems — and fewer worries — in the future. At Sonin Hambaravi dental clinic in Tallinn, Dr Dmitri Sonin and our experienced team are ready to make every visit a positive one for your little ones.
 
-[Book a consultation](/en/contact/)
-
 Do not wait for a toothache to be the reason for your child's first appointment. **Contact Sonin Hambaravi clinic today** to schedule a consultation and take the first step toward your child's confident, healthy smile.

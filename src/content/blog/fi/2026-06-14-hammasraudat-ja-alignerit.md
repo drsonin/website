@@ -56,9 +56,3 @@ Yleisohjeena voidaan sanoa:
 ### Hoitoaika ja jälkihoito
 
 Oikomishoito kestää tyypillisesti yhdestä kolmeen vuotta riippuen hampaiston tilanteesta ja valitusta menetelmästä. Hoidon päätyttyä käytetään retentiosuojaa eli kiinnittäjää, joka estää hampaita palaamasta alkuperäiseen asentoonsa. Tämä vaihe on yhtä tärkeä kuin itse oikomishoito.
-
-### Varaa konsultaatio Sonin Hambaravi -klinikalle
-
-[Varaa konsultaatio](/fi/contact/)
-
-Oletko harkinnut hampaiden oikomista mutta et tiedä, kumpi vaihtoehto sopii sinulle paremmin? Tallinnassa sijaitsevalla **Sonin Hambaravi** -klinikalla tri Dmitri Sonin ja hänen ammattitaitoinen tiiminsä ovat valmiita auttamaan sinua löytämään parhaan ratkaisun. Varaa konsultaatioaika jo tänään – ensimmäinen askel kohti kaunista ja toimivaa hampaistoa voi olla helpompi kuin ajattelenkaan.

@@ -80,6 +80,4 @@ Ready to take the first step toward the smile you've always wanted? **Sonin Hamb
 📍 Located in the heart of Tallinn, Estonia
 📞 Contact us today to schedule your personal consultation and discover what dental veneers can do for your confidence.
 
-[Book a consultation](/en/contact/)
-
 *Your dream smile is closer than you think — and it starts here.*

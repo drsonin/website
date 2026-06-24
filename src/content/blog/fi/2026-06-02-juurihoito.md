@@ -52,9 +52,3 @@ Dmitri Sonin korostaa, että potilaan pelot ovat täysin ymmärrettäviä ja kli
 ### Miksi hammasta kannattaa yrittää säilyttää?
 
 Oman hampaan säilyttäminen on aina paras vaihtoehto. Luonnollinen hammas toimii purennassa ylivoimaisesti implanttia tai proteesia paremmin, ylläpitää leuan luuaineenvaihduntaa ja tukee viereisten hampaiden asentoa. Juurihoidolla onnistuneesti hoidettu hammas voi kestää koko loppu elämän asianmukaisella suuhygienialla ja säännöllisillä tarkastuksilla.
-
-### Varaa aika Sonin Hambaravi -klinikalle
-
-[Varaa konsultaatio](/fi/contact/)
-
-Jos sinulla on hammassärkyä, epäilet tulehdusta tai hammaslääkäri on suositellut juurihoitoa, älä viivyttele. Tri Dmitri Sonin ja Sonin Hambaravi -klinikan ammattitaitoinen tiimi Tallinnassa ovat valmiita auttamaan sinua. Varaa konsultaatioaika jo tänään – hampaidesi terveys on paras sijoitus, jonka voit tehdä.

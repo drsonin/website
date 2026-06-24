@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-01-root-canal-treatment-tallinn.webp'
 ---
 
 
+
 ## Root Canal Treatment in Tallinn with Dr Dmitri Sonin
 
 If you've been told you need a root canal, you're not alone — and more importantly, you're not in for the ordeal you might be imagining. At Sonin Dental Clinic dental clinic in Tallinn, root canal treatment is a routine, comfortable procedure that saves teeth and relieves pain. Led by experienced dentist Dmitri Sonin, our clinic combines modern techniques with genuine patient care to make your experience as smooth as possible.

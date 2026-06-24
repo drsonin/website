@@ -8,6 +8,7 @@ tags: ['Kokoproteesi implanteilla', 'hampaan implantti Tallinna', 'täysproteesi
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
 
+
 ## Kokoproteesi neljällä implantilla Tallinnassa – tri Dmitri Soninin asiantunteva ratkaisu hampaattomaan leuankaareen
 
 Hampaattomuus tai vakavasti vaurioitunut hampaisto vaikuttaa merkittävästi elämänlaatuun – syömiseen, puhumiseen ja itseluottamukseen. Kokoproteesi neljällä implantilla, joka tunnetaan kansainvälisesti myös nimellä *All-on-4*, on moderni ja kestävä ratkaisu, joka palauttaa toimivan ja esteettisesti kauniin hampaiston. Tallinnassa tämä hoito on saatavilla Sonin Hambaravi -klinikalla lääkärin johdolla, ja se tarjoaa suomalaisille potilaille erinomaisen yhdistelmän laadusta ja edullisemmasta hinnasta verrattuna Suomeen.

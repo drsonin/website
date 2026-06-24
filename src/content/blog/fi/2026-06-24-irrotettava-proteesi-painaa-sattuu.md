@@ -8,6 +8,7 @@ tags: ['irrotettava proteesi', 'proteesi kipu', 'hammasproteesi Tallinna', 'prot
 heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
 
+
 ## Irrotettava proteesi painaa ja sattuu – syy ja ratkaisu | Tri Dmitri Sonin selittää
 
 Moni proteesin käyttäjä tunnistaa tilanteen: aamulla proteesi istui kohtalaisesti, mutta iltapäivällä leuka särkee ja ien on punoittava. Tai uusi proteesi tuntui heti alusta alkaen väärältä – paine kohdistuu yhteen kohtaan eikä hellitä. Tämä on yleinen ja täysin hoidettavissa oleva ongelma, mutta se vaatii oikean diagnoosin.

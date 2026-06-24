@@ -8,6 +8,7 @@ tags: ['Lastehambaravi', 'hambaarstid lastele', 'hambahaigused lastel', 'hambah�
 heroImage: '/blog-images/2026-06-04-pediatric-dentistry-tallinn.webp'
 ---
 
+
 ## Lastehambaravi Tallinnas – dr Dmitri Sonin aitab teie lapsel hambaid armastada
 
 Laste hambaravi on palju enamat kui lihtsalt hammaste puhastamine jaaukude täitmine. See on esmane samm tervisliku suu hügieeni harjumuste kujundamisel, mis saadavad last läbi kogu elu. Sonin Hambaravi kliinikus Tallinnas teame, kui oluline on, et laps tunneks end hambaarsti juures turvaliselt ja mugavalt – just see on meie töö alus.

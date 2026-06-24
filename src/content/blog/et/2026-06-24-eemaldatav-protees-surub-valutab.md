@@ -8,6 +8,7 @@ tags: ['Eemaldatav protees', 'hambaprotees', 'kunstlikud hambad', 'proteesi hool
 heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
 
+
 ## Eemaldatav protees surub ja valutab — miks ja mida teha | dr Dmitri Sonin selgitab
 
 Olete saanud uue eemaldatava proteesi või kandnud vana juba aastaid — ja äkki hakkab see suruma, tekitab haavandeid või muutub lihtsalt talumatuks. See on üks levinumaid kaebusi, millega patsiendid Sonin Hambaravi kliinikusse Tallinnas pöörduvad. Hea uudis: enamasti on lahendus olemas ja probleemi saab kiiresti lahendada.

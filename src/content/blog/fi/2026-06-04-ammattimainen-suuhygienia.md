@@ -62,9 +62,3 @@ Säännöllinen ammattilaispuhdistus tuo mukanaan monia konkreettisia etuja:
 Sonin Hambaravi -klinikalla ammattimainen suuhygieniahoito aloitetaan aina huolellisella suun terveystarkastuksella. Hammaslääkäri tai suuhygienisti kartoittaa tilanteen, minkä jälkeen suoritetaan tarvittavat toimenpiteet. Hoito on kivuton tai hyvin lievästi epämukava, ja tarvittaessa voidaan käyttää paikallispuudutetta.
 
 Käynnin lopussa saat aina konkreettisia, juuri sinulle räätälöityjä neuvoja kotihoidon parantamiseksi – oikeasta harjaustekniikasta hammastahnan valintaan.
-
-### Varaa aikasi Sonin Hambaravi -klinikalle
-
-[Varaa konsultaatio](/fi/contact/)
-
-Ammattimainen suuhygienia on helppo tapa pitää huolta terveydestäsi kokonaisvaltaisesti. Sonin Hambaravi -klinikka Tallinnassa tarjoaa korkealaatuista hammashoitoa ystävällisessä ja modernissa ympäristössä. Varaa konsultaatio tri Dmitri Soninin vastaanotolle jo tänään ja ota ensimmäinen askel kohti terveempää, kauniimpaa hymyä.

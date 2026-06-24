@@ -96,11 +96,3 @@ Several variables influence treatment outcomes but are not reflected in cost com
 | Food & transfers | €150–€200 | €0 |
 | Complication return trip | €500–€800 | €0 (5-yr guarantee) |
 | **Realistic total (1 tooth)** | **€1,150–€2,000+** | **€1,200–€1,800** |
-
----
-
-### Book a Consultation at Sonin Hambaravi
-
-[Book a consultation](/en/contact/)
-
-If you are evaluating dental implants and want a precise cost estimate based on your specific clinical situation, Sonin Hambaravi clinic in Tallinn offers individual consultations with a full treatment plan and itemised pricing. Contact the clinic directly to schedule your appointment and receive a written breakdown before making any decision.

@@ -8,6 +8,7 @@ tags: ['Parodontiitin hoito', 'hammastauti', 'gingiviitti', 'hammaskiven poisto'
 heroImage: '/blog-images/2026-06-05-gum-disease-treatment-tallinn.webp'
 ---
 
+
 ## Parodontiitin hoito – tri Dmitri Soninin asiantunteva opas ikenien terveyteen
 
 Parodontiitti on yksi yleisimmistä suun sairauksista, ja hoitamattomana se voi johtaa vakaviin seurauksiiin, kuten hampaiden löystymiseen ja lopulta niiden menetykseen. Hyvä uutinen on, että oikea-aikainen hoito pysäyttää taudin etenemisen ja auttaa palauttamaan ikenien terveyden. Tallinnassa toimiva Sonin Hambaravi -klinikka on erikoistunut juuri tähän – turvalliseen, tehokkaaseen ja yksilölliseen parodontiitin hoitoon.

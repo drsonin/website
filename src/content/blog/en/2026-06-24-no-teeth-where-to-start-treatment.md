@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
 
 
+
 ## No Teeth at All? Where to Start Dental Treatment in Tallinn — Advice from Dr Dmitri Sonin
 
 Imagine looking in the mirror and feeling overwhelmed by what you see — or rather, what you don't see. Many patients arrive at Sonin Dental Clinic clinic after years of avoiding the dentist, convinced their situation is "too far gone" to fix. The good news? It never is. Whether you've lost teeth gradually through decay, gum disease, or injury — or you're dealing with complete edentulism — there is always a clear, structured path forward.

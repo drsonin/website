@@ -61,9 +61,3 @@ Pelkäävä potilas voi valmistautua käyntiin myös itse muutamilla yksinkertai
 Pelkäävät potilaat ovat Dmitri Soninille tuttuja, ja hän suhtautuu heihin aina arvostavasti ja kärsivällisesti. Klinikalla uskotaan, että jokainen potilas ansaitsee hyvän hoidon – taustastaan tai pelostaan riippumatta.
 
 Suun terveys on osa kokonaisterveyttä, ja siitä huolehtiminen on mahdollista myös silloin, kun hammaslääkärikäynti tuntuu pelottavalta.
-
----
-
-[Varaa konsultaatio](/fi/contact/)
-
-**Ota ensimmäinen askel tänään.** Varaa konsultaatioaika Sonin Hambaravi -klinikalle Tallinnassa ja kerro meille tilanteestasi. Autamme sinua löytämään rauhallisen ja turvallisen tavan hoitaa suusi kuntoon – omaan tahtiisi.

@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-18-dental-tourism-estonia-norway.webp'
 ---
 
 
+
 ## Dental Tourism Estonia from Norway: What to Know — Insights from Dr Dmitri Sonin
 
 Norway offers world-class healthcare, but dental treatment remains one of the few areas where costs can be genuinely eye-watering. It's no surprise that thousands of Norwegians each year look beyond their borders for high-quality, affordable dental care. Estonia — and Tallinn in particular — has become one of the most popular destinations for exactly this reason. Here is everything you need to know before making the trip.

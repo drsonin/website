@@ -8,6 +8,7 @@ tags: ['Hammashoitomatkailu Turkki', 'Hammashoitomatkailu Tallinna', 'Hammashoit
 heroImage: '/blog-images/2026-06-08-dental-implants-turkey-vs-tallinn.webp'
 ---
 
+
 ## Hammashoitomatkailu Turkki vs Tallinna – Tri Dmitri Soninin näkökulma kokonaiskustannuksiin
 
 Hammashoitomatkailu on kasvanut merkittävästi viime vuosina, ja suomalaiset etsivät yhä useammin edullisempia vaihtoehtoja kalliiksi koetulle kotimaiselle hammashoidolle. Kaksi suosituinta kohdetta ovat Turkki ja Tallinna. Tässä artikkelissa tarkastellaan molempien vaihtoehtojen todellisia kokonaiskustannuksia, logistisia tekijöitä ja hoidon jatkuvuuteen liittyviä käytännön näkökohtia – pelkästään numeroiden ja tosiseikkojen pohjalta.

@@ -8,6 +8,7 @@ tags: ['lasten hammashoito', 'lapset hampaat', 'hammasterveys', 'suun hygienia',
 heroImage: '/blog-images/2026-05-30-pediatric-dentistry-tallinn.webp'
 ---
 
+
 ## Lasten hammashoito Tallinnassa – tri Dmitri Soninin asiantuntijaneuvot
 
 Lapsen hampaat ovat arvokas asia, josta kannattaa huolehtia heti ensimmäisistä maitohampaistakin lähtien. Hyvät suuhygieniatottumukset ja säännölliset hammaslääkärikäynnit luovat perustan terveelle hymylle koko elämäksi. Sonin Hambaravi -klinikalla Tallinnassa olemme erikoistuneet lasten hammashoidon tarjoamiseen turvallisessa ja lapsiystävällisessä ympäristössä.

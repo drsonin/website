@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 ---
 
 
+
 ## Teeth Whitening in Tallinn: Expert Care with Dr Dmitri Sonin
 
 A brighter, more confident smile is one of the most sought-after cosmetic dental treatments in Estonia. If you are searching for professional **teeth whitening in Tallinn**, you have come to the right place. At Sonin Dental Clinic dental clinic, we combine the latest whitening technologies with personalised care to help every patient achieve outstanding, natural-looking results.

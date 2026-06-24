@@ -8,6 +8,7 @@ tags: ['Hambaraviturizm', 'Peidetud kulud', 'Reisieelarvetus', 'Hambaarstiteenus
 heroImage: '/blog-images/2026-06-09-dental-tourism-hidden-costs.webp'
 ---
 
+
 ## Hambaraviturismi varjatud kulud – mida dr Dmitri Sonin soovitab enne reisiotsust teada
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Patsiendid reisivad ravi saamiseks Türki, Ungarisse, Poolasse ja teistesse riikidesse, kus hinnad on kodumaisest märkimisväärselt madalamad. Enne sellise otsuse tegemist tasub aga teha täpne kuluarvutus – koos kõigi komponentidega, mida reklaamhinnad tavaliselt ei näita.

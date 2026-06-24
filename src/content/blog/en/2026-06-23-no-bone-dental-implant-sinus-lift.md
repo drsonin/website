@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
 
 
+
 ## Not Enough Bone for a Dental Implant? Dr Dmitri Sonin Explains Sinus Lift and Bone Graft Options in Tallinn
 
 You've been told you want dental implants — but then comes the news that stops many patients in their tracks: *"I'm sorry, you don't have enough bone."* Maybe you lost a tooth years ago, or you've worn dentures for a long time. Whatever the reason, hearing this can feel like a dead end. The good news? It isn't. As Dr Dmitri Sonin sees regularly at Sonin Dental Clinic clinic in Tallinn, the vast majority of patients who lack sufficient bone can still receive implants — they simply need one extra step first.

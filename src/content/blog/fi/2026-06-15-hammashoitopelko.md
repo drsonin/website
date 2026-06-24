@@ -8,6 +8,7 @@ tags: ['hammashoitopelko', 'hammaslääkärin pelko', 'hammashoito-ahdistus', 'p
 heroImage: '/blog-images/2026-06-15-dental-anxiety-tallinn.webp'
 ---
 
+
 ## Hammashoitopelko – tri Dmitri Sonin auttaa sinua voittamaan pelkosi
 
 Hammashoitopelko on yleisempi kuin moni ajattelee. Arvioidaan, että jopa 15–20 % aikuisista kokee merkittävää ahdistusta hammaslääkärikäynnin ajatuksesta, ja osa heistä lykkää hoitoa vuosiksi pelon vuoksi. Tämä on valitettavaa, sillä hoitamatta jääneet hammasongelmat voivat kehittyä vakaviksi ja aiheuttaa huomattavasti enemmän vaivaa pitkällä aikavälillä.

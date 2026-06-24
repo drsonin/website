@@ -8,6 +8,7 @@ tags: ['Juurihoito', 'hammassärky', 'pääjuurikanava', 'hammasinfektio', 'pulp
 heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
 
+
 ## Juurihoito Tallinnassa – Dmitri Sonin auttaa pelastamaan hampaasi
 
 Juurihoito kuulostaa monesta pelottavalta, mutta nykypäivänä se on rutiininomainen toimenpide, joka pelastaa hampaan poistolta ja lievittää kipua tehokkaasti. Sonin Hambaravi -klinikalla Tallinnassa tri Dmitri Sonin suorittaa juurihoidot modernilla tekniikalla ja potilasystävällisellä otteella.

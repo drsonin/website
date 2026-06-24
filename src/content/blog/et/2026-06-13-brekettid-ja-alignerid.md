@@ -72,6 +72,4 @@ Ortodontilist ravi on põhjust kaaluda, kui märkate järgmisi sümptomeid:
 
 **Broneeri konsultatsioon juba täna!**
 
-[Broneeri konsultatsioon](/et/contact/)
-
 Soovid teada, kas brekettid või alignerid sobivad sinule? Tule Sonin Hambaravi kliinikusse Tallinnas ning dr Dmitri Sonin hindab teie hammaste seisundit ning soovitab parima lahenduse. Võta ühendust meie registratuuriga – ilus ja terve naeratus on sinust vaid ühe sammu kaugusel.

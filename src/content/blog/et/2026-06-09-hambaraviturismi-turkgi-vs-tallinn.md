@@ -8,6 +8,7 @@ tags: ['hambaraviturismi', 'Türgi hambaravi', 'Tallinn hambaravi', 'hinna võrd
 heroImage: '/blog-images/2026-06-09-dental-implants-turkey-vs-tallinn.webp'
 ---
 
+
 ## Hambaraviturismi võrdlus: Türgi vs Tallinn – dr Dmitri Sonini faktipõhine ülevaade
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Üha rohkem inimesi kaalub hambaid ravida välismaal, kus hinnad tunduvad esmapilgul märkimisväärselt madalamad. Üks levinumaid sihtkohti on Türgi – eelkõige Antalya ja Istanbul. Kuid kas tegelik kokkuhoid on nii suur, kui reklaamid lubavad? Vaatame numbreid ausalt.

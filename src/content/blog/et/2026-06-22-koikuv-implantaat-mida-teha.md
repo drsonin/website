@@ -8,6 +8,7 @@ tags: ['Implantaadi valus', 'Implantaadi kõikumine', 'Implantaadi probleemid', 
 heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
 
+
 ## Kõikuv ja valutav implantaat — mida teha? Dr Dmitri Sonin selgitab
 
 Olete märganud, et hambaimplantaat tundub liikuvana, või tunnete selle piirkonnas ebamugavust ja valu? See on murettekitav olukord, mis ajendab paljusid patsiente internetti otsima vastust küsimusele: kas see on normaalne või midagi on valesti läinud? Dr Dmitri Sonin Sonin Hambaravi kliinikus Tallinnas selgitab, millised on kõige levinumad põhjused ja mida tuleks ette võtta.

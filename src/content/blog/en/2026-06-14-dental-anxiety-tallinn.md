@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-14-dental-anxiety-tallinn.webp'
 ---
 
 
+
 ## Overcoming Dental Anxiety in Tallinn: How Dr Dmitri Sonin Can Help You Smile Again
 
 Does the thought of sitting in a dental chair make your heart race? You are far from alone. Dental anxiety affects millions of people worldwide, and many patients in Tallinn avoid essential care for years simply because of fear. At Sonin Dental Clinic dental clinic, we understand this deeply — and we have built our entire approach around making dentistry feel safe, calm, and even comfortable.

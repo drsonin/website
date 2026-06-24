@@ -68,9 +68,3 @@ Sonin Hambaravi is a trusted dental clinic in Tallinn with a strong reputation f
 - **Convenient Tallinn location** — easily accessible for both local residents and international patients
 
 We understand that the idea of wisdom tooth removal can feel daunting. Our goal is to make the experience as comfortable and straightforward as possible, from your first appointment through to full recovery.
-
-### Book Your Consultation Today
-
-[Book a consultation](/en/contact/)
-
-Don't let wisdom tooth pain disrupt your daily life. Contact **Sonin Hambaravi dental clinic** in Tallinn to schedule your consultation and find out whether wisdom tooth removal is the right solution for you. Our friendly team is ready to answer your questions and help you take the first step towards lasting relief.

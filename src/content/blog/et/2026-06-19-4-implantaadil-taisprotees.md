@@ -71,6 +71,4 @@ Kui oled kaalunud püsivat lahendust hammaste kadumisele, on nüüd parim aeg as
 📍 Meie kliinik asub Tallinnas ja pakub kaasaegset hambaravi kõrgeimal tasemel.  
 📞 Helista meile või broneeri aeg mugavalt veebis – esimene samm parema elukvaliteedi suunas algab ühest telefonikõnest.
 
-[Broneeri konsultatsioon](/et/contact/)
-
 **Sonin Hambaravi – professionaalne hambaravi, mida usaldad.**

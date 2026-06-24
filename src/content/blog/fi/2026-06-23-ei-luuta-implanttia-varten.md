@@ -8,6 +8,7 @@ tags: ['Sinuslifti', 'luusiirto', 'hammasimplantti', 'luuaugmentaatio', 'implant
 heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
 
+
 ## Ei luuta implanttia varten: sinuslift vai luusiirto? – Tri Dmitri Soninin vastaukset
 
 Moni potilas saapuu Sonin Hambaravi -klinikalle Tallinnassa vahvana toiveenaan saada hammasimplantti, mutta röntgenkuvaus paljastaa ikävän totuuden: leukaluuta on liian vähän tai se on liian ohut implantin turvalliseen kiinnittämiseen. Tämä ei kuitenkaan tarkoita, että implantti olisi mahdoton — se tarkoittaa, että ensin täytyy rakentaa riittävä perusta. Potilaan kysymys kuuluukin useimmiten: *mikä sopii minulle paremmin, sinuslift vai luusiirto?*

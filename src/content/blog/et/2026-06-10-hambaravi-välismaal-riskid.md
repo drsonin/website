@@ -8,6 +8,7 @@ tags: ['Hambaravi välismaal', 'hambaarstide garantiid', 'välishambaravi riskid
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
 
+
 ## Hambaravi välismaal: riskid ja garantiid – dr Dmitri Sonini ülevaade
 
 Üha rohkem eestlasi kaalub hambaravi saamist välismaal, eriti riikides nagu Türgi, Ungari või Poola. Madalam hinnatase tundub esmapilgul ahvatlev, kuid otsuse tegemisel tasub arvestada kõigi kulude ja võimalike riskidega. Dr Dmitri Sonin on koostanud faktipõhise ülevaate, mis aitab teil teha teadliku valiku.

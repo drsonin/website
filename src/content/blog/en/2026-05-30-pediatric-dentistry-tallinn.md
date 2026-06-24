@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-05-30-pediatric-dentistry-tallinn.webp'
 ---
 
 
+
 ## Pediatric Dentistry in Tallinn: Expert Children's Dental Care by Dr Dmitri Sonin
 
 When it comes to your child's smile, finding the right dental team makes all the difference. At Sonin Dental Clinic clinic in Tallinn, we understand that early dental care shapes a lifetime of healthy habits. Dr Dmitri Sonin and his dedicated team specialize in creating positive, stress-free experiences for children of all ages — from their very first tooth through their teenage years.

@@ -8,6 +8,7 @@ tags: ['Tsirkoonium vs metallokeraamiline', 'Hambakrooni valik', 'Keraamiliste k
 heroImage: '/blog-images/2026-06-23-zirconia-vs-metal-ceramic-crown.webp'
 ---
 
+
 ## Tsirkoonium- või metallokeraamiline kroon — mida valida? Dr Dmitri Sonin vastab
 
 Paljud patsiendid jõuavad Sonin Hambaravi kliinikusse Tallinnas sama küsimusega: „Mul on vaja krooni — aga millist?" Hambaarst on soovitanud kaks varianti: tsirkooniumi- või metallokeraamiline kroon, mõlemal on oma hind, ning patsiendil pole aimu, kumb sobib just tema suhu ja elustiiliga. See pole haruldane olukord — vastupidi, see on üks kõige sagedasemaid valikuküsimusi, mida hambaravikabinetis päeva jooksul ette tuleb.

@@ -8,6 +8,7 @@ tags: ['All-on-4 hind', 'All-on-4 raviaeg', 'Hambasiirdid Tallinnas', 'Implantol
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
 
+
 ## All-on-4 hind ja raviaeg Tallinnas — täielik juhend dr Dmitri Soninilt
 
 Paljud patsiendid jõuavad Sonin Hambaravi kliinikusse küsimusega, mida nad on pikalt endamisi kaalunud: "Kui palju maksab All-on-4 ja kui kaua see kõik aega võtab?" Sageli on tegu inimesega, kes on aastaid kandnud eemaldatavat proteesi, tundnud ebamugavust söömisel või lihtsalt kaotanud enesekindluse oma naeratuse suhtes. See juhend annab ausad vastused — ilma ilustamiseta.

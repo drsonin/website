@@ -8,6 +8,7 @@ tags: ['hambaimplantaadi garantii', 'implantaadi garantiid', 'hambaravitöö gar
 heroImage: '/blog-images/2026-06-20-dental-implant-guarantee-estonia.webp'
 ---
 
+
 ## Hambaimplantaadi garantii Eestis — mida teada | dr Dmitri Sonin selgitab
 
 Hambaimplantaat on pikaajaline investeering oma tervise ja naeratuse heaks. Üks küsimus, mida patsiendid küsivad kõige sagedamini, on: **milline on hambaimplantaadi garantii ja mida see tegelikult katab?** Sonin Hambaravi kliinikus Tallinnas oleme kogunud aastaid kogemusi implantaatide paigaldamisel ning soovime anda selge ülevaate sellest, mida peaksite garantii kohta teadma enne ravi alustamist.

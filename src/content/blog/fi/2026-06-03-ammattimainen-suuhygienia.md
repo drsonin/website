@@ -8,6 +8,7 @@ tags: ['Ammattimainen suuhygienia', 'suuhygienisti', 'hammasterveys', 'plakkipoi
 heroImage: '/blog-images/2026-06-03-professional-teeth-cleaning-estonia.webp'
 ---
 
+
 ## Ammattimainen suuhygienia – tri Dmitri Soninin vinkit terveeseen suuhun
 
 Hyvä suuhygienia on terveen suun perusta. Se ei tarkoita pelkästään hampaiden harjaamista aamuin illoin, vaan kokonaisvaltaista huolenpitoa hampaista, ikenistä ja koko suuontelosta. Ammattimainen suuhygienia yhdistää kotihoidon parhaat käytännöt sekä säännölliset käynnit hammaslääkärillä – ja juuri tähän kokonaisuuteen Sonin Hambaravi -klinikalla Tallinnassa erikoistutaan.

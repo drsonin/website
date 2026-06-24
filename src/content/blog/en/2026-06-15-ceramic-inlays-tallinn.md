@@ -65,6 +65,4 @@ Ceramic restorations are stain-resistant, but maintaining good overall oral hygi
 
 Ready to restore your smile with a beautifully crafted ceramic inlay? The team at **Sonin Hambaravi dental clinic** in Tallinn is here to help. Dr Dmitri Sonin and his experienced team will guide you through every step of the process in a comfortable, welcoming environment.
 
-[Book a consultation](/en/contact/)
-
 Contact Sonin Hambaravi today to schedule your consultation and take the first step toward a healthier, more confident smile.

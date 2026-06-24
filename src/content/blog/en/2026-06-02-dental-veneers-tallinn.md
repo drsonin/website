@@ -80,6 +80,4 @@ Your dream smile is closer than you think. Whether you're a local Tallinn reside
 
 Contact us today to schedule your consultation and take the first step towards a smile you're proud to show the world.
 
-[Book a consultation](/en/contact/)
-
 **Sonin Hambaravi — Quality Dental Care in the Heart of Tallinn.**

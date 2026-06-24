@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.web
 ---
 
 
+
 ## My Tooth Broke After a Root Canal — Implant or Bridge? Dr Dmitri Sonin Answers
 
 Maria, a 42-year-old teacher from Tallinn, came to us last spring with a familiar story: she'd had a root canal on her upper molar years ago, crowned it, and thought the problem was solved for good. Then one morning, while eating breakfast, she heard a crack — and the tooth was gone below the gumline. If this sounds like your situation, you're not alone. And you do have clear, reliable options.

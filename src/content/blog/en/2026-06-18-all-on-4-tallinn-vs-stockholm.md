@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-18-all-on-4-tallinn-vs-stockholm.webp'
 ---
 
 
+
 ## All-on-4 Tallinn vs Stockholm Price Comparison – Insights from Dr Dmitri Sonin
 
 If you are considering full-arch dental implants and wondering whether it makes financial sense to travel to Estonia for treatment, you are not alone. Every year, hundreds of Scandinavian patients make the short trip to Tallinn to access world-class dental care at a fraction of the price they would pay at home. Below, Dr Dmitri Sonin breaks down the real costs involved and explains why Tallinn has become one of Europe's most popular destinations for All-on-4 treatment.

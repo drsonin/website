@@ -9,6 +9,7 @@ heroImage: '/blog-images/2026-06-16-dental-implant-tallinn-vs-helsinki.webp'
 ---
 
 
+
 ## Dental Implant Cost in Tallinn vs Helsinki: What Dr Dmitri Sonin Wants You to Know
 
 If you're a Finnish patient considering dental implants, you've likely already noticed the significant price difference between dental care at home and across the Gulf of Finland. Every year, thousands of Finns travel to Tallinn specifically for dental treatment — and for good reason. In this article, Dr Dmitri Sonin of Sonin Dental Clinic clinic breaks down exactly what you can expect to pay, and why the journey to Estonia makes financial sense.

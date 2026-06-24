@@ -8,6 +8,7 @@ tags: ['Hambaraviturismi kulud', 'Peidetud tasud', 'Reisihamba ravi', 'Hammaste 
 heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
 
+
 ## Hambaraviturismi varjatud kulud – mida dr Dmitri Sonin soovitab enne reisi arvestada
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Paljud patsiendid lendavad hambaid ravima Türki, Ungarisse või Poolasse, kus hinnad tunduvad esmapilgul märkimisväärselt madalamad. Enne lõpliku otsuse tegemist tasub aga kõik kulud paberile panna – mitte ainult kliiniku arve, vaid kõik sellega kaasnevad kulutused.
