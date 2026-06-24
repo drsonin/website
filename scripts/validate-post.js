@@ -65,6 +65,18 @@ function validateTechnical(content, imagePath) {
   const hasCTA = /запис|консульт|звоните|book|appoint|registr|contact|varaa|bron|konsultat/.test(tail);
   if (!hasCTA) issues.push('Missing CTA at end of article');
 
+  // Tags checks
+  const tagsMatch = content.match(/^tags:\s*\[(.*?)\]/m);
+  if (!tagsMatch) {
+    issues.push('Missing tags field');
+  } else {
+    const tagsStr = tagsMatch[1];
+    const tagList = tagsStr.split(',').map(t => t.trim().replace(/^['"]|['"]$/g, ''));
+    if (tagList.length < 3) issues.push(`Too few tags (${tagList.length}, min 3)`);
+    if (tagList.some(t => t.length > 40)) issues.push('Tag too long (max 40 chars) — likely full keyword used as tag');
+    if (fm.lang !== 'et' && tagList.some(t => t === 'hambaravi')) issues.push(`Estonian word "hambaravi" used as tag in ${fm.lang} post`);
+  }
+
   // Image file checks
   if (imagePath) {
     if (!existsSync(imagePath)) {
