@@ -72,9 +72,39 @@ function validateTechnical(content, imagePath) {
   } else {
     const tagsStr = tagsMatch[1];
     const tagList = tagsStr.split(',').map(t => t.trim().replace(/^['"]|['"]$/g, ''));
+
+    // Count and length
     if (tagList.length < 3) issues.push(`Too few tags (${tagList.length}, min 3)`);
+    if (tagList.length > 6) issues.push(`Too many tags (${tagList.length}, max 6)`);
     if (tagList.some(t => t.length > 40)) issues.push('Tag too long (max 40 chars) — likely full keyword used as tag');
-    if (fm.lang !== 'et' && tagList.some(t => t === 'hambaravi')) issues.push(`Estonian word "hambaravi" used as tag in ${fm.lang} post`);
+    if (tagList.some(t => t.split(' ').length > 4)) issues.push('Tag has more than 4 words — keep tags short');
+
+    // No doctor name in tags
+    if (tagList.some(t => /сонин|sonin|dmitri|дмитрий/i.test(t))) issues.push('Doctor name should not appear in tags');
+
+    // No clinic name in tags
+    if (tagList.some(t => /sonin hambaravi/i.test(t))) issues.push('Clinic name "Sonin Hambaravi" should not appear in tags');
+
+    // Language consistency — Estonian-only words in non-ET posts
+    const ET_ONLY = ['hambaravi', 'hambaarst', 'proteesimine', 'implantatsioon'];
+    if (fm.lang !== 'et' && tagList.some(t => ET_ONLY.some(w => t.toLowerCase().includes(w)))) {
+      issues.push(`Estonian dental term used as tag in ${fm.lang} post`);
+    }
+
+    // Tags must be in the correct language
+    const LANG_CHECKS = {
+      ru: { pattern: /[а-яё]/i, hint: 'Russian tags must contain Cyrillic characters' },
+      fi: { pattern: /\b(hammas|proteesi|implantti|hoito|tallinna)\b/i, hint: 'Finnish tags should contain Finnish dental terms' },
+      en: { pattern: /\b(dental|tooth|teeth|denture|implant|crown|clinic|tallinn)\b/i, hint: 'English tags should contain English dental or location terms' },
+    };
+    const check = LANG_CHECKS[fm.lang];
+    if (check && !tagList.some(t => check.pattern.test(t))) {
+      issues.push(`Tags may be in wrong language for ${fm.lang} post — ${check.hint}`);
+    }
+
+    // No tag should be a duplicate of another
+    const unique = new Set(tagList.map(t => t.toLowerCase()));
+    if (unique.size < tagList.length) issues.push('Duplicate tags detected');
   }
 
   // Image file checks
