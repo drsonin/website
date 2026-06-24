@@ -1,0 +1,39 @@
+name: Fix Blog Post Tags (one-time)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Fix tags in all posts
+        run: node scripts/fix-tags.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit fixed tags
+        run: |
+          git config user.name "drsonin-blog-bot"
+          git config user.email "blog-bot@drsonin.com"
+          git add src/content/blog/
+          if git diff --staged --quiet; then
+            echo "Nothing to fix."
+          else
+            git commit -m "fix: regenerate short language-specific tags for all posts"
+            git push
+          fi
