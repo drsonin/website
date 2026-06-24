@@ -47,12 +47,17 @@ const jsonLd = {
 			datePublished: pubDateISO,
 			dateModified: updatedDateISO,
 			author: {
-				'@type': 'Person',
+				'@type': ['Person', 'Physician'],
 				name: author ?? 'Дмитрий Сонин',
 				url: 'https://drsonin.com/about/',
+				medicalSpecialty: 'Dentistry',
+				worksFor: {
+					'@type': 'Dentist',
+					'@id': 'https://drsonin.com/#organization',
+				},
 			},
 			publisher: {
-				'@type': 'MedicalOrganization',
+				'@type': ['MedicalOrganization', 'Dentist'],
 				'@id': 'https://drsonin.com/#organization',
 				name: 'Sonin Hambaravi',
 				url: 'https://drsonin.com',
@@ -67,6 +72,11 @@ const jsonLd = {
 					postalCode: '10113',
 					addressCountry: 'EE',
 				},
+				alternateName: 'Sonin Dental Clinic',
+				sameAs: [
+					'https://www.facebook.com/drsonin/',
+					'https://www.instagram.com/drsonin/',
+				],
 			},
 			mainEntityOfPage: {
 				'@type': 'WebPage',

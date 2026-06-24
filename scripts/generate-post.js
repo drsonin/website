@@ -141,12 +141,13 @@ ${isFaq ? '\n' + FAQ_CONTEXT.ru + '\n' : ''}
 - Язык: русский
 - Автор упомянут в тексте как "доктор Дмитрий Сонин" или "Дмитрий Сонин" (2–3 раза, естественно)
 - Заголовок: H2, содержит и ключевое слово, и имя доктора
-- Структура: несколько разделов с H3 заголовками
+- Структура: вступительный абзац (≥40 слов) ДО первого H2, затем разделы с H3 заголовками
 - Длина: 600–800 слов
 - Тон: профессиональный, но доступный пациентам
+- Включи markdown-ссылку на запись: [Записаться на консультацию](/ru/contact/) ближе к концу
 - В конце: призыв записаться на консультацию в клинику Sonin Hambaravi в Таллине
 - НЕ включай YAML frontmatter
-- Начинай сразу с "## "
+- Начинай с вступительного абзаца (обычный текст, БЕЗ заголовка)
 
 Верни ТОЛЬКО markdown текст статьи.
 `.trim(),
@@ -160,12 +161,13 @@ Nõuded:
 - Keel: eesti
 - Autorit mainitakse tekstis kui "dr Dmitri Sonin" või "Dmitri Sonin" (2–3 korda, loomulikus kontekstis)
 - Pealkiri: H2, sisaldab nii märksõna kui arsti nime
-- Struktuur: mitu jaotist H3 pealkirjadega
+- Struktuur: sissejuhatav lõik (≥40 sõna) ENNE esimest H2, seejärel jaotised H3 pealkirjadega
 - Pikkus: 600–800 sõna
 - Toon: professionaalne, kuid patsientidele arusaadav
+- Lisa markdown-link broneerimiseks: [Broneeri konsultatsioon](/et/contact/) teksti lõpu poole
 - Lõpus: üleskutse broneerida konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 - ÄRA lisa YAML frontmatterit
-- Alusta kohe "## "-ga
+- Alusta sissejuhatava lõiguga (tavaline tekst, MITTE pealkiri)
 
 Tagasta AINULT artikli markdown tekst.
 `.trim(),
@@ -179,31 +181,34 @@ Vaatimukset:
 - Kieli: suomi
 - Lääkäriä mainitaan tekstissä nimellä "tri Dmitri Sonin" tai "Dmitri Sonin" (2–3 kertaa, luontevassa kontekstissa)
 - Otsikko: H2, sisältää sekä avainsanan että lääkärin nimen
-- Rakenne: useita osioita H3-otsikoilla
+- Rakenne: johdantokappale (≥40 sanaa) ENNEN ensimmäistä H2:ta, sitten osioita H3-otsikoilla
 - Pituus: 600–800 sanaa
 - Sävy: ammattimainen mutta potilaalle ymmärrettävä
+- Lisää markdown-linkki ajanvaraukseen: [Varaa konsultaatio](/fi/contact/) tekstin loppupuolelle
 - Lopussa: kehotus varata konsultaatio Sonin Hambaravi -klinikalle Tallinnassa
 - ÄLÄ sisällytä YAML frontmatteria
-- Aloita suoraan "## "-merkillä
+- Aloita johdantokappaleella (tavallinen teksti, EI otsikko)
 
 Palauta VAIN artikkelin markdown-teksti.
 `.trim(),
 
   en: (keyword, isMedicalTourism = false, isFaq = false) => `
-You are a medical copywriter for Sonin Hambaravi dental clinic in Tallinn, Estonia.
+You are a medical copywriter for Sonin Dental Clinic in Tallinn, Estonia (also known as Sonin Hambaravi).
 Write an SEO article about: "${keyword}".
 ${isMedicalTourism ? '\n' + MEDICAL_TOURISM_CONTEXT.en + '\n' : ''}
 ${isFaq ? '\n' + FAQ_CONTEXT.en + '\n' : ''}
 Requirements:
 - Language: English
 - Mention the author naturally as "Dr Dmitri Sonin" or "Dmitri Sonin" (2–3 times)
+- Refer to the clinic as "Sonin Dental Clinic" (primary) or "Sonin Hambaravi" (secondary, 1 time max)
 - Title: H2, contains both the keyword and the doctor's name
-- Structure: several sections with H3 headings
+- Structure: intro paragraph (≥40 words) BEFORE the first H2, then several sections with H3 headings
 - Length: 600–800 words
 - Tone: professional yet accessible to patients
-- End with a call to book a consultation at Sonin Hambaravi clinic in Tallinn
+- Include a markdown link to the contact page: [Book a consultation](/en/contact/) near the end
+- End with a call to book a consultation at Sonin Dental Clinic in Tallinn
 - Do NOT include YAML frontmatter
-- Start directly with "## "
+- Start directly with an intro paragraph (plain text, NO heading)
 
 Return ONLY the article markdown text.
 `.trim(),

@@ -55,15 +55,49 @@ function validateTechnical(content, imagePath) {
   if (!body.includes('## ')) issues.push('Missing H2 heading (##)');
   if (!body.includes('### ')) issues.push('Missing H3 subheadings (###)');
 
-  // Word count 500–1000
+  // Intro paragraph before first H2 (≥30 words of plain text before "## ")
+  const firstH2pos = body.indexOf('## ');
+  if (firstH2pos === -1 || firstH2pos < 5) {
+    issues.push('Missing intro paragraph before first H2');
+  } else {
+    const introText = body.slice(0, firstH2pos).trim();
+    const introWords = introText.split(/\s+/).filter(Boolean).length;
+    if (introWords < 30) issues.push(`Intro paragraph too short (${introWords} words, min 30)`);
+  }
+
+  // Word count 500–1100
   const words = body.trim().split(/\s+/).length;
   if (words < 500) issues.push(`Content too short (${words} words, min 500)`);
   if (words > 1100) issues.push(`Content too long (${words} words, max 1100)`);
 
-  // CTA at end (last 200 chars should have booking signal)
+  // CTA at end (last 300 chars should have booking signal)
   const tail = body.slice(-300).toLowerCase();
   const hasCTA = /запис|консульт|звоните|book|appoint|registr|contact|varaa|bron|konsultat/.test(tail);
   if (!hasCTA) issues.push('Missing CTA at end of article');
+
+  // Contact page link in body
+  const hasContactLink = /\(\/(?:[a-z]{2}\/)?contact\/?\)/.test(body);
+  if (!hasContactLink) issues.push('Missing internal link to /contact/ page');
+
+  // Doctor name mentioned in body (min 2 times)
+  const doctorPatterns = [/дмитрий сонин/gi, /dmitri sonin/gi, /дмитри сонин/gi, /tri dmitri/gi];
+  const doctorMentions = doctorPatterns.reduce((sum, re) => sum + (body.match(re)?.length ?? 0), 0);
+  if (doctorMentions < 2) issues.push(`Doctor name mentioned only ${doctorMentions} time(s) in body — need at least 2`);
+
+  // EN posts: must mention "Sonin Dental Clinic"
+  if (fm.lang === 'en' && !body.toLowerCase().includes('sonin dental clinic')) {
+    issues.push('EN post must mention "Sonin Dental Clinic" (Google Maps brand name)');
+  }
+
+  // FAQ posts: at least one heading must contain a question mark
+  const headings = [...body.matchAll(/^#{2,3} .+/gm)].map(m => m[0]);
+  const isFaqPost = fm.title?.includes('?') || headings.some(h => h.includes('?'));
+  if (!isFaqPost && headings.length > 0) {
+    // Not a hard error — FAQ posts should have questions, regular posts don't need to
+    // Only flag if title itself looks like FAQ (contains "почему", "когда", "как", "why", "when", "how" etc.)
+    const faqSignal = /почему|когда|как |зачем|можно ли|why |when |how |what |kas |miks |kuidas |miksi |milloin /i.test(fm.title ?? '');
+    if (faqSignal) issues.push('FAQ-style post: at least one H2/H3 heading should contain a question mark (?)');
+  }
 
   // Tags checks
   const tagsMatch = content.match(/^tags:\s*\[(.*?)\]/m);
