@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Kiire hambaabi', 'Tallinna hambaarstid', 'ootusega hambakliinikus', 'nädalavahetusel avatud', 'hambavalu kiiresti']
 heroImage: '/blog-images/2026-06-07-emergency-dental-care-tallinn.webp'
 ---
+
 ## Kiire Hambaabi Tallinn – dr Dmitri Sonin aitab sind ka hädaolukorras
 
 Hambavalu võib tabada kõige ebasobivamatel hetkedel – öösel, nädalavahetusel või just siis, kui kalender on täis olulisi kohtumisi. Sellistel hetkedel on oluline teada, kust leida usaldusväärset ja kiiret hambaabi Tallinnas. Sonin Hambaravi kliinikus on meie prioriteet tagada, et ükski patsient ei peaks valuga kauem kannatama, kui hädavajalik.
@@ -62,5 +63,7 @@ Usume, et igal patsiendil on õigus saada kiiret, kvaliteetset ja inimlikku hamb
 ### Broneeri konsultatsioon juba täna
 
 Kas tunnete hambavalu või olete sattunud mõnda ülalkirjeldatud olukorda? Ärge oodake, kuni olukord halveneb. **Võtke ühendust Sonin Hambaravi kliinikusse Tallinnas** ja meie meeskond leiab teile aja nii kiiresti kui võimalik. Kiire hambaabi ei ole luksus – see on teie tervise kaitsmine õigel hetkel.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📞 Helistage meile või broneerige aeg veebis – oleme siin, et aidata!

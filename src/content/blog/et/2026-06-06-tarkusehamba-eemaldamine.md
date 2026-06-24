@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['tarkusehamba eemaldamine', 'hambakirurgia', 'pärast operatsiooni hooldus', 'võimalikud komplikatsioonid', 'taastumisaeg']
 heroImage: '/blog-images/2026-06-06-wisdom-tooth-removal-tallinn.webp'
 ---
+
 ## Tarkusehamba Eemaldamine Tallinnas – dr Dmitri Sonin selgitab, mida oodata
 
 Tarkusehamba eemaldamine on üks levinumaid hambaraviprotseduure, mis tekitab patsientides sageli ärevust ja küsimusi. Kas protseduur on valulik? Kui kaua taastumine aega võtab? Kas eemaldamine on ikka vajalik? Sonin Hambaravi kliinikus Tallinnas oleme aidanud sadadel patsientidel selle protseduuriga turvaliselt ja mugavalt läbi saada.
@@ -63,5 +64,7 @@ Varajane hindamine võimaldab vältida tüsistusi ja planeerida protseduuri sobi
 ---
 
 **Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas**
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Kui soovite teada saada, kas teie tarkusehambad vajavad eemaldamist, kutsume teid konsultatsioonile Sonin Hambaravi kliinikusse Tallinnas. Dr Dmitri Sonin hindab teie olukorda individuaalselt, selgitab kõiki võimalusi ning tagab, et protseduur – kui see osutub vajalikuks – toimub turvaliselt ja mugavalt. Võtke meiega ühendust juba täna ja hoolitsege oma suutervise eest!

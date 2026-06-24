@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['children''s dental care', 'pediatric dentistry', 'Tallinn dental services', 'kids teeth health', 'dental care for children']
 heroImage: '/blog-images/2026-05-30-pediatric-dentistry-tallinn.webp'
 ---
+
+
 ## Pediatric Dentistry in Tallinn: Expert Children's Dental Care by Dr Dmitri Sonin
 
-When it comes to your child's smile, finding the right dental team makes all the difference. At Sonin Hambaravi clinic in Tallinn, we understand that early dental care shapes a lifetime of healthy habits. Dr Dmitri Sonin and his dedicated team specialize in creating positive, stress-free experiences for children of all ages — from their very first tooth through their teenage years.
+When it comes to your child's smile, finding the right dental team makes all the difference. At Sonin Dental Clinic clinic in Tallinn, we understand that early dental care shapes a lifetime of healthy habits. Dr Dmitri Sonin and his dedicated team specialize in creating positive, stress-free experiences for children of all ages — from their very first tooth through their teenage years.
 
 ### Why Pediatric Dentistry Matters from an Early Age
 
@@ -54,5 +56,7 @@ Parents receive practical guidance too — from choosing the right toothbrush an
 ### Book Your Child's Dental Appointment in Tallinn Today
 
 Your child deserves a confident, healthy smile — and it starts with the right care team. At **Sonin Hambaravi dental clinic in Tallinn**, we are passionate about protecting young smiles and making dentistry a positive experience for the whole family.
+
+[Book a consultation](/en/contact/)
 
 Contact us today to book a consultation and let Dr Dmitri Sonin and our team give your child the best possible start in oral health. We look forward to welcoming your family to our clinic.

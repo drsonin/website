@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['teeth whitening', 'Tallinn dentistry', 'smile brightening', 'whitening treatments', 'Estonia dental']
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 ---
+
+
 ## Teeth Whitening in Tallinn: Expert Care with Dr Dmitri Sonin
 
-A brighter, more confident smile is one of the most sought-after cosmetic dental treatments in Estonia. If you are searching for professional **teeth whitening in Tallinn**, you have come to the right place. At Sonin Hambaravi dental clinic, we combine the latest whitening technologies with personalised care to help every patient achieve outstanding, natural-looking results.
+A brighter, more confident smile is one of the most sought-after cosmetic dental treatments in Estonia. If you are searching for professional **teeth whitening in Tallinn**, you have come to the right place. At Sonin Dental Clinic dental clinic, we combine the latest whitening technologies with personalised care to help every patient achieve outstanding, natural-looking results.
 
 ### Why Choose Professional Teeth Whitening?
 
@@ -53,5 +55,7 @@ Not all whitening treatments are created equal, and patient safety is always the
 Our clinic is conveniently located in Tallinn and welcomes both local residents and international patients who are visiting Estonia. We are proud to offer high-quality dental care in a calm and welcoming environment.
 
 ---
+
+[Book a consultation](/en/contact/)
 
 **Ready to achieve a brighter smile?** Book your teeth whitening consultation at **Sonin Hambaravi dental clinic in Tallinn** today. Our friendly team will guide you through every step of the process and help you find the treatment that is right for you. Contact us to schedule your appointment — a more confident smile is closer than you think.

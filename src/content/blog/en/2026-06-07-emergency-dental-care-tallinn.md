@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['emergency dental care', 'dental emergency Tallinn', 'urgent dentist', 'same-day dental', 'tooth pain relief']
 heroImage: '/blog-images/2026-06-07-emergency-dental-care-tallinn.webp'
 ---
+
+
 ## Emergency Dental Care in Tallinn: What You Need to Know | Dr Dmitri Sonin
 
-A sudden toothache at midnight. A broken tooth from an unexpected fall. A lost filling right before an important meeting. Dental emergencies never wait for a convenient time — and when they happen, knowing where to turn makes all the difference. At **Sonin Hambaravi** clinic in Tallinn, we understand how stressful these moments can be, which is why we make emergency dental care as straightforward and reassuring as possible.
+A sudden toothache at midnight. A broken tooth from an unexpected fall. A lost filling right before an important meeting. Dental emergencies never wait for a convenient time — and when they happen, knowing where to turn makes all the difference. At **Sonin Dental Clinic** clinic in Tallinn, we understand how stressful these moments can be, which is why we make emergency dental care as straightforward and reassuring as possible.
 
 ---
 
@@ -64,6 +66,8 @@ We also treat international residents and visitors in Tallinn who may not have a
 ### Book Your Emergency Appointment Today
 
 Do not wait and hope the pain goes away on its own. If you are experiencing a dental emergency in Tallinn, contact **Sonin Hambaravi** clinic right away. Our friendly team will assess your situation, prioritise your care, and get you the relief you need as quickly as possible.
+
+[Book a consultation](/en/contact/)
 
 📍 **Sonin Hambaravi | Tallinn, Estonia**
 📞 Call us or visit our website to book an emergency consultation — we are here to help.

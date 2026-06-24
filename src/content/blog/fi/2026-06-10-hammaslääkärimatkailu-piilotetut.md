@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammaslääkärimatkailu', 'piilotetut kustannukset', 'hammashoito ulkomailla', 'matkakulut', 'lisäkustannukset']
 heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
+
 ## Hammaslääkärimatkailu ja piilotetut kustannukset – tri Dmitri Soninin analyysi
 
 Hammaslääkärimatkailu houkuttelee yhä useampaa suomalaista ja virolaista potilasta. Mainokset lupaavat suuria säästöjä, mutta todellinen kokonaishinta selviää usein vasta jälkikäteen. Tässä artikkelissa käymme läpi konkreettiset luvut – ilman kaunistelua.
@@ -89,5 +90,7 @@ Lisäksi potilasturvallisuuteen liittyvä lainsäädäntö, valitusmenettelyt ja
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat ilmaisen alkukonsultaation, jossa käydään läpi hoitosuunnitelma ja kustannusarvio avoimesti. Tallinna sijaitsee lähellä – sekä maantieteellisesti että kielellisesti – ja seurantakäynnit onnistuvat vaivattomasti.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa aika konsultaatioon osoitteessa [soninhambaravi.ee](https://soninhambaravi.ee)** tai soita klinikkaan suoraan. Tee päätöksesi oikeiden lukujen pohjalta.

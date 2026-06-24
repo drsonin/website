@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Periimplantiit ravi', 'implantaadi põletik', 'implantaadi hooldus', 'hambaimplantaadi haigused', 'periimplantiidi ravi']
 heroImage: '/blog-images/2026-06-24-peri-implantitis-treatment-tallinn.webp'
 ---
+
 ## Periimplantiit — põletik implantaadi ümber: mida teha? Selgitab dr Dmitri Sonin
 
 Kujutage ette 52-aastast Tallinna meest, kes laskis endale mõni aasta tagasi paigaldada hambaimplantaadi ja oli tulemusega väga rahul. Siis hakkas ta märkama, et implantaadi ümbruses on ige punane ja paistes, söömisel tekib ebamugavustunne ning hommikusel harjamisel ilmub verine jälg. Midagi on selgelt valesti — kuid mis täpselt ja mida sellega peale hakata?
@@ -89,5 +90,7 @@ Implantaat võib teenida teid aastakümneid, kuid see nõuab teie poolset pühen
 **Tunnete implantaadi ümbruses ebamugavust või olete märganud mõnda eelkirjeldatud sümptomit?**
 
 Ärge oodake, kuni probleem süveneb. Broneerige konsultatsioon **Sonin Hambaravi kliinikus Tallinnas** — dr Dmitri Sonin hindab teie implantaadi seisundi, teeb vajalikud diagnostilised ülesvõtted ja koostab teile sobiva raviplaani.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📞 Helistage meile või broneerige aeg veebis — varajane sekkumine säästab nii implantaati kui ka teie raha.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambavinerid', 'hambavalgendamine', 'hambavinerid hind', 'hambavinerid ohud', 'hambavinerid tulemus']
 heroImage: '/blog-images/2026-06-02-dental-veneers-tallinn.webp'
 ---
+
 ## Hambavinerid dr Dmitri Sonini pilgu läbi – kaunis naeratus algab õigest valikust
 
 Kas oled kunagi mõelnud, miks mõne inimese naeratus tundub nii loomulik, soe ja samal ajal täiuslik? Sageli on selle taga väike, kuid oluline hambaraviteenus – **hambavinerid**. Sonin Hambaravi kliinikus Tallinnas oleme aidanud sajadel patsientidel saavutada unistuste naeratuse just vinerite abil.
@@ -73,5 +74,7 @@ Hea uudis: vinerite hooldus ei erine oluliselt tavalisest suuhügieenist.
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui oled mõelnud, kas hambavinerid sobiksid just sulle, on parim samm alustada konsultatsioonist. **Sonin Hambaravi kliinikus Tallinnas** võtab dr Dmitri Sonin aja, et kuulata sinu soove, hinnata suu seisundit ja selgitada, milline lahendus annab sulle kõige parema ja püsivama tulemuse.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Sinu unistuste naeratus on meiega ühe sammu kaugusel – **broneeri konsultatsioon juba täna!**

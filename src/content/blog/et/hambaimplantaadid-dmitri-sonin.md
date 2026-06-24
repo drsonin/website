@@ -9,6 +9,7 @@ tags: ['hambaimplantaat', 'hambaproteesimine', 'implantaadi kulud', 'hambaprotee
 category: 'implantoloogia'
 ---
 
+
 ## Hambaimplantaadid: kõik, mida peate teadma — dr Dmitri Sonini selgitused
 
 Hamba kaotus ei ole ainult esteetiline probleem. Aja jooksul hakkab lõualuu puuduva hamba kohas taanduma, naaberhambad nihkuvad ja lõualuu koormus jaotub ebaühtlaselt. Dmitri Sonin, Sonin Hambaravi kliiniku hambaarst Tallinnas, töötab implantaatidega üle kümne aasta ja selgitab, miks on hambaimplantaadid täna kuldstandard puuduvate hammaste asendamiseks.
@@ -48,5 +49,7 @@ Pärast implantaadi paigaldamist soovitab Dmitri Sonin:
 Valu pärast operatsiooni on üldjuhul mõõdukas ja taandub hästi tavaliste valuvaigistite abil.
 
 ## Broneeri konsultatsioon
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Kui kaalute hambaimplantaati, on esimene samm diagnostika. Dr Dmitri Sonin viib läbi läbivaatuse, teeb röntgenipildi ja selgitab, kas protseduur sobib just teile, kui kaua see aega võtab ja kui palju maksab. Sonin Hambaravi kliinik asub Tallinnas — broneerige veebisaidi kaudu või telefonitsi.

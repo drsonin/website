@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammasvinerit', 'hammaskosmologia', 'hymyn parantaminen', 'hampaan värinä', 'hammaskauneus']
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 ---
+
 ## Hammasvinerit – kaunis hymy tri Dmitri Soninin asiantuntemuksella Tallinnassa
 
 Haaveiletko täydellisestä hymystä, mutta sinua vaivaa hampaiden värivirheet, pienet muotoepätäydellisyydet tai epätasaisuudet? Hammasvinerit ovat nykyaikainen ja tehokas ratkaisu, joka voi muuttaa hymysi täysin. Sonin Hambaravi -klinikalla Tallinnassa tarjoamme laadukkaita hammasvineeriratkaisuja, joita toteuttaa kokenut hammaslääkäri tri Dmitri Sonin.
@@ -59,5 +60,7 @@ Hammasvinerit eivät ole soveltuvia kaikille. Toimenpidettä ei suositella, jos:
 Tri Dmitri Sonin arvioi jokaisen potilaan tilanteen yksilöllisesti ja suosittelee parhaiten sopivaa hoitovaihtoehtoa.
 
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
+
+[Varaa konsultaatio](/fi/contact/)
 
 Jos olet kiinnostunut hammasvineeristä tai haluat tietää lisää siitä, miten ne voisivat parantaa hymyäsi, ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Asiantunteva tiimimme on valmis vastaamaan kysymyksiisi ja auttamaan sinua kohti kaunista, itsevarmuutta lisäävää hymyä. Varaa aika konsultaatioon jo tänään – ensimmäinen askel täydelliseen hymyyn on vain yhteydenotto päässä!

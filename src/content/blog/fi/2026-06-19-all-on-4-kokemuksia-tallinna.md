@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['All-on-4 hammasimplantit', 'Tallinna hammashoito', 'implanttihinnat', 'hammasproteesin hoito', 'hambasta Viroon']
 heroImage: '/blog-images/2026-06-19-all-on-4-full-guide-tallinn.webp'
 ---
+
 ## All-on-4 kokemuksia Tallinnasta — hinta ja hoito tri Dmitri Soninin klinikalla
 
 Hampaiden menetys vaikuttaa elämänlaatuun monin tavoin — syöminen, puhuminen ja itsevarmuus kärsivät. All-on-4-hammasimplantti on nykyaikainen ratkaisu, joka palauttaa täydellisen hampaiston pysyvästi neljällä implanttipilarin avulla. Yhä useampi suomalainen hakee tätä hoitoa Tallinnasta, missä laatu on korkeatasoista ja hinnat huomattavasti kotimaan tasoa edullisemmat.
@@ -55,5 +56,7 @@ Dmitri Sonin korostaa hoitofilosofissaan pitkäjänteisyyttä: tavoitteena ei ol
 ### Varaa konsultaatio — ota ensimmäinen askel kohti uutta hymyä
 
 Jos harkitset All-on-4-hoitoa tai haluat selvittää, sopiiko se sinulle, Sonin Hambaravi -klinikka Tallinnassa on valmis auttamaan. Alkukonsultaatio on kattava ja velvoittamaton — saat selkeän kuvan omasta tilanteestasi, tarvittavista toimenpiteistä ja kustannuksista.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Ota yhteyttä Sonin Hambaravi -klinikalle ja varaa aikasi tänään.** Tie pysyvään, kauniiseen hampaistoon alkaa yhdestä puhelusta tai viestistä — ja Tallinna on lähempänä kuin uskotkaan.

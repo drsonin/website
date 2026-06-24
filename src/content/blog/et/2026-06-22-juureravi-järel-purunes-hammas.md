@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Juureravi ja hammaskaotus', 'Hammasimplantaat vs sild', 'Purenenud hammas ravi', 'Hambaimplantaadi alternatiivid', 'Juureravi järel hammas']
 heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.webp'
 ---
+
 ## Juureravi järel purunes hammas — implantaat või sild? Dr Dmitri Sonin selgitab
 
 Oled läbinud juureravi, hammas tundus stabiilne — ja siis ühel päeval midagi murdub. See on üks sagedasemaid olukordi, millega patsiendid Sonin Hambaravi kliinikusse pöörduvad. Paanika on mõistetav, kuid lahendused on olemas. Küsimus on selles, milline neist sobib just sinule.
@@ -80,5 +81,7 @@ Samuti on oluline regulaarne kontrollkäik vähemalt kord aastas — röntgenül
 ---
 
 **Kas sinu hammas purunes pärast juureravi?** Broneeri konsultatsioon Sonin Hambaravi kliinikusse Tallinnas — hindame olukorda, selgitame välja parimad variandid ja koostame individuaalse raviplaani. Iga olukord on erinev, kuid lahendus on alati olemas.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 👉 **Broneeri aeg Sonin Hambaravi kliinikus Tallinnas — sonin.ee**

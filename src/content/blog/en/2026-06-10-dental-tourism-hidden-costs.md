@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental tourism costs', 'hidden fees', 'travel expenses', 'budget calculation', 'affordable dentistry']
 heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
+
+
 ## Dental Tourism Hidden Costs: A Real Calculation by Dr Dmitri Sonin
 
 Every year, thousands of patients travel abroad for dental work expecting significant savings. The numbers on paper can look compelling. But a complete financial picture requires accounting for every line item — not just the clinic invoice. Below is a factual cost breakdown to help you make an informed decision.
@@ -17,7 +19,7 @@ Every year, thousands of patients travel abroad for dental work expecting signif
 
 The most commonly cited comparison involves dental implants with crowns — one of the most frequent procedures patients seek abroad.
 
-**Tallinn (Sonin Hambaravi clinic):**
+**Tallinn (Sonin Dental Clinic clinic):**
 - Implant + crown per tooth: **€1,200–€1,800**
 
 **Turkey (Antalya or Istanbul):**
@@ -107,5 +109,7 @@ This analysis covers direct financial costs only. It does not assign value to ti
 ### Book a Consultation in Tallinn
 
 If you are weighing your options for implant treatment, Dr Dmitri Sonin offers detailed consultations at Sonin Hambaravi clinic in Tallinn, where you can receive a precise cost estimate for your specific case.
+
+[Book a consultation](/en/contact/)
 
 **Book your consultation at Sonin Hambaravi:** [sonin.ee](https://sonin.ee)

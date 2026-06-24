@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['keraamiset inlayit', 'hammashoito', 'hampaan korjaus', 'pitkäkestävät täytteet', 'hammasestetika']
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
+
 ## Keraamiset inlayit – tri Dmitri Soninin asiantunteva ratkaisu kestävään hammaskorjaukseen
 
 Hampaiden korjaaminen on kehittynyt huimasti viime vuosikymmeninä. Perinteiset amalgaamipaikaukset ovat yhä useammin väistymässä esteettisempien ja kestävämpien vaihtoehtojen tieltä. Yksi suosituimmista moderneista ratkaisuista ovat keraamiset inlayit – hampaan väriin sopivat, laboratoriovalmisteiset korjaukset, jotka yhdistävät kauneuden ja pitkäaikaisen kestävyyden.
@@ -58,5 +59,7 @@ Keraaminen inlay ei vaadi erityishoitoa. Normaalit hammashuollon periaatteet rii
 Kovien esineiden, kuten jään tai kynien, pureskelua kannattaa välttää, sillä ne voivat vaurioittaa keramiikkaa aivan kuten luonnollistakin hammaskudosta.
 
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa
+
+[Varaa konsultaatio](/fi/contact/)
 
 Jos olet kiinnostunut keraamisista inlayeistä tai haluat selvittää, sopiiko tämä hoitovaihtoehto sinulle, ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Tri Dmitri Sonin ja hänen ammattitaitoinen tiiminsä ottavat sinut vastaan ystävällisesti, arvioivat tilanteesi perusteellisesti ja tarjoavat sinulle parhaan mahdollisen hoitoratkaisun. Varaa aika tänään – terve ja kaunis hymy on lähempänä kuin luuletkaan.

@@ -7,11 +7,13 @@ author: 'Dr Dmitri Sonin'
 tags: ['Dental treatment Tallinn', 'cheaper dentistry', 'Estonia dental care', 'cross-border treatment', 'dental tourism']
 heroImage: '/blog-images/2026-06-12-dental-tallinn-cheaper-finland.webp'
 ---
+
+
 ## Dental Treatment in Tallinn vs Finland: A Cost Comparison by Dr Dmitri Sonin
 
 If you live in Finland and need dental work, you have already noticed the price tags. A single implant with a crown in Helsinki or Tampere can run between €2,500 and €4,000. Many Finnish patients are now looking across the Gulf of Finland — and finding that dental treatment in Tallinn costs significantly less, without the logistical complexity of longer-distance dental tourism.
 
-Dr Dmitri Sonin, founder of Sonin Hambaravi clinic in Tallinn, treats a steady number of Finnish patients each year. This article lays out the numbers so you can make an informed decision.
+Dr Dmitri Sonin, founder of Sonin Dental Clinic clinic in Tallinn, treats a steady number of Finnish patients each year. This article lays out the numbers so you can make an informed decision.
 
 ---
 
@@ -91,5 +93,7 @@ The numbers speak for themselves. Geography, travel logistics, guarantee terms, 
 ### Book a Consultation at Sonin Hambaravi
 
 If you are based in Finland or Estonia and want a clear, itemised treatment plan with no surprises, contact Sonin Hambaravi clinic in Tallinn. Dr Dmitri Sonin and the team provide a detailed cost estimate at the initial consultation. You will leave with exact figures, a treatment timeline, and answers to your questions.
+
+[Book a consultation](/en/contact/)
 
 **Book your consultation at soninhambaravi.ee or call the clinic directly.**

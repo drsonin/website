@@ -9,6 +9,7 @@ tags: ['# SEO-sildid: 4 implantaadil tuginev täisprotees
 all-on-4 implantaat', 'täisprotees implantaadil', 'hambaimplantaadid', 'hambavõõraste asendamine', 'hambaarstuse lahendused']
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
+
 ## 4 Implantaadil Tuginev Täisprotees – Dr Dmitri Sonini Selgitus Kaasaegsest Lahendusest
 
 Täielik hambumus on midagi, mida paljud inimesed peavad enesestmõistetavaks – kuni nad kaotavad selle. Kõigi hammaste kaotamine mõjutab nii söömist, kõnelemist kui ka enesekindlust. Õnneks on tänapäeva hambaravi arenenud nii, et traditsioonilised eemaldatavad proteesid ei ole enam ainus valik. **4 implantaadil tuginev täisprotees** ehk nn "All-on-4" on revolutsiooniline lahendus, mis annab patsiendile tagasi püsiva ja loomuliku tunde hammaste suhtes.
@@ -69,5 +70,7 @@ Kui oled kaalunud püsivat lahendust hammaste kadumisele, on nüüd parim aeg as
 
 📍 Meie kliinik asub Tallinnas ja pakub kaasaegset hambaravi kõrgeimal tasemel.  
 📞 Helista meile või broneeri aeg mugavalt veebis – esimene samm parema elukvaliteedi suunas algab ühest telefonikõnest.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Sonin Hambaravi – professionaalne hambaravi, mida usaldad.**

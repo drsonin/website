@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 tags: ['Hymy muutos', 'hymyn korjaus', 'hampaan väri', 'souturihamasiat', 'hymyn parantaminen']
 ---
+
 ## Hymyn muutos tri Dmitri Soninin johdolla – Näin saat unelmahymysi Tallinnassa
 
 Hymy on yksi ihmisen tärkeimmistä viestintävälineistä. Se kertoo ilosta, luottamuksesta ja hyvinvoinnista – mutta jos olet tyytymätön hampaidesi ulkonäköön, voit alkaa peitellä hymyäsi tietoisesti tai tiedostamatta. Hymyn muutos eli smile makeover on kokonaisvaltainen hammaslääketieteellinen hoitoprosessi, jonka avulla voidaan parantaa hampeiden väriä, muotoa, asentoa ja yleistä estetiikkaa. Sonin Hambaravi -klinikalla Tallinnassa tri Dmitri Sonin auttaa potilaita saavuttamaan hymyn, josta he ovat aina haaveilleet.
@@ -57,5 +58,7 @@ Sonin Hambaravi -klinikka erottuu edukseen yksilöllisen palvelun ja kokeneen he
 Suomalaisia potilaita palvellaan tarvittaessa myös suomen kielellä, mikä tekee hoitoprosessista sujuvan ja stressittömän.
 
 ### Varaa konsultaatio jo tänään
+
+[Varaa konsultaatio](/fi/contact/)
 
 Jos olet haaveillut kauniimmasta hymystä, nyt on oikea aika ottaa askel eteenpäin. Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja varaa konsultaatioaika. Yhdessä löydetään juuri sinulle sopiva hoitosuunnitelma – ja matka unelmahymysi alkaa.

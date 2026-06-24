@@ -7,11 +7,13 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental tourism risks', 'implant guarantees', 'abroad healthcare', 'treatment complications', 'warranty coverage']
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
+
+
 ## Dental Work Abroad: Risks, Guarantees, and the Real Numbers — Insights from Dr Dmitri Sonin
 
 Every year, thousands of patients from Northern Europe travel south for dental treatment. The price difference looks compelling on paper. But before booking a flight to Turkey or Hungary, it is worth running the full numbers — not just the clinic quote.
 
-Dr Dmitri Sonin, implantologist at Sonin Hambaravi in Tallinn, breaks down the actual costs and risks so patients can make an informed comparison.
+Dr Dmitri Sonin, implantologist at Sonin Dental Clinic in Tallinn, breaks down the actual costs and risks so patients can make an informed comparison.
 
 ---
 
@@ -95,5 +97,7 @@ The numbers will differ for every patient depending on how many implants are nee
 ### Book a Consultation at Sonin Hambaravi in Tallinn
 
 If you are weighing your options and want a clear, written treatment plan with transparent pricing, the team at **Sonin Hambaravi** is available for consultations at our Tallinn clinic. We provide detailed cost estimates, full warranty documentation, and long-term follow-up care — all without a boarding pass.
+
+[Book a consultation](/en/contact/)
 
 **Contact Sonin Hambaravi to schedule your consultation today.**

@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['All-on-4 dental implants', 'dental implant cost', 'Tallinn dentistry', 'implant timeline', 'teeth restoration']
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
+
+
 ## All-on-4 Price Timeline in Tallinn: A Complete Patient Guide by Dr Dmitri Sonin
 
-You've spent months researching dental implants, watching your savings, and wondering whether the investment is truly worth it. Maybe you've lost several teeth, or your remaining ones are failing, and someone mentioned All-on-4 as a life-changing solution. Before you commit, you deserve honest, specific answers — not just a brochure. Dr Dmitri Sonin of Sonin Hambaravi clinic in Tallinn breaks it all down below.
+You've spent months researching dental implants, watching your savings, and wondering whether the investment is truly worth it. Maybe you've lost several teeth, or your remaining ones are failing, and someone mentioned All-on-4 as a life-changing solution. Before you commit, you deserve honest, specific answers — not just a brochure. Dr Dmitri Sonin of Sonin Dental Clinic clinic in Tallinn breaks it all down below.
 
 ---
 
@@ -79,5 +81,7 @@ The longer failing teeth or ill-fitting dentures remain in place, the more bone 
 ### Book Your All-on-4 Consultation at Sonin Hambaravi in Tallinn
 
 If you're ready to understand exactly what your treatment would cost, how long it takes, and whether you're a suitable candidate, we invite you to book a personal consultation at **Sonin Hambaravi dental clinic in Tallinn**. Our team will provide a full 3D assessment, a transparent itemised treatment plan, and honest answers — with no pressure and no surprises.
+
+[Book a consultation](/en/contact/)
 
 📍 Tallinn, Estonia | 🌐 [soninahambaravi.ee](https://soninahambaravi.ee) | 📞 Contact us to schedule your appointment today.

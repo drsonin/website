@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammasmurtumat', 'juurihoito', 'hammasimplantti', 'hammassilta', 'hammaskorjaus']
 heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.webp'
 ---
+
 ## Hammas murtui juurihoidon jälkeen — implantti vai silta? Tri Dmitri Soninin selitys
 
 Olet käynyt juurihoidossa, hammas tuntui hyvältä — ja sitten se murtuu. Tilanne on turhauttava, mutta ei lainkaan harvinainen. Moni potilas tulee Sonin Hambaravi -klinikalle juuri tällaisen yllätyksen jälkeen ja kysyy saman kysymyksen: mitä nyt tapahtuu, ja mikä on paras ratkaisu?
@@ -69,6 +70,8 @@ Tri Dmitri Sonin muistuttaa, että juurihoito on vasta puolikas ratkaisu ilman a
 Lisäksi kannattaa välttää erittäin kovia ruokia — pähkinöitä, jäätä, kovaa leipää — erityisesti takahampaille, jotka kantavat suurimman puremakuorman.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Onko sinulla murtuneen tai vaurioituneen hampaan ongelma?**
 Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Käymme läpi tilanteesi, teemme tarvittavat kuvaukset ja esitämme selkeän hoitosuunnitelman — ilman turhaa odottelua. Ajanvaraus onnistuu verkkosivujemme kautta tai puhelimitse.

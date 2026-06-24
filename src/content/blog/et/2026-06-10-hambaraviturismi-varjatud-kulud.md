@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambaraviturismi kulud', 'Peidetud tasud', 'Reisihamba ravi', 'Hammaste ravi välismaal', 'Kuluefektiivsus hambaravi']
 heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
+
 ## Hambaraviturismi varjatud kulud – mida dr Dmitri Sonin soovitab enne reisi arvestada
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Paljud patsiendid lendavad hambaid ravima Türki, Ungarisse või Poolasse, kus hinnad tunduvad esmapilgul märkimisväärselt madalamad. Enne lõpliku otsuse tegemist tasub aga kõik kulud paberile panna – mitte ainult kliiniku arve, vaid kõik sellega kaasnevad kulutused.
@@ -84,5 +85,7 @@ Tüsistuste korral lisanduvad täiendavad kulud kummalegi stsenaariumile.
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Enne otsuse tegemist on mõistlik saada selge ülevaade oma suutervisest ja Eestis saadaolevatest ravivõimalustest. **dr Dmitri Sonin** ja Sonin Hambaravi meeskond Tallinnas pakuvad tasuta esialgset konsultatsiooni, mille käigus koostatakse teile personaalne raviplaani ettepanek koos täpse hinnakalkulatsiooniga.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📞 Broneeri aeg Sonin Hambaravi kliinikus Tallinnas – helistage meile või täitke broneeringuvorm meie veebilehel.

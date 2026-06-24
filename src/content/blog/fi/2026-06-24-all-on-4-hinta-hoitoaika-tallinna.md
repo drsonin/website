@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['All-on-4 hinta', 'Tallinna hammashoito', 'implanttien hoitoaika', 'hammasproteesin kesto']
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
+
 ## All-on-4 hinta ja hoitoaika Tallinnassa — tri Dmitri Soninin täydellinen opas
 
 Moni suomalainen potilas saapuu Tallinnaan yksinkertaisen kysymyksen kanssa: "Minulla puuttuu useita hampaita tai koko hampaisto on huonossa kunnossa — mitä se maksaa, ja kuinka kauan hoito kestää?" All-on-4-implanttiratkaisu on noussut yhdeksi suosituimmista vaihtoehdoista täydelliseen hampaiston kunnostukseen. Sonin Hambaravi -klinikalla Tallinnassa tri Dmitri Sonin vastaa tähän kysymykseen päivittäin — ja vastaus riippuu useammasta tekijästä kuin pelkästä hinnastosta.
@@ -78,5 +79,7 @@ All-on-4 on pitkäaikainen sijoitus, ei pelkästään kuluerä. Oikein hoidettun
 Sonin Hambaravi käyttää sertifioituja eurooppalaisia ja israelilaisia implanttijärjestelmiä, joille on saatavilla kansainvälinen takuu. Kaikki hoitodokumentaatio toimitetaan potilaalle suomeksi pyydettäessä, jotta jatkohoidon järjestäminen kotimaassa on sujuvaa.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Haluatko tietää tarkan hinnan juuri sinun tilanteeseesi?** Varaa maksuton alkukonsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Tri Dmitri Sonin ja hänen tiiminsä tekevät yksilöllisen hoitosuunnitelman ja avoimen kustannuslaskelman — ilman sitoumuksia. Yhteystiedot ja ajanvaraus löytyvät klinikan verkkosivuilta.

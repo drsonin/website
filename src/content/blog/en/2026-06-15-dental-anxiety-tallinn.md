@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental anxiety', 'anxiety treatment', 'Tallinn dentistry', 'fear of dentist', 'dental care']
 heroImage: '/blog-images/2026-06-15-dental-anxiety-tallinn.webp'
 ---
+
+
 ## Dental Anxiety Treatment in Tallinn: How Dr Dmitri Sonin Helps You Reclaim Your Smile
 
-For many people, visiting the dentist feels less like a routine appointment and more like a dreaded ordeal. If the thought of sitting in a dental chair makes your heart race, you are far from alone. Dental anxiety affects millions of adults worldwide, and it is one of the most common reasons people avoid essential oral care. At Sonin Hambaravi in Tallinn, we understand exactly how you feel — and we have made it our mission to change that experience entirely.
+For many people, visiting the dentist feels less like a routine appointment and more like a dreaded ordeal. If the thought of sitting in a dental chair makes your heart race, you are far from alone. Dental anxiety affects millions of adults worldwide, and it is one of the most common reasons people avoid essential oral care. At Sonin Dental Clinic in Tallinn, we understand exactly how you feel — and we have made it our mission to change that experience entirely.
 
 ### What Is Dental Anxiety and Why Does It Happen?
 
@@ -50,5 +52,7 @@ At Sonin Hambaravi, you receive European-standard care in a clinic that genuinel
 Dental anxiety is real, it is valid, and it is treatable. With the right support, even the most fearful patients can receive the care they need — and many go on to attend regular check-ups with confidence.
 
 If dental fear has been holding you back from maintaining your oral health, now is the time to take the first step.
+
+[Book a consultation](/en/contact/)
 
 **Book a consultation at Sonin Hambaravi in Tallinn today.** Our team is ready to listen, support you, and create a treatment plan tailored entirely to your comfort and needs. You can reach us through our website or by calling the clinic directly. Your healthier, happier smile is closer than you think.

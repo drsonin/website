@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Suuhygienia', 'hammashoito', 'plakki', 'hammaskivi', 'hampaidenpesu']
 heroImage: '/blog-images/2026-06-04-professional-teeth-cleaning-estonia.webp'
 ---
+
 ## Ammattimainen suuhygienia – Tri Dmitri Soninin asiantuntijaopas terveeseen suuhun
 
 Hyvä suuhygienia on terveen hymyn perusta. Vaikka kotona harjaaminen ja hammasvälien puhdistaminen ovat tärkeitä, ammattimainen suuhygienia tarjoaa jotain sellaista, mitä kotihoidolla ei pystytä saavuttamaan: syvällisen puhdistuksen, varhaisen ongelmien tunnistamisen ja yksilöllisen neuvonnan. Tallinnassa toimivan Sonin Hambaravi -klinikan johtava hammaslääkäri tri Dmitri Sonin korostaa, että säännölliset ammattilaisen tekemät puhdistukset ovat investointi, joka säästää sekä terveyttä että rahaa pitkällä aikavälillä.
@@ -63,5 +64,7 @@ Sonin Hambaravi -klinikalla ammattimainen suuhygieniahoito aloitetaan aina huole
 Käynnin lopussa saat aina konkreettisia, juuri sinulle räätälöityjä neuvoja kotihoidon parantamiseksi – oikeasta harjaustekniikasta hammastahnan valintaan.
 
 ### Varaa aikasi Sonin Hambaravi -klinikalle
+
+[Varaa konsultaatio](/fi/contact/)
 
 Ammattimainen suuhygienia on helppo tapa pitää huolta terveydestäsi kokonaisvaltaisesti. Sonin Hambaravi -klinikka Tallinnassa tarjoaa korkealaatuista hammashoitoa ystävällisessä ja modernissa ympäristössä. Varaa konsultaatio tri Dmitri Soninin vastaanotolle jo tänään ja ota ensimmäinen askel kohti terveempää, kauniimpaa hymyä.

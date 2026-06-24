@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental implants', 'Tallinn', 'tooth replacement', 'implant surgery', 'dental restoration']
 heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 ---
+
+
 ## Dental Implants in Tallinn: Expert Care with Dr Dmitri Sonin
 
-Losing a tooth can affect far more than your smile. It can change the way you eat, speak, and feel about yourself. Fortunately, modern dentistry offers a long-lasting, natural-looking solution: dental implants. If you are searching for high-quality **dental implants in Tallinn**, Sonin Hambaravi clinic provides world-class implant treatment in the heart of Estonia's capital.
+Losing a tooth can affect far more than your smile. It can change the way you eat, speak, and feel about yourself. Fortunately, modern dentistry offers a long-lasting, natural-looking solution: dental implants. If you are searching for high-quality **dental implants in Tallinn**, Sonin Dental Clinic clinic provides world-class implant treatment in the heart of Estonia's capital.
 
 ---
 
@@ -73,5 +75,7 @@ Most healthy adults with sufficient jawbone density are good candidates for impl
 If you are ready to explore a permanent solution to tooth loss, the team at **Sonin Hambaravi** clinic is here to help. Under the expert guidance of **Dr Dmitri Sonin**, you will receive honest advice, personalised care, and results you can smile about every day.
 
 📍 Located in Tallinn, Estonia — easily accessible for both local and international patients.
+
+[Book a consultation](/en/contact/)
 
 **Contact Sonin Hambaravi today to book your dental implant consultation and take the first step towards a healthier, more confident smile.**

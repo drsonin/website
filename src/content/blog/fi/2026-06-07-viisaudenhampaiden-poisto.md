@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['viisaudenhampaan poisto', 'hammashoidon toimenpide', 'hammaskirurgia', 'suun terveys', 'postoperatiivinen hoito']
 heroImage: '/blog-images/2026-06-07-wisdom-tooth-removal-tallinn.webp'
 ---
+
 ## Viisaudenhampaiden poisto – Tri Dmitri Soninin asiantunteva hoito Tallinnassa
 
 Viisaudenhampaat ovat usein aiheuttavat huolta ja epämukavuutta, kun ne alkavat puhjeta aikuisiällä. Moni potilas miettii, milloin viisaudenhammas kannattaa poistaa ja mitä toimenpide käytännössä tarkoittaa. Sonin Hambaravi -klinikalla Tallinnassa autamme sinua tekemään parhaan päätöksen suun terveytesi kannalta.
@@ -55,6 +56,8 @@ Sonin Hambaravi on tunnettu korkeatasoisesta ja potilaslähtöisestä hoidosta. 
 Monet suomalaiset potilaat valitsevat Tallinnan hammashoitoon yhdistettynä lyhyeen kaupunkilomaan – ja löytävät samalla erinomaisen hinta-laatu-suhteen.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa konsultaatio tänään!**
 Onko viisaudenhampaasi aiheuttanut kipua, turvotusta tai muita vaivoja? Älä odota ongelmien pahenemista. Ota yhteyttä **Sonin Hambaravi** -klinikalle Tallinnassa ja sovi aika konsultaatioon. Asiantunteva tiimimme auttaa sinua löytämään parhaan ratkaisun suun terveytesi hyväksi.

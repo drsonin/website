@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['Dental implants', 'Tallinn cost', 'Swedish patients', 'Implant prices', 'Estonia dentistry']
 heroImage: '/blog-images/2026-06-17-dental-implants-tallinn-swedish-patients.webp'
 ---
+
+
 ## Dental Implants in Tallinn for Swedish Patients: 2026 Cost Guide by Dr Dmitri Sonin
 
-If you're a Swedish patient considering dental implants, you've probably already discovered just how significant the price difference can be between Sweden and Estonia. At Sonin Hambaravi clinic in Tallinn, Dr Dmitri Sonin and his team have helped hundreds of Scandinavian patients restore their smiles — with outstanding quality care at a fraction of the cost they'd pay back home.
+If you're a Swedish patient considering dental implants, you've probably already discovered just how significant the price difference can be between Sweden and Estonia. At Sonin Dental Clinic clinic in Tallinn, Dr Dmitri Sonin and his team have helped hundreds of Scandinavian patients restore their smiles — with outstanding quality care at a fraction of the cost they'd pay back home.
 
 This guide walks you through everything you need to know about dental implants in Tallinn in 2026, from procedure costs to travel logistics.
 
@@ -78,5 +80,7 @@ Key quality assurances include:
 Taking the first step is simple. Contact Sonin Hambaravi clinic in Tallinn to schedule your initial consultation with Dr Dmitri Sonin. Whether you have questions about costs, treatment timelines, or travel planning, our team is ready to guide you every step of the way.
 
 **Visit us at Sonin Hambaravi, Tallinn, Estonia — where Swedish patients receive world-class dental implants at transparent, affordable prices.**
+
+[Book a consultation](/en/contact/)
 
 📞 Contact us today to book your 2026 consultation and receive your personalised treatment plan.

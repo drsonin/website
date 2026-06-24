@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Parodontiitin hoito', 'hammasinfektio', 'ienhoito', 'plakkien poisto', 'hammassairaus']
 heroImage: '/blog-images/2026-06-06-gum-disease-treatment-tallinn.webp'
 ---
+
 ## Parodontiitin hoito – tri Dmitri Soninin asiantuntemus Sonin Hambaravi -klinikalla Tallinnassa
 
 Parodontiitti on hampaan kiinnityskudosten tulehduksellinen sairaus, joka etenee hoitamattomana ja voi johtaa hampaiden löystymiseen ja jopa menetykseen. Hyvä uutinen on, että oikea-aikainen ja ammattimainen hoito pysäyttää taudin etenemisen ja palauttaa suun terveyden. Tässä artikkelissa kerromme, mitä parodontiitin hoito pitää sisällään ja miksi asiantunteva hoito on ratkaisevan tärkeää.
@@ -62,5 +63,7 @@ Dmitri Sonin muistuttaa, että monet potilaat hakeutuvat hoitoon vasta siinä va
 ---
 
 **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa**
+
+[Varaa konsultaatio](/fi/contact/)
 
 Mikäli sinulla on huoli ienten kunnosta tai olet havainnut parodontiitin oireita, älä epäröi ottaa yhteyttä. Sonin Hambaravi -klinikalla Tallinnassa saat kattavan parodontologisen tutkimuksen ja yksilöllisesti suunnitellun hoitosuunnitelman. Varaa aika tänään ja ota ensimmäinen askel kohti terveempää suuta!

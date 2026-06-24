@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental anxiety', 'anxiety treatment', 'Tallinn dentistry', 'fear of dentist', 'dental care']
 heroImage: '/blog-images/2026-06-14-dental-anxiety-tallinn.webp'
 ---
+
+
 ## Overcoming Dental Anxiety in Tallinn: How Dr Dmitri Sonin Can Help You Smile Again
 
-Does the thought of sitting in a dental chair make your heart race? You are far from alone. Dental anxiety affects millions of people worldwide, and many patients in Tallinn avoid essential care for years simply because of fear. At Sonin Hambaravi dental clinic, we understand this deeply — and we have built our entire approach around making dentistry feel safe, calm, and even comfortable.
+Does the thought of sitting in a dental chair make your heart race? You are far from alone. Dental anxiety affects millions of people worldwide, and many patients in Tallinn avoid essential care for years simply because of fear. At Sonin Dental Clinic dental clinic, we understand this deeply — and we have built our entire approach around making dentistry feel safe, calm, and even comfortable.
 
 ### What Is Dental Anxiety and Why Does It Matter?
 
@@ -56,5 +58,7 @@ Patients travel to us from across Tallinn and from neighbouring regions because 
 ### Take the First Step Today
 
 You deserve healthy teeth and a dental experience that does not fill you with dread. Whether your anxiety is mild or severe, help is available — and it starts with one simple conversation.
+
+[Book a consultation](/en/contact/)
 
 **Book your consultation at Sonin Hambaravi dental clinic in Tallinn today.** Visit our website or call our reception to arrange an appointment with Dr Dmitri Sonin and his team. We are here to help you feel comfortable, cared for, and confident in your smile.

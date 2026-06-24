@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambaraviturizm', 'Peidetud kulud', 'Reisieelarvetus', 'Hambaarstiteenused', 'Tervisturism']
 heroImage: '/blog-images/2026-06-09-dental-tourism-hidden-costs.webp'
 ---
+
 ## Hambaraviturismi varjatud kulud – mida dr Dmitri Sonin soovitab enne reisiotsust teada
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Patsiendid reisivad ravi saamiseks Türki, Ungarisse, Poolasse ja teistesse riikidesse, kus hinnad on kodumaisest märkimisväärselt madalamad. Enne sellise otsuse tegemist tasub aga teha täpne kuluarvutus – koos kõigi komponentidega, mida reklaamhinnad tavaliselt ei näita.
@@ -67,5 +68,7 @@ Dmitri Sonin rõhutab, et pikaajaline hambaravi – eriti implantoloogia – eel
 ---
 
 Kui soovite saada selget ülevaadet oma hambaravi tegelikest kuludest ja valikutest, broneerige konsultatsioon **Sonin Hambaravi kliinikus Tallinnas**. dr Dmitri Sonin hindab teie hammaste seisundit, koostab personaalse ravikava ja esitab läbipaistva hinnapakkumise – ilma varjatud kuludeta.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Broneeri konsultatsioon: [soninhambaravi.ee](https://soninhambaravi.ee)**

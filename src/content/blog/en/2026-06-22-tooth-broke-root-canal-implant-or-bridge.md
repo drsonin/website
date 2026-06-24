@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['tooth broke after root canal', 'dental implant vs bridge', 'broken tooth repair', 'dental restoration options', 'tooth replacement Tallinn']
 heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.webp'
 ---
+
+
 ## My Tooth Broke After a Root Canal — Implant or Bridge? Dr Dmitri Sonin Answers
 
 Maria, a 42-year-old teacher from Tallinn, came to us last spring with a familiar story: she'd had a root canal on her upper molar years ago, crowned it, and thought the problem was solved for good. Then one morning, while eating breakfast, she heard a crack — and the tooth was gone below the gumline. If this sounds like your situation, you're not alone. And you do have clear, reliable options.
@@ -15,7 +17,7 @@ Maria, a 42-year-old teacher from Tallinn, came to us last spring with a familia
 
 ### Why Do Root Canal Teeth Break More Easily?
 
-This is one of the most common questions Dr Dmitri Sonin hears at Sonin Hambaravi clinic, and the answer is straightforward once you understand the biology.
+This is one of the most common questions Dr Dmitri Sonin hears at Sonin Dental Clinic clinic, and the answer is straightforward once you understand the biology.
 
 During root canal treatment, the nerve and blood supply inside the tooth are removed. This process saves the tooth from infection, but it also leaves the remaining structure significantly more brittle over time — essentially, the tooth "dries out" at a microscopic level. Without the internal pulp providing moisture and nutrients, the dentine becomes more prone to fracture under normal chewing forces.
 
@@ -69,5 +71,7 @@ A broken root canal tooth can harbour bacteria even without obvious pain, becaus
 ---
 
 Root canal teeth can and do break — but losing that tooth does not mean losing your smile or your chewing function. Modern implants and bridges are reliable, long-lasting solutions that thousands of patients in Tallinn choose every year.
+
+[Book a consultation](/en/contact/)
 
 **Book your consultation at Sonin Hambaravi clinic in Tallinn.** Dr Dmitri Sonin and the team will assess your X-rays, explain your options honestly, and help you choose the treatment that fits your health, timeline, and budget. You can reach us through our website or by calling the clinic directly — we look forward to helping you.

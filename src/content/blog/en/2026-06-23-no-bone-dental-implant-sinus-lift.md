@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental implants', 'sinus lift', 'bone graft', 'implant surgery', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
+
+
 ## Not Enough Bone for a Dental Implant? Dr Dmitri Sonin Explains Sinus Lift and Bone Graft Options in Tallinn
 
-You've been told you want dental implants — but then comes the news that stops many patients in their tracks: *"I'm sorry, you don't have enough bone."* Maybe you lost a tooth years ago, or you've worn dentures for a long time. Whatever the reason, hearing this can feel like a dead end. The good news? It isn't. As Dr Dmitri Sonin sees regularly at Sonin Hambaravi clinic in Tallinn, the vast majority of patients who lack sufficient bone can still receive implants — they simply need one extra step first.
+You've been told you want dental implants — but then comes the news that stops many patients in their tracks: *"I'm sorry, you don't have enough bone."* Maybe you lost a tooth years ago, or you've worn dentures for a long time. Whatever the reason, hearing this can feel like a dead end. The good news? It isn't. As Dr Dmitri Sonin sees regularly at Sonin Dental Clinic clinic in Tallinn, the vast majority of patients who lack sufficient bone can still receive implants — they simply need one extra step first.
 
 ---
 
@@ -69,6 +71,8 @@ Early evaluation means more options and shorter treatment timelines.
 ---
 
 **Ready to find out whether a sinus lift or bone graft is right for you?** Book a consultation with Dmitri Sonin at **Sonin Hambaravi** dental clinic in Tallinn. We will assess your current bone volume using a 3D cone beam CT scan and give you a clear, honest treatment plan — with realistic timelines and costs. No dead ends. Just solutions.
+
+[Book a consultation](/en/contact/)
 
 📍 **Sonin Hambaravi, Tallinn, Estonia**
 🌐 [soninhambaravi.ee](https://soninhambaravi.ee)

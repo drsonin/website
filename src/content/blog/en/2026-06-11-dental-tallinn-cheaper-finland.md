@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental treatment Tallinn', 'affordable dentistry', 'cross-border healthcare', 'Estonia vs Finland', 'cost comparison']
 heroImage: '/blog-images/2026-06-11-dental-tallinn-cheaper-finland.webp'
 ---
+
+
 ## Dental Treatment in Tallinn vs Finland: A Cost Analysis by Dr Dmitri Sonin
 
 If you live in Finland and need a dental implant, you have already seen the price tag. A single implant with a crown at a Finnish clinic typically runs between **2,500 € and 4,000 €** per tooth. That figure alone sends thousands of Finnish patients across the Gulf of Finland each year. This article breaks down the actual numbers — including the less obvious ones — so you can make an informed financial decision.
@@ -15,7 +17,7 @@ If you live in Finland and need a dental implant, you have already seen the pric
 
 ### What Does an Implant Actually Cost in Tallinn?
 
-At **Sonin Hambaravi** in Tallinn, a full implant and crown procedure is priced at **1,200 – 1,800 €** per tooth, depending on the implant system used and any preparatory work required (such as bone grafting or sinus lift). The price includes the surgical placement, the healing abutment, the ceramic crown, and follow-up check appointments.
+At **Sonin Dental Clinic** in Tallinn, a full implant and crown procedure is priced at **1,200 – 1,800 €** per tooth, depending on the implant system used and any preparatory work required (such as bone grafting or sinus lift). The price includes the surgical placement, the healing abutment, the ceramic crown, and follow-up check appointments.
 
 The ferry from Helsinki to Tallinn takes approximately **2.5 hours**, with return tickets typically ranging from **40 – 120 €** depending on the season and operator. For a Finnish patient, the total cost of one implant in Tallinn — travel included — generally remains within the range of **1,300 – 1,950 €**. Compared to the Finnish baseline of 2,500 – 4,000 €, the numeric difference is substantial.
 
@@ -67,5 +69,7 @@ These are ranges, not guarantees. Individual cases vary. What the table does sho
 If you are considering dental implants or other restorative work, **Dr Dmitri Sonin** and the team at Sonin Hambaravi offer an initial consultation where your specific clinical situation and treatment cost can be assessed precisely.
 
 The clinic is located in **Tallinn, Estonia**, and is accessible from Helsinki by ferry in under three hours.
+
+[Book a consultation](/en/contact/)
 
 To book your consultation, visit **[soninhambaravi.ee](https://soninhambaravi.ee)** or contact the clinic directly by phone or email.

@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental implants cost', 'Turkey implants', 'Tallinn dental', 'implant prices', 'dental tourism']
 heroImage: '/blog-images/2026-06-08-dental-implants-turkey-vs-tallinn.webp'
 ---
+
+
 ## Dental Implants: Turkey vs Tallinn Cost Comparison — An Analysis by Dr Dmitri Sonin
 
-Every year, thousands of Europeans weigh up whether to have dental implants fitted abroad or at home. The numbers circulating online can be striking. This breakdown, prepared by **Dmitri Sonin** of Sonin Hambaravi dental clinic in Tallinn, lays out the verified figures for both destinations so you can make an informed decision.
+Every year, thousands of Europeans weigh up whether to have dental implants fitted abroad or at home. The numbers circulating online can be striking. This breakdown, prepared by **Dmitri Sonin** of Sonin Dental Clinic dental clinic in Tallinn, lays out the verified figures for both destinations so you can make an informed decision.
 
 ---
 
@@ -81,5 +83,7 @@ The financial gap between destinations narrows significantly when travel costs a
 ### Book a Consultation at Sonin Hambaravi, Tallinn
 
 **Dr Dmitri Sonin** and the team at Sonin Hambaravi offer a no-obligation implant consultation where your specific case, bone structure, and full cost projection are assessed individually. Prices quoted are fixed, transparent, and include the 5-year guarantee.
+
+[Book a consultation](/en/contact/)
 
 To schedule your consultation, contact **Sonin Hambaravi** in Tallinn directly through the clinic website or by phone. Bring any existing X-rays or treatment quotes — including those from abroad — for a like-for-like comparison.

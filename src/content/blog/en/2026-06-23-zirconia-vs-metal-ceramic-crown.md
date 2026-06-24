@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['zirconia crowns', 'metal ceramic crowns', 'dental crown comparison', 'crown materials', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-23-zirconia-vs-metal-ceramic-crown.webp'
 ---
+
+
 ## Zirconia vs Metal-Ceramic Crown: Which to Choose in Tallinn? A Guide by Dr Dmitri Sonin
 
-Maria, a 38-year-old teacher from Tallinn, came into our clinic with a cracked molar and a simple question: "Doctor, what kind of crown do I actually need?" She had done some research online but felt more confused than before. This is one of the most common situations Dr Dmitri Sonin encounters every week at Sonin Hambaravi — and the answer, while not one-size-fits-all, is clearer than most patients expect.
+Maria, a 38-year-old teacher from Tallinn, came into our clinic with a cracked molar and a simple question: "Doctor, what kind of crown do I actually need?" She had done some research online but felt more confused than before. This is one of the most common situations Dr Dmitri Sonin encounters every week at Sonin Dental Clinic — and the answer, while not one-size-fits-all, is clearer than most patients expect.
 
 ---
 
@@ -78,6 +80,8 @@ Here is the honest framework Dmitri Sonin uses with every patient during consult
 ---
 
 **Ready to find out which crown is right for you?** Book a consultation at **Sonin Hambaravi** dental clinic in Tallinn. Dr Dmitri Sonin and the team will assess your specific situation, show you examples of both crown types, and give you an honest recommendation — with no pressure and full transparency on pricing.
+
+[Book a consultation](/en/contact/)
 
 📍 Sonin Hambaravi | Tallinn, Estonia
 🌐 [soninhambaravi.ee](https://soninhambaravi.ee)

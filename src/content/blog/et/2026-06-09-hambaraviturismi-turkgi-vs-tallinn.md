@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hambaraviturismi', 'Türgi hambaravi', 'Tallinn hambaravi', 'hinna võrdlus', 'kvaliteet ja hind']
 heroImage: '/blog-images/2026-06-09-dental-implants-turkey-vs-tallinn.webp'
 ---
+
 ## Hambaraviturismi võrdlus: Türgi vs Tallinn – dr Dmitri Sonini faktipõhine ülevaade
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Üha rohkem inimesi kaalub hambaid ravida välismaal, kus hinnad tunduvad esmapilgul märkimisväärselt madalamad. Üks levinumaid sihtkohti on Türgi – eelkõige Antalya ja Istanbul. Kuid kas tegelik kokkuhoid on nii suur, kui reklaamid lubavad? Vaatame numbreid ausalt.
@@ -86,5 +87,7 @@ Numbrid näitavad, et **ühe implantaadi puhul on kogukulu Tallinnas ja Türgis 
 ---
 
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Kui soovid saada selget ülevaadet oma hambaravi vajadusest ja tegelikust maksumusest, **broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas**. dr Dmitri Sonin koostab individuaalse raviplaani koos täpse hinnapakkumisega – nii tead täpselt, millega arvestada.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Kokoproteesi implanteilla', 'hampaan implantti Tallinna', 'täysproteesi implantit', 'hammashoito Tallinna', 'implanttiproteesi']
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
+
 ## Kokoproteesi neljällä implantilla Tallinnassa – tri Dmitri Soninin asiantunteva ratkaisu hampaattomaan leuankaareen
 
 Hampaattomuus tai vakavasti vaurioitunut hampaisto vaikuttaa merkittävästi elämänlaatuun – syömiseen, puhumiseen ja itseluottamukseen. Kokoproteesi neljällä implantilla, joka tunnetaan kansainvälisesti myös nimellä *All-on-4*, on moderni ja kestävä ratkaisu, joka palauttaa toimivan ja esteettisesti kauniin hampaiston. Tallinnassa tämä hoito on saatavilla Sonin Hambaravi -klinikalla lääkärin johdolla, ja se tarjoaa suomalaisille potilaille erinomaisen yhdistelmän laadusta ja edullisemmasta hinnasta verrattuna Suomeen.
@@ -56,5 +57,7 @@ Tallinna on suosittua hammashoitomatkailua suomalaisille useista syistä. Hoitok
 Dmitri Sonin on kokenut implanttihammaslääkäri, jonka klinikalla hoidetaan vuosittain satoja suomalaisia potilaita. Klinikalla käytetään ainoastaan sertifioituja, maailmanluokan implanttijärjestelmiä, ja henkilökunta palvelee sujuvasti suomeksi.
 
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
+
+[Varaa konsultaatio](/fi/contact/)
 
 Jos olet kiinnostunut kokoproteesista neljällä implantilla tai haluat selvittää, sopiiko hoito sinulle, ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Tri Dmitri Sonin ja hänen asiantunteva tiiminsä vastaavat kaikkiin kysymyksiisi ja laativat sinulle maksuttoman hoitoarvion. Ensimmäinen askel kohti uutta, kaunista hymyä on yhteydenotto – tee se jo tänään.

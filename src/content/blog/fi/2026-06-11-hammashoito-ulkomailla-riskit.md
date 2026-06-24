@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hammashoito ulkomailla', 'hammasturismo riskit', 'hammaslääkärin takuut', 'hoitoiden laatu', 'kansainväliset takuut']
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
+
 ## Hammashoito ulkomailla: riskit, takuut ja todelliset kustannukset – tri Dmitri Soninin näkökulma
 
 Yhä useampi suomalainen harkitsee hammashoitoa ulkomailla, houkuttelevana syynä usein huomattavasti halvemmat hinnat. Ennen päätöksentekoa on kuitenkin tärkeää tarkastella kokonaiskuvaa rehellisesti: mitä hammashoitomatka todellisuudessa maksaa, mitä riskejä siihen liittyy, ja miten takuuasiat toimivat eri maissa?
@@ -82,5 +83,7 @@ Tallinna on maantieteellisesti lähellä Suomea – lauttamatka Helsingistä kes
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Haluatko selvittää, mikä hoitovaihtoehto sopii juuri sinun tilanteeseesi? Tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat maksuttoman alkukonsultaation, jossa käymme läpi hoitotarpeesi, kustannusarvion ja aikataulun.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Ota yhteyttä tai varaa aika osoitteessa [soninhambaravi.ee](https://soninhambaravi.ee)**

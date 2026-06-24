@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental implants', 'Tallinn vs Riga', 'implant cost', 'Baltic dentistry', 'value comparison']
 heroImage: '/blog-images/2026-06-21-dental-implants-tallinn-vs-riga.webp'
 ---
+
+
 ## Dental Implants Tallinn vs Riga — Which Is Better Value? A Guide by Dr Dmitri Sonin
 
-If you are considering dental implants and weighing up your options across the Baltic region, you have probably come across two popular destinations: Tallinn, Estonia, and Riga, Latvia. Both cities attract patients from Scandinavia and across Europe looking for high-quality dental care at competitive prices. But which city actually offers better value? Dr Dmitri Sonin, lead implantologist at Sonin Hambaravi clinic in Tallinn, breaks it all down.
+If you are considering dental implants and weighing up your options across the Baltic region, you have probably come across two popular destinations: Tallinn, Estonia, and Riga, Latvia. Both cities attract patients from Scandinavia and across Europe looking for high-quality dental care at competitive prices. But which city actually offers better value? Dr Dmitri Sonin, lead implantologist at Sonin Dental Clinic clinic in Tallinn, breaks it all down.
 
 ### Understanding the Cost of Dental Implants in Both Cities
 
@@ -46,5 +48,7 @@ Of course, individual clinic choice matters enormously within either city. Choos
 ### Book Your Consultation at Sonin Hambaravi, Tallinn
 
 Ready to take the next step? The team at Sonin Hambaravi clinic in Tallinn, led by Dr Dmitri Sonin, offers personalised implant consultations, transparent pricing, and a warm, patient-centred approach. Whether you are visiting from Helsinki, Stockholm, or elsewhere in Europe, we make the process straightforward from start to finish.
+
+[Book a consultation](/en/contact/)
 
 **Contact Sonin Hambaravi today to book your consultation and find out exactly what dental implants could cost for your specific situation — with no hidden fees and no surprises.**

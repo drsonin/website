@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammasraudat', 'invisalign', 'hammaslankeet', 'suorat hampaat', 'hammaskorjaus']
 heroImage: '/blog-images/2026-06-13-braces-aligners-estonia.webp'
 ---
+
 ## Hammasraudat ja alignerit – tri Dmitri Soninin asiantuntemus Sonin Hambaravi -klinikalla
 
 Hampaiden oikomishoito on kehittynyt valtavasti viime vuosikymmenten aikana. Nykyään potilailla on käytössään useita tehokkaita vaihtoehtoja hampaiden asentoa ja purentaa korjaaviin hoitoihin. Tallinnassa sijaitsevalla Sonin Hambaravi -klinikalla tri Dmitri Sonin auttaa jokaisen potilaan löytämään juuri hänelle sopivimman oikomishoitomenetelmän.
@@ -48,5 +49,7 @@ Oikomishoito alkaa aina perusteellisella alkututkimuksella, johon kuuluu hampais
 Hoitoaika vaihtelee tyypillisesti muutamasta kuukaudesta yli kahteen vuoteen hoidon laajuudesta riippuen. Hoidon päätyttyä hampaat stabiloidaan yleensä kiinteällä tai irrotettavalla retainerilla, jotta saavutettu tulos pysyy.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 Oletko kiinnostunut hammasraudoista tai alignereista? **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa** ja selvitä, mikä oikomishoitomenetelmä sopii juuri sinulle. Ammattitaitoinen tiimimme auttaa sinua kohti kaunista, tervettä hymyä.

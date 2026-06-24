@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['teeth cleaning', 'dental hygiene', 'Estonia dentistry', 'professional cleaning', 'oral care']
 heroImage: '/blog-images/2026-06-04-professional-teeth-cleaning-estonia.webp'
 ---
+
+
 ## Professional Teeth Cleaning in Estonia: Insights from Dr Dmitri Sonin
 
 Maintaining a healthy smile goes beyond daily brushing and flossing. Even the most dedicated home care routine leaves behind deposits that only a trained dental professional can remove. If you are considering **professional teeth cleaning in Estonia**, here is everything you need to know — from what the procedure involves to why Tallinn has become a sought-after destination for quality dental care.
@@ -34,7 +36,7 @@ Estonia has earned a strong reputation across Europe for its high standard of de
 
 For international patients, Tallinn is particularly convenient — the city is easily accessible by flight or ferry from Finland, Sweden, and other European countries. Many visitors combine their dental appointment with a short city break, making the experience both practical and enjoyable.
 
-At **Sonin Hambaravi** clinic, the philosophy is straightforward: every patient deserves personalised, evidence-based care in a comfortable environment. This commitment is reflected in the consistently positive feedback from both local and overseas patients.
+At **Sonin Dental Clinic** clinic, the philosophy is straightforward: every patient deserves personalised, evidence-based care in a comfortable environment. This commitment is reflected in the consistently positive feedback from both local and overseas patients.
 
 ---
 
@@ -71,5 +73,7 @@ After your appointment, you will receive tailored advice on brushing technique, 
 ### Book Your Professional Teeth Cleaning in Tallinn
 
 Whether you are a resident of Estonia or travelling from abroad, Sonin Hambaravi clinic in Tallinn is ready to welcome you. Our team provides professional, friendly dental care with your long-term health as the priority.
+
+[Book a consultation](/en/contact/)
 
 **Contact us today to book your consultation or hygiene appointment at Sonin Hambaravi** — and take the first step towards a healthier, brighter smile.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hammasvinerit', 'hammasvalkaisu', 'smile makeover', 'hammaskosmeetika', 'hammasestetika']
 heroImage: '/blog-images/2026-06-03-dental-veneers-tallinn.webp'
 ---
+
 ## Hammasvinerit – Kaunis Hymy Tri Dmitri Soninin Asiantuntevassa Hoidossa
 
 Haaveiletko täydellisestä hymystä, mutta epätasaiset, värjäytyneet tai lohkeilleet hampaat haittaavat itseluottamustasi? Hammasvinerit ovat yksi modernin esteettisen hammaslääketieteen tehokkaimmista ratkaisuista – ohut, huomaamaton kuori, joka muuttaa hymysi kokonaan. Tässä artikkelissa kerromme kaiken oleellisen hammasvinereistä ja siitä, mitä sinun kannattaa tietää ennen hoitopäätöstä.
@@ -70,5 +71,7 @@ Tällaisissa tapauksissa hoidetaan ensin perussairaudet ja arvioidaan tilanne uu
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa
 
 Jos olet kiinnostunut hammasvinereistä ja haluat tietää, sopivatko ne juuri sinulle, paras seuraava askel on ammattilaisen arvio. Sonin Hambaravi -klinikalla Tallinnassa tri Dmitri Sonin ja hänen kokenut tiiminsä ovat valmiita auttamaan sinua saavuttamaan haluamasi lopputuloksen turvallisesti ja ammattitaitoisesti.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa konsultaatioaika jo tänään** – ota ensimmäinen askel kohti kaunista ja itsevarmuutta huokuvaa hymyä. Ota yhteyttä Sonin Hambaraviin ja kysy lisää hammasvinereistä tai muista esteettisen hammaslääketieteen palveluistamme.

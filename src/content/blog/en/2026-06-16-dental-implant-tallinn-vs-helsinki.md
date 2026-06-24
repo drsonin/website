@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental implant cost', 'Tallinn vs Helsinki', 'implant pricing', 'Nordic dentistry', 'cost comparison']
 heroImage: '/blog-images/2026-06-16-dental-implant-tallinn-vs-helsinki.webp'
 ---
+
+
 ## Dental Implant Cost in Tallinn vs Helsinki: What Dr Dmitri Sonin Wants You to Know
 
-If you're a Finnish patient considering dental implants, you've likely already noticed the significant price difference between dental care at home and across the Gulf of Finland. Every year, thousands of Finns travel to Tallinn specifically for dental treatment — and for good reason. In this article, Dr Dmitri Sonin of Sonin Hambaravi clinic breaks down exactly what you can expect to pay, and why the journey to Estonia makes financial sense.
+If you're a Finnish patient considering dental implants, you've likely already noticed the significant price difference between dental care at home and across the Gulf of Finland. Every year, thousands of Finns travel to Tallinn specifically for dental treatment — and for good reason. In this article, Dr Dmitri Sonin of Sonin Dental Clinic clinic breaks down exactly what you can expect to pay, and why the journey to Estonia makes financial sense.
 
 ---
 
@@ -70,6 +72,8 @@ All implant systems used at the clinic are sourced from established, globally re
 ### Ready to Take the Next Step?
 
 If you're considering dental implants and want to explore your options, Sonin Hambaravi clinic in Tallinn is here to help. Book a consultation with our team today to receive a personalised treatment plan and a transparent cost breakdown — no surprises, no hidden fees.
+
+[Book a consultation](/en/contact/)
 
 📍 **Sonin Hambaravi** | Tallinn, Estonia
 🌐 Visit our website or contact us directly to schedule your appointment. The smile you've been planning is closer — and more affordable — than you think.

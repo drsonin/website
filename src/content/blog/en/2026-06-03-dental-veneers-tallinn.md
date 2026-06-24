@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental veneers', 'Tallinn dentistry', 'smile makeover', 'veneer treatment', 'cosmetic dentistry']
 heroImage: '/blog-images/2026-06-03-dental-veneers-tallinn.webp'
 ---
+
+
 ## Dental Veneers in Tallinn: Expert Smile Transformations by Dr Dmitri Sonin
 
-A confident smile can change everything — the way you feel, the way others see you, and even the opportunities that come your way. If you've been searching for **dental veneers in Tallinn**, you've likely already imagined what a flawless, natural-looking smile could mean for your life. At Sonin Hambaravi, we make that vision a reality with precision, care, and a deeply personal approach to every patient.
+A confident smile can change everything — the way you feel, the way others see you, and even the opportunities that come your way. If you've been searching for **dental veneers in Tallinn**, you've likely already imagined what a flawless, natural-looking smile could mean for your life. At Sonin Dental Clinic, we make that vision a reality with precision, care, and a deeply personal approach to every patient.
 
 ---
 
@@ -77,5 +79,7 @@ Ready to take the first step toward the smile you've always wanted? **Sonin Hamb
 
 📍 Located in the heart of Tallinn, Estonia
 📞 Contact us today to schedule your personal consultation and discover what dental veneers can do for your confidence.
+
+[Book a consultation](/en/contact/)
 
 *Your dream smile is closer than you think — and it starts here.*

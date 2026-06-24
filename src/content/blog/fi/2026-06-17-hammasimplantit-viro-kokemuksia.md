@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hammasimplantit Viro', 'Suomalaiset potilaat', 'Implanttihoito ulkomailla', 'Hammasturismo', 'Potilaiden kokemukset']
 heroImage: '/blog-images/2026-06-17-dental-implants-estonia-finnish-reviews.webp'
 ---
+
 ## Hammasimplantit Virossa – suomalaisten potilaiden kokemuksia Dmitri Soninin klinikalta
 
 Yhä useampi suomalainen matkustaa Tallinnaan hammashoitoon. Korkealaatuinen hoito, merkittävästi alhaisemmat hinnat ja lyhyt matka Helsingistä tekevät Virosta houkuttelevan vaihtoehdon. Erityisesti hammasimplantit ovat toimenpide, jonka vuoksi suomalaiset hakeutuvat Tallinnaan – ja Sonin Hambaravi -klinikka on noussut yhdeksi suosituimmista kohteista.
@@ -51,6 +52,8 @@ Suomalaiset potilaat palaavat Sonin Hambaravi -klinikalle yhä uudelleen – ja 
 Vertaa hintoja, kysy lisää – ja varaa aika rohkeasti. Monelle suomalaiselle Tallinna on osoittautunut paikaksi, jossa suuhygienia on viimein saatu kuntoon kohtuullisella budjetilla.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Haluatko tietää lisää hammasimplanteista tai varata konsultaatioajan?**
 Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Henkilökuntamme palvelee suomeksi ja auttaa sinua suunnittelemaan hoidon alusta loppuun. Varaa maksuton alkukonsultaatio jo tänään – ja ota ensimmäinen askel kohti tervettä hymyä.

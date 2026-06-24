@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hambaimplantaadid', 'hambaproteesid', 'hambavigade parandus', 'suutervis', 'hambaarstus']
 heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 ---
+
 ## Hambaimplantaadid dr Dmitri Soniniga – püsiv lahendus puuduvatele hammastele
 
 Kas oled kaotanud ühe või mitu hammast ning otsid kestvat ja loomulikku lahendust? Hambaimplantaadid on tänapäeval üks usaldusväärsemaid viise puuduvate hammaste asendamiseks – need näevad välja, tunnevad ja toimivad täpselt nagu päris hambad. Sonin Hambaravi kliinikus Tallinnas aitab **dr Dmitri Sonin** igal patsiendil leida just tema vajadustele sobivaima lahenduse.
@@ -73,5 +74,7 @@ Hambaimplantaati hooldatakse täpselt nagu päris hammast – korralik harjamine
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui soovid teada saada, kas hambaimplantaadid sobivad just sinule, on parim samm broneerida konsultatsiooniaja. **Dr Dmitri Sonin** ja Sonin Hambaravi meeskond Tallinnas on valmis vastama kõigile sinu küsimustele ning aitama sul teha teadliku otsuse oma naeratuse tuleviku suhtes.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📞 **Võta meiega ühendust** ja broneeri oma konsultatsioon juba täna – sest terve ja ilus naeratus algab õigest otsusest.

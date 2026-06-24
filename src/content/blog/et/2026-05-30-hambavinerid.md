@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hambavinerid', 'hambapõletik', 'hambakivi eemaldamine', 'hambaste valge tegemine', 'suuõõne tervis']
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 ---
+
 ## Hambavinerid – kaunis naeratus dr Dmitri Soniniga Sonin Hambaravi kliinikus
 
 Kas oled kunagi mõelnud, miks mõnede inimeste naeratus tundub nii täiuslik ja särav? Sageli on selle taga hambavinerid – üks modernse kosmeetilise hambaravii populaarsemaid lahendusi. Sonin Hambaravi kliinikus Tallinnas aitab dr Dmitri Sonin igapäevaselt patsientidel saavutada just selline naeratus, millest nad on unistanud.
@@ -60,6 +61,8 @@ Sonin Hambaravi kliinikus Tallinnas ühendame kaasaegse tehnoloogia ja personaal
 Kliiniku patsiendid hindavad eriti meie sõbralikku õhkkonda, selgeid selgitusi ja parimat tulemust, mida kaasaegne hambaravi suudab pakkuda.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Soovid teada, kas hambavinerid sobivad just Sulle?**
 Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas – meie meeskond vastab kõikidele küsimustele ja aitab Sul leida parima lahenduse unistuste naeratuse saavutamiseks. Võta meiega ühendust juba täna!

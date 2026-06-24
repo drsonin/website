@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['teeth cleaning', 'dental hygiene', 'Estonia dentistry', 'professional cleaning', 'oral health']
 heroImage: '/blog-images/2026-06-12-professional-teeth-cleaning-estonia.webp'
 ---
+
+
 ## Professional Teeth Cleaning in Estonia: Expert Care by Dr Dmitri Sonin
 
-Maintaining a healthy, bright smile goes far beyond daily brushing and flossing. Even the most dedicated home routine leaves behind tartar and plaque that only a professional can safely remove. If you are looking for **professional teeth cleaning in Estonia**, Sonin Hambaravi clinic in Tallinn offers world-class preventive dental care tailored to every patient's needs.
+Maintaining a healthy, bright smile goes far beyond daily brushing and flossing. Even the most dedicated home routine leaves behind tartar and plaque that only a professional can safely remove. If you are looking for **professional teeth cleaning in Estonia**, Sonin Dental Clinic clinic in Tallinn offers world-class preventive dental care tailored to every patient's needs.
 
 ---
 
@@ -69,5 +71,7 @@ Prevention will always be more affordable — and more comfortable — than trea
 ### Book Your Professional Teeth Cleaning at Sonin Hambaravi
 
 Ready to take the next step toward a healthier smile? **Sonin Hambaravi dental clinic** in Tallinn, Estonia welcomes new patients and is happy to assist with any questions you may have about your oral health.
+
+[Book a consultation](/en/contact/)
 
 Contact us today to book your consultation or professional cleaning appointment. Our team looks forward to giving your smile the expert care it deserves.

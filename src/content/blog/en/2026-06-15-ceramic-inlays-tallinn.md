@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['ceramic inlays', 'dental restoration', 'tooth fillings', 'Tallinn dentistry', 'aesthetic dentistry']
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
+
+
 ## Ceramic Inlays in Tallinn: Expert Restorations by Dr Dmitri Sonin
 
-If you are looking for a durable, natural-looking solution to restore a damaged or decayed tooth, ceramic inlays could be exactly what you need. At Sonin Hambaravi dental clinic in Tallinn, patients receive precision restorations crafted from high-quality ceramic materials — combining outstanding aesthetics with long-lasting strength.
+If you are looking for a durable, natural-looking solution to restore a damaged or decayed tooth, ceramic inlays could be exactly what you need. At Sonin Dental Clinic dental clinic in Tallinn, patients receive precision restorations crafted from high-quality ceramic materials — combining outstanding aesthetics with long-lasting strength.
 
 ### What Are Ceramic Inlays?
 
@@ -62,5 +64,7 @@ Ceramic restorations are stain-resistant, but maintaining good overall oral hygi
 ### Book Your Consultation in Tallinn
 
 Ready to restore your smile with a beautifully crafted ceramic inlay? The team at **Sonin Hambaravi dental clinic** in Tallinn is here to help. Dr Dmitri Sonin and his experienced team will guide you through every step of the process in a comfortable, welcoming environment.
+
+[Book a consultation](/en/contact/)
 
 Contact Sonin Hambaravi today to schedule your consultation and take the first step toward a healthier, more confident smile.

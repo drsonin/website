@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Juureravi', 'hambainfektsioon', 'pulbiit', 'hambavalu', 'endodontia']
 heroImage: '/blog-images/2026-06-02-root-canal-treatment-tallinn.webp'
 ---
+
 ## Juureravi Tallinnas – Dr Dmitri Sonini selgitused ja mida oodata protseduurilt
 
 Juureravi on üks levinumaid ja olulisemaid hambaraviprotseduure, mis aitab päästa tugevalt kahjustunud hammast selle eemaldamise asemel. Paljud patsiendid tunnevad juureravi nimetust kuuldes ärevust, kuid tänapäeva kaasaegsete meetodite ja professionaalse lähenemisega on protseduur oluliselt mugavam, kui ette kujutada võiks.
@@ -57,6 +58,8 @@ Ravimata infektsioon hambakanalis ei kao iseenesest – vastupidi, see võib lev
 Sonin Hambaravi kliinikus Tallinnas kasutatakse juureravi läbiviimisel kaasaegseid seadmeid ja tõenduspõhiseid meetodeid. Täpne diagnoos, hoolikas raviplaanimine ning patsiendisõbralik lähenemine on meie töö aluspõhimõtted. Dr Dmitri Sonin ja tema tiim on pühendunud sellele, et iga patsiendi kogemus kliinikus oleks võimalikult mugav ja stressivaba.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Kas tunnete hammast valutamas või kahtlustate juurepõletikku?**
 Ärge oodake, kuni valu süveneb. Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna – aitame teie hamba päästa ja naeratus taastada.

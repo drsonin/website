@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['all-on-4 implants', 'dental implants tallinn', 'tooth replacement', 'implant cost', 'dental guide']
 heroImage: '/blog-images/2026-06-19-all-on-4-full-guide-tallinn.webp'
 ---
+
+
 ## All-on-4 Dental Implants in Tallinn — Full Guide, Prices & Expert Advice from Dr Dmitri Sonin
 
-Losing most or all of your teeth can affect far more than your smile — it changes how you eat, speak, and feel about yourself. The good news is that modern dentistry offers a life-changing solution: All-on-4 dental implants. At **Sonin Hambaravi** clinic in Tallinn, **Dr Dmitri Sonin** and his team help patients from Estonia and across Europe regain full, functional smiles with this proven technique.
+Losing most or all of your teeth can affect far more than your smile — it changes how you eat, speak, and feel about yourself. The good news is that modern dentistry offers a life-changing solution: All-on-4 dental implants. At **Sonin Dental Clinic** clinic in Tallinn, **Dr Dmitri Sonin** and his team help patients from Estonia and across Europe regain full, functional smiles with this proven technique.
 
 ---
 
@@ -80,5 +82,7 @@ Patients benefit from:
 ### Book Your Consultation Today
 
 If you are ready to explore whether All-on-4 is the right solution for you, the first step is a personal consultation. The team at **Sonin Hambaravi** clinic in Tallinn is ready to answer your questions, assess your suitability, and guide you through every stage of the process.
+
+[Book a consultation](/en/contact/)
 
 **Contact Sonin Hambaravi today** to schedule your consultation — and take the first step towards a confident, permanent smile.

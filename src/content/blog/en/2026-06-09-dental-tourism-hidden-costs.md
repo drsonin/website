@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental tourism costs', 'hidden fees', 'travel expenses', 'budget calculation', 'affordability reality']
 heroImage: '/blog-images/2026-06-09-dental-tourism-hidden-costs.webp'
 ---
+
+
 ## Dental Tourism Hidden Costs: A Real Cost Calculation by Dr Dmitri Sonin
 
-Every year, thousands of patients from Northern and Western Europe travel abroad for dental implants, drawn by prices that look significantly lower on paper. But how do the numbers actually compare once every expense is counted? Dr Dmitri Sonin, implantologist at Sonin Hambaravi clinic in Tallinn, has compiled a straightforward breakdown to help patients make an informed financial decision.
+Every year, thousands of patients from Northern and Western Europe travel abroad for dental implants, drawn by prices that look significantly lower on paper. But how do the numbers actually compare once every expense is counted? Dr Dmitri Sonin, implantologist at Sonin Dental Clinic clinic in Tallinn, has compiled a straightforward breakdown to help patients make an informed financial decision.
 
 ---
 
@@ -96,6 +98,8 @@ Variables that affect the outcome include: whether two visits are needed, whethe
 ### Book a Consultation at Sonin Hambaravi
 
 If you are weighing your options for implant treatment, a consultation with Dr Dmitri Sonin at Sonin Hambaravi clinic in Tallinn will give you an exact treatment plan and a fixed cost estimate — with no obligation. You can then run your own numbers.
+
+[Book a consultation](/en/contact/)
 
 📍 **Sonin Hambaravi** | Tallinn, Estonia
 📞 Book your consultation at **[soninhambaravi.ee](https://soninhambaravi.ee)**

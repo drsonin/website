@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['viisaudenhampaiden poisto', 'hammaskirurgia', 'suun terveys', 'postoperatiivinen hoito', 'komplikaatiot']
 heroImage: '/blog-images/2026-06-06-wisdom-tooth-removal-tallinn.webp'
 ---
+
 ## Viisaudenhampaiden poisto Tallinnassa – tri Dmitri Soninin asiantunteva hoito
 
 Viisaudenhampaiden poisto on yksi yleisimmistä suukirurgisista toimenpiteistä. Monella ihmisellä nämä niin sanotut kolmannet poskihampaat aiheuttavat kipua, tulehduksia tai hampaiston ahtautumista – ja poisto on lopulta ainoa pysyvä ratkaisu. Sonin Hambaravi -klinikalla Tallinnassa viisaudenhampaiden poistot tehdään turvallisesti ja potilaslähtöisesti.
@@ -70,5 +71,7 @@ Dmitri Sonin on kokenut hammaslääkäri, joka erikoistuu muun muassa suukirurgi
 Klinikka sijaitsee keskeisellä paikalla Tallinnassa, ja sinne on helppo tulla niin paikallisilta kuin ulkomailta – myös Suomesta.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaatko konsultaation?** Jos sinulla on kipua, turvotusta tai epäilet viisaudenhammasongelmaa, älä odota tilanteen pahenemista. Ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa ja varaa aika tri Dmitri Soninin vastaanotolle. Ammattitaitoinen hoito odottaa sinua.

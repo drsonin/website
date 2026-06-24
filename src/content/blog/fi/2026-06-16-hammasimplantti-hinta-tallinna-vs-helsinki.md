@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammasimplantti hinta', 'Tallinna Helsinki', 'hintatvertailu', 'implantaattihoito', 'hammaslääkäri kustannukset']
 heroImage: '/blog-images/2026-06-16-dental-implant-tallinn-vs-helsinki.webp'
 ---
+
 ## Hammasimplantti Hinta Tallinna vs Helsinki – Tri Dmitri Soninin Vertailu
 
 Hammasimplantti on nykyaikainen ja kestävä ratkaisu puuttuvan hampaan korvaamiseen. Yhä useampi suomalainen harkitsee hammashoitomatkaa Tallinnaan, ja syy on selkeä: merkittävä hintaero Suomeen verrattuna. Tässä artikkelissa vertailemme hammasimplanttien hintoja Tallinnassa ja Helsingissä sekä kerromme, mitä kaikkea kannattaa ottaa huomioon ennen päätöstä.
@@ -72,5 +73,7 @@ On tilanteita, joissa implantti ei ole ensisijainen vaihtoehto – esimerkiksi j
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos olet harkinnut hammasimplanttia ja haluat tietää tarkan hinnan omaan tilanteeseesi, **varaa maksuton alkukonsultaatio Sonin Hambaravi -klinikalle Tallinnassa**. Klinikalla puhutaan suomea, hoidon laatu on korkeatasoista ja hinnat ovat läpinäkyviä.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Ota yhteyttä tänään** – askeleesi kohti kaunista ja toimivaa hymyä alkaa juuri täältä.

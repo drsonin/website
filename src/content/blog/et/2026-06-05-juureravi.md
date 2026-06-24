@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Juureravi', 'hambajuure ravi', 'pulpiidi ravi', 'hambavalu leevendamine', 'hambainfektsioon']
 heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
+
 ## Juureravi – mida see tähendab ja miks see hambad päästab? Dr Dmitri Soniniga Sonin Hambaravi kliinikus
 
 Hambavalu võib olla üks ebameeldivamaid kogemusi, mida inimene läbi elab. Kui valu on sügav, pidev ja reageerib temperatuurimuutustele, võib põhjus peituda hamba sees – täpsemalt hambakanalis. Just sel hetkel tuleb mängu **juureravi**, mis on tänapäeva hambaravis üks levinumaid ja tõhusamaid protseduure hamba säilitamiseks.
@@ -73,6 +74,8 @@ Sonin Hambaravi on Tallinna hambaravikliinik, kus professionaalsus ja patsiendik
 Kliinik kasutab digitaalset röntgenoloogiat, kaasaegseid sterilisatsioonistandardeid ja individuaalset raviplaani igale patsiendile.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Ei pea kannatama hambavalu all – abi on lähedal.**
 Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna ja lase oma hammastel saada ravi, mida nad väärivad. Võta ühendust meie kliinikuga ning meie meeskond aitab Sul leida parima aja ja lahenduse.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Juureravi', 'hambaäge ravi', 'pulpiti ravi', 'hambavalu', 'hambapatoloogia']
 heroImage: '/blog-images/2026-06-01-root-canal-treatment-tallinn.webp'
 ---
+
 ## Juureravi dr Dmitri Soniniga – valu vaba lahendus Tallinnas
 
 Juureravi on üks kaasaegsema hambaarstipraksise olulisemaid protseduure, mis võimaldab päästa hamba, mis muidu tuleks eemaldada. Paljud inimesed kardavad juureravi, kuid tänapäevased meetodid ja professionaalne lähenemine muudavad selle protseduuri turvaliseks ja mugavaks. Sonin Hambaravi kliinikus Tallinnas tegeleb juureravi protseduuridega kogenud hambaarst dr Dmitri Sonin, kellel on aastatepikkune kogemus ka kõige keerulisemate juhtumite lahendamisel.
@@ -61,5 +62,7 @@ Taastumine on enamasti kiire. Järgige hambaarsti soovitusi:
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui teil esineb hambavalu, tundlikkus kuumale või külmale, igeme turse või muu mure, mis võib viidata hambapulbi põletikule, ärge oodake liiga kaua. Dmitri Sonin ja Sonin Hambaravi meeskond Tallinnas on valmis teid aitama – professionaalselt, kaasaegsete meetoditega ja patsiendikeskse lähenemisega.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Broneeri konsultatsioon juba täna** – võtke meiega ühendust telefoni või kodulehe kaudu ning tehke esimene samm tervema naeratuse suunas.

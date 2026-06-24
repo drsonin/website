@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['Implant pain', 'Loose implant', 'Dental emergency', 'Tallinn dentist', 'Implant problems']
 heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
+
+
 ## Loose or Painful Dental Implant in Tallinn? Dr Dmitri Sonin Explains What to Do
 
 You woke up this morning and something felt off — your dental implant is moving slightly, or there's a dull ache around it that wasn't there last week. Maybe you're pressing your tongue against it nervously, wondering if you're imagining things. You're not. A loose or painful dental implant is a signal your body is sending you, and it's one you should take seriously — but not panic over.
@@ -15,7 +17,7 @@ You woke up this morning and something felt off — your dental implant is movin
 
 ### Why Does a Dental Implant Become Loose or Painful?
 
-Understanding the cause is the first step toward the right solution. "Not all implant pain means the same thing," says **Dmitri Sonin**, implant dentist at Sonin Hambaravi clinic in Tallinn. "The cause determines everything — the urgency, the treatment, and the outcome."
+Understanding the cause is the first step toward the right solution. "Not all implant pain means the same thing," says **Dmitri Sonin**, implant dentist at Sonin Dental Clinic clinic in Tallinn. "The cause determines everything — the urgency, the treatment, and the outcome."
 
 Here are the most common reasons an implant may feel loose or uncomfortable:
 
@@ -64,5 +66,7 @@ The good news: the vast majority of implant complications are preventable.
 ---
 
 If your implant feels loose, tender, or simply "different," don't wait. **Dr Dmitri Sonin** and the team at **Sonin Hambaravi clinic in Tallinn** are experienced in diagnosing and treating implant complications quickly and precisely.
+
+[Book a consultation](/en/contact/)
 
 📞 **Book your consultation today at Sonin Hambaravi** — because the sooner we look, the more we can save.

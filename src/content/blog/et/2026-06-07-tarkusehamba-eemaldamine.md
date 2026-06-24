@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Tarkusehamba eemaldamine', 'Hambaarsti nõu', 'Hambavalu leevendamine', 'Pärast operatsiooni hooldus']
 heroImage: '/blog-images/2026-06-07-wisdom-tooth-removal-tallinn.webp'
 ---
+
 ## Tarkusehamba Eemaldamine Tallinnas – dr Dmitri Sonin selgitab kõike, mida pead teadma
 
 Tarkusehambad – ehk kolmandad purihambad – tekitavad paljudele inimestele küsimusi ja muret. Kas need tuleb alati eemaldada? Kui valus see on? Mida teha pärast operatsiooni? Sonin Hambaravi kliinikus Tallinnas aitame teil saada selged vastused ja individuaalse lahenduse just teie suutervisele.
@@ -54,5 +55,7 @@ Kliinikus on kasutusel digitaalne panoraamröntgen, mis võimaldab täpselt hinn
 ### Broneeri konsultatsioon juba täna
 
 Kui tunnete tarkusehammas valu, märkate põletiku märke või soovite lihtsalt teada, kas teie tarkusehambad vajavad eemaldamist – ärge oodake, kuni probleem süveneb.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Võtke ühendust Sonin Hambaravi kliinikusse Tallinnas ja broneeri konsultatsioon dr Dmitri Soniniga.** Meie meeskond on valmis teid aitama ning leidma just teie jaoks parima ja valutuma lahenduse. Teie suutervis on meie missioon.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
 tags: ['Hammasproteesit', 'proteesien hoito', 'hammastenkorjaus', 'proteesien sopeutuminen', 'hammasproteesien hinta']
 ---
+
 ## Hammasproteesit Tallinnassa – tri Dmitri Soninin asiantuntemus käytössäsi
 
 Hammasproteesit ovat modernin hammaslääketieteen keskeinen ratkaisu silloin, kun yksi tai useampi hammas on menetetty. Ne palauttavat pureskelutoiminnon, parantavat puhetta ja tuovat takaisin luontevan hymyn. Sonin Hambaravi -klinikalla Tallinnassa tarjoamme potilaillemme kattavan valikoiman proteesiratkaisuja yksilöllisten tarpeiden mukaan.
@@ -68,5 +69,7 @@ Hyvin hoidettu proteesi kestää useita vuosia. Tärkeimmät hoito-ohjeet ovat:
 ### Varaa konsultaatio Sonin Hambaraviin
 
 Hammasproteesit ovat merkittävä investointi elämänlaatuusi – ja oikean valinnan tekeminen vaatii asiantuntevaa ohjausta. Tri Dmitri Sonin ja Sonin Hambaravi -klinikan ammattitaitoinen tiimi Tallinnassa ovat valmiita auttamaan sinua kaikissa protetiikkaan liittyvissä kysymyksissä.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa konsultaatioaika jo tänään** – otamme sinut lämpimästi vastaan ja etsimme yhdessä parhaan ratkaisun hymysi palauttamiseksi.

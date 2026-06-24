@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['implantti heiluu', 'implantin kipu', 'irtonainen implantti', 'implantin hoito', 'hampaan ongelmat']
 heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
+
 ## Implantti heiluu ja sattuu — tri Dmitri Soninin vastaukset potilaan huoleen
 
 Olet ehkä istumassa aamiaisella, kun huomaat sen: hammasimplantti tuntuu löysältä, ja sitä painaessa aristelee. Tunne on epämukava, ja mielessä herää välittömästi kysymys — onko jotain mennyt pahasti vikaan? Tri Dmitri Sonin Tallinnan Sonin Hambaravi -klinikalta kohtaa tämän tilanteen säännöllisesti, ja hänen vastauksensa on aina sama: älä odota, selvitetään asia.
@@ -68,5 +69,7 @@ Suurin osa implanttikomplikaatioista on ehkäistävissä hyvällä hoidolla ja s
 Hyvin hoidettu implantti kestää vuosikymmeniä. Mutta se vaatii, että ongelmat otetaan vakavasti ajoissa.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Epäiletkö implanttisi kuntoa?** Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa — asiantunteva tutkimus ja selkeä hoitosuunnitelma ovat aina ensimmäinen askel kohti ratkaisua.

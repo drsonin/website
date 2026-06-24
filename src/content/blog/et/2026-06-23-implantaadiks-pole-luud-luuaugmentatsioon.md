@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Siinuse tõstmine', 'Luuaugmentatsioon', 'Implantaadi ettevalmistus', 'Luurakendus', 'Hambakirurgia']
 heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
+
 ## Implantaadiks pole piisavalt luud — siinuse tõstmine ja luuaugmentatsioon dr Dmitri Sonini selgitusel
 
 Paljud patsiendid tulevad Sonin Hambaravi kliinikusse Tallinnas sooviga saada hambaimplantaat, kuid kuulevad röntgenülesvõtte järel ootamatut uudist: lõualuus ei ole piisavalt luukoe, et implantaati turvaliselt paigaldada. See ei tähenda, et implantaat on võimatu — see tähendab, et esmalt tuleb luukoe maht taastada. Õnneks on tänapäeval selleks olemas tõhusad ja hästi välja töötatud meetodid.
@@ -67,6 +68,8 @@ Siinuse tõstmine ja luuaugmentatsioon on rutiinsed protseduurid, mida tehakse k
 Dr Dmitri Sonin rõhutab: **"Puuduv luu ei tähenda, et implantaat on võimatu. See tähendab, et teeme esmalt tugeva vundamendi."**
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Soovite teada, kas Teie lõualuus on piisavalt luud implantaadiks?**
 Broneerige konsultatsioon **Sonin Hambaravi kliinikusse Tallinnas** — teeme 3D-pildistamise ja koostame Teile täpse raviplaani. Helistage meile või täitke broneerimisankeet meie veebilehel. Esimene samm parema naeratuse suunas algab alati selge infoga.

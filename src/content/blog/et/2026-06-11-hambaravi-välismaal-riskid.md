@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambaravi välismaal', 'hambaarstide riigid', 'riskid ja garantiid', 'reisihambaarsti oht', 'hambaravigarantiid']
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
+
 ## Hambaravi välismaal: riskid ja garantiid – dr Dmitri Sonini ülevaade
 
 Iga aasta reisib tuhandeid eurooplasi hambaravile välisriikidesse, et säästa ravikuludelt. Esmapilgul tunduvad numbrid ahvatlevad, kuid tegelik pilt on keerulisem. Selles artiklis vaatame faktipõhiselt, millised kulud ja riskid kaasnevad hambaraviga välismaal ning mida tasuks teada enne otsuse langetamist.
@@ -79,5 +80,7 @@ Numbrid kõnelevad ise. Lõplik valik sõltub teie konkreetsest olukorrast, terv
 ### Broneeri konsultatsioon Sonin Hambaravis
 
 Kui soovite saada selget ülevaadet oma ravivajadustest, kuludest ja võimalikest alternatiividest, kutsub dr Dmitri Sonin teid konsultatsioonile **Sonin Hambaravi kliinikusse Tallinnas**. Konsultatsiooni käigus vaatame üle teie hammaste seisundi, koostame individuaalse raviplaani ja vastame kõigile küsimustele – ilma kohustuseta.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Broneeri aeg:** [soninhambaravi.ee](https://soninhambaravi.ee)

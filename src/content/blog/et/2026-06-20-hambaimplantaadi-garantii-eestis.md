@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hambaimplantaadi garantii', 'implantaadi garantiid', 'hambaravitöö garantia', 'implantaadi kaitse', 'garantii tingimused']
 heroImage: '/blog-images/2026-06-20-dental-implant-guarantee-estonia.webp'
 ---
+
 ## Hambaimplantaadi garantii Eestis — mida teada | dr Dmitri Sonin selgitab
 
 Hambaimplantaat on pikaajaline investeering oma tervise ja naeratuse heaks. Üks küsimus, mida patsiendid küsivad kõige sagedamini, on: **milline on hambaimplantaadi garantii ja mida see tegelikult katab?** Sonin Hambaravi kliinikus Tallinnas oleme kogunud aastaid kogemusi implantaatide paigaldamisel ning soovime anda selge ülevaate sellest, mida peaksite garantii kohta teadma enne ravi alustamist.
@@ -72,5 +73,7 @@ Kui tunnete valu, liikuvust implantaadi piirkonnas, igemete paistetust või muid
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui kaalute hambaimplantaati ja soovite selget, ausat ning professionaalset nõu, kutsume teid konsultatsioonile **Sonin Hambaravi kliinikusse Tallinnas**. dr Dmitri Sonin ja meie meeskond selgitavad teile kõiki garantiitingimusi, hindavad teie suuõõne seisundit ning koostame teile personaalse raviplani.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📞 **Helistage meile või broneerige aeg meie kodulehe kaudu** — teie naeratus väärib parimat hoolt.

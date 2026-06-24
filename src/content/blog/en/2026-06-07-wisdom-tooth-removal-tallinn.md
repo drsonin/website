@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['wisdom tooth removal', 'tooth extraction', 'dental surgery', 'Tallinn dentistry', 'oral health']
 heroImage: '/blog-images/2026-06-07-wisdom-tooth-removal-tallinn.webp'
 ---
+
+
 ## Wisdom Tooth Removal in Tallinn: Expert Care by Dr Dmitri Sonin
 
-If you've been experiencing jaw pain, swelling at the back of your mouth, or discomfort when chewing, your wisdom teeth may be the culprit. Wisdom tooth removal is one of the most common dental procedures performed in Tallinn — and choosing the right specialist makes all the difference. At Sonin Hambaravi, we combine clinical expertise with a patient-centred approach to make the process as smooth and stress-free as possible.
+If you've been experiencing jaw pain, swelling at the back of your mouth, or discomfort when chewing, your wisdom teeth may be the culprit. Wisdom tooth removal is one of the most common dental procedures performed in Tallinn — and choosing the right specialist makes all the difference. At Sonin Dental Clinic, we combine clinical expertise with a patient-centred approach to make the process as smooth and stress-free as possible.
 
 ### What Are Wisdom Teeth and Why Do They Cause Problems?
 
@@ -68,5 +70,7 @@ Sonin Hambaravi is a trusted dental clinic in Tallinn with a strong reputation f
 We understand that the idea of wisdom tooth removal can feel daunting. Our goal is to make the experience as comfortable and straightforward as possible, from your first appointment through to full recovery.
 
 ### Book Your Consultation Today
+
+[Book a consultation](/en/contact/)
 
 Don't let wisdom tooth pain disrupt your daily life. Contact **Sonin Hambaravi dental clinic** in Tallinn to schedule your consultation and find out whether wisdom tooth removal is the right solution for you. Our friendly team is ready to answer your questions and help you take the first step towards lasting relief.

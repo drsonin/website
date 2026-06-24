@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hammaste kaotus', 'Proteesid ja implantaadid', 'Hambaravisolu', 'Suu tervishoid', 'Hambavigastuse ravi']
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
+
 ## Hambad puuduvad täielikult — kust alustada ravi? Dr Dmitri Sonin selgitab samm-sammult
 
 Paljud inimesed, kes on kaotanud kõik hambad, tunnevad end nõutuna ja ei tea, kust alustada. Mõni on aastaid hakkama saanud ilma hammasteta, süüa vaid pehmeid toite ja hoidnud naeratuse peidus. Kui olete selles olukorras, siis teadke — teil on täna rohkem võimalusi kui kunagi varem, ja ravi alustamine on lihtsam, kui arvataks.
@@ -69,5 +70,7 @@ Isegi ilma ägedate sümptomiteta soovitab **Dmitri Sonin** mitte oodata kauem k
 ---
 
 **Ärge lükake otsust edasi.** Täieliku hammaste kaotus on pöördepunkt, mis mõjutab teie toitumist, kõnet, enesetunnet ja üldist tervist. **Dr Dmitri Sonin** ja Sonin Hambaravi meeskond Tallinnas on valmis teid aitama — alates esimesest konsultatsioonist kuni lõpliku tulemuseni.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📍 **Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas** — helistage meile, kirjutage või täitke broneerimisankeet kodulehel. Esimene samm on kõige olulisem.

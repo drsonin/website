@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hampaaton hoito', 'proteesit', 'suuhygienia', 'hammashoidon aloitus', 'väliaikaiset ratkaisut']
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
+
 ## Ei yhtään hammasta – mistä aloitetaan hoito? Tri Dmitri Soninin vastaukset potilaille
 
 Vastaanotolleni tulee ajoittain potilaita, joilla ei ole jäljellä yhtään omaa hammasta — tai joilla tilanne on edennyt niin pitkälle, että jäljellä olevat hampaat on poistettava. Monelle se tuntuu ahdistavalta ja jopa häpeälliseltä, minkä vuoksi hoitoon hakeudutaan liian myöhään. Hyvä uutinen on tämä: täydellinen hampaattomuus on täysin hoidettavissa, ja nykyiset menetelmät antavat mahdollisuuden saada toimivat ja esteettiset hampaat takaisin.
@@ -78,5 +79,7 @@ Tri Dmitri Sonin muistuttaa, että hoitoon hakeutumiseen ei koskaan ole liian my
 ---
 
 **Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa**
+
+[Varaa konsultaatio](/fi/contact/)
 
 Jos sinulla ei ole yhtään hammasta tai tilanne on pitkään ollut hoitamatta, ota ensimmäinen askel tänään. Sonin Hambaravi -klinikalla Tallinnassa teemme kattavan alkuarvion ja laadimme sinulle selkeän, realistisen hoitosuunnitelman. Ota yhteyttä ja varaa aika — hampaat takaisin, elämänlaatu paremmaksi.

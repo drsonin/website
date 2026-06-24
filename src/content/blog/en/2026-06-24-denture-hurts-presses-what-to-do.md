@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['removable denture', 'denture pain', 'dental prosthetics Tallinn', 'denture adjustment', 'dentist Tallinn']
 heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
+
+
 ## Removable Denture Hurts and Presses — What to Do in Tallinn: Advice from Dr Dmitri Sonin
 
-You put in your new denture in the morning, and by lunchtime your gum is already sore and red. Sound familiar? You're not alone — pressure pain and irritation from removable dentures is one of the most common complaints Dr Dmitri Sonin hears at Sonin Hambaravi clinic in Tallinn. The good news: in most cases, the problem has a clear cause and a straightforward solution.
+You put in your new denture in the morning, and by lunchtime your gum is already sore and red. Sound familiar? You're not alone — pressure pain and irritation from removable dentures is one of the most common complaints Dr Dmitri Sonin hears at Sonin Dental Clinic clinic in Tallinn. The good news: in most cases, the problem has a clear cause and a straightforward solution.
 
 ---
 
@@ -60,5 +62,7 @@ Dr Dmitri Sonin recommends treating denture adjustments not as a sign that somet
 A well-fitting denture should feel comfortable for 6–8 hours of daily wear. If it doesn't, that's a clinical problem worth solving — not something to endure in silence.
 
 ---
+
+[Book a consultation](/en/contact/)
 
 **Ready to stop the pain?** Book a denture adjustment consultation at **Sonin Hambaravi** in Tallinn — we will identify the pressure point, make the correction, and have you comfortable again in a single visit. Call us or fill in the appointment form on our website. Your gums will thank you.

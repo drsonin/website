@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['gum disease treatment', 'periodontal care', 'tooth health', 'dental hygiene', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-06-gum-disease-treatment-tallinn.webp'
 ---
+
+
 ## Gum Disease Treatment in Tallinn: Expert Care from Dr Dmitri Sonin
 
-Healthy gums are the foundation of a healthy smile. Yet gum disease — also known as periodontal disease — is one of the most common dental conditions affecting adults worldwide. If you have noticed bleeding gums, persistent bad breath, or teeth that feel loose, you may be dealing with gum disease and should seek professional care promptly. At Sonin Hambaravi dental clinic in Tallinn, patients receive expert, compassionate treatment tailored to their individual needs.
+Healthy gums are the foundation of a healthy smile. Yet gum disease — also known as periodontal disease — is one of the most common dental conditions affecting adults worldwide. If you have noticed bleeding gums, persistent bad breath, or teeth that feel loose, you may be dealing with gum disease and should seek professional care promptly. At Sonin Dental Clinic dental clinic in Tallinn, patients receive expert, compassionate treatment tailored to their individual needs.
 
 ### What Is Gum Disease and Why Does It Matter?
 
@@ -57,5 +59,7 @@ The clinic operates in the heart of Tallinn, making it convenient for both local
 ### Take the First Step Towards Healthier Gums
 
 Gum disease will not improve on its own — but with the right professional care, it can be successfully managed and treated. Whether you are experiencing early symptoms or have been struggling with a more advanced condition, the team at Sonin Hambaravi is here to help.
+
+[Book a consultation](/en/contact/)
 
 **Book your consultation at Sonin Hambaravi dental clinic in Tallinn today** and take the first step towards healthier gums and a stronger, more confident smile. Contact us through our website or call the clinic directly to arrange your appointment.

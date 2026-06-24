@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hambavinerid', 'hambavalgendus', 'hambakosmetoloogia', 'namusteadus']
 heroImage: '/blog-images/2026-06-03-dental-veneers-tallinn.webp'
 ---
+
 ## Hambavinerid – Kaunis Naeratus dr Dmitri Soniniga Sonin Hambaravi Kliinikus
 
 Kas olete kunagi unistanud täiuslikust naeratusest, mis jätab meeldiva mulje nii tööintervjuul kui ka pidulikul üritusel? Hambavinerid on tänapäevase esteetilise hambaravi üks populaarsemaid lahendusi, mis aitab saavutada seda tulemust kiiresti ja minimaalse ebamugavusega.
@@ -65,5 +66,7 @@ Portselanvinerid on plekikindlad, kuid komposiitmaterjalist vinerid võivad aja 
 Esteetiline hambaravi nõuab täpsust, kogemust ja esteetilist tunnetust. Dr Dmitri Sonin on spetsialiseerunud naeratuse disainile ning tema lähenemine ühendab kaasaegse tehnoloogia ja individuaalse tähelepanu igale patsiendile. Kliiniku meeskond tagab, et iga patsiendi tulemus on loomulik, harmooniline ja pikaajaline.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Soovite teada, kas hambavinerid sobivad just teile?** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna. Meie meeskond on valmis vastama kõigile teie küsimustele ning aitab teil astuda esimese sammu unistuste naeratuse suunas.

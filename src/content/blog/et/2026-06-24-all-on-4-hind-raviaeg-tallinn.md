@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['All-on-4 hind', 'All-on-4 raviaeg', 'Hambasiirdid Tallinnas', 'Implantoloogia hind', 'Hambaarsti teenused']
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
+
 ## All-on-4 hind ja raviaeg Tallinnas — täielik juhend dr Dmitri Soninilt
 
 Paljud patsiendid jõuavad Sonin Hambaravi kliinikusse küsimusega, mida nad on pikalt endamisi kaalunud: "Kui palju maksab All-on-4 ja kui kaua see kõik aega võtab?" Sageli on tegu inimesega, kes on aastaid kandnud eemaldatavat proteesi, tundnud ebamugavust söömisel või lihtsalt kaotanud enesekindluse oma naeratuse suhtes. See juhend annab ausad vastused — ilma ilustamiseta.
@@ -83,5 +84,7 @@ Dr Dmitri Sonin rõhutab, et hea tulemus algab ausast ja põhjalikust konsultats
 
 **Soovite teada, kas All-on-4 sobib just teile?**
 Broneerige konsultatsioon Sonin Hambaravi kliinikusse Tallinnas — saate 3D-analüüsi, individuaalse raviplaani ja selge ülevaate kõigist kuludest. Esimene samm on alati kõige tähtsam.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 👉 **Broneeri aeg: [sonihambaravi.ee](https://sonihambaravi.ee)**

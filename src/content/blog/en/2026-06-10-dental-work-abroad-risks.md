@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental tourism risks', 'medical guarantees abroad', 'treatment complications', 'international dentistry', 'follow-up care']
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
+
+
 ## Dental Work Abroad: Risks, Guarantees and the Real Numbers — An Analysis by Dr Dmitri Sonin
 
 Every year, thousands of patients across Northern Europe weigh the idea of combining a holiday with dental treatment. The math appears straightforward at first glance: lower prices abroad, sunshine included. But the full financial picture is rarely that simple. Below is a factual cost breakdown and a clear-eyed look at what guarantees actually mean in practice.
@@ -17,7 +19,7 @@ Every year, thousands of patients across Northern Europe weigh the idea of combi
 
 For one of the most common procedures — a single dental implant with a ceramic crown — published prices vary significantly by location:
 
-- **Tallinn (Sonin Hambaravi clinic):** approximately **1,200–1,800 €** per tooth
+- **Tallinn (Sonin Dental Clinic clinic):** approximately **1,200–1,800 €** per tooth
 - **Antalya or Istanbul, Turkey:** approximately **500–800 €** per tooth
 
 On a single implant, the apparent saving is roughly **700–1,000 €**. On paper, this looks compelling.
@@ -87,5 +89,7 @@ As Dr Dmitri Sonin advises patients who raise this question directly: *start wit
 A complete picture is always a better basis for a financial decision than a headline price.
 
 ---
+
+[Book a consultation](/en/contact/)
 
 **To receive a detailed treatment plan and cost estimate, book a consultation at Sonin Hambaravi dental clinic in Tallinn.** Appointments can be arranged through the clinic's website or by phone. The first step is simply getting accurate information specific to your situation.

@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['All-on-4 pricing', 'Dental tourism', 'Tallinn dentistry', 'Stockholm costs', 'Nordic comparison']
 heroImage: '/blog-images/2026-06-18-all-on-4-tallinn-vs-stockholm.webp'
 ---
+
+
 ## All-on-4 Tallinn vs Stockholm Price Comparison – Insights from Dr Dmitri Sonin
 
 If you are considering full-arch dental implants and wondering whether it makes financial sense to travel to Estonia for treatment, you are not alone. Every year, hundreds of Scandinavian patients make the short trip to Tallinn to access world-class dental care at a fraction of the price they would pay at home. Below, Dr Dmitri Sonin breaks down the real costs involved and explains why Tallinn has become one of Europe's most popular destinations for All-on-4 treatment.
@@ -21,7 +23,7 @@ In Stockholm, the cost of All-on-4 treatment for a single jaw typically ranges b
 
 ### All-on-4 Prices in Tallinn
 
-At Sonin Hambaravi clinic in Tallinn, All-on-4 treatment for a single jaw is available from approximately **€7,000 to €11,000**, depending on the chosen implant system and prosthetic material. Full-mouth treatment for both arches typically falls in the range of **€13,000–€20,000** — representing a saving of up to **60% compared to Stockholm prices**.
+At Sonin Dental Clinic clinic in Tallinn, All-on-4 treatment for a single jaw is available from approximately **€7,000 to €11,000**, depending on the chosen implant system and prosthetic material. Full-mouth treatment for both arches typically falls in the range of **€13,000–€20,000** — representing a saving of up to **60% compared to Stockholm prices**.
 
 Dmitri Sonin emphasises that lower cost does not mean lower standards. The clinic uses leading implant systems from trusted manufacturers, applies the same clinical protocols used across top European practices, and works with highly trained specialists who hold internationally recognised qualifications.
 
@@ -52,5 +54,7 @@ Patient reviews consistently highlight not only the clinical results but also th
 ### Book Your Consultation in Tallinn
 
 If you are ready to explore whether All-on-4 is the right solution for you, we warmly invite you to book a consultation at Sonin Hambaravi clinic in Tallinn. Our team will assess your suitability for treatment, provide a detailed cost estimate, and answer every question you may have — with no pressure and no obligation.
+
+[Book a consultation](/en/contact/)
 
 Contact us today to take the first step towards a confident, permanent smile at a price that makes sense.

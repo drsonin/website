@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambaarsti fobia', 'hambaarsti hirm', 'foobia ravi', 'hambaarstiabi hirm', 'seadmine hambaarsti juurde']
 heroImage: '/blog-images/2026-06-14-dental-anxiety-tallinn.webp'
 ---
+
 ## Hirm Hambaarsti Ees: Dr Dmitri Sonin Selgitab, Kuidas Hambaarstikartusest Üle Saada
 
 Hambaarstikartus on palju levinum, kui arvata oskame. Uuringud näitavad, et ligi 15–20% täiskasvanutest väldib hambaarsti külastamist just hirmu tõttu. See tähendab, et paljud inimesed kannatavad hambavalu või halva suuhügieeniga aastaid, enne kui nad lõpuks abi otsivad — ja siis on probleemid sageli juba palju suuremad. Sonin Hambaravi kliinikus Tallinnas oleme korduvalt näinud, kuidas õigeaegne ja pingevaba ravi muudab patsientide elu.
@@ -51,5 +52,7 @@ Kui teate, et hambaarstikartus on teie jaoks reaalne takistus, proovige neid lih
 Dr Dmitri Sonin soovitab oma patsientidele alati: "Esimene samm on kõige raskem. Kui olete korra kliinikusse tulnud ja näinud, et see ei olnud nii hull kui kardetud, muutub iga järgmine kord lihtsamaks."
 
 ### Broneeri Konsultatsioon Sonin Hambaravi Kliinikus Tallinnas
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Kui hirm on seni takistanud teid vajaliku hambararavi saamist, on nüüd õige aeg astuda esimene samm. Sonin Hambaravi kliinikus Tallinnas ootab teid mõistev ja professionaalne meeskond, kes on valmis teie muredega tegelema ilma kiirustamise ja hukka mõistmiseta. Broneeri konsultatsioon juba täna — teie naeratus väärib parimat hoolt.

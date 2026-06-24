@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammashoitomatkailu', 'Turkki', 'Tallinna', 'hammashoito ulkomailla', 'kustannusvertailu']
 heroImage: '/blog-images/2026-06-09-dental-implants-turkey-vs-tallinn.webp'
 ---
+
 ## Hammashoitomatkailu Turkki vai Tallinna? – Tri Dmitri Soninin näkökulma todellisiin kustannuksiin
 
 Hammashoitomatkailu on kasvanut merkittävästi viime vuosina. Suomalaiset etsivät edullisempia vaihtoehtoja erityisesti hammasimplanteille ja kruunuille, ja kaksi suosituinta kohdetta ovat Turkki ja Tallinna. Mutta kuinka paljon eroa kustannuksissa todella on, kun kaikki kulut lasketaan yhteen?
@@ -82,6 +83,8 @@ Luvut ovat suuntaa-antavia, ja yksilölliset tilanteet vaihtelevat.
 ### Varaa konsultaatio Tallinnassa
 
 Jos harkitset implantti- tai muuta hammashoitoa ja haluat selkeän arvion omasta tilanteestasi, voit varata konsultaatioajan Sonin Hambaravi -klinikalle Tallinnaan. Tri Dmitri Sonin ja tiimi käyvät kanssasi läpi hoitosuunnitelman, kustannukset ja aikataulun – ilman sitoumuksia.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Sonin Hambaravi | Tallinna**
 Varaa aika: [www.sonin.ee](http://www.sonin.ee)

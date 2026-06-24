@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Professionaalne suuhügieen', 'hambaplaaki eemaldamine', 'hambapesu õigesti', 'hambakivi puhastus', 'hambatest hoolitsemine']
 heroImage: '/blog-images/2026-06-13-professional-teeth-cleaning-estonia.webp'
 ---
+
 ## Professionaalne suuhügieen dr Dmitri Soniniga: terve suu alus
 
 Professionaalne suuhügieen on üks olulisemaid samme, mida saate oma hammaste ja igemete tervise tagamiseks astuda. Kuigi igapäevane harjamine ja hambaniidi kasutamine on hädavajalikud, ei asenda need professionaalset suuhügieeni protseduuri, mida teostab koolitatud hambaarst. Sonin Hambaravi kliinikus Tallinnas on professionaalne suuhügieen iga patsiendi ravi lahutamatu osa.
@@ -57,5 +58,7 @@ Suutervis on tihedalt seotud üldise tervisega ning investeering professionaalse
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui soovite alustada oma suutervisesse investeerimist või on teie viimane professionaalne suuhügieenivisiit jäänud kaugemasse minevikku, on just nüüd õige aeg tegutseda. **Sonin Hambaravi kliinikus Tallinnas** ootab teid dr Dmitri Sonin ja tema meeskond, et pakkuda personaalset ja hoolivat hambaarsti abi.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Broneerige oma konsultatsioon juba täna – teie naeratus väärib parimat hoolt!

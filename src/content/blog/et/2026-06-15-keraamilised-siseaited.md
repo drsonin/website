@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['keraamilised sisetäited', 'hambatäited', 'keraamiline restauratsioon', 'hambaterapia', 'otse sisetäited']
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
+
 ## Keraamilised sisetäited – dr Dmitri Sonini selgitus kaasaegsest hambarestaurationist
 
 Keraamilised sisetäited on tänapäevase hambaravi ühed hinnatumad lahendused, kui tegemist on keskmise suurusega hambapurunemiste või vana täidise asendamise vajadusega. Need ühendavad endas nii esteetilise ilu kui ka pikaajalise vastupidavuse – omadused, mida patsiendid hambaravis enim hindavad.
@@ -55,5 +56,7 @@ Dmitri Sonin rõhutab, et keraamiline sisetäide ei vaja mingit eriomahooldust �
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus Tallinnas
 
 Kui soovid teada saada, kas keraamiline sisetäide sobib just sinu hambale, tutvu meie meeskonnaga ja broneeri konsultatsioon **Sonin Hambaravi kliinikus Tallinnas**. Dr Dmitri Sonin ja meie hambaarstide meeskond hindavad sinu olukorra põhjalikult ning pakuvad individuaalse raviplaani, mis arvestab nii sinu tervise kui esteetiliste eelistustega.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Võta meiega ühendust juba täna – terve ja kaunis naeratus algab õigest otsusest.

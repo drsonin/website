@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['irrotettava proteesi', 'proteesi kipu', 'hammasproteesi Tallinna', 'protetiikka', 'hammashoito Tallinna']
 heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
+
 ## Irrotettava proteesi painaa ja sattuu – syy ja ratkaisu | Tri Dmitri Sonin selittää
 
 Moni proteesin käyttäjä tunnistaa tilanteen: aamulla proteesi istui kohtalaisesti, mutta iltapäivällä leuka särkee ja ien on punoittava. Tai uusi proteesi tuntui heti alusta alkaen väärältä – paine kohdistuu yhteen kohtaan eikä hellitä. Tämä on yleinen ja täysin hoidettavissa oleva ongelma, mutta se vaatii oikean diagnoosin.
@@ -66,5 +67,7 @@ Tärkeimmät ennaltaehkäisyn periaatteet:
 - Kerro lääkärille, jos paino on muuttunut merkittävästi – se vaikuttaa myös kasvojen luurakenteeseen.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Onko proteesisi alkanut painaa tai hangata?** Varaa konsultaatio Sonin Hambaravi -klinikalle Tallinnassa. Arvioimme proteesin istuvuuden, ienkudoksen kunnon ja sen, mikä ratkaisu sopii juuri sinulle – korjaus, vuoraus vai uusi proteesi. Ota yhteyttä – kivun kanssa ei tarvitse elää.

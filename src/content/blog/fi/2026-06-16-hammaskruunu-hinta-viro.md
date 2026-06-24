@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammaskruunu hinta', 'Viro hammashoito', 'kruunu turvallisuus', 'ulkomailla hammashoidossa']
 heroImage: '/blog-images/2026-06-16-dental-crown-cost-estonia-finns.webp'
 ---
+
 ## Hammaskruunu hinta Virossa — onko turvallista? | Sonin Hambaravi, tri Dmitri Sonin
 
 Yhä useampi suomalainen harkitsee hammashoidon hankkimista Virosta. Erityisesti hammaskruunujen kohdalla hintaero Suomen ja Viron välillä voi olla merkittävä — jopa 50–70 prosenttia. Mutta onko hoito yhtä laadukasta? Onko se turvallista? Tässä artikkelissa käymme läpi kaiken oleellisen, mitä sinun tulee tietää ennen päätöksentekoa.
@@ -85,6 +86,8 @@ Jos etsit laadukasta hammashoitoa kohtuulliseen hintaan, Viro — ja erityisesti
 ### Varaa konsultaatio Sonin Hambaravissa
 
 Haluatko tietää, sopiiko hammaskruunu sinulle ja mitä se maksaisi? **Sonin Hambaravi** Tallinnassa ottaa sinut vastaan ammattitaidolla ja yksilöllisellä huomiolla. Varaa ilmainen alkukonsultaatio jo tänään — ota yhteyttä ja aloitetaan yhdessä matka terveempään hymyyn.
+
+[Varaa konsultaatio](/fi/contact/)
 
 📍 Sonin Hambaravi | Tallinna, Viro
 🌐 [sonin.ee](https://sonin.ee)

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hammashoito Tallinna', 'hammashoidon hinta', 'hintaero Suomi', 'hammassairaanhoito ulkomailla', 'hammasturisti Viro']
 heroImage: '/blog-images/2026-06-11-dental-tallinn-cheaper-finland.webp'
 ---
+
 ## Miksi hammashoito Tallinnassa on edullisempaa kuin Suomessa – Tri Dmitri Soninin klinikka Sonin Hambaravi
 
 Yhä useampi suomalainen harkitsee hammashoitoa ulkomailla. Hinnanerot ovat merkittäviä, ja lähimpänä vaihtoehto löytyy vain lyhyen laivamenettelyn tai lentomatkan päästä – Tallinnasta. Tässä artikkelissa käymme läpi syyt hintaeroihin sekä esitämme vertailuluvut, joiden avulla voit arvioida tilannettasi itse.
@@ -77,5 +78,7 @@ Dmitri Sonin kouluttautuu säännöllisesti alan kansainvälisissä kongresseiss
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos olet harkitsemassa implanttia, kruunua tai muuta hammashoitoa ja haluat selkeän kustannusarvion, voit varata maksuttoman konsultaation **Sonin Hambaravi** -klinikalle Tallinnaan. Tri Dmitri Sonin ja klinikan henkilökunta vastaavat kysymyksiisi suomeksi ja laativat sinulle yksilöllisen hoitosuunnitelman.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa aika:** [soninhambaravi.ee](https://soninhambaravi.ee)

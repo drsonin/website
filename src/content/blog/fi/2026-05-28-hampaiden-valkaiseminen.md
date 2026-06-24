@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 tags: ['hampaiden valkaiseminen', 'valkeat hampaat', 'hammashoito', 'kauneus', 'suun terveys']
 ---
+
 ## Hampaiden valkaiseminen – tri Dmitri Soninin asiantuntijaohjeet kirkkaisiin hampaisiin
 
 Kirkkaat, valkoiset hampaat ovat monelle tärkeä osa hyvinvointia ja itseluottamusta. Hampaiden valkaiseminen on yksi suosituimmista kosmeettisista hammashoitotoimenpiteistä, ja syystäkin – oikein toteutettuna se on turvallinen ja tehokas tapa parantaa hymysi ulkonäköä. Tässä artikkelissa kerromme, mitä hampaiden valkaiseminen tarkoittaa, millaisia vaihtoehtoja on olemassa ja mitä kannattaa ottaa huomioon ennen hoitoa.
@@ -61,5 +62,7 @@ Hampaiden valkaiseminen sopii useimmille aikuisille, joilla on terveet hampaat j
 Valkaisun tulos ei ole pysyvä, mutta se voi kestää vuosia hyvällä hammashoidolla. Kahvi, tee, viini ja tupakointi nopeuttavat hampaiden uudelleenvärjäytymistä. Säännöllinen hammaslääkärikäynti, huolellinen kotipuhdistus ja mahdollinen valkaisun ylläpitohoito pitävät hymysi kirkkaana pidempään.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 Haluatko selvittää, sopiiko hampaiden valkaiseminen sinulle? **Varaa aika Sonin Hambaravi -klinikalle Tallinnassa** ja tri Dmitri Sonin arvioi suusi tilanteen ja suosittelee parasta hoitovaihtoehtoa juuri sinulle. Ota yhteyttä – kirkas hymy on lähempänä kuin luuletkaan.

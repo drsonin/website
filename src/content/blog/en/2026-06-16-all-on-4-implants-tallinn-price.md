@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['All-on-4 implants', 'Tallinn dental costs', 'implant pricing guide', 'Estonia dentistry', 'tooth replacement']
 heroImage: '/blog-images/2026-06-16-all-on-4-implants-tallinn-price.webp'
 ---
+
+
 ## All-on-4 Dental Implants Tallinn Price Guide by Dr Dmitri Sonin
 
-If you are considering a full-arch tooth replacement and want to understand what it truly costs in Tallinn, this guide is for you. Dr Dmitri Sonin, lead implantologist at Sonin Hambaravi dental clinic, has helped hundreds of patients restore their smiles with All-on-4 implants — and transparent pricing is a cornerstone of that experience.
+If you are considering a full-arch tooth replacement and want to understand what it truly costs in Tallinn, this guide is for you. Dr Dmitri Sonin, lead implantologist at Sonin Dental Clinic dental clinic, has helped hundreds of patients restore their smiles with All-on-4 implants — and transparent pricing is a cornerstone of that experience.
 
 ### What Is the All-on-4 Implant Technique?
 
@@ -72,5 +74,7 @@ All-on-4 is recommended for patients who have lost most or all of their teeth, a
 As Dr Dmitri Sonin often explains to new patients: *"A beautiful, functional smile is one of the best investments you can make in your quality of life — and we are here to make that journey as clear and comfortable as possible."*
 
 ---
+
+[Book a consultation](/en/contact/)
 
 **Ready to take the first step?** Book a consultation at **Sonin Hambaravi dental clinic** in Tallinn today. Our team will assess your case, answer all your questions, and provide a detailed, no-obligation price estimate tailored to your needs.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Juurihoito', 'hammassärky', 'hampaan pelastus', 'pulpiitin hoito', 'hammasinfektio']
 heroImage: '/blog-images/2026-06-01-root-canal-treatment-tallinn.webp'
 ---
+
 ## Juurihoito Tallinnassa – tri Dmitri Soninin asiantuntemus Sonin Hambaravi -klinikalla
 
 Hammassärky voi olla yksi epämiellyttävimmistä kivuista, jonka ihminen voi kokea. Usein taustalla on tulehtunut tai vaurioitunut hampaan ydin, jolloin juurihoito on tehokkain keino pelastaa hammas ja lievittää kipu. Sonin Hambaravi -klinikalla Tallinnassa tarjoamme modernin juurihoidon, joka on sekä turvallinen että mahdollisimman kivuton.
@@ -69,6 +70,8 @@ Hoidon jälkeen on tärkeää:
 Tri Dmitri Sonin on kokenut hammaslääkäri, joka on erikoistunut vaativiin hammaslääketieteellisiin toimenpiteisiin. Klinikka sijaitsee keskeisellä paikalla Tallinnassa ja palvelee myös suomalaisia potilaita, jotka hakevat laadukasta ja kohtuuhintaista hammashoitoa Virosta. Klinikalla panostetaan potilaslähtöiseen lähestymistapaan, jossa jokainen hoidetaan yksilöllisesti ja huolella.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa konsultaatio tänään!**
 Jos sinulla on hammassärkyä, epäilet juurihoidon tarvetta tai haluat asiantuntevan arvion hampaasi kunnosta, ota yhteyttä Sonin Hambaravi -klinikalle Tallinnassa. Ammattitaitoinen tiimimme on valmis auttamaan sinua – nopea yhteydenotto voi pelastaa hampaasi ja säästää sinut turhalta kivulta.

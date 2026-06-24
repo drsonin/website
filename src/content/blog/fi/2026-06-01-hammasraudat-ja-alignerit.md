@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammasraudat', 'invisalign-alignerit', 'hampaiden oikaisu', 'ortodontia', 'suoristushoito']
 heroImage: '/blog-images/2026-06-01-braces-aligners-estonia.webp'
 ---
+
 ## Hammasraudat vai alignerit? Tri Dmitri Soninin opas oikeaan hoitovalintaan
 
 Kaunis ja terve hymy on monelle tärkeä tavoite, ja nykyaikaiset oikomishoidon menetelmät tekevät sen saavuttamisesta helpompaa kuin koskaan. Hammasraudat ja kirkkaat alignerit ovat kaksi suosituinta tapaa oikaista hampaat – mutta kumpi sopii sinulle? Tässä artikkelissa käymme läpi molempien hoitomuotojen hyödyt, haitat ja soveltuvuuden eri tilanteisiin.
@@ -63,5 +64,7 @@ Tärkeintä on muistaa, että oikomishoito on pitkäaikainen investointi terveyt
 ### Varaa konsultaatio Sonin Hambaravilla
 
 Oletko valmis ottamaan ensimmäisen askeleen kohti kaunista hymyä? Tri Dmitri Sonin ja Sonin Hambaravi -klinikan ammattitaitoinen tiimi Tallinnassa ovat valmiita auttamaan sinua löytämään juuri sinulle sopivimman oikomishoitoratkaisun.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa konsultaatioaikasi jo tänään** – ota yhteyttä Sonin Hambaraviin ja ota ensimmäinen askel kohti terveempää, kauniimpaa hymyä. Klinikal la panostetaan yksilölliseen palveluun, ja jokainen potilas saa räätälöidyn hoitosuunnitelman omat tarpeet huomioiden.

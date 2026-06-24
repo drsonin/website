@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['All-on-4 implantaadid', 'hambaimplantaadid Tallinnas', 'implantaadi hind', 'hambaimplantaadi tulemus', 'iluhambakirurgia']
 heroImage: '/blog-images/2026-06-19-all-on-4-full-guide-tallinn.webp'
 ---
+
 ## All-on-4 hambaimplantaadid Tallinnas — hind ja tulemus | dr Dmitri Sonin selgitab
 
 Kui olete kaotanud enamiku oma hammastest või kannatate eemaldatavate proteeside ebamugavuse all, võib All-on-4 implantaatide lahendus olla just see, mida otsite. Sonin Hambaravi kliinikus Tallinnas pakume seda kaasaegset ja tõestatud meetodit, mis annab patsientidele tagasi nii naeratuse kui ka enesekindluse.
@@ -57,5 +58,7 @@ Meie patsiendid tulevad nii Tallinnast, mujalt Eestist kui ka välismaalt — se
 ### Broneeri konsultatsioon juba täna
 
 Kui soovite teada saada, kas All-on-4 lahendus sobib just teile, võtke ühendust **Sonin Hambaravi** kliiniku meeskonnaga Tallinnas. Esmasel konsultatsioonil hindame teie lõualuu seisundit, vastame kõigile küsimustele ja koostame personaalse raviplaani koos täpse hinnapakkumisega.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 📞 Helistage meile või täitke broneerimisankeet meie veebilehel — esimene samm uue naeratuse suunas algab ühe kõnega.

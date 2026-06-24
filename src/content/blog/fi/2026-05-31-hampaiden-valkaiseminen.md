@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hampaiden valkaiseminen', 'valkoisia hampaita', 'hampaiston hoito', 'kotihoito', 'valkaisu-menetelmät']
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 ---
+
 ## Hampaiden valkaiseminen – Tri Dmitri Soninin asiantuntijanäkemys kirkkaampaan hymyyn
 
 Kirkas ja valkoinen hymy on monelle tärkeä osa itseluottamusta ja hyvinvointia. Hampaiden valkaiseminen on yksi suosituimmista kosmeettisen hammaslääketieteen toimenpiteistä – ja hyvästä syystä. Tallinnassa toimivan Sonin Hambaravi -klinikan johtava hammaslääkäri Dmitri Sonin auttaa päivittäin potilaita saavuttamaan turvallisesti ja tehokkaasti sen hymyn, josta he ovat haaveilleet.
@@ -55,5 +56,7 @@ Hyvä uutinen on, että jos sinulla on hampaissasi kruunuja tai laminaatteja, vo
 Valkaisutulos kestää tyypillisesti 1–3 vuotta, riippuen ruokailutottumuksista, suuhygieniasta ja elämäntavoista. Tupakoimattomuus, kahvin ja teen kohtuukäyttö sekä säännöllinen hammashuolto pidentävät selvästi tuloksen kestoa. Dmitri Sonin suosittelee ylläpitohoitona lyhyttä kotivalkaisujaksoa kerran tai kahdesti vuodessa.
 
 ### Varaa aika Sonin Hambaravi -klinikalle Tallinnassa
+
+[Varaa konsultaatio](/fi/contact/)
 
 Haluatko tietää, mikä valkaisumenetelmä sopii juuri sinulle? Varaa konsultaatioaika Sonin Hambaravi -klinikalle Tallinnassa ja anna asiantuntijoidemme arvioida tilanteesi. Ammattitaitoinen tiimimme suunnittelee sinulle yksilöllisen hoitosuunnitelman – turvallisesti, tehokkaasti ja juuri sinun toiveidesi mukaisesti. Kirkkaampi hymy voi olla lähempänä kuin luulet.

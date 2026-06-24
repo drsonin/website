@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hambaraviturismi võrdlus', 'hambaarstide hinnad', 'Türgi vs Eesti', 'hambaarsti reisid', 'odav hambahooldus']
 heroImage: '/blog-images/2026-06-08-dental-implants-turkey-vs-tallinn.webp'
 ---
+
 ## Hambaraviturismi võrdlus: Türgi vs Tallinn – dr Dmitri Sonin analüüsib tegelikke kulusid
 
 Hambaraviturismi populaarsus kasvab aasta-aastalt. Paljud patsiendid kaaluvad ravi saamist välismaal, eelkõige Türgis, lootuses säästa märkimisväärne summa. Kuid kas kokkuhoid on tegelikult nii suur, kui esmapilgul paistab? Vaatame numbreid lähemalt.
@@ -86,5 +87,7 @@ Numbrid räägivad ise. Iga patsient hindab oma prioriteete erinevalt – mõne 
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui soovite saada täpse hinnapakkumise ja isikliku raviplaani, on Dmitri Sonin valmis teid vastu võtma Tallinnas. Konsultatsiooni käigus hinnatakse teie luu seisundit, arutatakse sobivaimad materjalid ning koostatakse läbipaistev eelarve ilma varjatud kuludeta.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Broneeri aeg: [sonihambaravi.ee](https://sonihambaravi.ee)**

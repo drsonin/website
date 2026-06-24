@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambaravi välismaal', 'hambaarstide garantiid', 'välishambaravi riskid', 'hambaarsti valik', 'hambatervishoiu kindlustus']
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
+
 ## Hambaravi välismaal: riskid ja garantiid – dr Dmitri Sonini ülevaade
 
 Üha rohkem eestlasi kaalub hambaravi saamist välismaal, eriti riikides nagu Türgi, Ungari või Poola. Madalam hinnatase tundub esmapilgul ahvatlev, kuid otsuse tegemisel tasub arvestada kõigi kulude ja võimalike riskidega. Dr Dmitri Sonin on koostanud faktipõhise ülevaate, mis aitab teil teha teadliku valiku.
@@ -64,5 +65,7 @@ Enne otsuse tegemist tasub arvesse võtta:
 - Järelravi korraldamine pärast naasmist
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Soovite selgust oma hambaravivõimaluste osas?** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas – dr Dmitri Sonin hindab teie suuõõne seisundit ja koostab personaalse raviplaani koos täpse hinnakalkulatsiooniga. Konsultatsioon on kohustuseta ja annab teile kõik vajalikud andmed informeeritud otsuse tegemiseks.

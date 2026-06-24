@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Implantaadi ebaõnnestumine', 'Implantaadi juurdumise häire', 'Garantiijuhtum implantaadiga', 'Ebaõnnestunud implantaat', 'Implantaadi asendamine']
 heroImage: '/blog-images/2026-06-21-dental-implant-failure-guarantee-tallinn.webp'
 ---
+
 ## Mida teha, kui implantaat ei juurdu — garantiijuhtum dr Dmitri Sonini selgitusel
 
 Hambaimplantaadid on tänapäeva hambaravis üks usaldusväärsemaid lahendusi puuduvate hammaste asendamiseks. Enamikul juhtudel juurduvad need edukalt ja kestavad aastakümneid. Kuid mõnikord — hoolimata kõige täpsemast ettevalmistusest — võib tekkida olukord, kus implantaat ei juurdu. Mida see tähendab, millised on põhjused ja kuidas toimib garantiijuhtum? Siin annab ülevaate Sonin Hambaravi peaarst **dr Dmitri Sonin**.
@@ -74,5 +75,7 @@ Mõnikord on võimalik olukord päästa intensiivse antibiootikumravi ja profess
 Sonin Hambaravi kliiniku meeskond Tallinnas on spetsialiseerunud implantoloogiale ja kasutab ainult kõrgeima kvaliteedistandardiga implantaate. **Dmitri Sonin** ja tema meeskond tagavad patsiendile täieliku toetuse kogu ravi vältel — alates planeerimisest kuni lõpliku tulemuseni.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Kui teil on kahtlus, et teie implantaadiga ei ole kõik korras, ärge viivitage.** Broneerige konsultatsioon Sonin Hambaravi kliinikus Tallinnas juba täna — helistage meile või täitke broneeringuvorm veebilehel. Teie naeratus ja tervis on meie prioriteet.

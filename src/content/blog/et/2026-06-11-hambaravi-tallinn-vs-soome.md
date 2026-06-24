@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Hambaarstide hinnad', 'Eesti vs Soome', 'Tallinnas ravi', 'odav hambaravi', 'Soome patsientide kokkuhoid']
 heroImage: '/blog-images/2026-06-11-dental-tallinn-cheaper-finland.webp'
 ---
+
 ## Miks ravida hambaid Tallinnas odavamalt kui Soomes – dr Dmitri Sonini selgitus
 
 Üha rohkem soomlasi ja väliseestlasi otsib hambaravi välismaal. Põhjus on lihtne: hambaravi hinnad Soomes on Euroopa kõrgeimate hulgas. Tallinn asub Helsingist vaid 80 kilomeetri kaugusel ja parvlaeva sõiduajaga kättesaadav. Mida see tähendab tegelikes numbrites?
@@ -84,5 +85,7 @@ Numbrid räägivad enda eest. Iga patsient teeb oma otsuse ise, lähtudes oma pr
 ### Broneeri konsultatsioon Sonin Hambaravi kliinikus
 
 Kui soovid teada täpset hinda just sinu hambale, kutsub **dr Dmitri Sonin** sind tasuta konsultatsioonile Sonin Hambaravi kliinikusse Tallinnas. Konsultatsiooni käigus tehakse röntgenuuring, hinnatakse luu seisundit ja koostatakse individuaalne raviplaani kalkulatsioon – ilma kohustuseta.
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Broneeri aeg juba täna** – täida kontaktivorm meie kodulehel või helista kliinikusse otse. Tallinn on lähemal, kui arvad.

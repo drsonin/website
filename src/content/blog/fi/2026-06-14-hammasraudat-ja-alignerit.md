@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammasraudat', 'alignerit', 'hammaslääkäri', 'suoristushoito', 'hampaiden korjaus']
 heroImage: '/blog-images/2026-06-14-braces-aligners-estonia.webp'
 ---
+
 ## Hammasraudat ja alignerit – tri Dmitri Soninin asiantuntijanäkemys hampaiden oikomisesta
 
 Hampaiden oikominen on yksi yleisimmistä hammaslääketieteen toimenpiteistä, jota tehdään sekä lapsille, nuorille että aikuisille. Nykyään potilailla on käytettävissään useampi vaihtoehto: perinteiset hammasraudat tai modernit irrotettavat alignerit eli hammassuojat. Kummallakin menetelmällä on omat etunsa, ja oikea valinta riippuu aina yksilöllisestä tilanteesta.
@@ -57,5 +58,7 @@ Yleisohjeena voidaan sanoa:
 Oikomishoito kestää tyypillisesti yhdestä kolmeen vuotta riippuen hampaiston tilanteesta ja valitusta menetelmästä. Hoidon päätyttyä käytetään retentiosuojaa eli kiinnittäjää, joka estää hampaita palaamasta alkuperäiseen asentoonsa. Tämä vaihe on yhtä tärkeä kuin itse oikomishoito.
 
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
+
+[Varaa konsultaatio](/fi/contact/)
 
 Oletko harkinnut hampaiden oikomista mutta et tiedä, kumpi vaihtoehto sopii sinulle paremmin? Tallinnassa sijaitsevalla **Sonin Hambaravi** -klinikalla tri Dmitri Sonin ja hänen ammattitaitoinen tiiminsä ovat valmiita auttamaan sinua löytämään parhaan ratkaisun. Varaa konsultaatioaika jo tänään – ensimmäinen askel kohti kaunista ja toimivaa hampaistoa voi olla helpompi kuin ajattelenkaan.

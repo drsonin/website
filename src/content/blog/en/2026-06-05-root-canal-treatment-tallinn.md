@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['root canal treatment', 'endodontic therapy', 'dental pain relief', 'tooth infection', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
+
+
 ## Root Canal Treatment in Tallinn: What to Expect at Dr Dmitri Sonin's Clinic
 
-If the words "root canal" make you anxious, you are not alone. Many patients arrive at Sonin Hambaravi with a mixture of worry and relief — relief that they have finally decided to address the problem. The good news is that modern root canal treatment is far more comfortable than its reputation suggests, and in the right hands, it can save a tooth that might otherwise be lost.
+If the words "root canal" make you anxious, you are not alone. Many patients arrive at Sonin Dental Clinic with a mixture of worry and relief — relief that they have finally decided to address the problem. The good news is that modern root canal treatment is far more comfortable than its reputation suggests, and in the right hands, it can save a tooth that might otherwise be lost.
 
 ### What Is Root Canal Treatment and Why Might You Need It?
 
@@ -61,5 +63,7 @@ Tallinn has many dental clinics, but not all offer the same level of specialist 
 A successfully treated tooth can last a lifetime with proper care. Root canal treatment preserves your natural tooth, maintains the integrity of your bite, and avoids the more significant interventions that come with extraction and replacement. It is, in almost every case, the preferred option when a tooth can still be saved.
 
 ---
+
+[Book a consultation](/en/contact/)
 
 **Ready to take the next step?** Book a consultation at Sonin Hambaravi dental clinic in Tallinn and find out whether root canal treatment is the right solution for you. Our team is here to help you move from pain to peace of mind — comfortably and professionally.

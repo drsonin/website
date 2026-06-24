@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Zirkonkruunu', 'Metallokeramiikkakruunu', 'Hammasproteesi valinta', 'Kruununmateriaalit', 'Hammaskruunun valinta']
 heroImage: '/blog-images/2026-06-23-zirconia-vs-metal-ceramic-crown.webp'
 ---
+
 ## Zirkooni- vai metallokeramiikkakruunu — kumpi valita? Tri Dmitri Soninin vastaus
 
 Moni potilas istuu hammastuolissa ja kuulee ensimmäistä kertaa sanat "zirkooni" ja "metallokeramiikka" — ja jää heti miettimään, mitä eroa niillä oikeasti on. Kumpi kestää paremmin? Kumpi näyttää luonnollisemmalta? Ja mikä ehkä ratkaisevinta: kumpi sopii juuri minulle? Tässä artikkelissa Sonin Hambaravi -klinikan hammaslääkäri tri Dmitri Sonin selittää selkokielellä, mitä nämä kaksi vaihtoehtoa todella tarkoittavat käytännössä.
@@ -72,5 +73,7 @@ Dmitri Sonin muistuttaa, että kruunuvalinta ei ole koskaan pelkästään materi
 **Haluatko tietää, kumpi materiaali sopii sinulle?**
 
 Varaa konsultaatio tri Dmitri Soninille Sonin Hambaravi -klinikalle Tallinnassa. Teemme yhdessä perusteellisen tutkimuksen, käymme läpi vaihtoehtosi ja löydämme ratkaisun, joka palvelee hampaistasi juuri sinua — esteettisesti, toiminnallisesti ja pitkäkestoisesti.
+
+[Varaa konsultaatio](/fi/contact/)
 
 📍 **Sonin Hambaravi, Tallinn** — varaa aikasi tänään.

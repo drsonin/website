@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['Eemaldatav protees', 'hambaprotees', 'kunstlikud hambad', 'proteesi hooldustooted', 'proteesi paigaldamine']
 heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
+
 ## Eemaldatav protees surub ja valutab — miks ja mida teha | dr Dmitri Sonin selgitab
 
 Olete saanud uue eemaldatava proteesi või kandnud vana juba aastaid — ja äkki hakkab see suruma, tekitab haavandeid või muutub lihtsalt talumatuks. See on üks levinumaid kaebusi, millega patsiendid Sonin Hambaravi kliinikusse Tallinnas pöörduvad. Hea uudis: enamasti on lahendus olemas ja probleemi saab kiiresti lahendada.
@@ -69,5 +70,7 @@ Eemaldatav protees ei ole "üks kord tehtud, alati hea" lahendus. Dr Dmitri Soni
 - **Hoidke proteesi vees** (puhtas, toatemperatuuril), kui te seda ei kanna — kuivus deformeerib materjali.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Kui teie protees surub, valutab või ei istu enam korralikult — ärge leppige sellega. Sonin Hambaravi kliinikus Tallinnas aitame hinnata proteesi seisukorda, teha vajalikud kohandused ja leida lahenduse, mis sobib just teie suule. **Broneeri konsultatsioon juba täna** — kiire korrektuur võib säästa teid nädalatepikkusest ebamugavusest.

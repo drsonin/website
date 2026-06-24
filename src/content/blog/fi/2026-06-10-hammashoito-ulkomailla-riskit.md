@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammashoito ulkomailla', 'hammaslääkärin takuut', 'hoitoriskit', 'hammasturismo', 'jatkohoito']
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
+
 ## Hammashoito ulkomailla: riskit ja takuut – tri Dmitri Soninin näkökulma
 
 Yhä useampi suomalainen harkitsee hammashoitoa ulkomailla. Hinta on usein tärkein peruste: erityisesti Turkki houkuttelee edullisilla tarjouksillaan. Ennen päätöstä kannattaa kuitenkin tarkastella kokonaiskustannuksia ja niihin liittyviä riskejä huolellisesti.
@@ -70,5 +71,7 @@ Potilaan kannattaa vertailla:
 ### Varaa konsultaatio Tallinnassa
 
 Tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat maksuttoman alkukonsultaation, jossa käydään läpi hoitovaihtoehdot, kustannukset ja aikataulu. Tallinna on saavutettavissa laivalla Helsingistä muutamassa tunnissa, ja useimmat hoidot voidaan suunnitella päiväkäynteinä.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Varaa aikasi osoitteessa sonin.ee tai soita klinikalle suoraan.** Saat kirjalliset tarjoukset, selkeät takuuehdot ja henkilökohtaisen hoitosuunnitelman – ennen kuin teet mitään päätöksiä.

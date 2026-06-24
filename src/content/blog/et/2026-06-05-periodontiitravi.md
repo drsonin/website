@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['periodontiitravi', 'hambahaigused', 'igemete ravi', 'hambapesa infektsioon']
 heroImage: '/blog-images/2026-06-05-gum-disease-treatment-tallinn.webp'
 ---
+
 ## Periodontiitravi Tallinnas – dr Dmitri Sonin aitab säästa teie hambaid ja igemeid
 
 Periodontiit on üks levinumaid suuõõnehaigusi täiskasvanute seas ning kahjuks jääb see sageli liiga kauaks märkamatuks. Haigus algab vaikselt – igemepõletikuna ehk gingiviidina – ning progresseerudes hävitab see lõualuud ja hambaid toetavat kude. Õigeaegne periodontiitravi on aga võimalik ning Sonin Hambaravi kliinikus Tallinnas lähenevad asjatundjad igale patsiendile individuaalselt ja kaasaegse meditsiini põhimõtteid järgides.
@@ -57,5 +58,7 @@ Sonin Hambaravi kliinikus Tallinnas ühendatakse kaasaegne hambaravi tehnoloogia
 Periodontiit on ravitav haigus – eriti siis, kui sellega tegeletakse õigeaegselt. Ärge oodake, kuni olukord muutub keerulisemaks.
 
 ---
+
+[Broneeri konsultatsioon](/et/contact/)
 
 **Broneerige konsultatsioon juba täna!** Võtke ühendust Sonin Hambaravi kliiniku meeskonnaga Tallinnas ning alustage teed tervemate igeme ja hammaste suunas. Meie spetsialistid hindavad teie suuõõne seisundit, selgitavad välja sobivad ravivõimalused ja vastava teie kõikidele küsimustele. Teie naeratus on meie prioriteet.

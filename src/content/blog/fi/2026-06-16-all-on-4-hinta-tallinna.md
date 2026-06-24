@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['All-on-4 implantit', 'hammasimplantit Tallinna', 'implanttien hinta', 'hammashoidon kustannukset', 'Tallinna hammaslääkäri']
 heroImage: '/blog-images/2026-06-16-all-on-4-implants-tallinn-price.webp'
 ---
+
 ## All-on-4 hammasimplantit hinta Tallinnassa – Dmitri Soninin klinikka Sonin Hambaravi
 
 All-on-4 -hammasimplanttihoito on mullistava ratkaisu niille, jotka ovat menettäneet useita tai kaikki hampaansa. Tallinna on noussut suomalaisten suosituimmaksi kohteeksi laadukkaaseen ja edulliseen hammashoitoon, ja Sonin Hambaravi -klinikka on yksi alan arvostetuimmista toimijoista. Tässä artikkelissa käymme läpi, mitä All-on-4 -hoito tarkoittaa, mitä se maksaa Tallinnassa ja miksi yhä useampi suomalainen valitsee juuri tämän klinikan.
@@ -66,5 +67,7 @@ Tallinna on Suomen lähimpänä sijaitseva kansainvälinen kaupunki – laivayht
 ### Varaa konsultaatio Sonin Hambaravi -klinikalle
 
 Jos harkitset All-on-4 -hammasimplantteja tai haluat tietää lisää hoidon sopivuudesta juuri sinulle, älä epäröi ottaa yhteyttä tri Dmitri Soniniin ja Sonin Hambaravi -klinikan ammattilaisiin Tallinnassa. Alkukonsultaation aikana arvioidaan suusi kunto, käydään läpi hoitovaihtoehdot ja laaditaan sinulle yksilöllinen, läpinäkyvä kustannusarvio.
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Ota yhteyttä Sonin Hambaravi -klinikalle tänään ja ota ensimmäinen askel kohti kaunista, kiinteää hymyä!**

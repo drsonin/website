@@ -9,6 +9,7 @@ tags: ['hammasimplantti', 'hammashoito Tallinna', 'implantologia']
 category: 'implantologia'
 ---
 
+
 ## Hammasimplantit: kaikki mitä tulee tietää — tri Dmitri Soninin selitykset
 
 Hampaan menetys ei ole pelkästään esteettinen ongelma. Ajan myötä leukaluu alkaa kutistua puuttuvan hampaan kohdalta, vierekkäiset hampaat siirtyvät ja leuan kuorma jakaantuu epätasaisesti. Dmitri Sonin, Sonin Hambaravi -klinikan hammaslääkäri Tallinnassa, on työskennellyt implanttien parissa yli kymmenen vuotta ja selittää, miksi hammasimplantit ovat nykypäivänä kultastandardi puuttuvien hampaiden korvaamisessa.
@@ -48,5 +49,7 @@ Implantin asettamisen jälkeen Dmitri Sonin suosittelee:
 Kipu leikkauksen jälkeen on yleensä lievää ja helpottuu hyvin tavallisilla kipulääkkeillä.
 
 ## Varaa konsultaatio
+
+[Varaa konsultaatio](/fi/contact/)
 
 Jos harkitset hammasimplanttia, ensimmäinen askel on diagnostiikka. Tri Dmitri Sonin tekee tutkimuksen, ottaa röntgenkuvan ja kertoo, sopiiko toimenpide juuri sinulle, kuinka kauan se kestää ja paljonko se maksaa. Sonin Hambaravi -klinikka sijaitsee Tallinnassa — varaa aika verkkosivustolla tai puhelimitse.

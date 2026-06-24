@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['hammashoitopelko', 'hammaslääkäri', 'hammashoidon ahdistus', 'pelkohoidon keinot', 'hammashoitokohti']
 heroImage: '/blog-images/2026-06-14-dental-anxiety-tallinn.webp'
 ---
+
 ## Hammashoitopelko – tri Dmitri Sonin auttaa sinua voittamaan pelon
 
 Hammashoitopelko on yleisempi kuin moni luulee. Arvioidaan, että jopa joka viides aikuinen kokee merkittävää ahdistusta hammaslääkärikäyntien yhteydessä, ja osa ihmisistä välttelee hoitoa kokonaan pelon vuoksi. Tallinnassa toimiva Sonin Hambaravi -klinikka on erikoistunut tarjoamaan turvallisen ja rauhallisen hoitokokemuksen myös niille potilaille, joille hammastuoli herättää voimakkaita tunteita.
@@ -62,5 +63,7 @@ Pelkäävät potilaat ovat Dmitri Soninille tuttuja, ja hän suhtautuu heihin ai
 Suun terveys on osa kokonaisterveyttä, ja siitä huolehtiminen on mahdollista myös silloin, kun hammaslääkärikäynti tuntuu pelottavalta.
 
 ---
+
+[Varaa konsultaatio](/fi/contact/)
 
 **Ota ensimmäinen askel tänään.** Varaa konsultaatioaika Sonin Hambaravi -klinikalle Tallinnassa ja kerro meille tilanteestasi. Autamme sinua löytämään rauhallisen ja turvallisen tavan hoitaa suusi kuntoon – omaan tahtiisi.

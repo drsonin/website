@@ -7,6 +7,8 @@ author: 'Dr Dmitri Sonin'
 tags: ['dental tourism Estonia', 'affordable dentistry', 'cross-border treatment', 'Estonia healthcare', 'Norway to Estonia']
 heroImage: '/blog-images/2026-06-18-dental-tourism-estonia-norway.webp'
 ---
+
+
 ## Dental Tourism Estonia from Norway: What to Know — Insights from Dr Dmitri Sonin
 
 Norway offers world-class healthcare, but dental treatment remains one of the few areas where costs can be genuinely eye-watering. It's no surprise that thousands of Norwegians each year look beyond their borders for high-quality, affordable dental care. Estonia — and Tallinn in particular — has become one of the most popular destinations for exactly this reason. Here is everything you need to know before making the trip.
@@ -27,7 +29,7 @@ Norwegian patients travelling to Tallinn most commonly seek:
 - **Root canal treatment** — often urgent and significantly cheaper abroad
 - **Full smile makeovers** — combining multiple treatments in one visit
 
-At Sonin Hambaravi, Dmitri Sonin and his team see a steady flow of patients from Norway each year, many of whom have been referred by previous satisfied patients. Word of mouth is a powerful thing.
+At Sonin Dental Clinic, Dmitri Sonin and his team see a steady flow of patients from Norway each year, many of whom have been referred by previous satisfied patients. Word of mouth is a powerful thing.
 
 ### Planning Your Trip: Practical Tips
 
@@ -52,5 +54,7 @@ Located in central Tallinn, Sonin Hambaravi combines clinical excellence with a 
 Norwegian patients particularly appreciate the transparency of the process — no hidden fees, no pressure, and a clear explanation of every step before treatment begins.
 
 ---
+
+[Book a consultation](/en/contact/)
 
 Ready to find out what your treatment would cost in Tallinn? **Book your free remote consultation with Sonin Hambaravi clinic today.** Visit our website or send us a message — we will have a personalised treatment plan and quote ready for you within 48 hours.

@@ -7,6 +7,7 @@ author: 'Dmitri Sonin'
 tags: ['brekettid', 'alignerid', 'hambaste sirgestamine', 'ortoodontia', 'hambasirgendus']
 heroImage: '/blog-images/2026-06-13-braces-aligners-estonia.webp'
 ---
+
 ## Brekettid ja Alignerid: dr Dmitri Sonini Juhend Õige Hambumuse Korrigeerimiseks
 
 Hambumuse ja hammaste asendi probleemid mõjutavad miljoneid inimesi üle maailma. Õnneks on tänapäeva hambaravil pakkuda mitmeid tõhusaid lahendusi – nii klassikalised brekettid kui ka kaasaegsed läbipaistvad alignerid. Sonin Hambaravi kliinikus Tallinnas aitab dr Dmitri Sonin leida just teie vajadustele vastava ravilahenduse.
@@ -70,5 +71,7 @@ Ortodontilist ravi on põhjust kaaluda, kui märkate järgmisi sümptomeid:
 ---
 
 **Broneeri konsultatsioon juba täna!**
+
+[Broneeri konsultatsioon](/et/contact/)
 
 Soovid teada, kas brekettid või alignerid sobivad sinule? Tule Sonin Hambaravi kliinikusse Tallinnas ning dr Dmitri Sonin hindab teie hammaste seisundit ning soovitab parima lahenduse. Võta ühendust meie registratuuriga – ilus ja terve naeratus on sinust vaid ühe sammu kaugusel.

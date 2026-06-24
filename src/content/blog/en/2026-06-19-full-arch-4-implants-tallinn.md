@@ -7,9 +7,11 @@ author: 'Dr Dmitri Sonin'
 tags: ['full arch implants', 'all on 4 teeth', 'Tallinn dental', 'implant restoration', 'tooth replacement']
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
+
+
 ## Full Arch Restoration with 4 Implants in Tallinn — Insights from Dr Dmitri Sonin
 
-Losing all or most of your teeth is a life-changing experience. It affects how you eat, how you speak, and how confident you feel when you smile. Fortunately, modern implant dentistry offers a permanent, natural-looking solution — full arch restoration supported by just four implants. At Sonin Hambaravi dental clinic in Tallinn, this treatment has helped hundreds of patients reclaim their quality of life.
+Losing all or most of your teeth is a life-changing experience. It affects how you eat, how you speak, and how confident you feel when you smile. Fortunately, modern implant dentistry offers a permanent, natural-looking solution — full arch restoration supported by just four implants. At Sonin Dental Clinic dental clinic in Tallinn, this treatment has helped hundreds of patients reclaim their quality of life.
 
 ### What Is Full Arch Restoration with 4 Implants?
 
@@ -55,5 +57,7 @@ Dr Dmitri Sonin emphasises that long-term success starts with thorough planning 
 ---
 
 **Ready to take the first step toward your new smile?**
+
+[Book a consultation](/en/contact/)
 
 Book a consultation at **Sonin Hambaravi dental clinic** in Tallinn today. Our team will assess your situation, answer all your questions, and create a personalised treatment plan tailored to your needs and budget. Contact us through our website or call the clinic directly — a healthier, confident smile is closer than you think.
