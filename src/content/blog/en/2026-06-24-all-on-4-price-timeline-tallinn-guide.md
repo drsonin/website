@@ -84,4 +84,4 @@ If you're ready to understand exactly what your treatment would cost, how long i
 
 [Book a consultation](/en/contact/)
 
-📍 Tallinn, Estonia | 🌐 [soninahambaravi.ee](https://soninahambaravi.ee) | 📞 Contact us to schedule your appointment today.
+📍 Tallinn, Estonia | 🌐 [drsonin.com](https://drsonin.com) | 📞 Contact us to schedule your appointment today.
