@@ -83,4 +83,4 @@ Kui soovite saada selget ülevaadet oma ravivajadustest, kuludest ja võimalikes
 
 [Broneeri konsultatsioon](/et/contact/)
 
-**Broneeri aeg:** [soninhambaravi.ee](https://soninhambaravi.ee)
+**Broneeri aeg:** [drsonin.com](https://drsonin.com)

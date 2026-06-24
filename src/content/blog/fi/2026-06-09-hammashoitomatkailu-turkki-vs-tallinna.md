@@ -87,4 +87,4 @@ Jos harkitset implantti- tai muuta hammashoitoa ja haluat selkeän arvion omasta
 [Varaa konsultaatio](/fi/contact/)
 
 **Sonin Hambaravi | Tallinna**
-Varaa aika: [www.sonin.ee](http://www.sonin.ee)
+Varaa aika: [www.drsonin.com](https://drsonin.com)

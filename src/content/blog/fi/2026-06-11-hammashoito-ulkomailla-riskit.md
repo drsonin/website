@@ -86,4 +86,4 @@ Haluatko selvittää, mikä hoitovaihtoehto sopii juuri sinun tilanteeseesi? Tri
 
 [Varaa konsultaatio](/fi/contact/)
 
-**Ota yhteyttä tai varaa aika osoitteessa [soninhambaravi.ee](https://soninhambaravi.ee)**
+**Ota yhteyttä tai varaa aika osoitteessa [drsonin.com](https://drsonin.com)**

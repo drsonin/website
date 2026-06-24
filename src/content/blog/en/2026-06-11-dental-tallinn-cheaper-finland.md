@@ -72,4 +72,4 @@ The clinic is located in **Tallinn, Estonia**, and is accessible from Helsinki b
 
 [Book a consultation](/en/contact/)
 
-To book your consultation, visit **[soninhambaravi.ee](https://soninhambaravi.ee)** or contact the clinic directly by phone or email.
+To book your consultation, visit **[drsonin.com](https://drsonin.com)** or contact the clinic directly by phone or email.

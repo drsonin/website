@@ -81,4 +81,4 @@ Jos olet harkitsemassa implanttia, kruunua tai muuta hammashoitoa ja haluat selk
 
 [Varaa konsultaatio](/fi/contact/)
 
-**Varaa aika:** [soninhambaravi.ee](https://soninhambaravi.ee)
+**Varaa aika:** [drsonin.com](https://drsonin.com)

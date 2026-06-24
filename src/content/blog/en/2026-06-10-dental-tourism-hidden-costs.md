@@ -112,4 +112,4 @@ If you are weighing your options for implant treatment, Dr Dmitri Sonin offers d
 
 [Book a consultation](/en/contact/)
 
-**Book your consultation at Sonin Hambaravi:** [sonin.ee](https://sonin.ee)
+**Book your consultation at Sonin Hambaravi:** [drsonin.com](https://drsonin.com)

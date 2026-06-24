@@ -102,4 +102,4 @@ If you are weighing your options for implant treatment, a consultation with Dr D
 [Book a consultation](/en/contact/)
 
 📍 **Sonin Hambaravi** | Tallinn, Estonia
-📞 Book your consultation at **[soninhambaravi.ee](https://soninhambaravi.ee)**
+📞 Book your consultation at **[drsonin.com](https://drsonin.com)**

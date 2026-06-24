@@ -75,4 +75,4 @@ Klinikka sijaitsee keskeisesti Tallinnassa, ja sinne on helppo matkustaa Helsing
 
 [Varaa konsultaatio](/fi/contact/)
 
-**Varaa konsultaatioaika Sonin Hambaravi -klinikalle osoitteessa sonin.ee tai puhelimitse.**
+**Varaa konsultaatioaika Sonin Hambaravi -klinikalle osoitteessa drsonin.com tai puhelimitse.**

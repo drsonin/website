@@ -84,4 +84,4 @@ Samuti on oluline regulaarne kontrollkäik vähemalt kord aastas — röntgenül
 
 [Broneeri konsultatsioon](/et/contact/)
 
-👉 **Broneeri aeg Sonin Hambaravi kliinikus Tallinnas — sonin.ee**
+👉 **Broneeri aeg Sonin Hambaravi kliinikus Tallinnas — drsonin.com**

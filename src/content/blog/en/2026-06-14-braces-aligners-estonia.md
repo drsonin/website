@@ -78,4 +78,4 @@ Whether you're considering braces, clear aligners, or simply want an expert opin
 [Book a consultation](/en/contact/)
 
 📍 Sonin Hambaravi — Tallinn, Estonia
-🌐 [soninh.ee](https://soninh.ee)
+🌐 [drsonin.com](https://drsonin.com)

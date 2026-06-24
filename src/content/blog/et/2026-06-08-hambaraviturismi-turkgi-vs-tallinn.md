@@ -90,4 +90,4 @@ Kui soovite saada täpse hinnapakkumise ja isikliku raviplaani, on Dmitri Sonin 
 
 [Broneeri konsultatsioon](/et/contact/)
 
-**Broneeri aeg: [sonihambaravi.ee](https://sonihambaravi.ee)**
+**Broneeri aeg: [drsonin.com](https://drsonin.com)**

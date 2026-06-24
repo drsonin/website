@@ -84,4 +84,4 @@ Here is the honest framework Dmitri Sonin uses with every patient during consult
 [Book a consultation](/en/contact/)
 
 📍 Sonin Hambaravi | Tallinn, Estonia
-🌐 [soninhambaravi.ee](https://soninhambaravi.ee)
+🌐 [drsonin.com](https://drsonin.com)

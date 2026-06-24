@@ -75,4 +75,4 @@ Early evaluation means more options and shorter treatment timelines.
 [Book a consultation](/en/contact/)
 
 📍 **Sonin Hambaravi, Tallinn, Estonia**
-🌐 [soninhambaravi.ee](https://soninhambaravi.ee)
+🌐 [drsonin.com](https://drsonin.com)

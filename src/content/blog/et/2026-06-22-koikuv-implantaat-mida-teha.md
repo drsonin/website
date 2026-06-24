@@ -74,4 +74,4 @@ Implantaadid on töökindel ja pikaajaline lahendus, mis õige hoolduse korral k
 [Broneeri konsultatsioon](/et/contact/)
 
 📍 Sonin Hambaravi — Tallinn
-📞 Broneeri aeg: [sonin.ee](https://sonin.ee)
+📞 Broneeri aeg: [drsonin.com](https://drsonin.com)

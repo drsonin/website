@@ -87,4 +87,4 @@ Broneerige konsultatsioon Sonin Hambaravi kliinikusse Tallinnas — saate 3D-ana
 
 [Broneeri konsultatsioon](/et/contact/)
 
-👉 **Broneeri aeg: [sonihambaravi.ee](https://sonihambaravi.ee)**
+👉 **Broneeri aeg: [drsonin.com](https://drsonin.com)**

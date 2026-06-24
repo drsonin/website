@@ -71,4 +71,4 @@ Kui soovite saada selget ülevaadet oma hambaravi tegelikest kuludest ja valikut
 
 [Broneeri konsultatsioon](/et/contact/)
 
-**Broneeri konsultatsioon: [soninhambaravi.ee](https://soninhambaravi.ee)**
+**Broneeri konsultatsioon: [drsonin.com](https://drsonin.com)**

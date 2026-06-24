@@ -74,4 +74,4 @@ Tri Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat maksut
 
 [Varaa konsultaatio](/fi/contact/)
 
-**Varaa aikasi osoitteessa sonin.ee tai soita klinikalle suoraan.** Saat kirjalliset tarjoukset, selkeät takuuehdot ja henkilökohtaisen hoitosuunnitelman – ennen kuin teet mitään päätöksiä.
+**Varaa aikasi osoitteessa drsonin.com tai soita klinikalle suoraan.** Saat kirjalliset tarjoukset, selkeät takuuehdot ja henkilökohtaisen hoitosuunnitelman – ennen kuin teet mitään päätöksiä.

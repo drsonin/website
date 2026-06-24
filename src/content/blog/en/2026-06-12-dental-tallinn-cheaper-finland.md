@@ -96,4 +96,4 @@ If you are based in Finland or Estonia and want a clear, itemised treatment plan
 
 [Book a consultation](/en/contact/)
 
-**Book your consultation at soninhambaravi.ee or call the clinic directly.**
+**Book your consultation at drsonin.com or call the clinic directly.**

@@ -93,4 +93,4 @@ Dmitri Sonin ja Sonin Hambaravi -klinikan tiimi Tallinnassa tarjoavat ilmaisen a
 
 [Varaa konsultaatio](/fi/contact/)
 
-**Varaa aika konsultaatioon osoitteessa [soninhambaravi.ee](https://soninhambaravi.ee)** tai soita klinikkaan suoraan. Tee päätöksesi oikeiden lukujen pohjalta.
+**Varaa aika konsultaatioon osoitteessa [drsonin.com](https://drsonin.com)** tai soita klinikkaan suoraan. Tee päätöksesi oikeiden lukujen pohjalta.

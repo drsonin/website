@@ -90,4 +90,4 @@ Haluatko tietää, sopiiko hammaskruunu sinulle ja mitä se maksaisi? **Sonin Ha
 [Varaa konsultaatio](/fi/contact/)
 
 📍 Sonin Hambaravi | Tallinna, Viro
-🌐 [sonin.ee](https://sonin.ee)
+🌐 [drsonin.com](https://drsonin.com)
