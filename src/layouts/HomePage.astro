@@ -301,6 +301,54 @@ const t = ui[lang];
 		</div>
 	</section>
 
+	<!-- ═══ ФОТО КАБИНЕТА ══════════════════════════════════ -->
+	<section class="py-20 bg-white px-4 sm:px-6">
+		<div class="max-w-6xl mx-auto">
+			<div class="text-center mb-12">
+				<p class="text-blue-600 text-sm font-semibold uppercase tracking-widest mb-3">
+					{{
+						ru: 'Наша клиника',
+						et: 'Meie kliinik',
+						fi: 'Klinikkamme',
+						en: 'Our clinic',
+					}[lang]}
+				</p>
+				<h2 class="text-3xl sm:text-4xl font-bold text-slate-900">
+					{{
+						ru: 'Современное оборудование и уютная атмосфера',
+						et: 'Kaasaegne varustus ja hubane keskkond',
+						fi: 'Moderni varustus ja viihtyisä ympäristö',
+						en: 'Modern equipment and a welcoming environment',
+					}[lang]}
+				</h2>
+				<p class="text-slate-500 mt-4 max-w-2xl mx-auto">
+					{{
+						ru: 'Клиника Sonin Hambaravi оснащена томографом Planmeca, сканером Medit и имплантами Nobel Biocare — всё для точного и безболезненного лечения.',
+						et: 'Sonin Hambaravi kliinik on varustatud Planmeca tomograafi, Medit skanneriga ja Nobel Biocare implantaatidega — kõik täpse ja valutu ravi jaoks.',
+						fi: 'Sonin Hambaravi -klinikka on varustettu Planmeca-tomografilla, Medit-skannerilla ja Nobel Biocare -implanteilla — kaikki tarkan ja kivuttoman hoidon takaamiseksi.',
+						en: 'Sonin Dental Clinic is equipped with a Planmeca CT scanner, Medit 3D scanner, and Nobel Biocare implants — everything for precise, comfortable treatment.',
+					}[lang]}
+				</p>
+			</div>
+
+			<!-- Сетка фото: 1 большое слева + 2 маленьких справа -->
+			<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+				<!-- TODO: заменить src на реальные фото кабинета -->
+				<div class="lg:col-span-2 rounded-2xl overflow-hidden bg-slate-100 aspect-[16/9] flex items-center justify-center text-slate-400 text-sm">
+					<span>📷 Главное фото кабинета</span>
+				</div>
+				<div class="flex flex-col gap-4">
+					<div class="rounded-2xl overflow-hidden bg-slate-100 aspect-[4/3] flex items-center justify-center text-slate-400 text-sm">
+						<span>📷 Оборудование</span>
+					</div>
+					<div class="rounded-2xl overflow-hidden bg-slate-100 aspect-[4/3] flex items-center justify-center text-slate-400 text-sm">
+						<span>📷 Зона ожидания</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<!-- ═══ ФОРМА ЗАПИСИ ════════════════════════════════════ -->
 	<section id="contact" class="py-20 bg-white px-4 sm:px-6">
 		<div class="max-w-6xl mx-auto">
