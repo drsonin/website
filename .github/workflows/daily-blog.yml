@@ -31,13 +31,28 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Refresh topics (weekly — every Monday)
+        if: github.event.inputs.topic == '' && (github.event_name == 'schedule' || format('{0}', github.run_number) != '' )
+        run: |
+          DAY=$(date +%u)
+          if [ "$DAY" = "1" ]; then
+            echo "Monday — running topic refresh..."
+            node scripts/refresh-topics.js
+          else
+            echo "Not Monday (day=$DAY) — skipping topic refresh."
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
       - name: Generate blog posts
+        id: generate-posts
         run: |
           ARGS=""
           if [ -n "${{ github.event.inputs.topic }}" ]; then
             ARGS="--topic=${{ github.event.inputs.topic }}"
           fi
           node scripts/generate-post.js $ARGS
+          echo "date=$(date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
@@ -46,10 +61,26 @@ jobs:
         run: |
           git config user.name "drsonin-blog-bot"
           git config user.email "blog-bot@drsonin.com"
-          git add src/content/blog/ public/blog-images/
+          git add src/content/blog/ public/blog-images/ scripts/topics.js
           if git diff --staged --quiet; then
             echo "No new posts generated, nothing to commit."
           else
             git commit -m "content: daily blog posts $(date +%Y-%m-%d)"
             git push
           fi
+
+      - name: Publish blog posts to Google Business Profile
+        run: |
+          if [ -z "$GOOGLE_CLIENT_ID" ] || [ -z "$GOOGLE_CLIENT_SECRET" ] || [ -z "$GOOGLE_REFRESH_TOKEN" ] || [ -z "$GBP_ACCOUNT_ID" ] || [ -z "$GBP_LOCATION_ID" ]; then
+            echo "Google Business Profile secrets are not configured; skipping publication."
+            exit 0
+          fi
+          npm run publish:gbp -- --date=${{ steps.generate-posts.outputs.date }}
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          GBP_ACCOUNT_ID: ${{ secrets.GBP_ACCOUNT_ID }}
+          GBP_LOCATION_ID: ${{ secrets.GBP_LOCATION_ID }}
+          GBP_POST_LANGS: ${{ vars.GBP_POST_LANGS }}
+          SITE_URL: https://www.drsonin.com

@@ -10,10 +10,11 @@
 import Anthropic from '@anthropic-ai/sdk';
 import Replicate from 'replicate';
 import sharp from 'sharp';
-import { writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs';
+import { writeFileSync, unlinkSync, mkdirSync, existsSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { TOPICS } from './topics.js';
+import { validatePost } from './validate-post.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -340,6 +341,22 @@ function topicAlreadyExists(topic) {
   return topicLangs(topic).every(lang => slugAlreadyExists(lang, topic[lang].slug));
 }
 
+async function generatePostContent(lang, topic, keyword, isMedicalTourism, isFaq, issues = []) {
+  const issueHint = issues.length > 0
+    ? `\n\nPREVIOUS ATTEMPT FAILED VALIDATION. Fix these issues:\n${issues.map(i => `- ${i}`).join('\n')}`
+    : '';
+
+  const [body, title, description] = await Promise.all([
+    generateText(PROMPTS[lang](keyword, isMedicalTourism, isFaq) + issueHint),
+    generateText(TITLE_PROMPTS[lang](keyword) + (issues.some(i => i.includes('Title')) ? `\nPrevious title was invalid: ${issues.filter(i => i.includes('Title')).join('; ')}` : '')),
+    generateText(DESC_PROMPTS[lang](keyword) + (issues.some(i => i.includes('Description')) ? `\nPrevious description was invalid: ${issues.filter(i => i.includes('Description')).join('; ')}` : '')),
+  ]);
+
+  return { body, title, description };
+}
+
+const MAX_ATTEMPTS = 3;
+
 async function generatePost(lang, topic, dateStr, heroImage) {
   const { keyword, slug } = topic[lang];
   const isMedicalTourism = topic.type === 'medical-tourism';
@@ -347,32 +364,48 @@ async function generatePost(lang, topic, dateStr, heroImage) {
   const typeLabel = isMedicalTourism ? ' [medical-tourism]' : isFaq ? ' [faq]' : '';
   console.log(`  Generating [${lang}] — ${keyword}${typeLabel}...`);
 
-  const [body, title, description] = await Promise.all([
-    generateText(PROMPTS[lang](keyword, isMedicalTourism, isFaq)),
-    generateText(TITLE_PROMPTS[lang](keyword)),
-    generateText(DESC_PROMPTS[lang](keyword)),
-  ]);
-
-  const frontmatter = [
-    '---',
-    `title: '${title.replace(/'/g, "''")}'`,
-    `description: '${description.replace(/'/g, "''")}'`,
-    `pubDate: '${dateStr}'`,
-    `lang: '${lang}'`,
-    `author: '${AUTHOR_BY_LANG[lang]}'`,
-    `tags: ['${keyword}', 'hambaravi', 'Sonin Hambaravi']`,
-    `heroImage: '${heroImage}'`,
-    '---',
-    '',
-  ].join('\n');
-
-  const content = frontmatter + body;
   const filename = `${dateStr}-${slug}.md`;
   const dir = join(ROOT, 'src', 'content', 'blog', lang);
+  const filePath = join(dir, filename);
+  const imagePath = join(ROOT, 'public', heroImage);
 
   if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-  writeFileSync(join(dir, filename), content, 'utf8');
-  console.log(`  ✓ Written: src/content/blog/${lang}/${filename}`);
+
+  let lastIssues = [];
+
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    if (attempt > 1) console.log(`  ↺  Attempt ${attempt}/${MAX_ATTEMPTS} [${lang}] — fixing: ${lastIssues.join('; ')}`);
+
+    const { body, title, description } = await generatePostContent(lang, topic, keyword, isMedicalTourism, isFaq, lastIssues);
+
+    const frontmatter = [
+      '---',
+      `title: '${title.replace(/'/g, "''")}'`,
+      `description: '${description.replace(/'/g, "''")}'`,
+      `pubDate: '${dateStr}'`,
+      `lang: '${lang}'`,
+      `author: '${AUTHOR_BY_LANG[lang]}'`,
+      `tags: ['${keyword}', 'hambaravi', 'Sonin Hambaravi']`,
+      `heroImage: '${heroImage}'`,
+      '---',
+      '',
+    ].join('\n');
+
+    writeFileSync(filePath, frontmatter + body, 'utf8');
+
+    const { pass, issues } = await validatePost({ filePath, imagePath, keyword, lang });
+
+    if (pass) {
+      console.log(`  ✓ Written + validated: src/content/blog/${lang}/${filename}`);
+      return;
+    }
+
+    console.log(`  ⚠  Validation failed [${lang}] attempt ${attempt}: ${issues.join(' | ')}`);
+    lastIssues = issues;
+  }
+
+  // After MAX_ATTEMPTS — keep last version but warn
+  console.warn(`  ⚠  [${lang}] published after ${MAX_ATTEMPTS} attempts with issues: ${lastIssues.join(' | ')}`);
 }
 
 async function main() {
