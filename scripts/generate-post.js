@@ -404,8 +404,10 @@ async function generatePost(lang, topic, dateStr, heroImage) {
     lastIssues = issues;
   }
 
-  // After MAX_ATTEMPTS — keep last version but warn
-  console.warn(`  ⚠  [${lang}] published after ${MAX_ATTEMPTS} attempts with issues: ${lastIssues.join(' | ')}`);
+  // After MAX_ATTEMPTS — delete the file, don't publish
+  if (existsSync(filePath)) unlinkSync(filePath);
+  console.error(`  ✗ [${lang}] skipped after ${MAX_ATTEMPTS} failed attempts. Issues: ${lastIssues.join(' | ')}`);
+  throw new Error(`Validation failed after ${MAX_ATTEMPTS} attempts for [${lang}] ${keyword}`);
 }
 
 async function main() {
@@ -431,15 +433,22 @@ async function main() {
     return;
   }
 
+  let published = 0;
+  let skipped = 0;
+
   for (const [idx, topic] of toGenerate) {
     const langs = topicLangs(topic);
     console.log(`\n--- Generating topic #${idx}: ${(topic.en ?? topic[langs[0]]).keyword} [${langs.join(',')}] ---`);
     const heroImage = await generateHeroImage(topic, dateStr);
-    await Promise.all(langs.map((lang) => generatePost(lang, topic, dateStr, heroImage)));
+
+    const results = await Promise.allSettled(langs.map((lang) => generatePost(lang, topic, dateStr, heroImage)));
+    for (const r of results) {
+      if (r.status === 'fulfilled') published++;
+      else skipped++;
+    }
   }
 
-  const totalPosts = toGenerate.reduce((sum, [, t]) => sum + topicLangs(t).length, 0);
-  console.log(`\n✅ Done! ${totalPosts} posts + ${toGenerate.length} hero images generated.`);
+  console.log(`\n✅ Done! ${published} posts published, ${skipped} skipped (failed validation).`);
 }
 
 main().catch((err) => {
