@@ -4,7 +4,7 @@ description: 'Compare dental implant costs in Tallinn vs Riga with insights from
 pubDate: '2026-06-21'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental implants Tallinn vs Riga — which is better value', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implants', 'Tallinn vs Riga', 'implant cost', 'Baltic dentistry', 'value comparison']
 heroImage: '/blog-images/2026-06-21-dental-implants-tallinn-vs-riga.webp'
 ---
 ## Dental Implants Tallinn vs Riga — Which Is Better Value? A Guide by Dr Dmitri Sonin

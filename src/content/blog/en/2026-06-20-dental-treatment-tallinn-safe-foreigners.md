@@ -4,7 +4,7 @@ description: 'Discover if dental treatment in Tallinn is safe for foreign patien
 pubDate: '2026-06-20'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['is dental treatment in Tallinn safe for foreign patients', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental tourism tallinn', 'safe dental care', 'foreign patients estonia', 'tallinn dentistry', 'treatment safety']
 heroImage: '/blog-images/2026-06-20-dental-treatment-tallinn-safe-foreigners.webp'
 ---
 ## Is Dental Treatment in Tallinn Safe for Foreign Patients? Insights from Dr Dmitri Sonin

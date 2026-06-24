@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnas selgitab, millal valida brekettid ja millal
 pubDate: '2026-06-01'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['brekettid ja alignerid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambasirgendus', 'Brekettid', 'Alignerid', 'Hambakorreksioon', 'Ortoodia']
 heroImage: '/blog-images/2026-06-01-braces-aligners-estonia.webp'
 ---
 ## Brekettid ja alignerid: dr Dmitri Sonin selgitab, milline ortodontiline ravi sobib just sulle

@@ -4,7 +4,7 @@ description: 'Facing dental implant failure in Tallinn? Dr Dmitri Sonin explains
 pubDate: '2026-06-21'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental implant failure and guarantee what to do Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implant failure', 'implant guarantee', 'failed implant repair', 'implant replacement cost', 'Tallinn dental care']
 heroImage: '/blog-images/2026-06-21-dental-implant-failure-guarantee-tallinn.webp'
 ---
 ## Dental Implant Failure and Guarantee in Tallinn: What You Need to Know — Insights from Dr Dmitri Sonin

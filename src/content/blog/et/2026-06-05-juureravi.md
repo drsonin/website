@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnas selgitab, mis on juureravi, millal see vaja
 pubDate: '2026-06-05'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['juureravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Juureravi', 'hambajuure ravi', 'pulpiidi ravi', 'hambavalu leevendamine', 'hambainfektsioon']
 heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
 ## Juureravi – mida see tähendab ja miks see hambad päästab? Dr Dmitri Soniniga Sonin Hambaravi kliinikus

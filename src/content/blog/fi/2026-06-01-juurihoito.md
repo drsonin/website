@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa tarjoaa ammattimaista juurihoitoa – kiv
 pubDate: '2026-06-01'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['juurihoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Juurihoito', 'hammassärky', 'hampaan pelastus', 'pulpiitin hoito', 'hammasinfektio']
 heroImage: '/blog-images/2026-06-01-root-canal-treatment-tallinn.webp'
 ---
 ## Juurihoito Tallinnassa – tri Dmitri Soninin asiantuntemus Sonin Hambaravi -klinikalla

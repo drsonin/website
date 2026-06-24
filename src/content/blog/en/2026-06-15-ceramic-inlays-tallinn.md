@@ -4,7 +4,7 @@ description: 'Discover premium ceramic inlays in Tallinn with Dr Dmitri Sonin. N
 pubDate: '2026-06-15'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['ceramic inlays Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['ceramic inlays', 'dental restoration', 'tooth fillings', 'Tallinn dentistry', 'aesthetic dentistry']
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
 ## Ceramic Inlays in Tallinn: Expert Restorations by Dr Dmitri Sonin

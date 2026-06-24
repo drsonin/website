@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa vertailee hammasrautoja ja alignereita â€
 pubDate: '2026-06-13'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasraudat ja alignerit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammasraudat', 'invisalign', 'hammaslankeet', 'suorat hampaat', 'hammaskorjaus']
 heroImage: '/blog-images/2026-06-13-braces-aligners-estonia.webp'
 ---
 ## Hammasraudat ja alignerit â€“ tri Dmitri Soninin asiantuntemus Sonin Hambaravi -klinikalla

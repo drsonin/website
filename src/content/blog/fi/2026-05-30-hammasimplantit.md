@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa tarjoaa laadukkaat hammasimplantit – ke
 pubDate: '2026-05-30'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasimplantit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammasimplantit', 'implanttien hinta', 'implanttien hoito', 'hammasimplantin kesto']
 heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 ---
 ## Hammasimplantit Tallinnassa – tri Dmitri Soninin asiantunteva hoito Sonin Hambaravissa

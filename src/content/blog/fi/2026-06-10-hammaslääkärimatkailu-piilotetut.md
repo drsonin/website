@@ -4,7 +4,7 @@ description: 'Dmitri Sonin paljastaa hammaslääkärimatkailun piilotetut kustan
 pubDate: '2026-06-10'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammaslääkärimatkailu piilotetut kustannukset', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammaslääkärimatkailu', 'piilotetut kustannukset', 'hammashoito ulkomailla', 'matkakulut', 'lisäkustannukset']
 heroImage: '/blog-images/2026-06-10-dental-tourism-hidden-costs.webp'
 ---
 ## Hammaslääkärimatkailu ja piilotetut kustannukset – tri Dmitri Soninin analyysi

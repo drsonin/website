@@ -4,7 +4,7 @@ description: 'Hambaimplantaadid Tallinnas – dr Dmitri Sonin aitab taastada tei
 pubDate: '2026-05-30'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambaimplantaadid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hambaimplantaadid', 'hambaproteesid', 'hambavigade parandus', 'suutervis', 'hambaarstus']
 heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 ---
 ## Hambaimplantaadid dr Dmitri Soniniga – püsiv lahendus puuduvatele hammastele

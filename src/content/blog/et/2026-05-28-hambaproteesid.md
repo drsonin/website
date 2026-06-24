@@ -5,7 +5,7 @@ pubDate: '2026-05-28'
 lang: 'et'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
-tags: ['hambaproteesid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaproteesid', 'Hambavõtted', 'Proteetiline hambaravi', 'Hammaste asendamine', 'Suuhooldus']
 ---
 ## Hambaproteesid – täielik lahendus puuduvatele hammastele | Dr Dmitri Sonin selgitab
 

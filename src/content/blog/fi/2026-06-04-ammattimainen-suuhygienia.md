@@ -4,7 +4,7 @@ description: 'Dmitri Sonin tarjoaa ammattimaista suuhygieniaa Tallinnassa. Koken
 pubDate: '2026-06-04'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['ammattimainen suuhygienia', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Suuhygienia', 'hammashoito', 'plakki', 'hammaskivi', 'hampaidenpesu']
 heroImage: '/blog-images/2026-06-04-professional-teeth-cleaning-estonia.webp'
 ---
 ## Ammattimainen suuhygienia – Tri Dmitri Soninin asiantuntijaopas terveeseen suuhun

@@ -4,7 +4,7 @@ description: 'Discover dental crown costs in Estonia with Dr Dmitri Sonin in Tal
 pubDate: '2026-06-16'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental crown cost Estonia — is it safe for Finns?', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental crowns', 'Estonia dentistry', 'crown cost', 'dental safety', 'cross-border treatment']
 heroImage: '/blog-images/2026-06-16-dental-crown-cost-estonia-finns.webp'
 ---
 ## Dental Crown Cost in Estonia: Is It Safe for Finns? — Insights from Dr Dmitri Sonin

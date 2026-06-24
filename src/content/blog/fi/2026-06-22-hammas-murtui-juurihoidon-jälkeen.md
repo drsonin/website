@@ -4,7 +4,7 @@ description: 'Hammas murtui juurihoidon jälkeen? Dmitri Sonin Tallinnassa kerto
 pubDate: '2026-06-22'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammas murtui juurihoidon jälkeen — implantti vai silta', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammasmurtumat', 'juurihoito', 'hammasimplantti', 'hammassilta', 'hammaskorjaus']
 heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.webp'
 ---
 ## Hammas murtui juurihoidon jälkeen — implantti vai silta? Tri Dmitri Soninin selitys

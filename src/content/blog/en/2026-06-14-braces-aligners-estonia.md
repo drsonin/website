@@ -4,7 +4,7 @@ description: 'Discover expert orthodontic care with Dr Dmitri Sonin in Tallinn. 
 pubDate: '2026-06-14'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['braces and aligners Estonia', 'hambaravi', 'Sonin Hambaravi']
+tags: ['teeth straightening Estonia', 'braces cost', 'aligners treatment', 'orthodontic care', 'clear aligners']
 heroImage: '/blog-images/2026-06-14-braces-aligners-estonia.webp'
 ---
 ## Braces and Aligners in Estonia: Your Guide by Dr Dmitri Sonin

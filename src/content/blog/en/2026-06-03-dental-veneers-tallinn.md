@@ -4,7 +4,7 @@ description: 'Discover perfect smile transformations with dental veneers in Tall
 pubDate: '2026-06-03'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental veneers Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental veneers', 'Tallinn dentistry', 'smile makeover', 'veneer treatment', 'cosmetic dentistry']
 heroImage: '/blog-images/2026-06-03-dental-veneers-tallinn.webp'
 ---
 ## Dental Veneers in Tallinn: Expert Smile Transformations by Dr Dmitri Sonin

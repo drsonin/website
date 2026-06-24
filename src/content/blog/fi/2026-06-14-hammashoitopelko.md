@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa auttaa hammashoitopelkoiset potilaat rent
 pubDate: '2026-06-14'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammashoitopelko', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammashoitopelko', 'hammaslääkäri', 'hammashoidon ahdistus', 'pelkohoidon keinot', 'hammashoitokohti']
 heroImage: '/blog-images/2026-06-14-dental-anxiety-tallinn.webp'
 ---
 ## Hammashoitopelko – tri Dmitri Sonin auttaa sinua voittamaan pelon

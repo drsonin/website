@@ -4,7 +4,7 @@ description: 'Hambaimplantaadi garantii Eestis — mida peate teadma. Dmitri Son
 pubDate: '2026-06-20'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambaimplantaadi garantii Eestis — mida teada', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hambaimplantaadi garantii', 'implantaadi garantiid', 'hambaravitöö garantia', 'implantaadi kaitse', 'garantii tingimused']
 heroImage: '/blog-images/2026-06-20-dental-implant-guarantee-estonia.webp'
 ---
 ## Hambaimplantaadi garantii Eestis — mida teada | dr Dmitri Sonin selgitab

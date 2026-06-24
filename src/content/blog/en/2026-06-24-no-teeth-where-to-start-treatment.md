@@ -4,7 +4,7 @@ description: 'Lost all your teeth? Dr Dmitri Sonin in Tallinn guides you through
 pubDate: '2026-06-24'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['no teeth at all where to start dental treatment Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implants Tallinn', 'tooth replacement options', 'edentulism treatment', 'smile restoration', 'dental care planning']
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
 ## No Teeth at All? Where to Start Dental Treatment in Tallinn — Advice from Dr Dmitri Sonin

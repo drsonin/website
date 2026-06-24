@@ -4,7 +4,7 @@ description: 'Dmitri Sonin selgitab, miks tasub hambaid ravida Tallinnas – sä
 pubDate: '2026-06-12'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['miks ravida hambaid Tallinnas odavamalt kui Soomes', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaarstide hinnad', 'Eesti vs Soome', 'Tallinnas odavam', 'Hambavalu ravi', 'Hambapesu hind']
 heroImage: '/blog-images/2026-06-12-dental-tallinn-cheaper-finland.webp'
 ---
 ## Miks ravida hambaid Tallinnas odavamalt kui Soomes – dr Dmitri Sonini selgitus

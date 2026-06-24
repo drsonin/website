@@ -4,7 +4,7 @@ description: 'Dmitri Sonin tarjoaa Tallinnassa laadukkaan kokoproteesi neljäll�
 pubDate: '2026-06-19'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['kokoproteesi neljällä implantilla Tallinnassa', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Kokoproteesi implanteilla', 'hampaan implantti Tallinna', 'täysproteesi implantit', 'hammashoito Tallinna', 'implanttiproteesi']
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
 ## Kokoproteesi neljällä implantilla Tallinnassa – tri Dmitri Soninin asiantunteva ratkaisu hampaattomaan leuankaareen

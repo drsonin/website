@@ -4,7 +4,7 @@ description: 'Considering dental work abroad? Dr Dmitri Sonin in Tallinn explain
 pubDate: '2026-06-11'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental work abroad risks and guarantees', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental tourism risks', 'implant guarantees', 'abroad healthcare', 'treatment complications', 'warranty coverage']
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
 ## Dental Work Abroad: Risks, Guarantees, and the Real Numbers — Insights from Dr Dmitri Sonin

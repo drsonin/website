@@ -4,7 +4,7 @@ description: 'Vertaile hammasimplantin hintaa Tallinnassa ja Helsingissä. Dmitr
 pubDate: '2026-06-16'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasimplantti hinta Tallinna vs Helsinki vertailu', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammasimplantti hinta', 'Tallinna Helsinki', 'hintatvertailu', 'implantaattihoito', 'hammaslääkäri kustannukset']
 heroImage: '/blog-images/2026-06-16-dental-implant-tallinn-vs-helsinki.webp'
 ---
 ## Hammasimplantti Hinta Tallinna vs Helsinki – Tri Dmitri Soninin Vertailu

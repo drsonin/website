@@ -4,7 +4,7 @@ description: 'Dmitri Sonin võrdleb hambaraviturismi Türgis ja Tallinnas – hi
 pubDate: '2026-06-08'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambaraviturismi võrdlus Türgi vs Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hambaraviturismi võrdlus', 'hambaarstide hinnad', 'Türgi vs Eesti', 'hambaarsti reisid', 'odav hambahooldus']
 heroImage: '/blog-images/2026-06-08-dental-implants-turkey-vs-tallinn.webp'
 ---
 ## Hambaraviturismi võrdlus: Türgi vs Tallinn – dr Dmitri Sonin analüüsib tegelikke kulusid

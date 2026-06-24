@@ -4,7 +4,7 @@ description: 'Hambaimplantaat ilma piisava luuta? Dr. Dmitri Sonin Tallinnas sel
 pubDate: '2026-06-23'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['implantaadiks pole luud — siinuse tõstmine või luuaugmentatsioon', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Siinuse tõstmine', 'Luuaugmentatsioon', 'Implantaadi ettevalmistus', 'Luurakendus', 'Hambakirurgia']
 heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
 ## Implantaadiks pole piisavalt luud — siinuse tõstmine ja luuaugmentatsioon dr Dmitri Sonini selgitusel

@@ -4,7 +4,7 @@ description: 'Dmitri Sonin pakub kiiret hambaabi Tallinnas – valu leevendame k
 pubDate: '2026-06-07'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['kiire hambaabi Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Kiire hambaabi', 'Tallinna hambaarstid', 'ootusega hambakliinikus', 'nädalavahetusel avatud', 'hambavalu kiiresti']
 heroImage: '/blog-images/2026-06-07-emergency-dental-care-tallinn.webp'
 ---
 ## Kiire Hambaabi Tallinn – dr Dmitri Sonin aitab sind ka hädaolukorras

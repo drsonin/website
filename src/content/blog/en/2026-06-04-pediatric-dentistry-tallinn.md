@@ -4,7 +4,7 @@ description: 'Gentle pediatric dentistry in Tallinn with Dr Dmitri Sonin. Expert
 pubDate: '2026-06-04'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['pediatric dentistry Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['pediatric dentistry', 'children''s dental care', 'Tallinn dentist', 'kids teeth', 'dental health']
 heroImage: '/blog-images/2026-06-04-pediatric-dentistry-tallinn.webp'
 ---
 ## Pediatric Dentistry in Tallinn: Expert Children's Dental Care by Dr Dmitri Sonin

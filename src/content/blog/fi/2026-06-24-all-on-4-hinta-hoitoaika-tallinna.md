@@ -4,7 +4,7 @@ description: 'Dmitri Sonin opastaa: All-on-4 hinta ja hoitoaika Tallinnassa – 
 pubDate: '2026-06-24'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['All-on-4 hinta ja hoitoaika Tallinnassa — täydellinen opas', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 hinta', 'Tallinna hammashoito', 'implanttien hoitoaika', 'hammasproteesin kesto']
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
 ## All-on-4 hinta ja hoitoaika Tallinnassa — tri Dmitri Soninin täydellinen opas

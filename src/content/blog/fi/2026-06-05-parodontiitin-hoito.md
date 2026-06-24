@@ -4,7 +4,7 @@ description: 'Parodontiitin hoito Tallinnassa – asiantuntija Dmitri Sonin autt
 pubDate: '2026-06-05'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['parodontiitin hoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Parodontiitin hoito', 'hammastauti', 'gingiviitti', 'hammaskiven poisto', 'suun terveys']
 heroImage: '/blog-images/2026-06-05-gum-disease-treatment-tallinn.webp'
 ---
 ## Parodontiitin hoito – tri Dmitri Soninin asiantunteva opas ikenien terveyteen

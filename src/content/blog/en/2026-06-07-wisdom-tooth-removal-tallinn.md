@@ -4,7 +4,7 @@ description: 'Expert wisdom tooth removal in Tallinn with Dr Dmitri Sonin — sa
 pubDate: '2026-06-07'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['wisdom tooth removal Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['wisdom tooth removal', 'tooth extraction', 'dental surgery', 'Tallinn dentistry', 'oral health']
 heroImage: '/blog-images/2026-06-07-wisdom-tooth-removal-tallinn.webp'
 ---
 ## Wisdom Tooth Removal in Tallinn: Expert Care by Dr Dmitri Sonin

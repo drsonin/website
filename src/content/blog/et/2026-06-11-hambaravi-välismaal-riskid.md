@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnast selgitab, millised riskid ja garantiid kaa
 pubDate: '2026-06-11'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambaravi välismaal riskid ja garantiid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaravi välismaal', 'hambaarstide riigid', 'riskid ja garantiid', 'reisihambaarsti oht', 'hambaravigarantiid']
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
 ## Hambaravi välismaal: riskid ja garantiid – dr Dmitri Sonini ülevaade

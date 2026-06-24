@@ -4,7 +4,7 @@ description: 'Unsure whether to choose zirconia or metal ceramic crown? Dr Dmitr
 pubDate: '2026-06-23'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['zirconia vs metal ceramic crown which to choose Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['zirconia crowns', 'metal ceramic crowns', 'dental crown comparison', 'crown materials', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-23-zirconia-vs-metal-ceramic-crown.webp'
 ---
 ## Zirconia vs Metal-Ceramic Crown: Which to Choose in Tallinn? A Guide by Dr Dmitri Sonin

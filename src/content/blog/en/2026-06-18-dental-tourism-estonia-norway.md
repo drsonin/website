@@ -4,7 +4,7 @@ description: 'Considering dental tourism in Estonia from Norway? Discover what t
 pubDate: '2026-06-18'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental tourism Estonia from Norway — what to know', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental tourism Estonia', 'affordable dentistry', 'cross-border treatment', 'Estonia healthcare', 'Norway to Estonia']
 heroImage: '/blog-images/2026-06-18-dental-tourism-estonia-norway.webp'
 ---
 ## Dental Tourism Estonia from Norway: What to Know — Insights from Dr Dmitri Sonin

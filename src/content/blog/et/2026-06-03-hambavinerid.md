@@ -4,7 +4,7 @@ description: 'Hambavinerid Tallinnas – dr Dmitri Sonin selgitab, mis need on, 
 pubDate: '2026-06-03'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambavinerid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hambavinerid', 'hambavalgendus', 'hambakosmetoloogia', 'namusteadus']
 heroImage: '/blog-images/2026-06-03-dental-veneers-tallinn.webp'
 ---
 ## Hambavinerid – Kaunis Naeratus dr Dmitri Soniniga Sonin Hambaravi Kliinikus

@@ -4,7 +4,7 @@ description: 'Discover 2026 dental implant costs in Tallinn for Swedish patients
 pubDate: '2026-06-17'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental implants Tallinn for Swedish patients cost guide 2026', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Dental implants', 'Tallinn cost', 'Swedish patients', 'Implant prices', 'Estonia dentistry']
 heroImage: '/blog-images/2026-06-17-dental-implants-tallinn-swedish-patients.webp'
 ---
 ## Dental Implants in Tallinn for Swedish Patients: 2026 Cost Guide by Dr Dmitri Sonin

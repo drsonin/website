@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnast selgitab, millised riskid kaasnevad hambar
 pubDate: '2026-06-10'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambaravi välismaal riskid ja garantiid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaravi välismaal', 'hambaarstide garantiid', 'välishambaravi riskid', 'hambaarsti valik', 'hambatervishoiu kindlustus']
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
 ## Hambaravi välismaal: riskid ja garantiid – dr Dmitri Sonini ülevaade

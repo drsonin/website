@@ -4,7 +4,7 @@ description: 'Implantti ei kiinnity? Tallinnassa toimiva Dmitri Sonin selittää
 pubDate: '2026-06-21'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['mitä tehdä jos implantti ei kiinnity — takuutapaus', 'hambaravi', 'Sonin Hambaravi']
+tags: ['implantti takuu', 'implantti ei kiinnity', 'implantin epäonnistuminen', 'takuupalvelu', 'implantin vaihtaminen']
 heroImage: '/blog-images/2026-06-21-dental-implant-failure-guarantee-tallinn.webp'
 ---
 ## Mitä tehdä, jos implantti ei kiinnity – takuutapaus Sonin Hambaravi -klinikalla

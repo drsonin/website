@@ -4,7 +4,7 @@ description: 'Discover professional teeth whitening in Tallinn with Dr Dmitri So
 pubDate: '2026-05-31'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['teeth whitening Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['teeth whitening', 'Tallinn dentistry', 'smile brightening', 'whitening treatments', 'Estonia dental']
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 ---
 ## Teeth Whitening in Tallinn: Expert Care with Dr Dmitri Sonin

@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa vertailee: zirkoonikruunu vai metallokera
 pubDate: '2026-06-23'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['zirkooni- vai metallokeramiikkakruunu — kumpi valita', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Zirkonkruunu', 'Metallokeramiikkakruunu', 'Hammasproteesi valinta', 'Kruununmateriaalit', 'Hammaskruunun valinta']
 heroImage: '/blog-images/2026-06-23-zirconia-vs-metal-ceramic-crown.webp'
 ---
 ## Zirkooni- vai metallokeramiikkakruunu — kumpi valita? Tri Dmitri Soninin vastaus

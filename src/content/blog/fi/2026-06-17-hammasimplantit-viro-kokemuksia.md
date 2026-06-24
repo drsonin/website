@@ -4,7 +4,7 @@ description: 'Suomalaiset potilaat kertovat kokemuksistaan hammasimplanteista Vi
 pubDate: '2026-06-17'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasimplantit Virossa kokemuksia suomalaisilta potilailta', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammasimplantit Viro', 'Suomalaiset potilaat', 'Implanttihoito ulkomailla', 'Hammasturismo', 'Potilaiden kokemukset']
 heroImage: '/blog-images/2026-06-17-dental-implants-estonia-finnish-reviews.webp'
 ---
 ## Hammasimplantit Virossa – suomalaisten potilaiden kokemuksia Dmitri Soninin klinikalta

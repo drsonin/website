@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnast jagab nõuandeid, kuidas ületada hirm ham
 pubDate: '2026-06-15'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hirm hambaarsti ees', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaäretus', 'hambaarsti foobus', 'fogobia ravamine', 'hambapesula hirm', 'stress hambaarstil']
 heroImage: '/blog-images/2026-06-15-dental-anxiety-tallinn.webp'
 ---
 ## Hirm Hambaarsti Ees: dr Dmitri Sonin Selgitab, Kuidas Hammaste Raviga Toime Tulla

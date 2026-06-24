@@ -4,7 +4,7 @@ description: 'Lue Dmitri Soninin kokemuksia All-on-4-hoidosta Tallinnassa. Verta
 pubDate: '2026-06-19'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['All-on-4 kokemuksia Tallinnasta — hinta ja hoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 hammasimplantit', 'Tallinna hammashoito', 'implanttihinnat', 'hammasproteesin hoito', 'hambasta Viroon']
 heroImage: '/blog-images/2026-06-19-all-on-4-full-guide-tallinn.webp'
 ---
 ## All-on-4 kokemuksia Tallinnasta — hinta ja hoito tri Dmitri Soninin klinikalla

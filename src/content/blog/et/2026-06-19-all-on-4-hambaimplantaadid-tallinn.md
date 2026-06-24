@@ -4,7 +4,7 @@ description: 'Dmitri Sonin selgitab, mida All-on-4 hambaimplantaadid Tallinnas m
 pubDate: '2026-06-19'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['All-on-4 hambaimplantaadid Tallinnas — hind ja tulemus', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 implantaadid', 'hambaimplantaadid Tallinnas', 'implantaadi hind', 'hambaimplantaadi tulemus', 'iluhambakirurgia']
 heroImage: '/blog-images/2026-06-19-all-on-4-full-guide-tallinn.webp'
 ---
 ## All-on-4 hambaimplantaadid Tallinnas — hind ja tulemus | dr Dmitri Sonin selgitab

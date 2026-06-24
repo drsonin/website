@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnas selgitab, mis juhtub, kui juureravi järel 
 pubDate: '2026-06-22'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['juureravi järel purunes hammas — implantaat või sild', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Juureravi ja hammaskaotus', 'Hammasimplantaat vs sild', 'Purenenud hammas ravi', 'Hambaimplantaadi alternatiivid', 'Juureravi järel hammas']
 heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.webp'
 ---
 ## Juureravi järel purunes hammas — implantaat või sild? Dr Dmitri Sonin selgitab

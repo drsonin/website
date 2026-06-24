@@ -4,7 +4,7 @@ description: 'Restore your smile with full arch restoration on 4 implants in Tal
 pubDate: '2026-06-19'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['full arch restoration 4 implants Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['full arch implants', 'all on 4 teeth', 'Tallinn dental', 'implant restoration', 'tooth replacement']
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
 ## Full Arch Restoration with 4 Implants in Tallinn — Insights from Dr Dmitri Sonin

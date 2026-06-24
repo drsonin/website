@@ -4,7 +4,7 @@ description: 'Hambavinerid Tallinnas – dr Dmitri Sonin selgitab, mis on hambav
 pubDate: '2026-06-02'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambavinerid', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambavinerid', 'hambavalgendamine', 'hambavinerid hind', 'hambavinerid ohud', 'hambavinerid tulemus']
 heroImage: '/blog-images/2026-06-02-dental-veneers-tallinn.webp'
 ---
 ## Hambavinerid dr Dmitri Sonini pilgu läbi – kaunis naeratus algab õigest valikust

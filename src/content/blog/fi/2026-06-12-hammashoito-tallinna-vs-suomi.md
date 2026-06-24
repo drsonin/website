@@ -4,7 +4,7 @@ description: 'Miksi hammashoito Tallinnassa maksaa vähemmän? Dmitri Sonin seli
 pubDate: '2026-06-12'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['miksi hammashoito Tallinnassa on edullisempaa kuin Suomessa', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammashoito Tallinna', 'hintaero Suomi', 'edullinen hammaslääkäri', 'hintavertailu hammas', 'Viro hammashoito']
 heroImage: '/blog-images/2026-06-12-dental-tallinn-cheaper-finland.webp'
 ---
 ## Miksi hammashoito Tallinnassa on edullisempaa kuin Suomessa – tri Dmitri Soninin klinikka selittää

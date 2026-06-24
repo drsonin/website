@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnast selgitab hambaraviturismi varjatud kulusid
 pubDate: '2026-06-09'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambaraviturismi varjatud kulud', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaraviturizm', 'Peidetud kulud', 'Reisieelarvetus', 'Hambaarstiteenused', 'Tervisturism']
 heroImage: '/blog-images/2026-06-09-dental-tourism-hidden-costs.webp'
 ---
 ## Hambaraviturismi varjatud kulud – mida dr Dmitri Sonin soovitab enne reisiotsust teada

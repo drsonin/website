@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa kertoo hammasvinereistä – mitä ne ova
 pubDate: '2026-06-03'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasvinerit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammasvinerit', 'hammasvalkaisu', 'smile makeover', 'hammaskosmeetika', 'hammasestetika']
 heroImage: '/blog-images/2026-06-03-dental-veneers-tallinn.webp'
 ---
 ## Hammasvinerit – Kaunis Hymy Tri Dmitri Soninin Asiantuntevassa Hoidossa

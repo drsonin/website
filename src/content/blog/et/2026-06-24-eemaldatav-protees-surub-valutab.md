@@ -4,7 +4,7 @@ description: 'Eemaldatav protees surub ja valutab? Tallinna hambaarst Dmitri Son
 pubDate: '2026-06-24'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['eemaldatav protees', 'proteesi valu', 'hambaprotees Tallinn', 'proteesimine', 'hambaravi Tallinn']
+tags: ['Eemaldatav protees', 'hambaprotees', 'kunstlikud hambad', 'proteesi hooldustooted', 'proteesi paigaldamine']
 heroImage: '/blog-images/2026-06-24-denture-hurts-presses-what-to-do.webp'
 ---
 ## Eemaldatav protees surub ja valutab — miks ja mida teha | dr Dmitri Sonin selgitab

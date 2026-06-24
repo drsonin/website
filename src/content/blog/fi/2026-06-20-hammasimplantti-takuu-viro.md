@@ -4,7 +4,7 @@ description: 'Dmitri Sonin kertoo, mitä hammasimplantin takuu Virossa todella k
 pubDate: '2026-06-20'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasimplantin takuu Virossa — mitä tulee tietää', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammasimplantti takuu', 'Viro hammaslääkäri', 'implantin kesto', 'takuuehdot', 'hammashoito ulkomailla']
 heroImage: '/blog-images/2026-06-20-dental-implant-guarantee-estonia.webp'
 ---
 ## Hammasimplantin takuu Virossa – mitä tulee tietää | Sonin Hambaravi & tri Dmitri Sonin

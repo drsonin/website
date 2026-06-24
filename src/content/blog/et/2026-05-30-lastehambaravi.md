@@ -4,7 +4,7 @@ description: 'Lastehambaravi spetsialist Dmitri Sonin Tallinnas – turvaline ja
 pubDate: '2026-05-30'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['lastehambaravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Lastehambaravi', 'hambakaaries ennetamine', 'maiust hambad', 'hambahügieeni harjutused', 'esimesed hambad']
 heroImage: '/blog-images/2026-05-30-pediatric-dentistry-tallinn.webp'
 ---
 ## Lastehambaravi Tallinnas – dr Dmitri Sonin aitab teie lapsel terveid hambaid hoida

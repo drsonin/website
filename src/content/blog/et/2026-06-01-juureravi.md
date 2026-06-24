@@ -4,7 +4,7 @@ description: 'Hambaarst Dmitri Sonin Tallinnas teostab professionaalset juurerav
 pubDate: '2026-06-01'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['juureravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Juureravi', 'hambaäge ravi', 'pulpiti ravi', 'hambavalu', 'hambapatoloogia']
 heroImage: '/blog-images/2026-06-01-root-canal-treatment-tallinn.webp'
 ---
 ## Juureravi dr Dmitri Soniniga – valu vaba lahendus Tallinnas

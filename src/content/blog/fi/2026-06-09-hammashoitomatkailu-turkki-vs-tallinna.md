@@ -4,7 +4,7 @@ description: 'Dmitri Sonin vertailee hammashoitomatkailua Turkissa ja Tallinnass
 pubDate: '2026-06-09'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammashoitomatkailu Turkki vs Tallinna', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammashoitomatkailu', 'Turkki', 'Tallinna', 'hammashoito ulkomailla', 'kustannusvertailu']
 heroImage: '/blog-images/2026-06-09-dental-implants-turkey-vs-tallinn.webp'
 ---
 ## Hammashoitomatkailu Turkki vai Tallinna? – Tri Dmitri Soninin näkökulma todellisiin kustannuksiin

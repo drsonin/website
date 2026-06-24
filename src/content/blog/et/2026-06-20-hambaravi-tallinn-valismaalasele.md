@@ -4,7 +4,7 @@ description: 'Kas hambaravi Tallinnas on välismaalasele ohutu? Dmitri Sonin sel
 pubDate: '2026-06-20'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['kas hambaravi Tallinnas on välismaalasele ohutu', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hambaravi Tallinnas', 'välismaalase juhend', 'hambaarstide ohutus', 'Eesti hambakliinikud', 'rahvusvaheline patsient']
 heroImage: '/blog-images/2026-06-20-dental-treatment-tallinn-safe-foreigners.webp'
 ---
 ## Kas hambaravi Tallinnas on välismaalasele ohutu? Dr Dmitri Sonini vastused levinumatele küsimustele

@@ -4,7 +4,7 @@ description: 'Periimplantiit ehk põletik implantaadi ümber — dr Dmitri Sonin
 pubDate: '2026-06-24'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['põletik implantaadi ümber periimplantiit — ravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Periimplantiit ravi', 'implantaadi põletik', 'implantaadi hooldus', 'hambaimplantaadi haigused', 'periimplantiidi ravi']
 heroImage: '/blog-images/2026-06-24-peri-implantitis-treatment-tallinn.webp'
 ---
 ## Periimplantiit — põletik implantaadi ümber: mida teha? Selgitab dr Dmitri Sonin

@@ -4,7 +4,7 @@ description: 'Save on dental treatment in Tallinn with Dr Dmitri Sonin — high-
 pubDate: '2026-06-12'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental treatment Tallinn cheaper than Finland', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Dental treatment Tallinn', 'cheaper dentistry', 'Estonia dental care', 'cross-border treatment', 'dental tourism']
 heroImage: '/blog-images/2026-06-12-dental-tallinn-cheaper-finland.webp'
 ---
 ## Dental Treatment in Tallinn vs Finland: A Cost Comparison by Dr Dmitri Sonin

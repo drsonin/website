@@ -4,7 +4,7 @@ description: 'Hambaarst Dmitri Sonin Tallinnas selgitab, mis on juureravi, milla
 pubDate: '2026-06-02'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['juureravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Juureravi', 'hambainfektsioon', 'pulbiit', 'hambavalu', 'endodontia']
 heroImage: '/blog-images/2026-06-02-root-canal-treatment-tallinn.webp'
 ---
 ## Juureravi Tallinnas – Dr Dmitri Sonini selgitused ja mida oodata protseduurilt

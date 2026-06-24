@@ -4,7 +4,7 @@ description: 'Dmitri Sonin selgitab Tallinnas All-on-4 hinda ja raviaega. Täiel
 pubDate: '2026-06-24'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['All-on-4 hind ja raviaeg Tallinnas — täielik juhend', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 hind', 'All-on-4 raviaeg', 'Hambasiirdid Tallinnas', 'Implantoloogia hind', 'Hambaarsti teenused']
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
 ## All-on-4 hind ja raviaeg Tallinnas — täielik juhend dr Dmitri Soninilt

@@ -4,7 +4,7 @@ description: 'Get professional teeth cleaning in Tallinn with Dr Dmitri Sonin. E
 pubDate: '2026-06-04'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['professional teeth cleaning Estonia', 'hambaravi', 'Sonin Hambaravi']
+tags: ['teeth cleaning', 'dental hygiene', 'Estonia dentistry', 'professional cleaning', 'oral care']
 heroImage: '/blog-images/2026-06-04-professional-teeth-cleaning-estonia.webp'
 ---
 ## Professional Teeth Cleaning in Estonia: Insights from Dr Dmitri Sonin

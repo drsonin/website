@@ -4,7 +4,7 @@ description: 'Tsirkoonium- või metallokeraamiline kroon – Dmitri Sonin selgit
 pubDate: '2026-06-23'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['tsirkoonium- või metallokeraamiline kroon — mida valida', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Tsirkoonium vs metallokeraamiline', 'Hambakrooni valik', 'Keraamiliste kroonidie võrdlus', 'Hambaproteesid']
 heroImage: '/blog-images/2026-06-23-zirconia-vs-metal-ceramic-crown.webp'
 ---
 ## Tsirkoonium- või metallokeraamiline kroon — mida valida? Dr Dmitri Sonin vastab

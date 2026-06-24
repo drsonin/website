@@ -4,7 +4,7 @@ description: 'Dmitri Sonin tarjoaa Tallinnassa laadukasta lasten hammashoitoa. T
 pubDate: '2026-06-04'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['lasten hammashoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Lasten hammashoito', 'hammasten puhdistus', 'maitohammas', 'hampaan kariestuminen', 'hammaspeikko']
 heroImage: '/blog-images/2026-06-04-pediatric-dentistry-tallinn.webp'
 ---
 ## Lasten hammashoito Tallinnassa – tri Dmitri Sonin opastaa oikeaan suuntaan

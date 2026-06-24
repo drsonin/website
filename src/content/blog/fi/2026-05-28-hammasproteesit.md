@@ -5,7 +5,7 @@ pubDate: '2026-05-28'
 lang: 'fi'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
-tags: ['hammasproteesit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammasproteesit', 'proteesien hoito', 'hammastenkorjaus', 'proteesien sopeutuminen', 'hammasproteesien hinta']
 ---
 ## Hammasproteesit Tallinnassa – tri Dmitri Soninin asiantuntemus käytössäsi
 

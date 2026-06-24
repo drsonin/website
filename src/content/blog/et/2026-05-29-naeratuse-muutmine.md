@@ -5,7 +5,7 @@ pubDate: '2026-05-29'
 lang: 'et'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
-tags: ['naeratuse muutmine', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Naeratuse parandamine', 'Hambaste sirgestamine', 'Kosmeetilise hambaarstuse teenused', 'Ilusate hambastu', 'Naeratuse muutus']
 ---
 ## Naeratuse muutmine Tallinnas – dr Dmitri Sonin selgitab, kuidas saavutada unistuste naeratus
 

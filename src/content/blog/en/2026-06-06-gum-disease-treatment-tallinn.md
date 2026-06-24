@@ -4,7 +4,7 @@ description: 'Discover effective gum disease treatment in Tallinn with Dr Dmitri
 pubDate: '2026-06-06'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['gum disease treatment Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['gum disease treatment', 'periodontal care', 'tooth health', 'dental hygiene', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-06-gum-disease-treatment-tallinn.webp'
 ---
 ## Gum Disease Treatment in Tallinn: Expert Care from Dr Dmitri Sonin

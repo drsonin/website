@@ -4,7 +4,7 @@ description: 'Ei tarpeeksi luuta implanttia varten? Dmitri Sonin Tallinnassa sel
 pubDate: '2026-06-23'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['ei luuta implanttia varten — sinuslift vai luusiirto', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Sinuslifti', 'luusiirto', 'hammasimplantti', 'luuaugmentaatio', 'implanttokirurgia']
 heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
 ## Ei luuta implanttia varten: sinuslift vai luusiirto? – Tri Dmitri Soninin vastaukset

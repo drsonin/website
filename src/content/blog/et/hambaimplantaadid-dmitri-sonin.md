@@ -5,7 +5,7 @@ pubDate: '2026-05-28'
 lang: 'et'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
-tags: ['hambaimplantaat', 'hambaravi Tallinn', 'implantoloogia']
+tags: ['hambaimplantaat', 'hambaproteesimine', 'implantaadi kulud', 'hambaproteesi hooldus', 'suutervis']
 category: 'implantoloogia'
 ---
 

@@ -4,7 +4,7 @@ description: 'Discover bone graft and sinus lift solutions for dental implants w
 pubDate: '2026-06-23'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['no bone for dental implant sinus lift or bone graft Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implants', 'sinus lift', 'bone graft', 'implant surgery', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-23-no-bone-dental-implant-sinus-lift.webp'
 ---
 ## Not Enough Bone for a Dental Implant? Dr Dmitri Sonin Explains Sinus Lift and Bone Graft Options in Tallinn

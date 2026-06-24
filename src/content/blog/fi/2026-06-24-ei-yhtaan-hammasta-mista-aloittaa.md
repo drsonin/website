@@ -4,7 +4,7 @@ description: 'Ei yhtään hammasta? Tallinnassa toimiva hammaslääkäri Dmitri 
 pubDate: '2026-06-24'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['ei yhtään hammasta — mistä aloittaa hoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hampaaton hoito', 'proteesit', 'suuhygienia', 'hammashoidon aloitus', 'väliaikaiset ratkaisut']
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
 ## Ei yhtään hammasta – mistä aloitetaan hoito? Tri Dmitri Soninin vastaukset potilaille

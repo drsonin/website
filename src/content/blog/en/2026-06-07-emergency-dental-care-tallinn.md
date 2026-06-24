@@ -4,7 +4,7 @@ description: 'Get urgent dental help in Tallinn with Dr Dmitri Sonin. Fast, reli
 pubDate: '2026-06-07'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['emergency dental care Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['emergency dental care', 'dental emergency Tallinn', 'urgent dentist', 'same-day dental', 'tooth pain relief']
 heroImage: '/blog-images/2026-06-07-emergency-dental-care-tallinn.webp'
 ---
 ## Emergency Dental Care in Tallinn: What You Need to Know | Dr Dmitri Sonin

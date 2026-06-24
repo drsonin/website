@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnast selgitab, millised hammaste valgendamise m
 pubDate: '2026-05-31'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hammaste valgendamine', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammaste valgendamine', 'Valged hambad', 'Hambavalgendus', 'Hammaste hooldus', 'Ilusat naeru']
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
 ---
 ## Hammaste Valgendamine Tallinnas – Dr Dmitri Sonini Nõuanded Särava Naeratuse Saavutamiseks

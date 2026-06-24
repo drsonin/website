@@ -4,7 +4,7 @@ description: 'Implantti heiluu tai sattuu? Tallinnassa toimiva hammaslääkäri 
 pubDate: '2026-06-22'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['implantti heiluu ja sattuu — mitä tehdä', 'hambaravi', 'Sonin Hambaravi']
+tags: ['implantti heiluu', 'implantin kipu', 'irtonainen implantti', 'implantin hoito', 'hampaan ongelmat']
 heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
 ## Implantti heiluu ja sattuu — tri Dmitri Soninin vastaukset potilaan huoleen

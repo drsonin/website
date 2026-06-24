@@ -4,7 +4,7 @@ description: 'Compare All-on-4 implant costs in Tallinn vs Stockholm with insigh
 pubDate: '2026-06-18'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['All-on-4 Tallinn vs Stockholm price comparison', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 pricing', 'Dental tourism', 'Tallinn dentistry', 'Stockholm costs', 'Nordic comparison']
 heroImage: '/blog-images/2026-06-18-all-on-4-tallinn-vs-stockholm.webp'
 ---
 ## All-on-4 Tallinn vs Stockholm Price Comparison – Insights from Dr Dmitri Sonin

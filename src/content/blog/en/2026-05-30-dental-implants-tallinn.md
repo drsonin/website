@@ -4,7 +4,7 @@ description: 'Explore affordable dental implants in Tallinn with Dr Dmitri Sonin
 pubDate: '2026-05-30'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental implants Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implants', 'Tallinn', 'tooth replacement', 'implant surgery', 'dental restoration']
 heroImage: '/blog-images/2026-05-30-dental-implants-tallinn.webp'
 ---
 ## Dental Implants in Tallinn: Expert Care with Dr Dmitri Sonin

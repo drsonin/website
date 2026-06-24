@@ -4,7 +4,7 @@ description: 'Overcome dental fear with expert care from Dr Dmitri Sonin in Tall
 pubDate: '2026-06-15'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental anxiety treatment Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental anxiety', 'anxiety treatment', 'Tallinn dentistry', 'fear of dentist', 'dental care']
 heroImage: '/blog-images/2026-06-15-dental-anxiety-tallinn.webp'
 ---
 ## Dental Anxiety Treatment in Tallinn: How Dr Dmitri Sonin Helps You Reclaim Your Smile

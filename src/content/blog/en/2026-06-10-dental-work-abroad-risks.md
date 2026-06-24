@@ -4,7 +4,7 @@ description: 'Discover dental work abroad risks and guarantees with insights fro
 pubDate: '2026-06-10'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental work abroad risks and guarantees', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental tourism risks', 'medical guarantees abroad', 'treatment complications', 'international dentistry', 'follow-up care']
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
 ## Dental Work Abroad: Risks, Guarantees and the Real Numbers — An Analysis by Dr Dmitri Sonin

@@ -4,7 +4,7 @@ description: 'Loose or painful dental implant in Tallinn? Dr Dmitri Sonin explai
 pubDate: '2026-06-22'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['loose painful dental implant what to do Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Implant pain', 'Loose implant', 'Dental emergency', 'Tallinn dentist', 'Implant problems']
 heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
 ## Loose or Painful Dental Implant in Tallinn? Dr Dmitri Sonin Explains What to Do

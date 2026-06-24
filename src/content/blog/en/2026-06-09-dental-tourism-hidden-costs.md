@@ -4,7 +4,7 @@ description: 'Discover the real costs of dental tourism with Dr Dmitri Sonin in 
 pubDate: '2026-06-09'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental tourism hidden costs real calculation', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental tourism costs', 'hidden fees', 'travel expenses', 'budget calculation', 'affordability reality']
 heroImage: '/blog-images/2026-06-09-dental-tourism-hidden-costs.webp'
 ---
 ## Dental Tourism Hidden Costs: A Real Cost Calculation by Dr Dmitri Sonin

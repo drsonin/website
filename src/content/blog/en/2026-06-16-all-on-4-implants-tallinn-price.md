@@ -4,7 +4,7 @@ description: 'Discover All-on-4 dental implant costs in Tallinn with Dr Dmitri S
 pubDate: '2026-06-16'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['All-on-4 dental implants Tallinn price guide', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 implants', 'Tallinn dental costs', 'implant pricing guide', 'Estonia dentistry', 'tooth replacement']
 heroImage: '/blog-images/2026-06-16-all-on-4-implants-tallinn-price.webp'
 ---
 ## All-on-4 Dental Implants Tallinn Price Guide by Dr Dmitri Sonin

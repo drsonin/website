@@ -4,7 +4,7 @@ description: 'Tooth broke after root canal? Dr Dmitri Sonin in Tallinn compares 
 pubDate: '2026-06-22'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['tooth broke after root canal — implant or bridge Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['tooth broke after root canal', 'dental implant vs bridge', 'broken tooth repair', 'dental restoration options', 'tooth replacement Tallinn']
 heroImage: '/blog-images/2026-06-22-tooth-broke-root-canal-implant-or-bridge.webp'
 ---
 ## My Tooth Broke After a Root Canal — Implant or Bridge? Dr Dmitri Sonin Answers

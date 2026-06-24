@@ -5,7 +5,9 @@ pubDate: '2026-05-28'
 lang: 'et'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
-tags: ['hammaste valgendamine', 'hambaravi', 'Sonin Hambaravi']
+tags: ['# SEO-sildid hammaste valgendamisest
+
+Hammaste valgendamine', 'Valged hambad', 'Hammaste hooldus', 'Suu ilu', 'Hambakliiniku teenused']
 ---
 ## Hammaste Valgendamine dr Dmitri Sonini Juhendamisel – Särav Naeratus Tallinnas
 

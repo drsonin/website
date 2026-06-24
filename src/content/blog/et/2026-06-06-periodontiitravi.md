@@ -4,7 +4,7 @@ description: 'Dmitri Sonin pakub Tallinnas tõhusat periodontiitravi, mis peatab
 pubDate: '2026-06-06'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['periodontiitravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Periodontiitravi', 'hambaastone ravi', 'igumete tervishoid', 'hammaste puhastus', 'igumete haigused']
 heroImage: '/blog-images/2026-06-06-gum-disease-treatment-tallinn.webp'
 ---
 ## Periodontiitravi dr Dmitri Soniniga – terved igemed Tallinnas

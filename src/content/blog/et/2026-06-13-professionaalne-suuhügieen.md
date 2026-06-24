@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnas selgitab, miks professionaalne suuhügieen 
 pubDate: '2026-06-13'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['professionaalne suuhügieen', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Professionaalne suuhügieen', 'hambaplaaki eemaldamine', 'hambapesu õigesti', 'hambakivi puhastus', 'hambatest hoolitsemine']
 heroImage: '/blog-images/2026-06-13-professional-teeth-cleaning-estonia.webp'
 ---
 ## Professionaalne suuhügieen dr Dmitri Soniniga: terve suu alus

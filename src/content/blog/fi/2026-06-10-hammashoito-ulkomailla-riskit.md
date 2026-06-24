@@ -4,7 +4,7 @@ description: 'Hammashoito ulkomailla houkuttelee säästöillä, mutta Dmitri So
 pubDate: '2026-06-10'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammashoito ulkomailla riskit ja takuut', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammashoito ulkomailla', 'hammaslääkärin takuut', 'hoitoriskit', 'hammasturismo', 'jatkohoito']
 heroImage: '/blog-images/2026-06-10-dental-work-abroad-risks.webp'
 ---
 ## Hammashoito ulkomailla: riskit ja takuut – tri Dmitri Soninin näkökulma

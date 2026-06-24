@@ -4,7 +4,7 @@ description: 'Onko hammashoito Tallinnassa turvallista ulkomaalaiselle? Dmitri S
 pubDate: '2026-06-20'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['onko hammashoito Tallinnassa turvallista ulkomaalaiselle', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammashoito Tallinna', 'ulkomaalainen potilas', 'hammaslääkäri turvallisuus', 'Viro hoito', 'EU standardi']
 heroImage: '/blog-images/2026-06-20-dental-treatment-tallinn-safe-foreigners.webp'
 ---
 ## Onko hammashoito Tallinnassa turvallista ulkomaalaiselle? – Tri Dmitri Soninin vastaukset yleisimpiin kysymyksiin

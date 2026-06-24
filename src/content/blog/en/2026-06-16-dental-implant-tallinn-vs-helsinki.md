@@ -4,7 +4,7 @@ description: 'Save up to 60% on dental implants in Tallinn vs Helsinki. Dr Dmitr
 pubDate: '2026-06-16'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental implant cost Tallinn vs Helsinki comparison', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implant cost', 'Tallinn vs Helsinki', 'implant pricing', 'Nordic dentistry', 'cost comparison']
 heroImage: '/blog-images/2026-06-16-dental-implant-tallinn-vs-helsinki.webp'
 ---
 ## Dental Implant Cost in Tallinn vs Helsinki: What Dr Dmitri Sonin Wants You to Know

@@ -4,7 +4,7 @@ description: 'Discover affordable dental treatment in Tallinn with Dr Dmitri Son
 pubDate: '2026-06-16'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental treatment Tallinn for Finnish patients guide', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental tourism Tallinn', 'Finnish patients guide', 'dental care Estonia', 'cross-border treatment', 'affordable dentistry']
 heroImage: '/blog-images/2026-06-16-dental-treatment-tallinn-finnish-patients.webp'
 ---
 ## Dental Treatment in Tallinn for Finnish Patients: A Complete Guide by Dr Dmitri Sonin

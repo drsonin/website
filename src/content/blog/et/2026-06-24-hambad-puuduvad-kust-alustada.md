@@ -4,7 +4,7 @@ description: 'Hambad puuduvad täielikult? Dr. Dmitri Sonin Tallinnast selgitab,
 pubDate: '2026-06-24'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['hambad puuduvad täielikult — kust alustada ravi', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammaste kaotus', 'Proteesid ja implantaadid', 'Hambaravisolu', 'Suu tervishoid', 'Hambavigastuse ravi']
 heroImage: '/blog-images/2026-06-24-no-teeth-where-to-start-treatment.webp'
 ---
 ## Hambad puuduvad täielikult — kust alustada ravi? Dr Dmitri Sonin selgitab samm-sammult

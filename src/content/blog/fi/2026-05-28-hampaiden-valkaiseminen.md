@@ -5,7 +5,7 @@ pubDate: '2026-05-28'
 lang: 'fi'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-31-teeth-whitening-tallinn.webp'
-tags: ['hampaiden valkaiseminen', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hampaiden valkaiseminen', 'valkeat hampaat', 'hammashoito', 'kauneus', 'suun terveys']
 ---
 ## Hampaiden valkaiseminen – tri Dmitri Soninin asiantuntijaohjeet kirkkaisiin hampaisiin
 

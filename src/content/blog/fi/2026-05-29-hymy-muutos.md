@@ -5,7 +5,7 @@ pubDate: '2026-05-29'
 lang: 'fi'
 author: 'Dmitri Sonin'
 heroImage: '/blog-images/2026-05-30-dental-veneers-tallinn.webp'
-tags: ['hymy muutos', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hymy muutos', 'hymyn korjaus', 'hampaan väri', 'souturihamasiat', 'hymyn parantaminen']
 ---
 ## Hymyn muutos tri Dmitri Soninin johdolla – Näin saat unelmahymysi Tallinnassa
 

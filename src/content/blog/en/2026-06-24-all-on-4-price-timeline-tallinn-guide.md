@@ -4,7 +4,7 @@ description: 'Discover the complete All-on-4 price timeline in Tallinn with Dr D
 pubDate: '2026-06-24'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['All-on-4 price timeline Tallinn complete patient guide', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 dental implants', 'dental implant cost', 'Tallinn dentistry', 'implant timeline', 'teeth restoration']
 heroImage: '/blog-images/2026-06-24-all-on-4-price-timeline-tallinn-guide.webp'
 ---
 ## All-on-4 Price Timeline in Tallinn: A Complete Patient Guide by Dr Dmitri Sonin

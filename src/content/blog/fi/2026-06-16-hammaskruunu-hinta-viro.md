@@ -4,7 +4,7 @@ description: 'Hammaskruunu hinta Virossa kiinnostaa monia. Dmitri Sonin kertoo, 
 pubDate: '2026-06-16'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammaskruunu hinta Virossa — onko turvallista?', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammaskruunu hinta', 'Viro hammashoito', 'kruunu turvallisuus', 'ulkomailla hammashoidossa']
 heroImage: '/blog-images/2026-06-16-dental-crown-cost-estonia-finns.webp'
 ---
 ## Hammaskruunu hinta Virossa — onko turvallista? | Sonin Hambaravi, tri Dmitri Sonin

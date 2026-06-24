@@ -4,7 +4,7 @@ description: 'Dmitri Sonin kertoo kokemuksistaan hammashoito Tallinnassa – vin
 pubDate: '2026-06-16'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammashoito Tallinnassa suomalaisille — kokemuksia ja vinkkejä', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammashoito Tallinna', 'suomalaiset ulkomailla', 'hammashoidon vinkit', 'Viro', 'hammashoitoklinikka']
 heroImage: '/blog-images/2026-06-16-dental-treatment-tallinn-finnish-patients.webp'
 ---
 ## Hammashoito Tallinnassa suomalaisille – kokemuksia ja vinkkejä tri Dmitri Soninilta

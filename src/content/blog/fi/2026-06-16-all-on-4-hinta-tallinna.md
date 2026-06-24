@@ -4,7 +4,7 @@ description: 'Dmitri Sonin kertoo: All-on-4 hammasimplantit Tallinnassa – sä�
 pubDate: '2026-06-16'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['All-on-4 hammasimplantit hinta Tallinna', 'hambaravi', 'Sonin Hambaravi']
+tags: ['All-on-4 implantit', 'hammasimplantit Tallinna', 'implanttien hinta', 'hammashoidon kustannukset', 'Tallinna hammaslääkäri']
 heroImage: '/blog-images/2026-06-16-all-on-4-implants-tallinn-price.webp'
 ---
 ## All-on-4 hammasimplantit hinta Tallinnassa – Dmitri Soninin klinikka Sonin Hambaravi

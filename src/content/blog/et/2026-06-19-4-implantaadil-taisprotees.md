@@ -4,7 +4,9 @@ description: 'Dmitri Sonin Tallinnas selgitab, kuidas 4 implantaadil tuginev tä
 pubDate: '2026-06-19'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['4 implantaadil tuginev täisprotees', 'hambaravi', 'Sonin Hambaravi']
+tags: ['# SEO-sildid: 4 implantaadil tuginev täisprotees
+
+all-on-4 implantaat', 'täisprotees implantaadil', 'hambaimplantaadid', 'hambavõõraste asendamine', 'hambaarstuse lahendused']
 heroImage: '/blog-images/2026-06-19-full-arch-4-implants-tallinn.webp'
 ---
 ## 4 Implantaadil Tuginev Täisprotees – Dr Dmitri Sonini Selgitus Kaasaegsest Lahendusest

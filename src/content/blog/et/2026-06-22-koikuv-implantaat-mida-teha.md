@@ -4,7 +4,7 @@ description: 'Kõikuv või valutav implantaat Tallinnas? Dr Dmitri Sonin selgita
 pubDate: '2026-06-22'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['kõikuv ja valutav implantaat — mida teha', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Implantaadi valus', 'Implantaadi kõikumine', 'Implantaadi probleemid', 'Implantaadi ravi', 'Hambaprobleem']
 heroImage: '/blog-images/2026-06-22-loose-painful-implant-what-to-do.webp'
 ---
 ## Kõikuv ja valutav implantaat — mida teha? Dr Dmitri Sonin selgitab

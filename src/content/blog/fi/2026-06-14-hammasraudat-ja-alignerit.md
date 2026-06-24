@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa vertailee hammasrautoja ja alignereita �
 pubDate: '2026-06-14'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasraudat ja alignerit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammasraudat', 'alignerit', 'hammaslääkäri', 'suoristushoito', 'hampaiden korjaus']
 heroImage: '/blog-images/2026-06-14-braces-aligners-estonia.webp'
 ---
 ## Hammasraudat ja alignerit – tri Dmitri Soninin asiantuntijanäkemys hampaiden oikomisesta

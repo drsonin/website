@@ -4,7 +4,7 @@ description: 'Tarkusehamba eemaldamine Tallinnas – hambaarst Dmitri Sonin selg
 pubDate: '2026-06-06'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['tarkusehamba eemaldamine', 'hambaravi', 'Sonin Hambaravi']
+tags: ['tarkusehamba eemaldamine', 'hambakirurgia', 'pärast operatsiooni hooldus', 'võimalikud komplikatsioonid', 'taastumisaeg']
 heroImage: '/blog-images/2026-06-06-wisdom-tooth-removal-tallinn.webp'
 ---
 ## Tarkusehamba Eemaldamine Tallinnas – dr Dmitri Sonin selgitab, mida oodata

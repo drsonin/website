@@ -4,7 +4,7 @@ description: 'Compare dental implants in Turkey vs Tallinn with Dr Dmitri Sonin.
 pubDate: '2026-06-09'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['dental implants Turkey vs Tallinn cost comparison', 'hambaravi', 'Sonin Hambaravi']
+tags: ['dental implants cost', 'Turkey implants', 'Tallinn dentistry', 'implant prices', 'dental tourism']
 heroImage: '/blog-images/2026-06-09-dental-implants-turkey-vs-tallinn.webp'
 ---
 ## Dental Implants Turkey vs Tallinn: A Cost Comparison by Dr Dmitri Sonin

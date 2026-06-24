@@ -4,7 +4,7 @@ description: 'Dmitri Sonin kertoo, mitä riskejä hammashoitoon ulkomailla, kute
 pubDate: '2026-06-11'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammashoito ulkomailla riskit ja takuut', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Hammashoito ulkomailla', 'hammasturismo riskit', 'hammaslääkärin takuut', 'hoitoiden laatu', 'kansainväliset takuut']
 heroImage: '/blog-images/2026-06-11-dental-work-abroad-risks.webp'
 ---
 ## Hammashoito ulkomailla: riskit, takuut ja todelliset kustannukset – tri Dmitri Soninin näkökulma

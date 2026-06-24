@@ -4,7 +4,7 @@ description: 'Implantaat ei juurdunud? Tallinna hambaarst Dmitri Sonin selgitab,
 pubDate: '2026-06-21'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['mida teha kui implantaat ei juurdu — garantiijuhtum', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Implantaadi ebaõnnestumine', 'Implantaadi juurdumise häire', 'Garantiijuhtum implantaadiga', 'Ebaõnnestunud implantaat', 'Implantaadi asendamine']
 heroImage: '/blog-images/2026-06-21-dental-implant-failure-guarantee-tallinn.webp'
 ---
 ## Mida teha, kui implantaat ei juurdu — garantiijuhtum dr Dmitri Sonini selgitusel

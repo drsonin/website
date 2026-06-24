@@ -4,7 +4,7 @@ description: 'Dmitri Sonin pakub Tallinnas tipptasemel professionaalset suuhügi
 pubDate: '2026-06-12'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['professionaalne suuhügieen', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Professionaalne suuhügieen', 'hambaste puhastus', 'hammaste tervis', 'suuohitus', 'plakvinõude eemaldamine']
 heroImage: '/blog-images/2026-06-12-professional-teeth-cleaning-estonia.webp'
 ---
 ## Professionaalne suuhügieen dr Dmitri Soniniga – terve naeratus algab õigest hooldusest

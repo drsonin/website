@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnas selgitab, miks keraamilised sisetäited on 
 pubDate: '2026-06-15'
 lang: 'et'
 author: 'Dmitri Sonin'
-tags: ['keraamilised sisetäited', 'hambaravi', 'Sonin Hambaravi']
+tags: ['keraamilised sisetäited', 'hambatäited', 'keraamiline restauratsioon', 'hambaterapia', 'otse sisetäited']
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
 ## Keraamilised sisetäited – dr Dmitri Sonini selgitus kaasaegsest hambarestaurationist

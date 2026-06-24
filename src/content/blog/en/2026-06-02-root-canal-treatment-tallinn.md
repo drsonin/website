@@ -4,7 +4,7 @@ description: 'Expert root canal treatment in Tallinn by Dr Dmitri Sonin. Painles
 pubDate: '2026-06-02'
 lang: 'en'
 author: 'Dr Dmitri Sonin'
-tags: ['root canal treatment Tallinn', 'hambaravi', 'Sonin Hambaravi']
+tags: ['root canal treatment', 'dental care Tallinn', 'endodontic therapy', 'tooth pain relief', 'Tallinn dentistry']
 heroImage: '/blog-images/2026-06-02-root-canal-treatment-tallinn.webp'
 ---
 ## Root Canal Treatment in Tallinn: Expert Care with Dr Dmitri Sonin

@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa kertoo, mitä eroa on hammasraudoilla ja 
 pubDate: '2026-06-01'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['hammasraudat ja alignerit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['hammasraudat', 'invisalign-alignerit', 'hampaiden oikaisu', 'ortodontia', 'suoristushoito']
 heroImage: '/blog-images/2026-06-01-braces-aligners-estonia.webp'
 ---
 ## Hammasraudat vai alignerit? Tri Dmitri Soninin opas oikeaan hoitovalintaan

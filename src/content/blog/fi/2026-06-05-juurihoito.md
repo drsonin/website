@@ -4,7 +4,7 @@ description: 'Kokenut hammaslääkäri Dmitri Sonin Tallinnassa tarjoaa kivuttom
 pubDate: '2026-06-05'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['juurihoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['Juurihoito', 'hammassärky', 'pääjuurikanava', 'hammasinfektio', 'pulpitis']
 heroImage: '/blog-images/2026-06-05-root-canal-treatment-tallinn.webp'
 ---
 ## Juurihoito Tallinnassa – Dmitri Sonin auttaa pelastamaan hampaasi

@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa kertoo, mitä viisaudenhampaiden poistoss
 pubDate: '2026-06-06'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['viisaudenhampaiden poisto', 'hambaravi', 'Sonin Hambaravi']
+tags: ['viisaudenhampaiden poisto', 'hammaskirurgia', 'suun terveys', 'postoperatiivinen hoito', 'komplikaatiot']
 heroImage: '/blog-images/2026-06-06-wisdom-tooth-removal-tallinn.webp'
 ---
 ## Viisaudenhampaiden poisto Tallinnassa – tri Dmitri Soninin asiantunteva hoito

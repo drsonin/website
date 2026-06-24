@@ -4,7 +4,7 @@ description: 'Keraaminen inlay on kestävä ja esteettinen hammasratkaisu. Talli
 pubDate: '2026-06-15'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['keraamiset inlayit', 'hambaravi', 'Sonin Hambaravi']
+tags: ['keraamiset inlayit', 'hammashoito', 'hampaan korjaus', 'pitkäkestävät täytteet', 'hammasestetika']
 heroImage: '/blog-images/2026-06-15-ceramic-inlays-tallinn.webp'
 ---
 ## Keraamiset inlayit – tri Dmitri Soninin asiantunteva ratkaisu kestävään hammaskorjaukseen

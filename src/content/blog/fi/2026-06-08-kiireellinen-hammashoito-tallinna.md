@@ -4,7 +4,7 @@ description: 'Tarvitsetko kiireellistä hammashoitoa Tallinnassa? Dmitri Sonin t
 pubDate: '2026-06-08'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['kiireellinen hammashoito Tallinna', 'hambaravi', 'Sonin Hambaravi']
+tags: ['kiireellinen hammashoito', 'hammashoito Tallinna', 'päivystävä hammaslääkäri', 'hammaslääkärin apu', 'kiireellinen apua']
 heroImage: '/blog-images/2026-06-08-emergency-dental-care-tallinn.webp'
 ---
 ## Kiireellinen hammashoito Tallinnassa – tri Dmitri Sonin auttaa nopeasti

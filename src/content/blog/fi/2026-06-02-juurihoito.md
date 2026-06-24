@@ -4,7 +4,7 @@ description: 'Dmitri Sonin Tallinnassa tarjoaa ammattitaitoista juurihoitoa – 
 pubDate: '2026-06-02'
 lang: 'fi'
 author: 'Dmitri Sonin'
-tags: ['juurihoito', 'hambaravi', 'Sonin Hambaravi']
+tags: ['juurihoito', 'hammashoito', 'piilevä infektio', 'hammassärky', 'hampaan pelastus']
 heroImage: '/blog-images/2026-06-02-root-canal-treatment-tallinn.webp'
 ---
 ## Juurihoito Tallinnassa – tri Dmitri Soninin asiantuntemus säästää hampaasi
