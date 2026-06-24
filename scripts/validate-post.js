@@ -70,7 +70,10 @@ function validateTechnical(content, imagePath) {
   if (words < 500) issues.push(`Content too short (${words} words, min 500)`);
   if (words > 1100) issues.push(`Content too long (${words} words, max 1100)`);
 
-  // CTA and contact link are handled by BlogPost layout — no need to check in content
+  // CTA must NOT be in content — it's handled by BlogPost layout
+  const tail = body.slice(-400).toLowerCase();
+  const hasCTA = /запис|broneeri|varaa aika|book.*consult|book.*appoint|registreeri visiidile|\[записаться|\[broneeri|\[varaa|\[book a consult/i.test(tail);
+  if (hasCTA) issues.push('CTA found in article body — remove it, booking buttons are in the layout');
 
   // No hallucinated external domains — only drsonin.com is allowed
   const fakeDomainsMatch = body.match(/https?:\/\/(?!drsonin\.com)[a-z0-9.-]+\.(ee|com|fi|eu)\b/gi);

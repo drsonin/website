@@ -144,8 +144,7 @@ ${isFaq ? '\n' + FAQ_CONTEXT.ru + '\n' : ''}
 - Структура: вступительный абзац (≥40 слов) ДО первого H2, затем разделы с H3 заголовками
 - Длина: 600–800 слов
 - Тон: профессиональный, но доступный пациентам
-- Включи markdown-ссылку на запись: [Записаться на консультацию](/ru/contact/) ближе к концу
-- В конце: призыв записаться на консультацию в клинику Sonin Hambaravi в Таллине
+- НЕ пиши CTA и призывы записаться — кнопки записи уже есть на странице автоматически
 - НЕ включай YAML frontmatter
 - Начинай с вступительного абзаца (обычный текст, БЕЗ заголовка)
 
@@ -164,8 +163,7 @@ Nõuded:
 - Struktuur: sissejuhatav lõik (≥40 sõna) ENNE esimest H2, seejärel jaotised H3 pealkirjadega
 - Pikkus: 600–800 sõna
 - Toon: professionaalne, kuid patsientidele arusaadav
-- Lisa markdown-link broneerimiseks: [Broneeri konsultatsioon](/et/contact/) teksti lõpu poole
-- Lõpus: üleskutse broneerida konsultatsioon Sonin Hambaravi kliinikus Tallinnas
+- ÄRA kirjuta CTA-d ega broneerimiskutseid — nupud on lehel automaatselt olemas
 - ÄRA lisa YAML frontmatterit
 - Alusta sissejuhatava lõiguga (tavaline tekst, MITTE pealkiri)
 
@@ -184,8 +182,7 @@ Vaatimukset:
 - Rakenne: johdantokappale (≥40 sanaa) ENNEN ensimmäistä H2:ta, sitten osioita H3-otsikoilla
 - Pituus: 600–800 sanaa
 - Sävy: ammattimainen mutta potilaalle ymmärrettävä
-- Lisää markdown-linkki ajanvaraukseen: [Varaa konsultaatio](/fi/contact/) tekstin loppupuolelle
-- Lopussa: kehotus varata konsultaatio Sonin Hambaravi -klinikalle Tallinnassa
+- ÄLÄ kirjoita CTA:ta tai ajanvarauskehotuksia — painikkeet ovat sivulla automaattisesti
 - ÄLÄ sisällytä YAML frontmatteria
 - Aloita johdantokappaleella (tavallinen teksti, EI otsikko)
 
@@ -205,8 +202,7 @@ Requirements:
 - Structure: intro paragraph (≥40 words) BEFORE the first H2, then several sections with H3 headings
 - Length: 600–800 words
 - Tone: professional yet accessible to patients
-- Include a markdown link to the contact page: [Book a consultation](/en/contact/) near the end
-- End with a call to book a consultation at Sonin Dental Clinic in Tallinn
+- Do NOT write a CTA or booking call-to-action — booking buttons are already present on the page automatically
 - Do NOT include YAML frontmatter
 - Start directly with an intro paragraph (plain text, NO heading)
 

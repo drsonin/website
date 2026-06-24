@@ -1,0 +1,37 @@
+name: Strip CTA from blog posts (one-time)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  strip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Strip CTA paragraphs and contact links from posts
+        run: node scripts/strip-cta.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "drsonin-blog-bot"
+          git config user.email "blog-bot@drsonin.com"
+          git add src/content/blog/
+          if git diff --staged --quiet; then
+            echo "Nothing to strip."
+          else
+            git commit -m "fix: strip CTA blocks from all posts — handled by layout"
+            git push
+          fi
