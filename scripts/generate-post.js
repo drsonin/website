@@ -234,6 +234,13 @@ const DESC_PROMPTS = {
   en: (keyword) => `Write a meta description (120–155 characters) for an article about "${keyword}". Include "Dr Dmitri Sonin" and "Tallinn". Return only the description text.`,
 };
 
+const TAGS_PROMPTS = {
+  ru: (keyword) => `Придумай 4–6 коротких SEO-тегов для статьи о "${keyword}". Теги должны быть короткими (1–3 слова), на русском языке. Верни только теги через запятую, без кавычек. Пример: имплантация зубов, зубной протез, стоматология Таллин`,
+  et: (keyword) => `Loo 4–6 lühikest SEO-silti artikli jaoks teemal "${keyword}". Sildid peavad olema lühikesed (1–3 sõna), eesti keeles. Tagasta ainult sildid komadega eraldatult, ilma jutumärkideta.`,
+  fi: (keyword) => `Luo 4–6 lyhyttä SEO-tagia artikkelille aiheesta "${keyword}". Tagien tulee olla lyhyitä (1–3 sanaa), suomeksi. Palauta vain tagit pilkuilla eroteltuna, ilman lainausmerkkejä.`,
+  en: (keyword) => `Generate 4–6 short SEO tags for an article about "${keyword}". Tags must be short (1–3 words), in English. Return only the tags separated by commas, no quotes. Example: dental implants, tooth pain, Tallinn dentist`,
+};
+
 const AUTHOR_BY_LANG = { ru: 'Дмитрий Сонин', et: 'Dmitri Sonin', fi: 'Dmitri Sonin', en: 'Dr Dmitri Sonin' };
 
 async function generateText(prompt) {
@@ -346,13 +353,17 @@ async function generatePostContent(lang, topic, keyword, isMedicalTourism, isFaq
     ? `\n\nPREVIOUS ATTEMPT FAILED VALIDATION. Fix these issues:\n${issues.map(i => `- ${i}`).join('\n')}`
     : '';
 
-  const [body, title, description] = await Promise.all([
+  const [body, title, description, tagsRaw] = await Promise.all([
     generateText(PROMPTS[lang](keyword, isMedicalTourism, isFaq) + issueHint),
     generateText(TITLE_PROMPTS[lang](keyword) + (issues.some(i => i.includes('Title')) ? `\nPrevious title was invalid: ${issues.filter(i => i.includes('Title')).join('; ')}` : '')),
     generateText(DESC_PROMPTS[lang](keyword) + (issues.some(i => i.includes('Description')) ? `\nPrevious description was invalid: ${issues.filter(i => i.includes('Description')).join('; ')}` : '')),
+    generateText(TAGS_PROMPTS[lang](keyword)),
   ]);
 
-  return { body, title, description };
+  // Parse tags: split by comma, trim, max 6
+  const tags = tagsRaw.split(',').map(t => t.trim()).filter(Boolean).slice(0, 6);
+
+  return { body, title, description, tags };
 }
 
 const MAX_ATTEMPTS = 3;
@@ -376,8 +387,9 @@ async function generatePost(lang, topic, dateStr, heroImage) {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     if (attempt > 1) console.log(`  ↺  Attempt ${attempt}/${MAX_ATTEMPTS} [${lang}] — fixing: ${lastIssues.join('; ')}`);
 
-    const { body, title, description } = await generatePostContent(lang, topic, keyword, isMedicalTourism, isFaq, lastIssues);
+    const { body, title, description, tags } = await generatePostContent(lang, topic, keyword, isMedicalTourism, isFaq, lastIssues);
 
+    const tagsYaml = tags.map(t => `'${t.replace(/'/g, "''")}'`).join(', ');
     const frontmatter = [
       '---',
       `title: '${title.replace(/'/g, "''")}'`,
@@ -385,7 +397,7 @@ async function generatePost(lang, topic, dateStr, heroImage) {
       `pubDate: '${dateStr}'`,
       `lang: '${lang}'`,
       `author: '${AUTHOR_BY_LANG[lang]}'`,
-      `tags: ['${keyword}', 'hambaravi', 'Sonin Hambaravi']`,
+      `tags: [${tagsYaml}]`,
       `heroImage: '${heroImage}'`,
       '---',
       '',
