@@ -21,6 +21,7 @@ const langMeta: Record<string, { label: string; flag: string; locale: string }> 
 const lm = langMeta[lang ?? 'ru'] ?? langMeta.ru;
 
 const blogLang = (lang ?? 'ru') as 'ru' | 'et' | 'fi' | 'en';
+const pageSlug = encodeURIComponent(Astro.url.pathname);
 const t = {
 	ru: {
 		home: 'Главная', blog: 'Блог', allPosts: 'Все статьи', bookBtn: 'Записаться на приём', updated: 'Обновлено:', tags: 'Теги:',
@@ -28,7 +29,7 @@ const t = {
 		ctaDesc: 'Доктор Дмитрий Сонин — стоматолог-имплантолог в Таллине. Принимаем на русском, эстонском, финском и английском.',
 		ctaCall: 'Позвонить',
 		ctaForm: 'Записаться онлайн',
-		contactHref: '/#contact',
+		contactBase: '/',
 	},
 	et: {
 		home: 'Avaleht', blog: 'Blogi', allPosts: 'Kõik artiklid', bookBtn: 'Registreeri visiidile', updated: 'Uuendatud:', tags: 'Sildid:',
@@ -36,7 +37,7 @@ const t = {
 		ctaDesc: 'Hambaarst Dmitri Sonin Tallinnas. Vastuvõtt eesti, vene, soome ja inglise keeles.',
 		ctaCall: 'Helista',
 		ctaForm: 'Broneeri veebis',
-		contactHref: '/et/#contact',
+		contactBase: '/et/',
 	},
 	fi: {
 		home: 'Etusivu', blog: 'Blogi', allPosts: 'Kaikki artikkelit', bookBtn: 'Varaa aika', updated: 'Päivitetty:', tags: 'Aihetunnisteet:',
@@ -44,7 +45,7 @@ const t = {
 		ctaDesc: 'Hammaslääkäri Dmitri Sonin Tallinnassa. Palvelemme suomeksi, viroksi, venäjäksi ja englanniksi.',
 		ctaCall: 'Soita',
 		ctaForm: 'Varaa aika verkossa',
-		contactHref: '/fi/#contact',
+		contactBase: '/fi/',
 	},
 	en: {
 		home: 'Home', blog: 'Blog', allPosts: 'All articles', bookBtn: 'Book appointment', updated: 'Updated:', tags: 'Tags:',
@@ -52,9 +53,11 @@ const t = {
 		ctaDesc: 'Dr Dmitri Sonin — implant dentist at Sonin Dental Clinic in Tallinn. We speak English, Russian, Estonian and Finnish.',
 		ctaCall: 'Call us',
 		ctaForm: 'Book online',
-		contactHref: '/en/#contact',
+		contactBase: '/en/',
 	},
 }[blogLang];
+
+const contactHref = `${t.contactBase}?utm_source=blog&utm_medium=cta_button&utm_content=${pageSlug}#contact`;
 
 const homeHref   = blogLang === 'ru' ? '/' : `/${blogLang}/`;
 const blogHref   = blogLang === 'ru' ? '/blog/' : `/${blogLang}/blog/`;
@@ -245,7 +248,7 @@ const jsonLd = {
 						</svg>
 						{t.ctaCall}
 					</a>
-					<a href={t.contactHref}
+					<a href={contactHref}
 						class="inline-flex items-center justify-center gap-2 bg-blue-500 hover:bg-blue-400 text-white font-bold px-6 py-3 rounded-xl text-sm border border-blue-400 transition-colors no-underline">
 						<svg class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
 							<path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
