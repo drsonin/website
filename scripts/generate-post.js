@@ -264,14 +264,16 @@ async function generateHeroImage(topic, dateStr) {
   console.log(`  🎨 Generating hero image for "${keyword}"...`);
 
   // Rotate scene types for visual variety
+  // Rules for all scenes: Nordic/Northern European appearance, short hair on men (never long),
+  // patients aged 45–70, trustworthy and calm expressions, no fashion-model look
   const scenes = [
-    `A male dentist in his 40s with dark hair and glasses, wearing a white medical coat, smiling confidently at the camera in a modern dental office. Background shows dental equipment and clean white interior. Warm professional lighting.`,
-    `A happy adult patient (gender varies) sitting in a dental chair, smiling after a successful treatment. Friendly dentist visible in background. Modern bright dental clinic in Tallinn.`,
-    `Close-up of a beautiful healthy smile showing perfect white teeth. Professional dental photography, soft natural lighting, clean aesthetic.`,
-    `A warm scene of a dentist consulting with a patient, both seated, reviewing dental X-rays on a screen. Modern dental office, natural light, professional atmosphere.`,
-    `Interior of a premium modern dental clinic — clean white and blue design, state-of-the-art dental chair and equipment, bright natural lighting. No people, architectural photography style.`,
-    `A female dental hygienist performing a professional teeth cleaning procedure on a patient. Close-up, clinical and precise, modern equipment, bright lighting.`,
-    `Smiling family (parent and child) in a dental waiting room, looking happy and relaxed. Bright modern clinic interior, welcoming atmosphere.`,
+    `A male dentist in his late 40s, short dark hair, slight stubble, no glasses, wearing a white medical coat, calm confident expression, looking at the camera. Modern dental office background with equipment. Professional warm lighting. Northern European appearance.`,
+    `A happy male patient aged 55–65, short grey hair, Nordic appearance, sitting in a dental chair with a natural relaxed smile after successful treatment. A dentist in a white coat visible in the background. Modern bright dental clinic.`,
+    `A happy female patient aged 50–65, short blonde or grey hair, Scandinavian appearance, sitting in a dental chair smiling warmly. Professional clinic setting, soft natural light.`,
+    `A male dentist in his 40s, short brown hair, clean-shaven, and a female patient aged 50–60 seated across from him, both looking at dental X-rays on a screen. Trustworthy, professional atmosphere. Modern dental office, natural light.`,
+    `Interior of a premium modern dental clinic — clean white and light blue design, state-of-the-art dental chair and equipment, bright natural lighting through large windows. No people, architectural photography style.`,
+    `A female dental hygienist aged 35–45, short blonde hair, Northern European appearance, wearing scrubs, performing professional teeth cleaning on a patient. Close-up, clinical and precise, modern equipment.`,
+    `A couple aged 55–65, Nordic appearance, sitting in a bright dental waiting room, looking relaxed and confident. Clean Scandinavian interior design, welcoming atmosphere.`,
   ];
   const scene = scenes[Math.floor(Math.random() * scenes.length)];
 
@@ -279,8 +281,9 @@ async function generateHeroImage(topic, dateStr) {
 Photorealistic dental clinic photography for the topic "${keyword}" in Tallinn, Estonia.
 ${scene}
 Shot on Sony A7R IV, 85mm lens, shallow depth of field.
-No text, no logos, no watermarks. Ultra-realistic, cinematic quality.
-Horizontal composition 16:9.
+People must have short hair, natural trustworthy expressions, aged 45–70, Northern European or Scandinavian appearance.
+No long hair on men. No fashion-model look. No text, no logos, no watermarks.
+Ultra-realistic, cinematic quality. Horizontal composition 16:9.
 `.trim();
 
   const output = await replicate.run('black-forest-labs/flux-1.1-pro', {
