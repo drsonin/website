@@ -75,6 +75,12 @@ function validateTechnical(content, imagePath) {
   const hasCTA = /запис|консульт|звоните|book|appoint|registr|contact|varaa|bron|konsultat/.test(tail);
   if (!hasCTA) issues.push('Missing CTA at end of article');
 
+  // No hallucinated external domains — only drsonin.com is allowed
+  const fakeDomainsMatch = body.match(/https?:\/\/(?!drsonin\.com)[a-z0-9.-]+\.(ee|com|fi|eu)\b/gi);
+  if (fakeDomainsMatch) {
+    issues.push(`External domain(s) found — only drsonin.com is allowed: ${[...new Set(fakeDomainsMatch)].join(', ')}`);
+  }
+
   // Contact page link in body
   const hasContactLink = /\(\/(?:[a-z]{2}\/)?contact\/?\)/.test(body);
   if (!hasContactLink) issues.push('Missing internal link to /contact/ page');
