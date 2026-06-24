@@ -70,20 +70,13 @@ function validateTechnical(content, imagePath) {
   if (words < 500) issues.push(`Content too short (${words} words, min 500)`);
   if (words > 1100) issues.push(`Content too long (${words} words, max 1100)`);
 
-  // CTA at end (last 300 chars should have booking signal)
-  const tail = body.slice(-300).toLowerCase();
-  const hasCTA = /запис|консульт|звоните|book|appoint|registr|contact|varaa|bron|konsultat/.test(tail);
-  if (!hasCTA) issues.push('Missing CTA at end of article');
+  // CTA and contact link are handled by BlogPost layout — no need to check in content
 
   // No hallucinated external domains — only drsonin.com is allowed
   const fakeDomainsMatch = body.match(/https?:\/\/(?!drsonin\.com)[a-z0-9.-]+\.(ee|com|fi|eu)\b/gi);
   if (fakeDomainsMatch) {
     issues.push(`External domain(s) found — only drsonin.com is allowed: ${[...new Set(fakeDomainsMatch)].join(', ')}`);
   }
-
-  // Contact page link in body
-  const hasContactLink = /\(\/(?:[a-z]{2}\/)?contact\/?\)/.test(body);
-  if (!hasContactLink) issues.push('Missing internal link to /contact/ page');
 
   // Doctor name mentioned in body (min 2 times)
   const doctorPatterns = [/дмитрий сонин/gi, /dmitri sonin/gi, /дмитри сонин/gi, /tri dmitri/gi];
